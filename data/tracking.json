@@ -1,0 +1,30 @@
+{
+  "_comment": "持续追踪议题。每期发布后更新last_seen和summary",
+  "political": [
+    {"id": "coalition", "title": "泰国组阁谈判进展", "last_seen": null, "summary": ""},
+    {"id": "thaksin", "title": "他信假释时间线", "last_seen": null, "summary": ""},
+    {"id": "peoples_party", "title": "人民党（People's Party）动向", "last_seen": null, "summary": ""}
+  ],
+  "economic": [
+    {"id": "baht_rate", "title": "泰铢汇率与央行政策", "last_seen": null, "summary": ""},
+    {"id": "gdp_cpi", "title": "泰国GDP/CPI定期数据", "last_seen": null, "summary": ""},
+    {"id": "us_tariff", "title": "美国关税对泰国出口影响", "last_seen": null, "summary": ""}
+  ],
+  "tech": [
+    {"id": "google_dc", "title": "Google曼谷数据中心后续", "last_seen": null, "summary": ""},
+    {"id": "thailand_cloud", "title": "泰国云服务/AI算力基建", "last_seen": null, "summary": ""},
+    {"id": "thailand_energy", "title": "泰国可再生能源政策", "last_seen": null, "summary": ""}
+  ],
+  "infrastructure": [
+    {"id": "bts_metro", "title": "曼谷地铁/BTS扩线", "last_seen": null, "summary": ""},
+    {"id": "sino_thai_rail", "title": "中泰铁路进度", "last_seen": null, "summary": ""}
+  ],
+  "expat": [
+    {"id": "visa_policy", "title": "签证政策变化", "last_seen": null, "summary": ""},
+    {"id": "foreign_property", "title": "外国人持产政策", "last_seen": null, "summary": ""}
+  ],
+  "property": [
+    {"id": "pattaya_north", "title": "芭提雅北部高端公寓市场", "last_seen": null, "summary": ""},
+    {"id": "bkk_luxury", "title": "曼谷超豪华住宅动态", "last_seen": null, "summary": ""}
+  ]
+}

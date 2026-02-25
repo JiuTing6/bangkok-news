@@ -1,0 +1,4 @@
+{
+  "_comment": "已发布条目hash，用于去重。key=hash(title+url), value=发布日期",
+  "entries": {}
+}
