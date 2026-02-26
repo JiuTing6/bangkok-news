@@ -80,9 +80,18 @@ def section_html(section, articles, start_idx=0):
     </div>
   </div>'''
 
-def highlights_html(all_articles, n=5):
-    """生成本期前N条高亮标题，带 anchor 跳转"""
-    top = all_articles[:n]
+def highlights_html(all_articles, selected_indices=None, n=5):
+    """
+    生成本期要闻高亮。
+    selected_indices: sub-agent 在 JSON 的 highlights 字段指定的全局文章序号列表
+    fallback: 若未指定，取前 n 条
+    """
+    if selected_indices:
+        idx_set = {i for i in selected_indices}
+        top = [(idx, a) for idx, a in all_articles if idx in idx_set]
+        top = sorted(top, key=lambda x: selected_indices.index(x[0]))[:n]
+    else:
+        top = all_articles[:n]
     if not top:
         return ""
     items = "\n".join(
@@ -94,7 +103,7 @@ def highlights_html(all_articles, n=5):
     )
     return f'''
   <div class="highlights">
-    <div class="hl-label">本期重点</div>
+    <div class="hl-label">本期要闻 | Highlights</div>
     {items}
   </div>'''
 
@@ -119,7 +128,8 @@ def build_issue(issue_data, output_dir):
         sections_html += section_html(sec, arts, start_idx=global_idx)
         global_idx += len(arts)
 
-    hl_html = highlights_html(all_articles, n=5)
+    selected = issue_data.get("highlights", None)  # sub-agent 指定的全局序号列表
+    hl_html = highlights_html(all_articles, selected_indices=selected, n=5)
 
     # 上下期导航（简单，由归档index处理）
     html = f'''<!DOCTYPE html>

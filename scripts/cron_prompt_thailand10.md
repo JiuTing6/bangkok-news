@@ -100,10 +100,14 @@ python3 scripts/fetch_rss.py 4 > data/issues/YYYY-MM-DD-raw.json
 
 将选好的新闻整理为以下格式，保存为 `data/issues/YYYY-MM-DD.json`（永久保留，YYYY-MM-DD 替换为本期日期）：
 
+**`highlights` 字段说明：**
+从本期所有文章中，按全局编号顺序（第一个板块的第1条=0，第2条=1，依此类推），选出 **5条最重要、最值得读者第一时间关注** 的文章，填入 `highlights` 列表。这5条将显示在页面顶部"本期要闻 | Highlights"区块，是读者进入页面后第一眼看到的内容，选择标准是新闻价值和读者相关度，不是位置顺序。
+
 ```json
 {
   "date": "YYYY-MM-DD",
   "issue": N,
+  "highlights": [2, 0, 8, 13, 5],
   "sections": {
     "thailand": [
       {

@@ -70,49 +70,41 @@ body {
 }
 .header-meta strong { color: #ccc; }
 
-/* ── 本期重点高亮 ── */
+/* ── 本期要闻高亮 ── */
 .highlights {
   max-width: 860px;
   margin: 0 auto;
   padding: 20px 20px 0;
 }
 .hl-label {
-  font-family: var(--font-ui);
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 700;
-  letter-spacing: 2px;
-  text-transform: uppercase;
   color: var(--accent);
   margin-bottom: 10px;
+  letter-spacing: 0.5px;
 }
 .hl-item {
-  display: flex;
-  align-items: baseline;
-  gap: 12px;
-  padding: 10px 14px;
-  margin-bottom: 4px;
-  background: var(--card-bg);
-  border: 1px solid var(--border);
-  border-left: 3px solid var(--accent);
+  display: block;
+  padding: 11px 14px;
+  margin-bottom: 5px;
+  background: #ffffff;
+  border: 1px solid #e0e0d8;
+  border-left: 3px solid #c0392b;
   border-radius: 4px;
   text-decoration: none;
-  transition: background 0.15s;
+  color: #1a1a1a;
 }
-.hl-item:hover { background: #f0f0ea; }
 .hl-num {
-  font-family: var(--font-ui);
   font-size: 12px;
   font-weight: 700;
-  color: var(--accent);
-  flex-shrink: 0;
-  width: 16px;
+  color: #c0392b;
+  margin-right: 8px;
 }
 .hl-title {
   font-size: 15px;
-  color: var(--primary);
-  line-height: 1.5;
-  font-family: var(--font-ui);
+  color: #1a1a2e;
   font-weight: 500;
+  line-height: 1.5;
 }
 
 /* ── 主体 ── */
