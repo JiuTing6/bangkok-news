@@ -35,6 +35,12 @@ RSS_SOURCES = [
         "weight": 4
     },
     {
+        "id": "thaiger_bangkok",
+        "name": "The Thaiger Bangkok",
+        "url": "https://thethaiger.com/news/bangkok/feed",
+        "weight": 5
+    },
+    {
         "id": "khaosod",
         "name": "Khaosod English",
         "url": "https://www.khaosodenglish.com/feed/",
