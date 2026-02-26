@@ -14,7 +14,7 @@ from datetime import datetime
 WEEKDAYS_ZH = ["周一","周二","周三","周四","周五","周六","周日"]
 
 SECTIONS = [
-    {"id":"thailand",  "icon":"🇹🇭", "cn":"泰国",       "en":"Thailand",         "cls":"thai"},
+    {"id":"thailand",  "icon":"🇹🇭", "cn":"政经",       "en":"Politics & Economy","cls":"thai"},
     {"id":"property",  "icon":"📊", "cn":"房产专题",    "en":"Property",          "cls":"property"},
     {"id":"bangkok",   "icon":"🌆", "cn":"曼谷",        "en":"Bangkok",           "cls":"bkk"},
     {"id":"pattaya",   "icon":"🏖️","cn":"芭提雅",      "en":"Pattaya",           "cls":"pattaya"},
@@ -41,8 +41,9 @@ def article_html(a, idx):
     source   = a.get("source","")
     url      = a.get("url","#")
 
+    article_id = f"a{idx}"
     return f'''
-    <div class="article-item" id="a{idx}">
+    <div class="article-item" id="{article_id}">
       <div class="article-tags">{tags_html}</div>
       <div class="article-title">{a["title"]}</div>
       <div class="article-body">{a["body"]}</div>
@@ -53,6 +54,10 @@ def article_html(a, idx):
         <span>来源：{source}</span>
         <span class="source-dot">·</span>
         <a href="{url}" target="_blank" rel="noopener">→ 阅读原文</a>
+      </div>
+      <div class="article-feedback" data-id="{article_id}">
+        <button class="fb-btn fb-up" onclick="handleFeedback(this, '{article_id}', 'up')">👍🏻</button>
+        <button class="fb-btn fb-down" onclick="handleFeedback(this, '{article_id}', 'down')">👎🏻</button>
       </div>
     </div>'''
 
@@ -122,6 +127,43 @@ def build_issue(issue_data, output_dir):
   </div>
   <div>Bangkok News Hub · 泰兰德10:00 · {date_str}</div>
 </footer>
+
+<script>
+(function() {{
+  const KEY = 'thailand10_feedback';
+  function loadFeedback() {{
+    try {{ return JSON.parse(localStorage.getItem(KEY) || '{{}}'); }} catch(e) {{ return {{}}; }}
+  }}
+  function saveFeedback(data) {{
+    localStorage.setItem(KEY, JSON.stringify(data));
+  }}
+  function applyState(id, vote) {{
+    const item = document.getElementById(id);
+    if (!item) return;
+    const upBtn   = item.querySelector('.fb-up');
+    const downBtn = item.querySelector('.fb-down');
+    upBtn.classList.toggle('active', vote === 'up');
+    downBtn.classList.toggle('active', vote === 'down');
+  }}
+  // 页面加载时恢复状态
+  const fb = loadFeedback();
+  document.querySelectorAll('.article-feedback').forEach(function(el) {{
+    const id = el.dataset.id;
+    if (fb[id]) applyState(id, fb[id]);
+  }});
+  // 全局点击处理
+  window.handleFeedback = function(btn, id, vote) {{
+    const fb = loadFeedback();
+    if (fb[id] === vote) {{
+      delete fb[id];  // 再次点击取消
+    }} else {{
+      fb[id] = vote;
+    }}
+    saveFeedback(fb);
+    applyState(id, fb[id] || null);
+  }};
+}})();
+</script>
 
 </body>
 </html>'''

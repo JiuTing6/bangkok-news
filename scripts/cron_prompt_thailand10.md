@@ -17,6 +17,7 @@
 - `data/history.json`    → 已发布hash，用于去重
 - `data/tracking.json`   → 持续追踪议题，本期如有进展需标注 🔄
 - `data/rotation.json`   → 长期内容轮播记录
+- `data/buffer.json`     → 内容储备库，本期新鲜内容不足10条时从此处补充
 
 ### 第3步：抓取新闻原料
 运行 RSS 抓取（过去4天，周四刊；过去4天含周末，周一刊）：
@@ -131,6 +132,20 @@ python3 scripts/build_html.py /tmp/issue_thailand10.json
 ### 第8步：更新记忆文件
 - 将本期所有新闻的 hash 写入 `data/history.json`
 - 更新 `data/tracking.json` 中相关追踪议题的 `last_seen` 和 `summary`
+- **buffer 写入：** 本期搜集到但未发布的优质稿件（P1/P2，或时效中性的P3），写入 `data/buffer.json`，格式如下：
+  ```json
+  {
+    "hash": "...",
+    "title": "...",
+    "section": "thailand/property/bangkok/pattaya/cn_thai",
+    "importance": "P1/P2/P3",
+    "time_sensitive": true,
+    "added_date": "YYYY-MM-DD",
+    "expires_date": "YYYY-MM-DD（时效性+14天，时效中性+90天）",
+    "article": { ... 完整文章对象 ... }
+  }
+  ```
+- **buffer 清理：** 写入前先清除 `data/buffer.json` 中 `expires_date` 已过期的条目
 
 ### 第9步：推送到 GitHub
 ```bash
