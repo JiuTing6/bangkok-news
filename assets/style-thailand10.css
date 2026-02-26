@@ -70,11 +70,56 @@ body {
 }
 .header-meta strong { color: #ccc; }
 
+/* ── 本期重点高亮 ── */
+.highlights {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 20px 20px 0;
+}
+.hl-label {
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 10px;
+}
+.hl-item {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 10px 14px;
+  margin-bottom: 4px;
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background 0.15s;
+}
+.hl-item:hover { background: #f0f0ea; }
+.hl-num {
+  font-family: var(--font-ui);
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+  flex-shrink: 0;
+  width: 16px;
+}
+.hl-title {
+  font-size: 15px;
+  color: var(--primary);
+  line-height: 1.5;
+  font-family: var(--font-ui);
+  font-weight: 500;
+}
+
 /* ── 主体 ── */
 .main-content {
   max-width: 860px;
   margin: 0 auto;
-  padding: 30px 20px 60px;
+  padding: 24px 20px 60px;
 }
 
 /* ── 版块 ── */

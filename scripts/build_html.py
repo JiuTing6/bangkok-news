@@ -62,10 +62,10 @@ def article_html(a, idx):
       </div>
     </div>'''
 
-def section_html(section, articles):
+def section_html(section, articles, start_idx=0):
     if not articles:
         return ""
-    items_html = "\n".join(article_html(a, i) for i, a in enumerate(articles))
+    items_html = "\n".join(article_html(a, start_idx + i) for i, a in enumerate(articles))
     count = len(articles)
     return f'''
   <div class="section">
@@ -80,18 +80,46 @@ def section_html(section, articles):
     </div>
   </div>'''
 
+def highlights_html(all_articles, n=5):
+    """生成本期前N条高亮标题，带 anchor 跳转"""
+    top = all_articles[:n]
+    if not top:
+        return ""
+    items = "\n".join(
+        f'<a class="hl-item" href="#a{idx}">'
+        f'<span class="hl-num">{idx+1}</span>'
+        f'<span class="hl-title">{a["title"]}</span>'
+        f'</a>'
+        for idx, a in top
+    )
+    return f'''
+  <div class="highlights">
+    <div class="hl-label">本期重点</div>
+    {items}
+  </div>'''
+
 def build_issue(issue_data, output_dir):
-    date_str  = issue_data["date"]          # "2026-02-28"
+    date_str  = issue_data["date"]
     issue_num = issue_data.get("issue", "")
     dt        = datetime.strptime(date_str, "%Y-%m-%d")
     weekday   = WEEKDAYS_ZH[dt.weekday()]
     total     = sum(len(issue_data["sections"].get(s["id"],[]))
                     for s in SECTIONS)
 
+    # 全局文章列表（带全局idx），用于高亮区和唯一 anchor
+    all_articles = []
+    for sec in SECTIONS:
+        for a in issue_data["sections"].get(sec["id"], []):
+            all_articles.append((len(all_articles), a))
+
     sections_html = ""
+    global_idx = 0
     for sec in SECTIONS:
         arts = issue_data["sections"].get(sec["id"], [])
-        sections_html += section_html(sec, arts)
+        sections_html += section_html(sec, arts, start_idx=global_idx)
+        global_idx += len(arts)
+
+    hl_html = highlights_html(all_articles, n=5)
 
     # 上下期导航（简单，由归档index处理）
     html = f'''<!DOCTYPE html>
@@ -111,10 +139,11 @@ def build_issue(issue_data, output_dir):
     <div class="header-meta">
       <strong>{date_str} &nbsp;{weekday}</strong>
       <span>共 {total} 条精选新闻</span>
-      <span>政治 · 经济 · 房产 · 科技 · 外国人事务</span>
     </div>
   </div>
 </header>
+
+{hl_html}
 
 <main class="main-content">
   {sections_html}
