@@ -159,7 +159,7 @@ body {
 }
 
 .article-body {
-  font-size: 16px;
+  font-size: 17px;
   color: #333;
   line-height: 1.85;
   margin-bottom: 12px;
@@ -293,6 +293,7 @@ body {
   display: flex;
   gap: 8px;
   margin-top: 12px;
+  justify-content: flex-end;
 }
 .fb-btn {
   background: none;
@@ -315,6 +316,6 @@ body {
   .header-title { font-size: 22px; }
   .home-grid { grid-template-columns: 1fr; }
   .article-title { font-size: 17px; }
-  .article-body  { font-size: 16px; }
+  .article-body  { font-size: 17px; }
   .section-title-en { display: none; }
 }
