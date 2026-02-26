@@ -169,7 +169,7 @@ def build_issue(issue_data, output_dir):
 </body>
 </html>'''
 
-    filename = f"{date_str}.html"
+    filename = f"{date_str}-{issue_num:03d}.html" if isinstance(issue_num, int) else f"{date_str}-{issue_num}.html"
     filepath = os.path.join(output_dir, filename)
     with open(filepath, "w", encoding="utf-8") as f:
         f.write(html)
@@ -180,6 +180,11 @@ def update_archive(output_dir, filename, date_str, total, weekday):
     index_path = os.path.join(output_dir, "index.html")
     with open(index_path, "r", encoding="utf-8") as f:
         content = f.read()
+
+    # 去重：同一文件名已存在则跳过
+    if f'href="{filename}"' in content:
+        print(f"[SKIP] 归档已存在: {filename}")
+        return
 
     new_entry = f'''    <div class="archive-item">
       <a href="{filename}">🇹🇭 {date_str} {weekday}</a>
@@ -198,7 +203,7 @@ def update_archive(output_dir, filename, date_str, total, weekday):
 
     with open(index_path, "w", encoding="utf-8") as f:
         f.write(content)
-    print(f"[OK] 归档更新: {date_str}")
+    print(f"[OK] 归档更新: {filename}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
