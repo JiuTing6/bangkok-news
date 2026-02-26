@@ -23,8 +23,9 @@
 运行 RSS 抓取（过去4天，周四刊；过去4天含周末，周一刊）：
 ```bash
 cd /Users/Ade/.openclaw/workspace/bangkok-news
-python3 scripts/fetch_rss.py 4 > /tmp/raw_rss.json
+python3 scripts/fetch_rss.py 4 > data/issues/YYYY-MM-DD-raw.json
 ```
+（YYYY-MM-DD 替换为本期日期，永久保留原始素材，用于事后分析抓取量 vs 选取量）
 
 同时用 web_search 补充搜索（英文+泰文，见下方关键词组）。
 
@@ -97,7 +98,7 @@ python3 scripts/fetch_rss.py 4 > /tmp/raw_rss.json
 
 ### 第6步：生成期数 JSON
 
-将选好的新闻整理为以下格式，保存为 `/tmp/issue_thailand10.json`：
+将选好的新闻整理为以下格式，保存为 `data/issues/YYYY-MM-DD.json`（永久保留，YYYY-MM-DD 替换为本期日期）：
 
 ```json
 {
@@ -126,7 +127,7 @@ python3 scripts/fetch_rss.py 4 > /tmp/raw_rss.json
 ### 第7步：生成 HTML
 ```bash
 cd /Users/Ade/.openclaw/workspace/bangkok-news
-python3 scripts/build_html.py /tmp/issue_thailand10.json
+python3 scripts/build_html.py data/issues/YYYY-MM-DD.json
 ```
 
 ### 第8步：更新记忆文件

@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
 Thailand10 HTML 生成器
-用法：python3 build_html.py <issue_json_file>
+用法：python3 build_html.py data/issues/YYYY-MM-DD.json
 输出：HTML文件写入 thailand10/YYYY-MM-DD.html
       同时更新 thailand10/index.html 归档列表
+注意：issue JSON 永久保存于 data/issues/，raw RSS 保存于 data/issues/YYYY-MM-DD-raw.json
 """
 
 import json
