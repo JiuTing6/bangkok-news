@@ -51,7 +51,7 @@ body {
   margin-bottom: 6px;
 }
 .header-title {
-  font-size: 28px;
+  font-size: 34px;
   font-weight: bold;
   letter-spacing: 1px;
   color: #fff;
@@ -97,7 +97,7 @@ body {
 
 .section-icon { font-size: 18px; }
 .section-title-cn {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: bold;
   color: #fff;
   font-family: var(--font-ui);
@@ -313,7 +313,7 @@ body {
 
 /* ── 响应式 ── */
 @media (max-width: 600px) {
-  .header-title { font-size: 22px; }
+  .header-title { font-size: 28px; }
   .home-grid { grid-template-columns: 1fr; }
   .article-title { font-size: 17px; }
   .article-body  { font-size: 17px; }

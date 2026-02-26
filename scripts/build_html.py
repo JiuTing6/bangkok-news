@@ -14,11 +14,11 @@ from datetime import datetime
 WEEKDAYS_ZH = ["周一","周二","周三","周四","周五","周六","周日"]
 
 SECTIONS = [
-    {"id":"thailand",  "icon":"🇹🇭", "cn":"政经",       "en":"Politics & Economy","cls":"thai"},
-    {"id":"property",  "icon":"📊", "cn":"房产专题",    "en":"Property",          "cls":"property"},
-    {"id":"bangkok",   "icon":"🌆", "cn":"曼谷",        "en":"Bangkok",           "cls":"bkk"},
-    {"id":"pattaya",   "icon":"🏖️","cn":"芭提雅",      "en":"Pattaya",           "cls":"pattaya"},
-    {"id":"cn_thai",   "icon":"🇨🇳🇹🇭","cn":"中泰动态","en":"China-Thailand",    "cls":"cn"},
+    {"id":"thailand",  "icon":"📡", "cn":"政经动态",    "en":"Politics & Economy","cls":"thai"},
+    {"id":"property",  "icon":"🏠", "cn":"房地产",      "en":"Property",          "cls":"property"},
+    {"id":"bangkok",   "icon":"🛺", "cn":"曼谷",        "en":"Bangkok",           "cls":"bkk"},
+    {"id":"pattaya",   "icon":"🌅", "cn":"芭提雅",      "en":"Pattaya",           "cls":"pattaya"},
+    {"id":"cn_thai",   "icon":"🚅", "cn":"中泰",        "en":"China-Thailand",    "cls":"cn"},
 ]
 
 def tag_html(tag_text, tag_type="normal"):
