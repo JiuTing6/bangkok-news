@@ -1,30 +1,105 @@
 {
   "_comment": "持续追踪议题。每期发布后更新last_seen和summary",
   "political": [
-    {"id": "coalition", "title": "泰国组阁谈判进展", "last_seen": null, "summary": ""},
-    {"id": "thaksin", "title": "他信假释时间线", "last_seen": null, "summary": ""},
-    {"id": "peoples_party", "title": "人民党（People's Party）动向", "last_seen": null, "summary": ""}
+    {
+      "id": "coalition",
+      "title": "泰国组阁谈判进展",
+      "last_seen": "2026-02-26",
+      "summary": "Bhumjaithai获19席14部，Anutin兼任总理+内政部长；为泰党8席；国防部人选待定。"
+    },
+    {
+      "id": "thaksin",
+      "title": "他信假释时间线",
+      "last_seen": null,
+      "summary": ""
+    },
+    {
+      "id": "peoples_party",
+      "title": "人民党（People's Party）动向",
+      "last_seen": "2026-02-26",
+      "summary": "人民党（PP）在内阁谈判中未获席位，处于反对党地位。选委会已认证396/400选区结果。"
+    }
   ],
   "economic": [
-    {"id": "baht_rate", "title": "泰铢汇率与央行政策", "last_seen": null, "summary": ""},
-    {"id": "gdp_cpi", "title": "泰国GDP/CPI定期数据", "last_seen": null, "summary": ""},
-    {"id": "us_tariff", "title": "美国关税对泰国出口影响", "last_seen": null, "summary": ""}
+    {
+      "id": "baht_rate",
+      "title": "泰铢汇率与央行政策",
+      "last_seen": "2026-02-26",
+      "summary": "BOT意外降息至1.0%，宣告本轮降息周期结束，保留50bps政策空间应对美国关税不确定性。"
+    },
+    {
+      "id": "gdp_cpi",
+      "title": "泰国GDP/CPI定期数据",
+      "last_seen": null,
+      "summary": ""
+    },
+    {
+      "id": "us_tariff",
+      "title": "美国关税对泰国出口影响",
+      "last_seen": null,
+      "summary": ""
+    }
   ],
   "tech": [
-    {"id": "google_dc", "title": "Google曼谷数据中心后续", "last_seen": null, "summary": ""},
-    {"id": "thailand_cloud", "title": "泰国云服务/AI算力基建", "last_seen": null, "summary": ""},
-    {"id": "thailand_energy", "title": "泰国可再生能源政策", "last_seen": null, "summary": ""}
+    {
+      "id": "google_dc",
+      "title": "Google曼谷数据中心后续",
+      "last_seen": "2026-01-21",
+      "summary": "Google Cloud曼谷区域1月21日正式上线，10亿美元投资落地。"
+    },
+    {
+      "id": "thailand_cloud",
+      "title": "泰国云服务/AI算力基建",
+      "last_seen": "2026-02-26",
+      "summary": "泰国成东南亚数据中心争夺核心：Google $1B、AWS $5B、微软Azure、阿里云、豪阳集团$2.2B。BOI批超$3.1B项目。"
+    },
+    {
+      "id": "thailand_energy",
+      "title": "泰国可再生能源政策",
+      "last_seen": null,
+      "summary": ""
+    }
   ],
   "infrastructure": [
-    {"id": "bts_metro", "title": "曼谷地铁/BTS扩线", "last_seen": null, "summary": ""},
-    {"id": "sino_thai_rail", "title": "中泰铁路进度", "last_seen": null, "summary": ""}
+    {
+      "id": "bts_metro",
+      "title": "曼谷地铁/BTS扩线",
+      "last_seen": null,
+      "summary": ""
+    },
+    {
+      "id": "sino_thai_rail",
+      "title": "中泰铁路进度",
+      "last_seen": null,
+      "summary": ""
+    }
   ],
   "expat": [
-    {"id": "visa_policy", "title": "签证政策变化", "last_seen": null, "summary": ""},
-    {"id": "foreign_property", "title": "外国人持产政策", "last_seen": null, "summary": ""}
+    {
+      "id": "visa_policy",
+      "title": "签证政策变化",
+      "last_seen": "2026-02-26",
+      "summary": "Visa Run时代终结，签证执法全面升级，超年2次免签无合理理由将被拒绝入境，TDAC强制使用。"
+    },
+    {
+      "id": "foreign_property",
+      "title": "外国人持产政策",
+      "last_seen": null,
+      "summary": ""
+    }
   ],
   "property": [
-    {"id": "pattaya_north", "title": "芭提雅北部高端公寓市场", "last_seen": null, "summary": ""},
-    {"id": "bkk_luxury", "title": "曼谷超豪华住宅动态", "last_seen": null, "summary": ""}
+    {
+      "id": "pattaya_north",
+      "title": "芭提雅北部高端公寓市场",
+      "last_seen": "2026-02-26",
+      "summary": "本期无专项北芭提雅/Wong Amat/Na Kluea新项目新闻，持续关注。"
+    },
+    {
+      "id": "bkk_luxury",
+      "title": "曼谷超豪华住宅动态",
+      "last_seen": "2026-02-26",
+      "summary": "荣威集团加码海外买家，REIC确认楼市触底，Q4转让量/值环比双升。"
+    }
   ]
 }
