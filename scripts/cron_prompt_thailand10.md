@@ -42,7 +42,7 @@ python3 scripts/fetch_rss.py 4 > data/issues/YYYY-MM-DD-raw.json
 10. `Thailand property market luxury foreign buyer 2026` [EN]
 11. `อสังหาริมทรัพย์ ไทย ต่างชาติ ซื้อ 2569` [TH]
 12. `Bangkok city news latest 2026` [EN]
-13. `Bangkok expat life development transport Sukhumvit 2026` [EN]
+13. `Bangkok city news crime safety development 2026` [EN]
 （中泰触发式：只在有重磅时搜 `China Thailand investment railway scandal 2026`）
 
 ### 第4步：编辑选题（核心工作）
