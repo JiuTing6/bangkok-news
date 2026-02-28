@@ -136,7 +136,7 @@ def build_issue(issue_data, output_dir):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>泰兰德10:00 | {date_str} {weekday}</title>
-  <link rel="stylesheet" href="../assets/style-thailand10.css">
+  <link rel="stylesheet" href="../assets/style-thailand10.css?v={date_str}">
 </head>
 <body>
 
