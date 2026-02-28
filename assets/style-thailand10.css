@@ -84,7 +84,8 @@ body {
   letter-spacing: 0.5px;
 }
 .hl-item {
-  display: block;
+  display: flex;
+  align-items: flex-start;
   padding: 11px 14px;
   margin-bottom: 5px;
   background: #ffffff;
@@ -95,13 +96,13 @@ body {
   color: #1a1a1a;
 }
 .hl-num {
-  font-size: 12px;
-  font-weight: 700;
+  font-size: 17px;
   color: #c0392b;
   margin-right: 8px;
+  flex-shrink: 0;
 }
 .hl-title {
-  font-size: 15px;
+  font-size: 17px;
   color: #1a1a2e;
   font-weight: 500;
   line-height: 1.5;

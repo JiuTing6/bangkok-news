@@ -56,10 +56,12 @@ def article_html(a, idx):
         <span class="source-dot">·</span>
         <a href="{url}" target="_blank" rel="noopener">→ 阅读原文</a>
       </div>
+      <!-- feedback disabled
       <div class="article-feedback" data-id="{article_id}">
         <button class="fb-btn fb-up" onclick="handleFeedback(this, '{article_id}', 'up')">👍🏻</button>
         <button class="fb-btn fb-down" onclick="handleFeedback(this, '{article_id}', 'down')">👎🏻</button>
       </div>
+      -->
     </div>'''
 
 def section_html(section, articles, start_idx=0):
@@ -89,14 +91,14 @@ def highlights_html(all_articles, selected_indices=None, n=5):
     if selected_indices:
         idx_set = {i for i in selected_indices}
         top = [(idx, a) for idx, a in all_articles if idx in idx_set]
-        top = sorted(top, key=lambda x: selected_indices.index(x[0]))[:n]
+        top = sorted(top, key=lambda x: x[0])[:n]  # 按文章顺序升序排
     else:
         top = all_articles[:n]
     if not top:
         return ""
     items = "\n".join(
         f'<a class="hl-item" href="#a{idx}">'
-        f'<span class="hl-num">{idx+1}</span>'
+        f'<span class="hl-num">·</span>'
         f'<span class="hl-title">{a["title"]}</span>'
         f'</a>'
         for idx, a in top
