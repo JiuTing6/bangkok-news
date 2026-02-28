@@ -10,6 +10,7 @@ Thailand10 HTML 生成器
 import json
 import sys
 import os
+import subprocess
 from datetime import datetime
 
 WEEKDAYS_ZH = ["周一","周二","周三","周四","周五","周六","周日"]
@@ -113,6 +114,16 @@ def build_issue(issue_data, output_dir):
     total     = sum(len(issue_data["sections"].get(s["id"],[]))
                     for s in SECTIONS)
 
+    # CSS 版本号（git hash 前8位，每次 CSS 变更自动 busting 缓存）
+    try:
+        css_ver = subprocess.check_output(
+            ["git", "log", "-1", "--format=%h", "--", "assets/style-thailand10.css"],
+            cwd=os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+            text=True
+        ).strip() or date_str
+    except Exception:
+        css_ver = date_str
+
     # 全局文章列表（带全局idx），用于高亮区和唯一 anchor
     all_articles = []
     for sec in SECTIONS:
@@ -136,7 +147,7 @@ def build_issue(issue_data, output_dir):
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>泰兰德10:00 | {date_str} {weekday}</title>
-  <link rel="stylesheet" href="../assets/style-thailand10.css?v={date_str}">
+  <link rel="stylesheet" href="../assets/style-thailand10.css?v={css_ver}">
 </head>
 <body>
 
