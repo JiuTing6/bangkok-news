@@ -44,7 +44,7 @@ body {
 }
 .header-kicker {
   font-family: var(--font-ui);
-  font-size: 11px;
+  font-size: 15px;
   letter-spacing: 3px;
   text-transform: uppercase;
   color: #aaa;
@@ -61,7 +61,7 @@ body {
 }
 .header-meta {
   font-family: var(--font-ui);
-  font-size: 13px;
+  font-size: 15px;
   color: #999;
   margin-top: 8px;
   display: flex;
@@ -141,7 +141,7 @@ body {
   font-family: var(--font-ui);
 }
 .section-title-en {
-  font-size: 12px;
+  font-size: 16px;
   color: rgba(255,255,255,0.55);
   font-family: var(--font-ui);
   margin-left: auto;
@@ -149,7 +149,7 @@ body {
 }
 .section-count {
   font-family: var(--font-ui);
-  font-size: 11px;
+  font-size: 12px;
   color: rgba(255,255,255,0.4);
   margin-left: 8px;
 }
@@ -177,7 +177,7 @@ body {
 }
 .tag {
   font-family: var(--font-ui);
-  font-size: 11px;
+  font-size: 12px;
   padding: 2px 8px;
   border-radius: 3px;
   background: var(--tag-bg);
@@ -211,7 +211,7 @@ body {
   padding: 10px 14px;
   margin: 12px 0;
   border-radius: 0 4px 4px 0;
-  font-size: 15px;
+  font-size: 17px;
   color: #444;
   font-family: var(--font-ui);
   line-height: 1.7;
@@ -220,7 +220,7 @@ body {
 /* ── 来源行 ── */
 .article-source {
   font-family: var(--font-ui);
-  font-size: 12px;
+  font-size: 15px;
   color: var(--text-muted);
   display: flex;
   align-items: center;
