@@ -163,8 +163,12 @@ git push origin main
 ```
 
 ### 第10步：通知 Ade
-发送 webchat 消息：
+使用 `message` 工具发送 Telegram 消息（**不是 webchat**，必须用 message 工具 + channel:telegram）：
+
 ```
+action: send
+channel: telegram
+message:
 🗞️ 泰兰德10:00 第N期已发布
 
 📅 YYYY年MM月DD日 周X
