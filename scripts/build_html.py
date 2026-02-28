@@ -94,7 +94,7 @@ def highlights_html(all_articles, selected_indices=None, n=5):
         return ""
     items = "\n".join(
         f'<a class="hl-item" href="#a{idx}">'
-        f'<span class="hl-num">·</span>'
+        f'<span class="hl-num">▸</span>'
         f'<span class="hl-title">{a["title"]}</span>'
         f'</a>'
         for idx, a in top
