@@ -27,12 +27,12 @@ def tag_html(tag_text, tag_type="normal"):
     return f'<span class="tag {cls}">{tag_text}</span>'
 
 def article_html(a, idx):
-    tags_html = ""
+    inline_tags = ""
     for t in a.get("tags", []):
         ttype = "normal"
         if "🔄" in t: ttype = "tracking"
         if "⚠️" in t: ttype = "urgent"
-        tags_html += tag_html(t, ttype)
+        inline_tags += tag_html(t, ttype)
 
     comment_html = ""
     if a.get("comment"):
@@ -45,16 +45,12 @@ def article_html(a, idx):
     article_id = f"a{idx}"
     return f'''
     <div class="article-item" id="{article_id}">
-      <div class="article-tags">{tags_html}</div>
       <div class="article-title">{a["title"]}</div>
       <div class="article-body">{a["body"]}</div>
       {comment_html}
       <div class="article-source">
-        <span>📅 {date_str}</span>
-        <span class="source-dot">·</span>
-        <span>来源：{source}</span>
-        <span class="source-dot">·</span>
-        <a href="{url}" target="_blank" rel="noopener">→ 阅读原文</a>
+        <span class="source-left"><span>📅 {date_str}</span><span class="source-dot">·</span>{inline_tags}</span>
+        <span class="source-right"><span>来源：{source}</span><span class="source-dot">·</span><a href="{url}" target="_blank" rel="noopener">→ 阅读原文</a></span>
       </div>
       <!-- feedback disabled
       <div class="article-feedback" data-id="{article_id}">

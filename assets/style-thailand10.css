@@ -227,6 +227,18 @@ body {
   gap: 10px;
   flex-wrap: wrap;
 }
+.source-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+.source-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-shrink: 0;
+}
 .article-source a {
   color: var(--accent);
   text-decoration: none;
@@ -356,4 +368,5 @@ body {
   .article-title { font-size: 17px; }
   .article-body  { font-size: 17px; }
   .section-title-en { display: none; }
+  .source-right { flex-basis: 100%; }
 }
