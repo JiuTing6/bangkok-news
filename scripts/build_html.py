@@ -154,7 +154,7 @@ def build_issue(issue_data, output_dir):
 <header class="site-header">
   <div class="header-inner">
     <div class="header-kicker">Thailand 10:00 &nbsp;·&nbsp; 第 {issue_num} 期</div>
-    <div class="header-title">🇹🇭 泰兰德<span>10:00</span></div>
+    <div class="header-title">🇹🇭 <span class="cn">泰兰德</span><span class="red">10:00</span></div>
     <div class="header-meta">
       <strong>{date_str} &nbsp;{weekday}</strong>
       <span>共 {total} 条精选新闻</span>

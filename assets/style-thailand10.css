@@ -56,8 +56,12 @@ body {
   letter-spacing: 1px;
   color: #fff;
 }
-.header-title span {
-  color: var(--accent-light);
+.header-title span.red {
+  color: #A51931;
+}
+.header-title span.cn {
+  font-family: 'Microsoft YaHei', 'PingFang SC', 'Noto Sans SC', 'Heiti SC', sans-serif;
+  font-weight: 900;
 }
 .header-meta {
   font-family: var(--font-ui);
