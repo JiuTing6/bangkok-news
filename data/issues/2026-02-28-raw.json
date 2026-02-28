@@ -1,0 +1,603 @@
+[WARN] The Nation: not well-formed (invalid token): line 3, column 675
+{
+  "fetched_at": "2026-02-28T02:30:17.526920+00:00",
+  "days_back": 4,
+  "total": 42,
+  "items": [
+    {
+      "id": "9ec21a72c797",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Drilling down on US tariff manoeuvres",
+      "url": "https://www.bangkokpost.com/business/general/3206873/drilling-down-on-us-tariff-manoeuvres",
+      "date": "2026-02-28T06:05:00+07:00",
+      "desc": "Global trade is grappling with uncertainties stemming from unpredictable US trade policy regarding tariffs. President Donald Trump has maintained his reliance on tariffs, aiming to reduce US imports, diminish the trade deficit, and revive American manufacturing.",
+      "tags": []
+    },
+    {
+      "id": "aba17a8f95f1",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "PTT eyes partners across value chain",
+      "url": "https://www.bangkokpost.com/business/general/3206708/ptt-eyes-partners-across-value-chain",
+      "date": "2026-02-28T05:48:00+07:00",
+      "desc": "National oil and gas conglomerate PTT Plc is seeking new business partners, hoping to secure additional funding to strengthen businesses within the PTT Group and create synergies to enhance long-term performance.",
+      "tags": []
+    },
+    {
+      "id": "4c39dd937e9f",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "SSO's LINE sticker costs draw scrutiny",
+      "url": "https://www.bangkokpost.com/thailand/general/3206653/ssos-line-sticker-costs-draw-scrutiny",
+      "date": "2026-02-28T05:32:00+07:00",
+      "desc": "The Social Security Office (SSO) is facing renewed criticism following reports that it spent nearly 70 million baht on its LINE Official Account and sticker campaign.",
+      "tags": []
+    },
+    {
+      "id": "488d4390686c",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "TAT wary on gauging China rebound",
+      "url": "https://www.bangkokpost.com/business/general/3206813/tat-wary-on-gauging-china-rebound",
+      "date": "2026-02-28T05:24:00+07:00",
+      "desc": "Despite early signs of a rebound in Chinese arrivals during the first two months, the Tourism Authority of Thailand (TAT) is downplaying expectations for a strong recovery, preferring to wait until May to assess whether demand has stabilised.",
+      "tags": []
+    },
+    {
+      "id": "2f6019a3f17a",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "PM denies cabinet rumours",
+      "url": "https://www.bangkokpost.com/thailand/politics/3206668/pm-denies-cabinet-rumours",
+      "date": "2026-02-28T05:15:00+07:00",
+      "desc": "Prime Minister Anutin Charnvirakul has denied reports that the Bhumjaithai Party (BJT) has rejected a list of veteran politicians who could serve in the cabinet from the Pheu Thai Party.",
+      "tags": []
+    },
+    {
+      "id": "6932b9410fb0",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "EC under fire over lawsuits",
+      "url": "https://www.bangkokpost.com/thailand/politics/3206608/ec-under-fire-over-lawsuits",
+      "date": "2026-02-28T05:04:00+07:00",
+      "desc": "The Election Commission (EC) is facing mounting criticism after filing criminal complaints against six individuals who publicly questioned aspects of the most recent general election, including alleged irregularities involving QR codes and barcodes printed on ballot papers.",
+      "tags": []
+    },
+    {
+      "id": "4e85f0b43d02",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Thailand targets global AI hub status",
+      "url": "https://www.bangkokpost.com/business/general/3206753/thailand-targets-global-ai-hub-status",
+      "date": "2026-02-28T04:45:00+07:00",
+      "desc": "Thailand is uniquely positioned to become a global artificial intelligence (AI) and digital infrastructure hub as it has already attracted a potential 5 gigawatts of data centre capacity, representing hundreds of billions of baht in infrastructure investment, by leveraging its geopolitical neutrality amid rising international tensions, says the Digital Council of Thailand (DCT).",
+      "tags": []
+    },
+    {
+      "id": "e24d9554b7d2",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Holiday flyers lift Thailand’s skies above pre-pandemic levels, CAAT reports",
+      "url": "https://www.pattayamail.com/news/holiday-flyers-lift-thailands-skies-above-pre-pandemic-levels-caat-reports-537399",
+      "date": "2026-02-28T02:24:02+00:00",
+      "desc": "International passengers line up at Suvarnabhumi Airport, with China remaining the largest inbound market during the festive period. PATTAYA, Thailand – Thailand’s aviation sector posted strong growth during the recent Chinese New Year holiday, with passenger numbers, flight volumes and cargo throughput surpassing pre-pandemic levels, according to the Civil Aviation Authority of Thailand (CAAT). Between Feb 13–22, 2026, a total of 4,889,321 passengers traveled through Thai airports, exceeding the 4,718,663 recorded during the same period in 2019 before the COVID-19 outbreak. The figure also ro",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "118d72fdc8da",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Baht stability in focus as Thai economy gains from tourism and export growth",
+      "url": "https://www.pattayamail.com/news/baht-stability-in-focus-as-thai-economy-gains-from-tourism-and-export-growth-537393",
+      "date": "2026-02-28T02:08:11+00:00",
+      "desc": "Ms. Pranee Sutthasri of the Bank of Thailand outlines the January 2026 economic and monetary conditions, stressing that foreign exchange interventions are aimed solely at reducing volatility rather than gaining a trade advantage. PATTAYA, Thailand – The Bank of Thailand (BOT) has reaffirmed that its interventions in the baht are aimed solely at reducing excessive exchange rate volatility, not at securing any trade advantage, amid concerns over global currency scrutiny. Ms. Pranee Sutthasri, Senior Director of the Macroeconomic Department at the central bank, said Thailand’s economy improved in",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "fefc8cf41929",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Thunderstorms possible in Pattaya as hot days continue",
+      "url": "https://www.pattayamail.com/news/thunderstorms-possible-in-pattaya-as-hot-days-continue-537396",
+      "date": "2026-02-27T23:08:28+00:00",
+      "desc": "Sunseekers walk the Pattaya Beach promenade during a hot afternoon, even as weather officials caution that brief storms could develop. (Photo by Jetsada Homklin) PATTAYA, Thailand – The Thai Meteorological Department has forecast unsettled weather for parts of eastern Thailand over the next 24 hours, with Pattaya likely to experience hot daytime conditions and a chance of isolated thunderstorms. According to the department, upper Thailand will see slightly less rainfall overall, but the lower Central region, the East — including Chonburi province — and parts of the Northeast may still face thu",
+      "tags": [
+        "Daily Newsletter",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "2c0089948f2e",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Dual pricing as Thailand's tourism dilemma",
+      "url": "https://www.bangkokpost.com/thailand/special-reports/3206548/dual-pricing-as-thailands-tourism-dilemma",
+      "date": "2026-02-27T20:59:00+07:00",
+      "desc": "Thailand welcomed 32.9 million foreign visitors in 2025, a 7.23% decline from the year before. In the second episode of Bangkok Post&rsquo;s Why Bangkok, the series turns its lens on one of tourism&rsquo;s most persistent grievances: dual pricing.",
+      "tags": []
+    },
+    {
+      "id": "e5f991491c20",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Tomorrowland to make Asian debut in Pattaya this December, expecting 50,000 fans daily",
+      "url": "https://www.pattayamail.com/latestnews/news/tomorrowland-to-make-asian-debut-in-pattaya-this-december-expecting-50000-fans-daily-537390",
+      "date": "2026-02-27T19:01:08+00:00",
+      "desc": "Officials from the Tourism Authority of Thailand, WE Are One World Company, Chonburi province, and the Embassy of Belgium announce the launch of Tomorrowland Thailand, set to take place December 11–13 at Wisdom Valley in Pattaya. PATTAYA, Thailand – Pattaya City is hosting Tomorrowland Thailand from December 11 to 13 at Wisdom Valley, the first full-scale edition of the Belgian electronic music festival in Asia. The launch was announced by the Tourism Authority of Thailand in partnership with WE Are One World Company, Chonburi province, and the Embassy of Belgium. (adsbygoogle = window.adsbygo",
+      "tags": [
+        "Daily Newsletter",
+        "Pattaya",
+        "Travel & Tourism"
+      ]
+    },
+    {
+      "id": "414f5e3264e1",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Similan divers lift ‘ghost nets’ from deep‑sea coral reef",
+      "url": "https://www.bangkokpost.com/thailand/general/3206525/similan-divers-lift-ghost-nets-from-deepsea-coral-reef",
+      "date": "2026-02-27T18:56:00+07:00",
+      "desc": "PHANGNGA - Divers have recovered abandoned fish aggregating devices (FADs) tangled around deep‑sea coral reefs, preventing serious harm to marine life including turtles, dolphins and dugongs in Mu Ko Similan National Park.",
+      "tags": []
+    },
+    {
+      "id": "861e67fbdf3d",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Drafting of new constitution cruises to victory in referendum",
+      "url": "https://www.bangkokpost.com/thailand/politics/3206445/drafting-of-new-constitution-cruises-to-victory-in-referendum",
+      "date": "2026-02-27T16:28:00+07:00",
+      "desc": "The Election Commission (EC) announced on Friday that an official referendum result shows overwhelming support for drafting a new constitution to replace the current charter.",
+      "tags": []
+    },
+    {
+      "id": "3a39a02f1bb6",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Thai FM says global community silent on Cambodia’s claims",
+      "url": "https://www.khaosodenglish.com/news/2026/02/27/thai-fm-says-global-community-silent-on-cambodias-claims/",
+      "date": "2026-02-27T12:12:21+00:00",
+      "desc": "BANGKOK — Foreign Minister Sihasak Phuangketkeow on 27 February briefed members of the diplomatic corps on the outcome of his visit to France and participation in the high-level segment of the United Nations Human Rights Council (HRC), saying the international community has not reacted to statements made by Cambodia regarding Thailand. Sihasak said he had met with the UNESCO Director-General, the French foreign minister and the UN High Commissioner for Human Rights, and delivered an intervention in Geneva. A key focus was the Thailand–Cambodia situation. He said Thailand had sought to explain ",
+      "tags": [
+        "News",
+        "Cambodia",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "71475237c049",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Natty of Kiss of Life draws buzz in Korea with chud Thai appearance",
+      "url": "https://www.khaosodenglish.com/life/2026/02/27/natty-of-kiss-of-life-draws-buzz-in-korea-with-chud-thai-appearance/",
+      "date": "2026-02-27T11:45:54+00:00",
+      "desc": "Natty of the K-pop girl group Kiss of Life has drawn widespread attention in Thailand and South Korea after appearing in traditional Thai dress, or chud Thai, while introducing simple everyday Thai phrases in a recent clip shared online. The video quickly went viral, generating strong engagement from Korean fans who praised her elegant look in Thai attire and expressed curiosity about Thailand’s language and culture. Several commenters said the clip encouraged them to learn basic Thai, while others hoped to see other members of Kiss of Life try on Thai costumes in future content. One Korean fa",
+      "tags": [
+        "Entertainment",
+        "Lifestyle",
+        "Kiss of Life"
+      ]
+    },
+    {
+      "id": "07684a13750d",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Most Thais lack six-month emergency savings, BOT says",
+      "url": "https://www.khaosodenglish.com/tech/2026/02/27/most-thais-lack-six-month-emergency-savings-bot-says/",
+      "date": "2026-02-27T11:17:46+00:00",
+      "desc": "BANGKOK, 26 February 2026 — Bank of Thailand said 77.3% of Thais have emergency savings covering less than six months, while more than 86% have not planned for retirement or are unable to follow through with their plans. In its 2024 report, the central bank said overall financial literacy among Thais has improved steadily and is above the OECD average. However, many people still lack understanding of interest and compound interest. Although 91.5% of respondents reported saving money, most do not have sufficient emergency funds, reflecting irregular or inadequate long-term savings. The BOT said",
+      "tags": [
+        "Business & Tech",
+        "money",
+        "saving"
+      ]
+    },
+    {
+      "id": "681a2970129d",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Khao Soi ranks second in TasteAtlas world noodle list",
+      "url": "https://www.khaosodenglish.com/life/food/2026/02/27/khao-soi-ranks-second-in-tasteatlas-world-noodle-list/",
+      "date": "2026-02-27T10:22:27+00:00",
+      "desc": "Thailand’s Khao Soi has been ranked No.2 in the 2026 “Best Rated Noodle Dishes in the World” by TasteAtlas, placing the Northern Thai specialty among the top noodle dishes globally. The coconut curry noodle soup is known for its rich broth made with coconut milk and red curry paste, served with egg noodles and a choice of chicken, beef or pork. It is topped with crispy fried noodles and accompanied by condiments such as lime, pickled cabbage, shallots and chilies. The top spot went to Yokohama-style ramen from Japan, a thick-noodle ramen in a tonkotsu soy-based broth. The rankings also feature",
+      "tags": [
+        "Food",
+        "khao soi"
+      ]
+    },
+    {
+      "id": "ec45db8f04d2",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Jealous Thai man fatally shoots boyfriend in car near Ubon Ratchathani dam",
+      "url": "https://thethaiger.com/news/national/jealous-thai-man-fatally-shoots-boyfriend-in-car-near-ubon-ratchathani-dam",
+      "date": "2026-02-27T10:06:14+00:00",
+      "desc": "Jealous Thai man fatally shoots boyfriend in car near Ubon Ratchathani dam Legacy A jealous Thai man in Ubon Ratchathani fatally shot his boyfriend in a car last night, February 26, and later drove the victim to a hospital where he was declared dead shortly after arrival. The suspect, 32 year old Warayuth Tararom, drove his boyfriend, 44 year old Surapong Locharoenrat, to Det Udom Royal Crown Prince Hospital. Surapong was shot on the right side of the head, with the bullet passing through to the left. The medical team was unable to save his life. Officers from Det Udom Police Station were call",
+      "tags": [
+        "Crime News",
+        "Thailand News",
+        "jealousy",
+        "Murder",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "bbe63818f082",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Thai air force chief meets Myanmar junta leader in Naypyitaw",
+      "url": "https://thethaiger.com/news/national/thai-air-force-chief-meets-myanmar-junta-leader",
+      "date": "2026-02-27T09:57:18+00:00",
+      "desc": "Thai air force chief meets Myanmar junta leader in Naypyitaw Legacy Thailand’s Air Force Chief , Air Chief Marshal Seksan Kanta, travelled to Naypyitaw yesterday, February 27, to meet Myanmar’s junta leader Min Aung Hlaing, according to reports from the Thai military. The trip followed a series of deadly air attacks reported in Myanmar. One day earlier, a junta aircraft bombed a market in Ponnagyun Township, Rakhine State, an area under the control of the Arakan Army, killing 18 civilians, most of them women and children. Two days before that, airstrikes on Myinmu Township in Sagaing Region re",
+      "tags": [
+        "Thailand News",
+        "Myanmar",
+        "Myanmar junta",
+        "royal thai air force"
+      ]
+    },
+    {
+      "id": "7426a6e5a045",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Pakistan is in ‘open war’ with Afghanistan after latest strikes, defense minister says",
+      "url": "https://www.khaosodenglish.com/news/international/2026/02/27/pakistan-is-in-open-war-with-afghanistan-after-latest-strikes-defense-minister-says/",
+      "date": "2026-02-27T09:51:24+00:00",
+      "desc": "ISLAMABAD (AP) — Pakistan considers itself in an “open war” with neighboring Afghanistan, Pakistan&#8217;s defense minister said Friday, in the worst escalation of violence since a Qatar-mediated ceasefire in October. The comments by Defense Minister Khawaja Mohammad Asif came after Afghanistan launched a cross-border retaliatory attack on Pakistan overnight that saw Islamabad hit back with airstrikes on Kabul . Asif said in an X post that Pakistan had hoped for peace in Afghanistan after the withdrawal of NATO forces in 2021 and expected the Taliban, which seized power in the country, to focu",
+      "tags": [
+        "International",
+        "Afghanistan",
+        "pakistan"
+      ]
+    },
+    {
+      "id": "6495fab41616",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Ancient skeletons found near bronze drums site in Phetchaburi",
+      "url": "https://thethaiger.com/news/national/ancient-skeletons-found-near-bronze-drums-site-in-phetchaburi",
+      "date": "2026-02-27T09:32:57+00:00",
+      "desc": "Ancient skeletons found near bronze drums site in Phetchaburi Legacy Archaeologists at a Phetchaburi bronze drum excavation site said on February 26 that they had uncovered ancient skeletons near bronze drums , dated to about 1,500 to 2,000 years ago , prompting closer study of what may be a burial site. The excavation site, a rice field area of Don Phlap village, Samo Phlue subdistrict, Ban Lat district, was inspected at a pit where the drums, known in Thai as klong mohorathuek , are being recovered. Photo via Khaosod The operation involves the Fine Arts Department, led by the Office of Fine ",
+      "tags": [
+        "Central Thailand News",
+        "Thailand News",
+        "ancient artifacts",
+        "Phetchaburi",
+        "skeleton found"
+      ]
+    },
+    {
+      "id": "ef042053b048",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "South Korea visa-free trial launched for Indonesian group tourists",
+      "url": "https://thethaiger.com/news/world/south-korea-visa-free-trial-launched-for-indonesian-group-tourists",
+      "date": "2026-02-27T09:27:09+00:00",
+      "desc": "South Korea visa-free trial launched for Indonesian group tourists Legacy South Korea launched a visa-free trial scheme for Indonesian tourists travelling in organised groups, as part of its broader effort to attract 30 million foreign visitors annually. The South Korean government unveiled a new campaign titled “Visit Korea Year” during the 11th National Tourism Strategy Meeting, held under the theme “K-Tourism, Embracing the World: A Great Transformation of Inbound Tourism, A Great Leap in Regional Tourism.” The initiative is designed to strengthen the country’s tourism industry nationwide, ",
+      "tags": [
+        "Visa Information",
+        "World News",
+        "Indonesia",
+        "South Korea",
+        "Visa"
+      ]
+    },
+    {
+      "id": "dadb93e544bb",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Blind Myanmar refugee found dead after police drop-off in New York",
+      "url": "https://thethaiger.com/news/national/blind-myanmar-refugee-found-dead-after-police-drop-off-in-new-york",
+      "date": "2026-02-27T08:29:28+00:00",
+      "desc": "Blind Myanmar refugee found dead after police drop-off in New York Legacy A blind Myanmar refugee and father of two was found dead on February 24 in Buffalo, New York, after being released from custody and later left at a Tim Hortons coffee shop, prompting calls for a full investigation in the United States. The deceased was identified as Nurul Amin Shah Alam, who had fled Myanmar and entered the United States on December 24, 2024. The case centres on what happened in the days leading up to his death. On February 19, Shah Alam was released from the Erie County Holding Centre after bail was pos",
+      "tags": [
+        "Thailand News",
+        "World News",
+        "New York",
+        "refugee",
+        "US"
+      ]
+    },
+    {
+      "id": "852f565aa938",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Russian man rewards Bangkok taxi rider for locating missing sister",
+      "url": "https://thethaiger.com/news/bangkok/russian-man-rewards-bangkok-taxi-rider-for-locating-missing-sister",
+      "date": "2026-02-27T08:13:42+00:00",
+      "desc": "Russian man rewards Bangkok taxi rider for locating missing sister Legacy A Russian man rewarded a Bangkok motorcycle taxi rider with US$100, about 3,100 baht, after the rider helped locate his missing sister , who reportedly has a mental illness. The woman was reported missing in Bangkok, prompting her older brother to ask a motorcycle taxi rider for help. The rider then posted a missing person notice in a Facebook group for Thai taxi riders, sharing photos of the woman. Her name and personal details were not made public. The woman was last seen on Yaowarat Road, Bangkok’s Chinatown. She was ",
+      "tags": [
+        "Bangkok News",
+        "Thailand News",
+        "Bangkok",
+        "missing person",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "a9c765f2c350",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "15 best SEO training courses in 2026",
+      "url": "https://thethaiger.com/guides/digital-marketing/seo/best-seo-training-courses",
+      "date": "2026-02-27T07:40:53+00:00",
+      "desc": "15 best SEO training courses in 2026 Legacy Finding the best seo training in 2026 can be overwhelming. As search evolves with AI, automation, and data-driven marketing, professionals are looking for programs that go beyond theory and deliver real-world SEO skills. This guide reviews the best seo courses options for marketers, executives, and content teams who want to stay competitive in modern search. What is SEO? SEO, or Search Engine Optimisation , is the practice of improving a website so it ranks higher on search engines like Google. The goal is to help the right audience find your busines",
+      "tags": [
+        "Digital Marketing",
+        "Search Engine Optimisation (SEO)",
+        "Sponsored",
+        "digital marketing",
+        "Marketing"
+      ]
+    },
+    {
+      "id": "f19f01463f6b",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Stolen iPhone led to arrest of transgender suspect in Pattaya",
+      "url": "https://thethaiger.com/news/national/stolen-iphone-led-to-arrest-of-transgender-suspect-in-pattaya",
+      "date": "2026-02-27T07:10:28+00:00",
+      "desc": "Stolen iPhone led to arrest of transgender suspect in Pattaya Legacy Tourist police in Pattaya yesterday, February 26, arrested a suspect in a Chinese tourist robbery case , who said he was threatened and had cash and a mobile phone stolen earlier this month. The case dates back to around midnight on February 1, when the Chinese tourist ran naked to hotel staff at a hotel in Pattaya to ask for help and request police assistance. He said that two transgender women had allegedly threatened him inside his room and fled with 10,000 baht in cash and an iPhone 15 Pro Max. According to the victim, he",
+      "tags": [
+        "Pattaya News",
+        "Thailand News",
+        "Chinese tourists",
+        "Pattaya",
+        "transgender"
+      ]
+    },
+    {
+      "id": "17dc8e42ac38",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Bangkok gold shop robber’s DNA matches 2013 suspect",
+      "url": "https://thethaiger.com/news/bangkok/bangkok-gold-shop-robbers-dna-matches-2013-suspect",
+      "date": "2026-02-27T07:05:53+00:00",
+      "desc": "Bangkok gold shop robber&#8217;s DNA matches 2013 suspect Legacy A DNA test linked a gold shop robber arrested last week to a 2013 robbery , with police saying the match closes a cold case after a decade-long investigation. The suspect, 28 year old Jalor, also known as Tew, was arrested in Chiang Rai on February 19 after stealing nearly 15 million baht in cash and gold from a shop inside a shopping mall on Soi Sukhumvit 50 in Bangkok on January 31. CCTV footage showed Jalor entering the gold shop as staff were preparing to close. Police said he threatened to set fire to the mall, prompting sta",
+      "tags": [
+        "Bangkok News",
+        "Crime News",
+        "Thailand News",
+        "Bangkok",
+        "gold shop robbery"
+      ]
+    },
+    {
+      "id": "4fd07ce93019",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Thailand between Giants: Living in a world where china wants to lead and America refuses to yield",
+      "url": "https://www.pattayamail.com/latestnews/news/thailand-between-giants-living-in-a-world-where-china-wants-to-lead-and-america-refuses-to-yield-537387",
+      "date": "2026-02-27T06:29:44+00:00",
+      "desc": "In 2026’s emerging dual-power world, Thailand &#8211; especially the Eastern Economic Corridor (EEC) and Pattaya &#8211; has become a strategic crossroads. For expatriates, the real question is how to operate in a nation balancing between two global giants. PATTAYA, Thailand &#8211; The world of 2026 is no longer unipolar, yet it is not a world where China has fully replaced the United States either. What we are witnessing is a structural rivalry China striving to evolve from the “factory of the world” into a global innovation powerhouse, while the United States and the G7 continue to hold the",
+      "tags": [
+        "Featured",
+        "Law & Business",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "8446e976ce37",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Drug suspect’s revenge plan cut short, shot dead by Nan police",
+      "url": "https://thethaiger.com/news/national/drug-suspect-killed-in-gunfight-with-police-on-nan-road",
+      "date": "2026-02-27T06:18:08+00:00",
+      "desc": "Drug suspect&#8217;s revenge plan cut short, shot dead by Nan police Legacy Police in Nan fatally shot a drug suspect during a gun exchange on a rural road in Tha Wang Pha district at about 5.30pm on Wednesday, February 25, after he threatened to kill a police officer who previously arrested him. The incident was reported on the Na Noon–Sop Khun Rural Highway No. 4022. The deceased was identified as 36 year old Phattarakorn. His 63 year old friend, Fong, was also injured. Channel 7 reported that Phattarakorn and Fong had been drinking alcohol together before launching a search for a police off",
+      "tags": [
+        "Crime News",
+        "Northern Thailand News",
+        "Thailand News",
+        "Drugs",
+        "Thai Police"
+      ]
+    },
+    {
+      "id": "c37caf28edd5",
+      "source": "Bangkok Post Property",
+      "source_id": "bangkokpost_property",
+      "weight": 5,
+      "title": "Sansiri launches B1bn programme  to invest in small businesses",
+      "url": "https://www.bangkokpost.com/property/3206218/sansiri-launches-b1bn-programme-to-invest-in-small-businesses",
+      "date": "2026-02-27T05:29:00+07:00",
+      "desc": "SET-listed property developer Sansiri has launched a 1-billion-baht strategic investment programme over three years in a bid to support small and medium-sized enterprises (SMEs) as part of the company's strategy to increase revenue from non-core businesses.",
+      "tags": []
+    },
+    {
+      "id": "914e7c224b96",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Rony Fineman: The relentless hotelier who helped shape modern Pattaya",
+      "url": "https://www.pattayamail.com/latestnews/news/rony-fineman-the-relentless-hotelier-who-helped-shape-modern-pattaya-537373",
+      "date": "2026-02-27T03:43:02+00:00",
+      "desc": "Rony Fineman’s journey reflects grit, instinct, and timing &#8211; earning him recognition as one of Pattaya’s pioneering hotel and condominium developers who rose through hard work, calculated risk-taking, and a sharp eye for opportunity. PATTAYA, Thailand &#8211; Rony Fineman’s story is one of grit, instinct, and timing. Widely regarded as one of Pattaya’s pioneering hotel and condominium developers, he built his success not through connections, but through hard work, calculated risk-taking, and an ability to spot opportunity where others hesitated. Born in the Red Sea town of Eilat, Israel,",
+      "tags": [
+        "Featured",
+        "Pattaya",
+        "Pattaya Survivors",
+        "Property & Real Estate"
+      ]
+    },
+    {
+      "id": "b899db097e2d",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Oasis Beats Vol.3 at Avani Pattaya Resort 28 February 2026",
+      "url": "https://www.pattayamail.com/whats-on/oasis-beats-vol-3-at-avani-pattaya-resort-28-february-2026-534304",
+      "date": "2026-02-27T03:00:25+00:00",
+      "desc": "Oasis Beats Vol.3 at Avani Pattaya Resort 28 February 2026. Get ready to soak up the rhythm as Oasis Beats Vol.3 Pool Party takes over the poolside at Avani Pattaya Resort for an afternoon filled with music, movement, and tropical flair. Designed for those who love great beats and memorable moments, Oasis Beats brings together uplifting music and a laid-back resort atmosphere. Expect sun soaked vibes, lively performances, and a colourful crowd coming together for an effortless pool party experience in the heart of Pattaya. What to expect • Live DJ sets by Jerome G and Wesley Hypes • Live percu",
+      "tags": [
+        "Dining & Entertainment",
+        "Events & Festivals",
+        "What's On in Pattaya-Thailand"
+      ]
+    },
+    {
+      "id": "c6a001f8a1c2",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "T20 Cricket World Cup 2026 LIVE at Alibaba Tandoori Restaurant Pattaya",
+      "url": "https://www.pattayamail.com/whats-on/t20-cricket-world-cup-2026-live-at-alibaba-tandoori-restaurant-pattaya-536281",
+      "date": "2026-02-27T02:55:59+00:00",
+      "desc": "T20 Cricket World Cup 2026 LIVE at Alibaba. Due to popular demand, Alibaba will be showing live matches from the ICC Men’s T20 Cricket World Cup 2026 in our special party room. All matches will be shown live Enjoy a special 35% discount on food and beverage bills Guests who wish to bring their own beverages are welcome. A corkage fee of ฿300 per bottle will apply and will be added to your bill. We warmly welcome all cricket fans to enjoy the excitement of live cricket at Alibaba – Pattaya’s oldest and most famous Indian restaurant. Address: 1/13 Pattaya Klang Road, Pattaya City, THAILAND Tel: ",
+      "tags": [
+        "Dining & Entertainment",
+        "Sports",
+        "What's On in Pattaya-Thailand"
+      ]
+    },
+    {
+      "id": "f6a7c29176bc",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Saturday Dinner Buffet – Every Week at Thai Garden Resort",
+      "url": "https://www.pattayamail.com/whats-on/saturday-dinner-buffet-every-week-at-thai-garden-resort-533626",
+      "date": "2026-02-27T02:50:27+00:00",
+      "desc": "Saturday Dinner Buffet &#8211; Every Week at Thai Garden Resort. Spend your Saturday night enjoying a relaxed dinner buffet in a lush tropical garden setting, perfect for unwinding at the end of the week. Our German • International • Thai buffet brings together comforting German classics, popular international dishes, and authentic Thai cuisine, thoughtfully prepared to suit a wide range of tastes. Enjoy good food, live music, and a warm, easygoing atmosphere — ideal for families, friends, and casual gatherings. Whether you’re staying with us or visiting from Pattaya, this is a simple and enjo",
+      "tags": [
+        "Dining & Entertainment",
+        "What's On in Pattaya-Thailand",
+        "Wine & Dine"
+      ]
+    },
+    {
+      "id": "76e1d80b5b2d",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Warng Warng Taiwanese Shabu: just 30 minutes drive from Pattaya",
+      "url": "https://www.pattayamail.com/socialscene/warng-warng-taiwanese-shabu-just-30-minutes-drive-from-pattaya-499719",
+      "date": "2026-02-27T02:50:20+00:00",
+      "desc": "Warng Warng Original Taiwanese Shabu near Phala Beach in Ban Chang, a family-owned eatery offering a refreshing alternative to the busy Pattaya and Jomtien dining scene. BANCHANG, Thailand &#8211; Warng Warng Original Taiwanese Shabu is a family-owned restaurant near Phala Beach, Ban Chang, a refreshing alternative to the familiar Pattaya and Jomtien scene. Shabu was originally a Japanese hotpot of thinly sliced meat and stirred vegetables boiled in water and served with various dipping sauces. But the Taiwanese version uses less oil and is generally regarded as healthier as well as tastier. (",
+      "tags": [
+        "Around Pattaya & Thailand",
+        "Dining & Entertainment",
+        "What's On in Pattaya-Thailand",
+        "Wine & Dine"
+      ]
+    },
+    {
+      "id": "48dcbb95af66",
+      "source": "Bangkok Post Property",
+      "source_id": "bangkokpost_property",
+      "weight": 5,
+      "title": "Thai property market rebounds",
+      "url": "https://www.bangkokpost.com/property/3205280/thai-property-market-rebounds",
+      "date": "2026-02-26T06:07:00+07:00",
+      "desc": "The domestic housing market has already passed its trough, with supply and demand moving towards a more balanced level, says a property researcher.",
+      "tags": []
+    },
+    {
+      "id": "a0003bb5f1d3",
+      "source": "Bangkok Post Property",
+      "source_id": "bangkokpost_property",
+      "weight": 5,
+      "title": "Frasers Property rebalancing portfolio",
+      "url": "https://www.bangkokpost.com/property/3205340/frasers-property-rebalancing-portfolio",
+      "date": "2026-02-26T05:17:00+07:00",
+      "desc": "SET-listed Frasers Property Thailand (FPT) is consolidating the management teams of its property development affiliates as it prepares to oversee condo developer Grand Unity Development Co, following its assumption of management at the mixed-use project One Bangkok.",
+      "tags": []
+    },
+    {
+      "id": "f0e7d5f1db7d",
+      "source": "The Thaiger Bangkok",
+      "source_id": "thaiger_bangkok",
+      "weight": 5,
+      "title": "Bangkok rolls out adaptive CCTV-AI traffic lights to tackle traffic",
+      "url": "https://thethaiger.com/news/national/bangkok-rolls-out-adaptive-cctv-ai-traffic-lights-to-tackle-traffic",
+      "date": "2026-02-26T04:52:13+00:00",
+      "desc": "Bangkok rolls out adaptive CCTV-AI traffic lights to tackle traffic Legacy Bangkok Metropolitan Administration (BMA) has begun upgrading traffic lights at dozens of intersections to an adaptive system that uses CCTV and AI to adjust signals in real time, with plans to expand the rollout further this year. According to information posted on February 20 on the BMA &#8216;s Facebook page, Bangkok is moving away from traditional fixed-timing traffic signals and towards an automated adaptive control system that adjusts signals to real traffic volumes The aim is to make journeys more convenient and ",
+      "tags": [
+        "Bangkok News",
+        "Technology News",
+        "Thailand News",
+        "Bangkok Metropolitan Administration",
+        "BMA"
+      ]
+    },
+    {
+      "id": "81b5b3a102d8",
+      "source": "Bangkok Post Property",
+      "source_id": "bangkokpost_property",
+      "weight": 5,
+      "title": "Aira Capital banking on leasehold developments",
+      "url": "https://www.bangkokpost.com/property/3204615/aira-capital-banking-on-leasehold-developments",
+      "date": "2026-02-25T08:33:00+07:00",
+      "desc": "MAI-listed Aira Capital Group continues to focus on property investment on leasehold land, with plans to invest 2.3 billion baht to develop the DoubleTree by Hilton Bangkok Silom hotel, as well as 1 billion baht for a wellness residential project in a tourist destination.",
+      "tags": []
+    },
+    {
+      "id": "88874c322c17",
+      "source": "The Thaiger Bangkok",
+      "source_id": "thaiger_bangkok",
+      "weight": 5,
+      "title": "Air Force conscript dies in training, mother alleges army carelessness",
+      "url": "https://thethaiger.com/news/national/mother-seeks-accountability-after-conscript-son-dies-during-training",
+      "date": "2026-02-25T08:16:32+00:00",
+      "desc": "Air Force conscript dies in training, mother alleges army carelessness Legacy A mother is seeking accountability after her son, a newly enlisted Air Force conscript, collapsed and died during training in Don Mueang district, Bangkok. She alleges instructors ignored his worsening condition. The case was shared by the Facebook page “น้ำ-นิชนันท์ วังคะฮาต-Nitchanan Wangkahat”, which said the account was based on the mother’s allegations. The conscript was identified as 21 year old Phruetsa Wimutthithammachai from Ubon Ratchathani. He began basic training with Air Force Security Battalion 1 in Don",
+      "tags": [
+        "Bangkok News",
+        "Thailand News",
+        "Death",
+        "Thai Army",
+        "Thai soldiers"
+      ]
+    },
+    {
+      "id": "6298d78b4d48",
+      "source": "The Thaiger Bangkok",
+      "source_id": "thaiger_bangkok",
+      "weight": 5,
+      "title": "Hong Kong woman’s bag snatched while riding tuk tuk in Bangkok",
+      "url": "https://thethaiger.com/news/national/hong-kong-womans-bag-snatched-tuk-tuk-bangkok",
+      "date": "2026-02-25T07:05:13+00:00",
+      "desc": "Hong Kong woman&#8217;s bag snatched while riding tuk tuk in Bangkok Legacy Police are investigating a theft reported today, February 25, after a Hong Kong woman said two men on a motorcycle grabbed her shoulder bag while she was riding in a tuk tuk near Supachalasai Stadium in Bangkok. According to information received at 1.47am by Pathum Wan Police Station, the suspects were described as two men with heavy builds travelling on a motorcycle with no registration plate. Police said the rider was wearing a red shirt and the passenger a white shirt, but the motorcycle’s details were not known. Ph",
+      "tags": [
+        "Bangkok News",
+        "Crime News",
+        "Thailand News",
+        "Hong Kong",
+        "Pathumwan"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,59 @@
 {
   "_schema": "thailand10-buffer-v1",
-  "_note": "内容储备库。时效性内容有效期14天，时效中性内容（餐厅/酒店/寺庙/地标）有效期90天。每期新鲜内容不足10条时调取。",
-  "items": []
+  "_note": "内容储备库。时效性内容有效期14天，时效中性内容（餐厅/酒店/寺庙/地标/生活指南等）有效期90天。每期新鲜内容不足10条时调取。",
+  "items": [
+    {
+      "hash": "a1b2c3d4e5f6",
+      "title": "泰国空军总长赴缅甸拜会敏昂莱：军方空袭平民背景下的争议访问",
+      "section": "thailand",
+      "importance": "P2",
+      "time_sensitive": true,
+      "added_date": "2026-02-28",
+      "expires_date": "2026-03-14",
+      "article": {
+        "title": "泰国空军总长赴缅甸拜会敏昂莱：军方空袭平民背景下的争议访问",
+        "tags": ["#政治动态", "#缅甸"],
+        "body": "泰国空军总司令（Air Chief Marshal）色刚（Seksan Kanta）2月27日赴缅甸首都内比都（Naypyidaw），与缅甸军政府领导人敏昂莱（Min Aung Hlaing）会面。访问时间节点敏感：就在前一天，军政府飞机轰炸若开邦（Rakhine State）蓬那钧（Ponnagyun）镇区一处市场，造成18名平民死亡；两天前，军机在实皆省（Sagaing Region）明谬（Myinmu）镇区执行空袭。泰方并未就军事合法性问题作出说明，访问以定期军事交流为由进行。",
+        "comment": "⚠️ 请注意：在军政府对平民实施致命空袭后两天，泰国军方高层赴缅公开访问，引发人权组织强烈批评。泰国对缅政策一向以经济利益和战略缓冲区思维为主，而非人权导向。",
+        "date": "2026-02-27",
+        "source": "The Thaiger",
+        "url": "https://thethaiger.com/news/national/thai-air-force-chief-meets-myanmar-junta-leader"
+      }
+    },
+    {
+      "hash": "b2c3d4e5f6a1",
+      "title": "BOT调查：77%泰国人应急储蓄不足6个月，86%未作退休规划",
+      "section": "thailand",
+      "importance": "P2",
+      "time_sensitive": true,
+      "added_date": "2026-02-28",
+      "expires_date": "2026-03-14",
+      "article": {
+        "title": "BOT调查：77%泰国人应急储蓄不足6个月，86%未作退休规划",
+        "tags": ["#经济动态", "#民生"],
+        "body": "泰国央行（Bank of Thailand，BOT）2024年年度金融素养报告显示，77.3%的泰国人应急储蓄不足6个月支出；86%以上未制定退休计划或无法坚持执行。总体金融素养（Financial Literacy）高于OECD平均，但深层储蓄行为和长期规划能力严重不足。91.5%的受访者称有储蓄习惯，但多为短期或低额储蓄，缺乏对利息和复利（Compound Interest）的理解。BOT指出，家庭财务脆弱性在泰国低增长经济环境下风险尤高。",
+        "date": "2026-02-27",
+        "source": "Khaosod English",
+        "url": "https://www.khaosodenglish.com/tech/2026/02/27/most-thais-lack-six-month-emergency-savings-bot-says/"
+      }
+    },
+    {
+      "hash": "c3d4e5f6a1b2",
+      "title": "双重定价：外国游客交双倍钱，泰国旅游2025年游客数下滑7.2%",
+      "section": "thailand",
+      "importance": "P2",
+      "time_sensitive": false,
+      "added_date": "2026-02-28",
+      "expires_date": "2026-05-28",
+      "article": {
+        "title": "双重定价（Dual Pricing）：外国游客交双倍钱，泰国旅游业警示",
+        "tags": ["#旅游", "#外国人事务"],
+        "body": "泰国2025年共接待外国游客3290万人次，同比下降7.23%。双重定价（Dual Pricing）——即国家公园、景点、政府设施对外国人收费普遍为泰国人的5至10倍——是外国游客投诉和满意度下滑的重要原因之一。现有泰国法律并未禁止此类差别定价，旅游局也未就此推出系统性解决方案。对常住泰国的外籍人士而言，进入景区需长期支付外国人价格，实质上形成日常生活的隐性税负。",
+        "comment": "🌶️ 辣评：靠差别定价来弥补管理成本，本质上是一种懒政——而且正在付出代价。3290万的游客数对泰国GDP贡献巨大，下滑7%不是小事，双重定价的心理成本比钱本身更伤品牌。",
+        "date": "2026-02-27",
+        "source": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/special-reports/3206548/dual-pricing-as-thailands-tourism-dilemma"
+      }
+    }
+  ]
 }

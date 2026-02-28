@@ -4,8 +4,8 @@
     {
       "id": "coalition",
       "title": "泰国组阁谈判进展",
-      "last_seen": "2026-02-26",
-      "summary": "Bhumjaithai获19席14部，Anutin兼任总理+内政部长；为泰党8席；国防部人选待定。"
+      "last_seen": "2026-02-28",
+      "summary": "EC认证完成，新国会须15天内召集（约3月中旬）；Bhumjaithai\"5-19-8-3\"组阁公式，获15部委；与Pheu Thai谈判中有摩擦，安努廷否认内阁人选争议。预计286-298席稳定多数。"
     },
     {
       "id": "thaksin",
@@ -16,8 +16,8 @@
     {
       "id": "peoples_party",
       "title": "人民党（People's Party）动向",
-      "last_seen": "2026-02-26",
-      "summary": "人民党（PP）在内阁谈判中未获席位，处于反对党地位。选委会已认证396/400选区结果。"
+      "last_seen": "2026-02-28",
+      "summary": "人民党（PP）118席居第二，被排除组阁。发言人帕里特因EC刑事诉讼（涉解码选票二维码）承压，人民党持续反对党地位。"
     }
   ],
   "economic": [
@@ -30,8 +30,8 @@
     {
       "id": "gdp_cpi",
       "title": "泰国GDP/CPI定期数据",
-      "last_seen": null,
-      "summary": ""
+      "last_seen": "2026-02-28",
+      "summary": "2026年GDP预测1.5-2.5%（中值2%），东盟最低档。1月CPI -0.66%，核心通胀0.6%。人力资本危机+人口负增长+家庭债务高企=结构性低增长困境。"
     },
     {
       "id": "us_tariff",
@@ -50,8 +50,8 @@
     {
       "id": "thailand_cloud",
       "title": "泰国云服务/AI算力基建",
-      "last_seen": "2026-02-26",
-      "summary": "泰国成东南亚数据中心争夺核心：Google $1B、AWS $5B、微软Azure、阿里云、豪阳集团$2.2B。BOI批超$3.1B项目。"
+      "last_seen": "2026-02-28",
+      "summary": "泰国吸引5GW数据中心管道，Google/AWS/微软/阿里/华为全数落地。DCT呼吁AI治理框架。GULF数据中心1GW目标，5年1300亿铢投资预算，与Google合作扩大至AI基础设施共研。"
     },
     {
       "id": "thailand_energy",
@@ -78,8 +78,8 @@
     {
       "id": "visa_policy",
       "title": "签证政策变化",
-      "last_seen": "2026-02-26",
-      "summary": "Visa Run时代终结，签证执法全面升级，超年2次免签无合理理由将被拒绝入境，TDAC强制使用。"
+      "last_seen": "2026-02-28",
+      "summary": "官方讨论将落地免签从60天缩至30天（尚未正式决定）；TDAC全面强制使用，数据库自动追踪签证跑行为；2026年起将自动拒绝长期以免签居住的外籍人士。"
     },
     {
       "id": "foreign_property",
@@ -98,8 +98,8 @@
     {
       "id": "bkk_luxury",
       "title": "曼谷超豪华住宅动态",
-      "last_seen": "2026-02-26",
-      "summary": "荣威集团加码海外买家，REIC确认楼市触底，Q4转让量/值环比双升。"
+      "last_seen": "2026-02-28",
+      "summary": "REIC确认楼市触底，Q4供需趋于平衡；CBRE：曼谷豪宅均价年涨最高15%；荣威集团转向外国买家对冲内需；Frasers整合子公司管理层。"
     }
   ]
 }
