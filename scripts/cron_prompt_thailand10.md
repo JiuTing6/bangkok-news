@@ -14,10 +14,11 @@
 - 今天日期即为本期日期
 
 ### 第2步：读取记忆文件
-- `data/history.json`    → 已发布hash，用于去重
+- `data/history.json`    → 已发布条目（含标题），用于语义去重，见下方去重规则
 - `data/tracking.json`   → 持续追踪议题，本期如有进展需标注 🔄
 - `data/rotation.json`   → 长期内容轮播记录
 - `data/buffer.json`     → 内容储备库，本期新鲜内容不足10条时从此处补充
+- `data/editorial_feedback.md` → **主编反馈日志，必读**，将历史教训内化为编辑判断
 
 ### 第3步：抓取新闻原料
 运行 RSS 抓取（过去4天，周四刊；过去4天含周末，周一刊）：
@@ -44,6 +45,28 @@ python3 scripts/fetch_rss.py 4 > data/issues/YYYY-MM-DD-raw.json
 12. `Bangkok city news latest 2026` [EN]
 13. `Bangkok city news crime safety development 2026` [EN]
 （中泰触发式：只在有重磅时搜 `China Thailand investment railway scandal 2026`）
+
+**Brave搜索结果必须写入 raw.json（可事后审查）：**
+每组搜索跑完后，将结果追加到 `data/issues/YYYY-MM-DD-raw.json` 的 `brave_results` 字段下，格式如下：
+```json
+{
+  "fetched_at": "...",
+  "days_back": 4,
+  "total": 37,
+  "items": [...],
+  "brave_results": [
+    {
+      "query": "Thailand politics coalition government 2026",
+      "results": [
+        {"title": "...", "url": "...", "snippet": "..."},
+        ...
+      ]
+    },
+    ...
+  ]
+}
+```
+即：RSS部分写完后，每跑一组Brave搜索，就把该组结果 append 到 `brave_results` 数组（read → modify → write），确保所有原料可追溯。
 
 ### 第4步：编辑选题（核心工作）
 
@@ -82,8 +105,20 @@ python3 scripts/fetch_rss.py 4 > data/issues/YYYY-MM-DD-raw.json
 - 权重上限：不得覆盖编辑对重要性/质量的判断
 - 长期效应：某类话题持续获得高 👍，可适度提高同类话题的搜索优先级
 
-**去重：** 与 `history.json` 中的 hash 比对，已发布的跳过。
-追踪议题有进展时，可更新已有议题，标注 🔄持续追踪。
+**去重（语义判断，不是hash比对）：**
+读取 `history.json` 中所有已发布条目的 `title` 字段，作为有判断力的编辑，理解这些标题覆盖了哪些话题、事件、机构。选题时主动绕开已报道过的相同或高度相似话题，规则如下：
+- **相同事件/机构 + 无实质新进展** → 跳过（例：上期已报荣威集团豪宅，本期没有新动态，不得再选）
+- **相同话题有明确新进展** → 可选，标注 🔄，正文须点明进展内容，不得复述旧料
+- **长期追踪议题**（tracking.json中的）→ 只要有新进展就选，不受去重限制
+- hash比对可作为辅助参考，但不是唯一判断依据，同一事件不同URL仍可能是重复
+
+**内容质量过滤（选题前强制执行）：**
+以下类型直接排除，不进入候选池——这是编辑的基本判断力：
+- **旅游PR / 氛围文**：标题含"芭提雅依然平静""酒吧记得你名字""逃离全球重压""风和日丽"之类 → 无信息量，丢弃
+- **广告/软文**：SEO课程、营销培训、无新闻价值的开发商项目发布会 → 丢弃
+- **重复视角**：同一事件（如中东战争/航班取消）多家媒体重复报道 → 合并为一条，不分开计数
+- **低质量猎奇**：情杀、醉驾、普通刑事案件，无外籍或政策关联 → 通常跳过，除非有更大背景意义
+- **来源可疑**：Bangkok Post Property / 开发商通稿类，疑似公关稿，无独立报道价值 → 审慎，通常跳过
 
 ### 第5步：撰写摘要
 
@@ -143,7 +178,7 @@ python3 scripts/build_html.py data/issues/YYYY-MM-DD.json
 ```
 
 ### 第8步：更新记忆文件
-- 将本期所有新闻的 hash 写入 `data/history.json`
+- 将本期所有新闻写入 `data/history.json`，格式：`{"title": "...", "date": "YYYY-MM-DD", "issue": N}`（title字段是语义去重的核心，必须写入，不得省略）
 - 更新 `data/tracking.json` 中相关追踪议题的 `last_seen` 和 `summary`
 - **buffer 写入：** 本期搜集到但未发布的优质稿件（P1/P2，或时效中性的P3），写入 `data/buffer.json`，格式如下：
   ```json
