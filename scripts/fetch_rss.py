@@ -13,7 +13,8 @@ import hashlib
 import re
 from datetime import datetime, timezone, timedelta
 
-DAYS_BACK = int(sys.argv[1]) if len(sys.argv) > 1 else 4
+DAYS_BACK   = int(sys.argv[1])  if len(sys.argv) > 1 else 4
+OUTPUT_FILE = sys.argv[2]       if len(sys.argv) > 2 else None
 
 RSS_SOURCES = [
     {
@@ -161,12 +162,19 @@ def main():
     # 按日期排序（新→旧）
     all_items.sort(key=lambda x: x["date"], reverse=True)
 
-    print(json.dumps({
+    output = json.dumps({
         "fetched_at": datetime.now(timezone.utc).isoformat(),
         "days_back": DAYS_BACK,
         "total": len(all_items),
         "items": all_items
-    }, ensure_ascii=False, indent=2))
+    }, ensure_ascii=False, indent=2)
+
+    if OUTPUT_FILE:
+        with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+            f.write(output)
+        print(f"[OK] {len(all_items)} items → {OUTPUT_FILE}", file=sys.stderr)
+    else:
+        print(output)
 
 if __name__ == "__main__":
     main()

@@ -24,7 +24,7 @@
 运行 RSS 抓取（过去4天，周四刊；过去4天含周末，周一刊）：
 ```bash
 cd /Users/Ade/.openclaw/workspace/bangkok-news
-python3 scripts/fetch_rss.py 4 > data/issues/YYYY-MM-DD-raw.json
+python3 scripts/fetch_rss.py 4 data/issues/YYYY-MM-DD-raw.json
 ```
 （YYYY-MM-DD 替换为本期日期，永久保留原始素材，用于事后分析抓取量 vs 选取量）
 
