@@ -130,6 +130,12 @@ python3 scripts/fetch_rss.py 4 > data/issues/YYYY-MM-DD-raw.json
 }
 ```
 
+**第6步完成后立即验证 JSON 格式：**
+```bash
+python3 -c "import json; json.load(open('data/issues/YYYY-MM-DD.json')); print('JSON OK')"
+```
+若验证报错，立即修复（最常见问题：body/title/comment 里有未转义的英文双引号），再继续下一步。
+
 ### 第7步：生成 HTML
 ```bash
 cd /Users/Ade/.openclaw/workspace/bangkok-news
@@ -186,3 +192,4 @@ message:
 - 芭提雅房产只收：North Pattaya / Na Kluea / Wong Amat / Phra Tamnak
 - 中泰版块无重磅时直接省略，不强行凑数
 - P3文化旅游内容需覆盖全泰国，不做Sukhumvit本地生活
+- **JSON 字符串转义（重要）：** `title`、`body`、`comment` 等文本字段内，如含英文双引号 `"` 必须转义为 `\"`，或改用中文引号「」/""。未转义的双引号会导致 JSON 破损，整期无法发布。写完 JSON 后建议用 `python3 -c "import json; json.load(open('data/issues/YYYY-MM-DD.json'))"` 验证格式正确。
