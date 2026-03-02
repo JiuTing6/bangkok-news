@@ -1,19 +1,333 @@
 {
-  "fetched_at": "2026-03-02T02:30:38.127990+00:00",
+  "fetched_at": "2026-03-02T07:50:32.207224+00:00",
   "days_back": 4,
-  "total": 37,
+  "total": 39,
   "items": [
     {
-      "id": "dd0e64fa5974",
+      "id": "c96f43dbd272",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "The AI age is a leadership test",
+      "url": "https://www.bangkokpost.com/business/general/3208109/the-ai-age-is-a-leadership-test",
+      "date": "2026-03-02T09:50:00+07:00",
+      "desc": "Across Thailand and the region, companies are investing in AI tools, automation platforms, predictive analytics and generative systems. The headlines focus on capability. The board decks highlight innovation. The strategy slides look impressive.",
+      "tags": []
+    },
+    {
+      "id": "40590d6d1674",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Scam-hit Cambodia tries to woo Hong Kong but travel agencies have doubts",
+      "url": "https://www.bangkokpost.com/business/general/3208104/scamhit-cambodia-tries-to-woo-hong-kong-but-travel-agencies-have-doubts",
+      "date": "2026-03-02T09:23:00+07:00",
+      "desc": "The head of Cambodia's tourism body is looking to build partnerships with Hong Kong travel agencies as part of a drive to get visitors returning to his country, which has been plagued by safety concerns in recent years.",
+      "tags": []
+    },
+    {
+      "id": "af49aef06e46",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Trump vows to avenge first US deaths as Iran war intensifies",
+      "url": "https://www.bangkokpost.com/world/3208060/trump-vows-to-avenge-first-us-deaths-as-iran-war-intensifies",
+      "date": "2026-03-02T09:01:00+07:00",
+      "desc": "WASHINGTON (UNITED STATES) - President Donald Trump vowed Sunday to avenge the first US deaths in the war he launched to topple Iran's cleric-run state, which fired missiles across the Middle East even as the headquarters of its elite Revolutionary Guards was reduced to rubble.",
+      "tags": []
+    },
+    {
+      "id": "c01c9392be38",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Thousands of flights cancelled as Iran conflict upends global air travel",
+      "url": "https://www.bangkokpost.com/world/3208095/thousands-of-flights-cancelled-as-iran-conflict-upends-global-air-travel",
+      "date": "2026-03-02T08:47:00+07:00",
+      "desc": "DUBAI: Global air travel &zwnj;remained heavily disrupted on Sunday as war in Iran kept major Middle Eastern airports including Dubai, the world's busiest international hub, closed for a second day in one of the sharpest aviation shocks in recent years. Key transit airports, including Dubai and Abu Dhabi in the UAE and Doha in Qatar, were shut or severely restricted as much of the...",
+      "tags": []
+    },
+    {
+      "id": "a39f5028e2ec",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Bangladeshi woman arrested in Phuket Airport with cocaine and fake documents",
+      "url": "https://thethaiger.com/news/phuket/bangladeshi-woman-arrested-in-phuket-airport-with-cocaine-and-fake-document",
+      "date": "2026-03-02T07:34:40+00:00",
+      "desc": "Bangladeshi woman arrested in Phuket Airport with cocaine and fake documents Legacy Police arrested a Bangladeshi woman at Phuket International Airport on Friday, February 27, after she was found with cocaine and counterfeit documents . Officers from Phuket Airport Immigration detained the 26 year old Bangladeshi woman, whose name was not released, at the international departures terminal on Friday as she was preparing to board a flight back to Bangladesh. According to a report posted on the Phuket Times Facebook page, officers found 0.48 grammes of cocaine in her possession. The substance was",
+      "tags": [
+        "Crime News",
+        "Phuket News",
+        "Thailand News",
+        "Drugs",
+        "Phuket"
+      ]
+    },
+    {
+      "id": "e4575df0b22d",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "How the US-Israel war on Iran affects your fuel costs in Thailand",
+      "url": "https://thethaiger.com/thai-life/how-the-us-israel-war-on-iran-affects-your-fuel-costs-in-thailand",
+      "date": "2026-03-02T07:25:28+00:00",
+      "desc": "How the US-Israel war on Iran affects your fuel costs in Thailand Legacy Thailand may face sharp increases in fuel prices as escalating tensions between the US, Israel, and Iran push global oil markets into volatile territory. According to Energy Ministry sources, diesel prices could break the US$100 per barrel mark, and with critical shipping routes under threat, Thai authorities are monitoring stockpiles and supply chains while warning that retail prices remain tied to global market movements. March 4 flagged as a critical &#8216;risk point&#8217; for pump prices Energy officials say domesti",
+      "tags": [
+        "Guides",
+        "Politics News",
+        "Thai Life",
+        "Iran",
+        "Israel"
+      ]
+    },
+    {
+      "id": "56ccb56952ed",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Suvarnabhumi flight cancellations hit 32 amid Israel-Iran unrest",
+      "url": "https://thethaiger.com/news/national/suvarnabhumi-flight-cancellations-hit-32-israel-iran-unrest",
+      "date": "2026-03-02T07:20:50+00:00",
+      "desc": "Suvarnabhumi flight cancellations hit 32 amid Israel-Iran unrest Legacy Suvarnabhumi Airport deployed staff late on February 28 after flight cancellations linked to unrest between Israel and Iran , with airlines arranging additional accommodation for passengers. The airport coordinated closely with airlines to manage the disruption and provide information support at the terminal as cancellations increased over the following hours. Eight airlines were reportedly affected on the night of February 28: EL AL Israel Airlines, Air Arabia, Emirates, Qatar Airways, Etihad Airways, Gulf Air, Arkia Isra",
+      "tags": [
+        "Central Thailand News",
+        "Thailand News",
+        "aviation news",
+        "Flights",
+        "Suvarnabhumi Airport"
+      ]
+    },
+    {
+      "id": "5e284e35d6e3",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "British and French nationals injured after intervening in Pattaya brawl",
+      "url": "https://thethaiger.com/news/pattaya/british-and-french-nationals-injured-after-intervening-in-pattaya-brawl",
+      "date": "2026-03-02T07:11:03+00:00",
+      "desc": "British and French nationals injured after intervening in Pattaya brawl Legacy Two tourists , a Briton and a Frenchman, sustained injuries after intervening in a fight involving nearly 10 foreigners in Pattaya yesterday, March 1. Officers from Mueang Pattaya Police Station were called to Soi Diamond, along Pattaya Sai Song Road, at about 5am and found two injured foreign nationals at the scene. Both men were given first aid before being taken to hospital. The first injured foreigner was identified as 22 year old British national Harry Craig Roberts, who had a long cut to his neck and was repor",
+      "tags": [
+        "Crime News",
+        "Pattaya News",
+        "Thailand News",
+        "altercation",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "94e7f3a254eb",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Bitcoin vs gold: Which asset offers stability in a changing global market?",
+      "url": "https://thethaiger.com/guides/finance/bitcoin-vs-gold-which-asset-offers-stability-in-a-changing-global-market",
+      "date": "2026-03-02T07:00:05+00:00",
+      "desc": "Bitcoin vs gold: Which asset offers stability in a changing global market? Legacy The global economic situation in 2026 is filled with severe volatility. Persistently high inflation is impacting the cost of living for people worldwide. Geopolitical tensions in various regions are creating anxiety for traders. Central banks&#8217; monetary policies are constantly shifting to cope with the unpredictable market conditions. Amidst such crises, traders are actively seeking safe havens to protect their wealth. The assets most frequently compared are gold, a traditional asset trusted globally for mil",
+      "tags": [
+        "Finance",
+        "Sponsored",
+        "Bitcoin",
+        "gold",
+        "gold trading"
+      ]
+    },
+    {
+      "id": "47b863a65043",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Two Ugandan women arrested in Koh Pha Ngan prostitution sting",
+      "url": "https://thethaiger.com/news/national/two-ugandan-women-arrested-koh-pha-ngan-prostitution-sting",
+      "date": "2026-03-02T06:51:45+00:00",
+      "desc": "Two Ugandan women arrested in Koh Pha Ngan prostitution sting Legacy Tourist Police arrested two Ugandan women on Koh Pha Ngan in Surat Thani yesterday, March 1, after an Israeli tourist reported suspected theft linked to an alleged prostitution service. The arrests followed a complaint from an Israeli tourist, who claimed his property had gone missing after using a service offered by a Ugandan woman allegedly involved in prostitution. Photo via MGR Online Investigators then planned an undercover operation, using WhatsApp to arrange a meeting at a rented property. The undercover operation was ",
+      "tags": [
+        "Crime News",
+        "South Thailand News",
+        "Thailand News",
+        "Koh Pha Ngan",
+        "Prostitution"
+      ]
+    },
+    {
+      "id": "4cf1a3fdcce8",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Thai woman marries 2 Austrian men in Buriram",
+      "url": "https://thethaiger.com/news/national/thai-woman-marries-2-austrian-men-in-buriram",
+      "date": "2026-03-02T06:34:29+00:00",
+      "desc": "Thai woman marries 2 Austrian men in Buriram Legacy A wedding of a Thai woman and two Austrian men in Buriram has gone viral online after the ceremony was held on February 28, with the two grooms described as close friends. The bride was identified as 37 year old former singer and songwriter Dujduen “Gig” Kaesaro. The ceremony took place at her home in Salaeng Tone subdistrict, Prakonchai district, Buriram province. The two Austrian men were Roman and Maggie. The wedding was reported to be simple following local traditions. Salaeng Tone Sub-district Municipality Mayor Thianyu Leangdaechanurak ",
+      "tags": [
+        "Thailand News",
+        "Buriram",
+        "Thailand",
+        "Wedding"
+      ]
+    },
+    {
+      "id": "671016cd7b79",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Norwegian retirees lodge complaint over Chon Buri housing project",
+      "url": "https://thethaiger.com/news/national/norwegian-retirees-complaint-chon-buri-housing-project",
+      "date": "2026-03-02T06:22:47+00:00",
+      "desc": "Norwegian retirees lodge complaint over Chon Buri housing project Legacy More than 20 Norwegian residents from a housing project in Chon Buri filed a complaint yesterday, March 1, alleging repeated harassment and violations of personal rights by the project’s new owner. The group, led by 50 year old Pawisara Meksawang, submitted the complaint at the Bang Lamung Damrongtham Centre, seeking assistance after claiming problems have escalated since the change in management. Photo via ข่าวคนชล Residents also submitted a list of affected households and supporting documents, urging relevant agencies t",
+      "tags": [
+        "Eastern Thailand News",
+        "Thailand News",
+        "Chon Buri",
+        "complaints",
+        "Norwegian"
+      ]
+    },
+    {
+      "id": "d7ed4c64e990",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "2 Indian men held for luring 3 victims into prostitution in Pattaya",
+      "url": "https://thethaiger.com/news/pattaya/2-indian-men-held-for-luring-3-victims-into-prostitution-in-pattaya",
+      "date": "2026-03-02T06:22:16+00:00",
+      "desc": "2 Indian men held for luring 3 victims into prostitution in Pattaya Legacy Pattaya police arrested two Indian men for luring three Indian women into prostitution and threatening to blackmail them with nude images. The arrests were made on Saturday, February 28, after a Thai national accompanied one of the Indian victims to Mueang Pattaya Police Station to file a complaint. The victim told officers she was approached by two Indian men, later identified as 25 year old Brahmananda and 32 year old Justice, who persuaded her to travel to Pattaya. The two said they could offer her restaurant work wi",
+      "tags": [
+        "Crime News",
+        "Pattaya News",
+        "Thailand News",
+        "Pattaya",
+        "Prostitution"
+      ]
+    },
+    {
+      "id": "31c0faaad7b6",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "4 Brits arrested in safe robbery at Thai-British couple’s home in Pattaya",
+      "url": "https://thethaiger.com/news/pattaya/4-british-men-arrested-in-safe-robbery-at-thai-british-couples-home-in-pattaya",
+      "date": "2026-03-02T06:04:48+00:00",
+      "desc": "4 Brits arrested in safe robbery at Thai-British couple’s home in Pattaya Legacy Police arrested four British men accused of stealing a safe containing 2 million baht in cash at a house of a Thai-British couple in Pattaya . The robbery was reported to officers at Nong Prue Police Station on February 26 after a break-in at a house in a village in Nong Prue, Bang Lamung, Chon Buri, in the Soi Khao Noi area. The victims were identified as a 32 year old British man named Wesleigh, his 34 year old Thai wife named Jandee, and a British friend. Fortunately, all three were unharmed. Jandee told police",
+      "tags": [
+        "Crime News",
+        "Pattaya News",
+        "Thailand News",
+        "Pattaya",
+        "robbery"
+      ]
+    },
+    {
+      "id": "3d7d7b3b81b0",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Love or lie?",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3206375/love-or-lie",
+      "date": "2026-03-02T05:55:00+07:00",
+      "desc": "According to the Royal Thai Police, there were 5,164 cases of romance scams with damages of over 1.6 billion baht from online crimes reported between 2022 and 2024. To raise awareness of romance scams, COFACT (Collaborative Fact Checking) organised the forum &ldquo;Love Or Lie? Exposing Romance Scams on Valentine's Day&rdquo;.",
+      "tags": []
+    },
+    {
+      "id": "62a93f07d2a2",
+      "source": "Bangkok Post Property",
+      "source_id": "bangkokpost_property",
+      "weight": 5,
+      "title": "AP ventures into new provinces in 2026",
+      "url": "https://www.bangkokpost.com/property/3207825/ap-ventures-into-new-provinces-in-2026",
+      "date": "2026-03-02T05:49:00+07:00",
+      "desc": "SET-listed developer AP Thailand is sharpening its focus on provincial expansion this year, increasing launches outside Greater Bangkok by entering at least five new provinces, despite maintaining a cautious rollout plan.",
+      "tags": []
+    },
+    {
+      "id": "e1f3284d7b1d",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "One-year reprieve for salt tax on snacks",
+      "url": "https://www.bangkokpost.com/business/general/3207895/oneyear-reprieve-for-salt-tax-on-snacks",
+      "date": "2026-03-02T05:41:00+07:00",
+      "desc": "Food manufacturers will be given a one-year adjustment period to reformulate their products to reduce salt content if a sodium tax is introduced, according to the head of the Excise Department.",
+      "tags": []
+    },
+    {
+      "id": "a9d887218e11",
       "source": "Khaosod English",
       "source_id": "khaosod",
       "weight": 4,
-      "title": "Two Indians arrested in Pattaya for forcing women into prostitution",
-      "url": "https://www.khaosodenglish.com/news/2026/03/02/two-indians-arrested-in-pattaya-for-forcing-women-into-prostitution/",
-      "date": "2026-03-02T02:29:22+00:00",
-      "desc": "PATTAYA — 28 February 2026, Two Indian men have been arrested in Pattaya after three Indian women accused them of luring them to Thailand with false job offers and forcing them into prostitution, police said. Pol. Col. Anek Sarathongyu, chief of Pattaya City Police Station , and Pol. Lt. Col. Arut Saphanon, deputy investigation chief, announced the arrest of two Indian men, a 25-year-old and a 32-year-old. The three women told police they were contacted by the suspects via Instagram and offered jobs at a restaurant in Pattaya with high salaries and all travel expenses covered. They arrived in ",
+      "title": "CK Cheong says he never gives wedding envelopes, calls it ‘culture shock’",
+      "url": "https://www.khaosodenglish.com/life/socialmedia/2026/03/02/ck-cheong-says-he-never-gives-wedding-envelopes-calls-it-culture-shock/",
+      "date": "2026-03-02T05:40:22+00:00",
+      "desc": "BANGKOK — The long-debated question of how much to put in a wedding envelope resurfaced this week after CK Cheong, CEO of Fastwork and a well-known online personality, said he has never given one. In a post on 27 February 2026 via his Facebook page, CK Cheong, CPA, Cheong was asked how much he puts in an envelope when attending weddings. His reply was blunt: “I’ve never given one.” He explained that at first he did not give envelopes because he was unaware of the custom, having grown up in the United States where the practice is uncommon. Even after learning about the tradition in Thailand, he",
+      "tags": [
+        "News",
+        "Social Media",
+        "CK Cheong"
+      ]
+    },
+    {
+      "id": "41f203870fd8",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Dorm Blaze Blamed on Phone Left Charging",
+      "url": "https://www.khaosodenglish.com/news/2026/03/02/dorm-blaze-blamed-on-phone-left-charging/",
+      "date": "2026-03-02T05:30:30+00:00",
+      "desc": "LAMPANG — 2 March 2026, A fire broke out at a dormitory in the Nam Thong area in the early hours of Sunday after a tenant left a mobile phone charging on a headboard, causing an explosion that heavily damaged the room. No injuries were reported. At 05:00, the 191 radio centre in Lampang received a report of a fire at a dormitory near the entrance to Triam Udom Suksa Phatthanakan Khelang Nakhon School in Nam Thong, Bo Haeo subdistrict, Mueang Lampang district. Firefighters from the Lampang City Municipality, the Bo Haeo Subdistrict Municipality and the Sawang Nakhon Lampang rescue unit were dis",
       "tags": [
         "News"
+      ]
+    },
+    {
+      "id": "0b4d72a43dd1",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Back to the drawing board",
+      "url": "https://www.bangkokpost.com/business/general/3207950/back-to-the-drawing-board",
+      "date": "2026-03-02T05:25:00+07:00",
+      "desc": "A new wave of uncertainty is sweeping through global trade as US President Donald Trump has announced a 10% global tariff, with a potential increase to 15%.",
+      "tags": []
+    },
+    {
+      "id": "48330fc99617",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Uzbek woman hurt as skirt snags bike chain",
+      "url": "https://www.khaosodenglish.com/news/2026/03/02/uzbek-woman-hurt-as-skirt-snags-bike-chain/",
+      "date": "2026-03-02T04:32:02+00:00",
+      "desc": "PATTAYA — 2 March 2026, A 52-year-old Uzbek woman was injured shortly after midnight when her long skirt got caught in a motorcycle chain, pulling her from the vehicle in the Thai resort city of Pattaya, rescue officials said. The Sawang Boriboon Thammasathan Rescue Centre in Pattaya said it received a report of an accident at 00:10 at the entrance to Soi 13/4 off Pattaya Second Road in Bang Lamung district, Chonburi province. Rescue workers were dispatched to the scene. The injured woman was identified as Miss Subkhana Dauletalievna, a 52-year-old Uzbek national. She suffered abrasions to her",
+      "tags": [
+        "News"
+      ]
+    },
+    {
+      "id": "8ccfccd2c6dd",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Sisaket man shoots girlfriend dead, attempts suicide",
+      "url": "https://www.khaosodenglish.com/news/2026/03/02/sisaket-man-shoots-girlfriend-dead-attempts-suicide/",
+      "date": "2026-03-02T03:37:15+00:00",
+      "desc": "SISAKET — 1 March 2026, A 33-year-old dump truck owner allegedly shot his girlfriend dead inside their home in Phrai Bueng district before turning the gun on himself, leaving their two-year-old son without his mother. At 20:00, Pol. Lt. Col. Narong Piyaphan, deputy investigation chief at Phrai Bueng Police Station, was notified of a fatal shooting at a single-storey house in Moo 5, Phrai Bueng subdistrict. Rescue workers and investigators were dispatched to the scene. The shooting occurred in a kitchen extension at the rear of the concrete house. Officers found one woman dead and one man serio",
+      "tags": [
+        "Crime",
+        "News"
+      ]
+    },
+    {
+      "id": "b3b368e0c1a4",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Two Ugandan arrested in Koh Phangan vice raid",
+      "url": "https://www.khaosodenglish.com/news/2026/03/02/two-ugandan-arrested-in-koh-phangan-vice-raid/",
+      "date": "2026-03-02T03:01:02+00:00",
+      "desc": "KOH PHANGAN — 1 March 2026, Thai tourist police have arrested two Ugandan women on the resort island of Koh Phangan on suspicion of running a prostitution operation via WhatsApp, earning about 500,000 baht a month and sending the money home, authorities said. Investigators led by Lt. Col. Winij Boonchit searched a rented house in Moo 2, Koh Phangan subdistrict, Surat Thani province, after receiving a tip-off from an Israeli tourist. The informant alleged that a group of foreign women were offering sexual services and suspected thefts from clients. Officers arranged a sting operation through Wh",
+      "tags": [
+        "News",
+        "Koh Phangan",
+        "Uganda"
       ]
     },
     {
@@ -185,232 +499,10 @@
       "tags": []
     },
     {
-      "id": "bf29f6527e14",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Thailand has a two-month oil reserve, says Energy Ministry",
-      "url": "https://www.bangkokpost.com/thailand/general/3207510/thailand-has-a-twomonth-oil-reserve-says-energy-ministry",
-      "date": "2026-03-01T13:03:00+07:00",
-      "desc": "The Ministry of Energy said on Sunday that Thailand has a two-month oil reserve and it will search out alternative sources to ensure energy security if the Iran war escalates to other countries in the Mideast.",
-      "tags": []
-    },
-    {
-      "id": "4f17c19e13cb",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "PM orders evacuation flights for Thais in Mideast",
-      "url": "https://www.bangkokpost.com/thailand/general/3207495/pm-orders-evacuation-flights-for-thais-in-mideast",
-      "date": "2026-03-01T11:43:00+07:00",
-      "desc": "Prime Minister Anutin Charnvirakul has ordered an urgent, round-the-clock operation to evacuate Thais from the war-torn Middle East, with the priority to bring Thais home from Iran, amid fears the conflict could widen.",
-      "tags": []
-    },
-    {
-      "id": "178b677d2cd6",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Assistance for travellers on flights affected by Middle East war",
-      "url": "https://www.bangkokpost.com/thailand/general/3207448/assistance-for-travellers-on-flights-affected-by-middle-east-war",
-      "date": "2026-03-01T08:08:00+07:00",
-      "desc": "The Civil Aviation Authority of Thailand has given advice on assistance for air passengers whose flights are affected by airspace closures caused by the Iran war.&nbsp;",
-      "tags": []
-    },
-    {
-      "id": "c398e078d338",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "US, Israel defend strikes at UN as Iran alleges 'war crime'",
-      "url": "https://www.bangkokpost.com/world/3207439/us-israel-defend-strikes-at-un-as-iran-alleges-war-crime",
-      "date": "2026-03-01T07:45:00+07:00",
-      "desc": "UNITED NATIONS (UNITED STATES) - The United States and Israel on Saturday defended their attacks on Iran, which called resulting civilian deaths a \"war crime\" during an emergency meeting of the UN Security Council.",
-      "tags": []
-    },
-    {
-      "id": "44e7d6522bf6",
-      "source": "Khaosod English",
-      "source_id": "khaosod",
-      "weight": 4,
-      "title": "Security has been tightened in Pai for Israeli tourists and the Chabad House",
-      "url": "https://www.khaosodenglish.com/news/2026/03/01/security-has-been-tightened-in-pai-for-israeli-tourists-and-the-chabad-house/",
-      "date": "2026-03-01T07:39:49+00:00",
-      "desc": "MAE HONG SON — Security authorities have stepped up protection for Israeli tourists and the Chabad House in Pai district following escalating fighting between Israel, backed by the United States, and Iran. On 1 March, Col. Phumirat Dusadee, director of the Internal Security Operations Command (ISOC) Mae Hong Son, said the conflict intensified after Israel and the U.S. launched missile strikes on Iran on the morning of 28 February (local time), raising concerns the violence could spread across the Middle East. He said northern Thailand hosts sites considered symbolic interests of Israel and the",
-      "tags": [
-        "News",
-        "Israel",
-        "Pai"
-      ]
-    },
-    {
-      "id": "8d6e678bd2a7",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Khamenei killed as US and Israel strike Iran in widening war",
-      "url": "https://www.bangkokpost.com/world/3207430/khamenei-killed-as-us-and-israel-strike-iran-in-widening-war",
-      "date": "2026-03-01T07:02:00+07:00",
-      "desc": "President Donald Trump said Iran&rsquo;s supreme leader was killed in US-Israeli airstrikes, raising the stakes in a conflict that&rsquo;s spiraling across the oil-rich Middle East and disrupting traffic around the Hormuz shipping strait.",
-      "tags": []
-    },
-    {
-      "id": "6890bf0f207b",
-      "source": "Khaosod English",
-      "source_id": "khaosod",
-      "weight": 4,
-      "title": "Gold rush hits Loei as Mekong villagers pan for treasure amid record prices",
-      "url": "https://www.khaosodenglish.com/news/2026/03/01/gold-rush-hits-loei-as-mekong-villagers-pan-for-treasure-amid-record-prices/",
-      "date": "2026-03-01T06:50:56+00:00",
-      "desc": "LOEI — A gold rush has swept along the Mekong River in Pak Chom district after gold prices surged to a record 78,400 baht per baht-weight, prompting villagers to flock to newly exposed sandbanks in search of the precious metal. Over the weekend, more than 150 panning spots were set up along a 10- to 20-metre stretch of riverbank in tambon Pak Chom, including Ban Sri Phuthorn and Ban Hat Bia. With the Mekong’s water level dropping significantly, wide sandbars have emerged, allowing residents to access sediment long buried beneath the river. Samruay Daengphasom, a villager from Ban Sri Phuthorn,",
-      "tags": [
-        "News",
-        "gold",
-        "Loei"
-      ]
-    },
-    {
-      "id": "25efaba93c2c",
-      "source": "Khaosod English",
-      "source_id": "khaosod",
-      "weight": 4,
-      "title": "Thai woman marries two Austrian men in one ceremony",
-      "url": "https://www.khaosodenglish.com/life/2026/03/01/thai-woman-marries-two-austrian-men-in-one-ceremony/",
-      "date": "2026-03-01T06:18:35+00:00",
-      "desc": "BURIRAM — A 37-year-old Thai woman has sparked widespread attention after marrying two Austrian men in a single ceremony in Prakhon Chai district. Dujduan Ketsaro, also known as Gig, a former independent singer-songwriter, wed Roman, a retired Austrian police officer, and Macky, who is currently serving in the Austrian police force. The two grooms are close friends who both fell in love with the same woman and agreed to build a life together as a trio. The wedding, held on 28 February, was arranged in a simple local-style ceremony attended by relatives, neighbors and close friends. Despite its",
-      "tags": [
-        "Lifestyle",
-        "News",
-        "wedding"
-      ]
-    },
-    {
-      "id": "e226298e17fb",
-      "source": "Khaosod English",
-      "source_id": "khaosod",
-      "weight": 4,
-      "title": "Army says Laos fuel exports under tight watch, no leak to Cambodia",
-      "url": "https://www.khaosodenglish.com/news/2026/03/01/army-says-laos-fuel-exports-under-tight-watch-no-leak-to-cambodia/",
-      "date": "2026-03-01T06:00:51+00:00",
-      "desc": "BANGKOK — The Royal Thai Army has eased restrictions on fuel exports to Laos while maintaining strict control measures to prevent smuggling to Cambodia, an army spokesperson said on 28 February. Maj. Gen. Winthai Suvaree said exports had been suspended since 14 December for security reasons after concerns that fuel was being diverted to Cambodia. He stressed that border security remains a priority, alongside consideration of economic impacts and bilateral relations. The 2nd Army Region has introduced relaxed measures coupled with tighter oversight to reduce impacts on Lao citizens and business",
-      "tags": [
-        "News",
-        "Cambodia",
-        "fuel",
-        "Laos"
-      ]
-    },
-    {
-      "id": "547d2dea8e7f",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Mideast airspace closures bring flight chaos",
-      "url": "https://www.bangkokpost.com/world/3207090/mideast-airspace-closures-bring-flight-chaos",
-      "date": "2026-02-28T18:31:00+07:00",
-      "desc": "Countries in the Persian Gulf closed their airspace on Saturday after Iran targeted US bases across the peninsula in retaliation for strikes on Tehran earlier in the day.",
-      "tags": []
-    },
-    {
-      "id": "bb9edd232dd2",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "US begins ‘major combat operations’ in Iran",
-      "url": "https://www.bangkokpost.com/world/3207030/us-begins-major-combat-operations-in-iran",
-      "date": "2026-02-28T15:10:00+07:00",
-      "desc": "The United States and Israel attacked Iran on Saturday, US and Israeli officials said, following weeks of threats by President Donald Trump to launch a major assault.",
-      "tags": []
-    },
-    {
-      "id": "ec45db8f04d2",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
-      "title": "Jealous Thai man fatally shoots boyfriend in car near Ubon Ratchathani dam",
-      "url": "https://thethaiger.com/news/national/jealous-thai-man-fatally-shoots-boyfriend-in-car-near-ubon-ratchathani-dam",
-      "date": "2026-02-27T10:06:14+00:00",
-      "desc": "Jealous Thai man fatally shoots boyfriend in car near Ubon Ratchathani dam Legacy A jealous Thai man in Ubon Ratchathani fatally shot his boyfriend in a car last night, February 26, and later drove the victim to a hospital where he was declared dead shortly after arrival. The suspect, 32 year old Warayuth Tararom, drove his boyfriend, 44 year old Surapong Locharoenrat, to Det Udom Royal Crown Prince Hospital. Surapong was shot on the right side of the head, with the bullet passing through to the left. The medical team was unable to save his life. Officers from Det Udom Police Station were call",
-      "tags": [
-        "Crime News",
-        "Thailand News",
-        "jealousy",
-        "Murder",
-        "Thailand"
-      ]
-    },
-    {
-      "id": "bbe63818f082",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
-      "title": "Thai air force chief meets Myanmar junta leader in Naypyitaw",
-      "url": "https://thethaiger.com/news/national/thai-air-force-chief-meets-myanmar-junta-leader",
-      "date": "2026-02-27T09:57:18+00:00",
-      "desc": "Thai air force chief meets Myanmar junta leader in Naypyitaw Legacy Thailand’s Air Force Chief , Air Chief Marshal Seksan Kanta, travelled to Naypyitaw yesterday, February 27, to meet Myanmar’s junta leader Min Aung Hlaing, according to reports from the Thai military. The trip followed a series of deadly air attacks reported in Myanmar. One day earlier, a junta aircraft bombed a market in Ponnagyun Township, Rakhine State, an area under the control of the Arakan Army, killing 18 civilians, most of them women and children. Two days before that, airstrikes on Myinmu Township in Sagaing Region re",
-      "tags": [
-        "Thailand News",
-        "Myanmar",
-        "Myanmar junta",
-        "royal thai air force"
-      ]
-    },
-    {
-      "id": "6495fab41616",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
-      "title": "Ancient skeletons found near bronze drums site in Phetchaburi",
-      "url": "https://thethaiger.com/news/national/ancient-skeletons-found-near-bronze-drums-site-in-phetchaburi",
-      "date": "2026-02-27T09:32:57+00:00",
-      "desc": "Ancient skeletons found near bronze drums site in Phetchaburi Legacy Archaeologists at a Phetchaburi bronze drum excavation site said on February 26 that they had uncovered ancient skeletons near bronze drums , dated to about 1,500 to 2,000 years ago , prompting closer study of what may be a burial site. The excavation site, a rice field area of Don Phlap village, Samo Phlue subdistrict, Ban Lat district, was inspected at a pit where the drums, known in Thai as klong mohorathuek , are being recovered. Photo via Khaosod The operation involves the Fine Arts Department, led by the Office of Fine ",
-      "tags": [
-        "Central Thailand News",
-        "Thailand News",
-        "ancient artifacts",
-        "Phetchaburi",
-        "skeleton found"
-      ]
-    },
-    {
-      "id": "ef042053b048",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
-      "title": "South Korea visa-free trial launched for Indonesian group tourists",
-      "url": "https://thethaiger.com/news/world/south-korea-visa-free-trial-launched-for-indonesian-group-tourists",
-      "date": "2026-02-27T09:27:09+00:00",
-      "desc": "South Korea visa-free trial launched for Indonesian group tourists Legacy South Korea launched a visa-free trial scheme for Indonesian tourists travelling in organised groups, as part of its broader effort to attract 30 million foreign visitors annually. The South Korean government unveiled a new campaign titled “Visit Korea Year” during the 11th National Tourism Strategy Meeting, held under the theme “K-Tourism, Embracing the World: A Great Transformation of Inbound Tourism, A Great Leap in Regional Tourism.” The initiative is designed to strengthen the country’s tourism industry nationwide, ",
-      "tags": [
-        "Visa Information",
-        "World News",
-        "Indonesia",
-        "South Korea",
-        "Visa"
-      ]
-    },
-    {
-      "id": "dadb93e544bb",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
-      "title": "Blind Myanmar refugee found dead after police drop-off in New York",
-      "url": "https://thethaiger.com/news/national/blind-myanmar-refugee-found-dead-after-police-drop-off-in-new-york",
-      "date": "2026-02-27T08:29:28+00:00",
-      "desc": "Blind Myanmar refugee found dead after police drop-off in New York Legacy A blind Myanmar refugee and father of two was found dead on February 24 in Buffalo, New York, after being released from custody and later left at a Tim Hortons coffee shop, prompting calls for a full investigation in the United States. The deceased was identified as Nurul Amin Shah Alam, who had fled Myanmar and entered the United States on December 24, 2024. The case centres on what happened in the days leading up to his death. On February 19, Shah Alam was released from the Erie County Holding Centre after bail was pos",
-      "tags": [
-        "Thailand News",
-        "World News",
-        "New York",
-        "refugee",
-        "US"
-      ]
-    },
-    {
       "id": "852f565aa938",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
+      "source": "The Thaiger Bangkok",
+      "source_id": "thaiger_bangkok",
+      "weight": 5,
       "title": "Russian man rewards Bangkok taxi rider for locating missing sister",
       "url": "https://thethaiger.com/news/bangkok/russian-man-rewards-bangkok-taxi-rider-for-locating-missing-sister",
       "date": "2026-02-27T08:13:42+00:00",
@@ -424,44 +516,10 @@
       ]
     },
     {
-      "id": "a9c765f2c350",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
-      "title": "15 best SEO training courses in 2026",
-      "url": "https://thethaiger.com/guides/digital-marketing/seo/best-seo-training-courses",
-      "date": "2026-02-27T07:40:53+00:00",
-      "desc": "15 best SEO training courses in 2026 Legacy Finding the best seo training in 2026 can be overwhelming. As search evolves with AI, automation, and data-driven marketing, professionals are looking for programs that go beyond theory and deliver real-world SEO skills. This guide reviews the best seo courses options for marketers, executives, and content teams who want to stay competitive in modern search. What is SEO? SEO, or Search Engine Optimisation , is the practice of improving a website so it ranks higher on search engines like Google. The goal is to help the right audience find your busines",
-      "tags": [
-        "Digital Marketing",
-        "Search Engine Optimisation (SEO)",
-        "Sponsored",
-        "digital marketing",
-        "Marketing"
-      ]
-    },
-    {
-      "id": "f19f01463f6b",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
-      "title": "Stolen iPhone led to arrest of transgender suspect in Pattaya",
-      "url": "https://thethaiger.com/news/national/stolen-iphone-led-to-arrest-of-transgender-suspect-in-pattaya",
-      "date": "2026-02-27T07:10:28+00:00",
-      "desc": "Stolen iPhone led to arrest of transgender suspect in Pattaya Legacy Tourist police in Pattaya yesterday, February 26, arrested a suspect in a Chinese tourist robbery case , who said he was threatened and had cash and a mobile phone stolen earlier this month. The case dates back to around midnight on February 1, when the Chinese tourist ran naked to hotel staff at a hotel in Pattaya to ask for help and request police assistance. He said that two transgender women had allegedly threatened him inside his room and fled with 10,000 baht in cash and an iPhone 15 Pro Max. According to the victim, he",
-      "tags": [
-        "Pattaya News",
-        "Thailand News",
-        "Chinese tourists",
-        "Pattaya",
-        "transgender"
-      ]
-    },
-    {
       "id": "17dc8e42ac38",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
+      "source": "The Thaiger Bangkok",
+      "source_id": "thaiger_bangkok",
+      "weight": 5,
       "title": "Bangkok gold shop robber’s DNA matches 2013 suspect",
       "url": "https://thethaiger.com/news/bangkok/bangkok-gold-shop-robbers-dna-matches-2013-suspect",
       "date": "2026-02-27T07:05:53+00:00",
@@ -475,23 +533,6 @@
       ]
     },
     {
-      "id": "8446e976ce37",
-      "source": "The Thaiger",
-      "source_id": "thaiger",
-      "weight": 4,
-      "title": "Drug suspect’s revenge plan cut short, shot dead by Nan police",
-      "url": "https://thethaiger.com/news/national/drug-suspect-killed-in-gunfight-with-police-on-nan-road",
-      "date": "2026-02-27T06:18:08+00:00",
-      "desc": "Drug suspect&#8217;s revenge plan cut short, shot dead by Nan police Legacy Police in Nan fatally shot a drug suspect during a gun exchange on a rural road in Tha Wang Pha district at about 5.30pm on Wednesday, February 25, after he threatened to kill a police officer who previously arrested him. The incident was reported on the Na Noon–Sop Khun Rural Highway No. 4022. The deceased was identified as 36 year old Phattarakorn. His 63 year old friend, Fong, was also injured. Channel 7 reported that Phattarakorn and Fong had been drinking alcohol together before launching a search for a police off",
-      "tags": [
-        "Crime News",
-        "Northern Thailand News",
-        "Thailand News",
-        "Drugs",
-        "Thai Police"
-      ]
-    },
-    {
       "id": "c37caf28edd5",
       "source": "Bangkok Post Property",
       "source_id": "bangkokpost_property",
@@ -501,23 +542,857 @@
       "date": "2026-02-27T05:29:00+07:00",
       "desc": "SET-listed property developer Sansiri has launched a 1-billion-baht strategic investment programme over three years in a bid to support small and medium-sized enterprises (SMEs) as part of the company's strategy to increase revenue from non-core businesses.",
       "tags": []
+    }
+  ],
+  "brave_results": [
+    {
+      "query": "Thailand politics coalition government 2026",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "2026 Thai general election - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Thai_general_election",
+          "snippet": "Bhumjaithai was seen as benefiting from nationalist sentiments after Thailand&#x27;s recent clash with Cambodia. While the other two major parties performed respectably, they ultimately fragmented the centrist and progressive vote. The previous election in 2023 saw a shift towards progressive parties, with the Move Forward Party winning 151 seats followed by the Thaksin Shinawatra-aligned Pheu Thai Party. The governing coalition of conservative parties only won 15% of the seats, with the Bhumjaithai Party being the only one to increase their numbers.",
+          "age": "2 days ago"
+        },
+        {
+          "title": "Thailand’s Conservatives Consolidate Power After 2026 Snap Polls",
+          "url": "https://thediplomat.com/2026/02/thailands-conservatives-consolidate-power-after-2026-snap-polls/",
+          "snippet": "... The conservative Bhumjaithai Party led by Anutin Charnvirakul, Thailand’s prime minister, secured victory in the country’s general election on February 8, 2026, winning 193 of 500 seats in the House of Representatives.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Thailand’s conservatives consolidate power after 2026 snap polls - 360",
+          "url": "https://360info.org/thailands-conservatives-consolidate-power-after-2026-snap-polls/",
+          "snippet": "On 13 February 2026, the party sealed a coalition deal with Pheu Thai, which is backed by former premier Thaksin Shinawatra. The alliance brought together political actors with different constituencies but overlapping interests in stabilising ...",
+          "age": "5 days ago"
+        },
+        {
+          "title": "List of political parties in Thailand - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_political_parties_in_Thailand",
+          "snippet": "This list of political parties in Thailand names current and disbanded Thai political parties. ... New Aspiration Party, majority merged with the Thai Rak Thai Party in 2001, minority continue to be used ... Khana Ratsadon or People&#x27;s Party (existed from 1927 to the 1940s) – first political ...",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Thailand edges closer to new government as poll body certifies most election results | Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/thailand-edges-closer-new-government-poll-body-certifies-most-election-results-2026-02-25/",
+          "snippet": "Bhumjaithai has said it would be joined by third-place Pheu Thai in a coalition government alongside several smaller parties, an alliance that would hold an estimated 286 seats.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Government of Thailand - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Government_of_Thailand",
+          "snippet": "The government is led by the prime minister (Anutin Charnvirakul since 7 September 2025) who selects all the other ministers. The country has had a minority coalition government since 2025 led by Bhumjaithai.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Bhumjaithai to meet 192 MPs, set government coalition and cabinet choices",
+          "url": "https://www.nationthailand.com/news/politics/40062991",
+          "snippet": "February 18, 2026 · Varawut Silpa-archa, from the larger faction of the party, is expected to be appointed to a ministerial position once negotiations with coalition parties conclude.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Political outsiders are up against Thailand's powerful patronage system, defeated MP tells BBC",
+          "url": "https://www.bbc.com/news/articles/cg4gxng2y4xo",
+          "snippet": "By the time of the 2026 campaign, the Pitutechas had learned from their setback in the previous election. In Districts 3 and 4, they ran younger members of the family, better educated and with less of a godfather image than the older generation. In District 3 they ran under the Democrat party, traditionally their preferred political partner, but in District 4, 34-year-old Chatchai Pitutecha ran under Prime Minister Anutin Charvirakul&#x27;s Bhumjaithai party, known for its deep pockets and its skill in winning &quot;Baan Yai&quot; over to his side.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Establishment Forces Prevail as Thailand’s Progressives Fall Short — New York Southeast Asia Network",
+          "url": "https://www.nysean.org/blog/establishment-forces-prevail-as-thailands-progressives-fall-short",
+          "snippet": "The results signal popular support for Thailand’s military and royalist establishment after a year defined by sluggish economic growth and the eruption of a conflict with Cambodia that displaced nearly half a million people on either side of the border. Amidst uncertainty at home and a changing order abroad, Thailand’s voters opted for the conservative status quo.",
+          "age": "2 days ago"
+        },
+        {
+          "title": "Pheu Thai Party - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pheu_Thai_Party",
+          "snippet": "Prime Minister Abhisit Vejjajiva ... prime minister. Despite its absolute majority, the winning party announced that it would form a coalition government with five minor parties....",
+          "age": "1 week ago"
+        }
+      ]
     },
     {
-      "id": "f0e7d5f1db7d",
-      "source": "The Thaiger Bangkok",
-      "source_id": "thaiger_bangkok",
-      "weight": 5,
-      "title": "Bangkok rolls out adaptive CCTV-AI traffic lights to tackle traffic",
-      "url": "https://thethaiger.com/news/national/bangkok-rolls-out-adaptive-cctv-ai-traffic-lights-to-tackle-traffic",
-      "date": "2026-02-26T04:52:13+00:00",
-      "desc": "Bangkok rolls out adaptive CCTV-AI traffic lights to tackle traffic Legacy Bangkok Metropolitan Administration (BMA) has begun upgrading traffic lights at dozens of intersections to an adaptive system that uses CCTV and AI to adjust signals in real time, with plans to expand the rollout further this year. According to information posted on February 20 on the BMA &#8216;s Facebook page, Bangkok is moving away from traditional fixed-timing traffic signals and towards an automated adaptive control system that adjusts signals to real traffic volumes The aim is to make journeys more convenient and ",
-      "tags": [
-        "Bangkok News",
-        "Technology News",
-        "Thailand News",
-        "Bangkok Metropolitan Administration",
-        "BMA"
+      "query": "Thailand People's Party OR Pheu Thai OR Bhumjaithai 2026",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "2026 Thai general election - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_Thai_general_election",
+          "snippet": "The election resulted in the Bhumjaithai Party winning the most in the House of Representatives with 193 seats. The People&#x27;s Party, led by Natthaphong Ruengpanyawut, followed in second place with 118 seats. Pheu Thai, led by Yodchanan Wongsawat, came in third with 74 seats.",
+          "age": "2 days ago"
+        },
+        {
+          "title": "Thailand’s Conservatives Consolidate Power After 2026 Snap Polls",
+          "url": "https://thediplomat.com/2026/02/thailands-conservatives-consolidate-power-after-2026-snap-polls/",
+          "snippet": "The conservative Bhumjaithai Party ... House of Representatives. It was followed by the People’s Party with 118 seats, Pheu Thai with 74, and the Democrat Party with 22....",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Thai Election Body Certifies Most Parliamentary Seats, Affirming Bhumjaithai Victory – The Diplomat",
+          "url": "https://thediplomat.com/2026/02/thai-election-body-certifies-most-parliamentary-seats-affirming-bhumjaithai-victory/",
+          "snippet": "The Election Commission announced ... of Representatives. Of these, Bhumjaithai won 170 seats, followed by the People’s Party, which won 88 seats, and the Pheu Thai Party, which won 58....",
+          "age": "4 days ago"
+        },
+        {
+          "title": "2026 in Thailand - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2026_in_Thailand",
+          "snippet": "2026 Thai general election: Prime minister Anutin&#x27;s Bhumjaithai Party wins a plurality of at least 194 of 500 seats in the House of Representatives.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Bhumjaithai Party - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bhumjaithai_Party",
+          "snippet": "&#x27;Thai Proud Party&#x27;) is a major conservative populist political party in Thailand. It was founded on 5 November 2008, in anticipation of the 2 December 2008 Constitutional Court ruling that dissolved ...",
+          "age": "1 week ago"
+        },
+        {
+          "title": "People's Party (Thailand) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/People's_Party_(Thailand,_2024)",
+          "snippet": "Ultimately a deal was reached with the Bhumjaithai Party, leading to its candidate Anutin Charnvirakul becoming prime minister. The People&#x27;s Party has stated that their political ideology is liberty, equality, fraternity.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Political outsiders are up against Thailand's powerful patronage system, defeated MP tells BBC",
+          "url": "https://www.bbc.com/news/articles/cg4gxng2y4xo",
+          "snippet": "By the time of the 2026 campaign, the Pitutechas had learned from their setback in the previous election. In Districts 3 and 4, they ran younger members of the family, better educated and with less of a godfather image than the older generation.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Pheu Thai Party - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pheu_Thai_Party",
+          "snippet": "On 7 August, they formed a new coalition to include Bhumjaithai, which won the third largest amount of MPs in the election and on 10 August, the Chart Pattana Kla party joined the coalition with 2 MPs.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Thailand’s “Conservative” Turn? | FULCRUM",
+          "url": "https://fulcrum.sg/thailands-conservative-turn/",
+          "snippet": "Thailand’s Bhumjaithai Party (BJT) became the first openly pro-establishment, pro-conservative party in recent memory to win the most seats in an election held alongside a constitutional referendum on 8 February 2026.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Thailand election body confirms win by PM Anutin's party - CNA",
+          "url": "https://www.channelnewsasia.com/asia/thailand-election-commission-confirm-anutin-victory-5952656",
+          "snippet": "Thailand&#x27;s caretaker Prime Minister and Bhumjaithai Party leader Anutin Charnvirakul gestures as he walks to attend a Cabinet meeting at the Government House, after the party won the general election, in Bangkok, Thailand, on Feb 10, 2026.",
+          "age": "4 days ago"
+        }
+      ]
+    },
+    {
+      "query": "ข่าวการเมืองไทย รัฐบาล ล่าสุด",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "ปิดตำนาน30ปี? สุริยะ-สมศักดิ์ บนทางแพร่ง \"รัฐบาลอนุทิน2\"ยุคคนรุ่นใหม่",
+          "url": "https://www.posttoday.com/politics/domestic/738643",
+          "snippet": "จับตาสองรัฐมนตรีตลอดกาล สุริยะ-สมศักดิ์ เผชิญด่านหินโผ ครม.อนุทิน 2 ท่ามกลางกระแสโล๊ะหน้าเก่าชูคนรุ่นใหม่ พร้อมบรรทัดฐานจริยธรรมสุดเข้มที่อาจปิดฉากตำนาน...",
+          "age": "2 days ago"
+        },
+        {
+          "title": "อัปเดต ข่าววันนี้ ข่าวด่วน ราคาทอง ราคาน้ำมัน ข่าวล่าสุด",
+          "url": "https://news.trueid.net/",
+          "snippet": "&quot;อนุทิน&quot; สั่ง “เอกนิติ” เตรียมพร้อมมาตรการเศรษฐกิจรับมือผลกระทบสูรบตะวันออกกลาง เชื่อกระทบค่าครองชีพ ราคาพลังงาน จ่อถกเอกชนลดผลกระทบในประเทศนายอนุทิน ชาญวีรกูล นายกรัฐมนตรี และรัฐมนตรีว่าการกระทรวงมหาดไทย กล่",
+          "age": "8 hours ago"
+        },
+        {
+          "title": "นายกฯ ยัน รัฐบาลพร้อมทำทุกวิถีทางให้คนไทยปลอดภัย",
+          "url": "https://www.amarintv.com/news/politic/539489",
+          "snippet": "นายกฯ ยัน รัฐบาล พร้อมทำทุกวิถีทางให้คนไทยปลอดภัย เตรียมเครื่องบินรอรับกลับบ้านแล้ว จ่อเรียกถก สมช....",
+          "age": "2 days ago"
+        },
+        {
+          "title": "บทความและข่าว “สถานการณ์การเมืองไทย” ล่าสุด วันนี้ | ไทยรัฐออนไลน์",
+          "url": "https://www.thairath.co.th/tags/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%97%E0%B8%A2",
+          "snippet": "รวมข่าว &quot;สถานการณ์การเมืองไทย&quot; เกาะติดข่าวของ&quot;สถานการณ์การเมืองไทย&quot; ข่าวด่วนของ &quot;สถานการณ์การเมืองไทย&quot; ...",
+          "age": "9 hours ago"
+        },
+        {
+          "title": "อ่านหนังสือพิมพ์ไทยรัฐ ข่าวหนังสือพิมพ์ออนไลน์ ฉบับวันนี้ | Thairath E-Newspaper",
+          "url": "https://www.thairath.co.th/newspaper",
+          "snippet": "ข่าวหน้า 1 หนังสือพิมพ์ไทยรัฐ ข่าวหนังสือพิมพ์วันนี้ ในรูปแบบหนังสือพิมพ์ออนไลน์ ฉบับอิเล็กทรอนิกส์ อ่านง่าย ครบทุกประเด็นร้อน อัปเดตฉบับล่าสุดทุกวัน",
+          "age": "1 day ago"
+        },
+        {
+          "title": "จัดโผ ครม.อนุทิน 2 \"คนรุ่นใหม่-บ้านใหญ่\" ติด 19 เก้าอี้ - ตีกลับ 3 ชื่อเพื่อไทย | Thai PBS News ข่าวไทยพีบีเอส",
+          "url": "https://www.thaipbs.or.th/news/content/502648",
+          "snippet": "จัดโผ &quot;ครม.อนุทิน 2&quot; เซอร์ไพรส์ คนรุ่นใหม่-บ้านใหญ่-มีจิตอาสา-เลือดน้ำเงินแท้ แทรกติดโผ 19 กระทรวง ล้างไพ่โควตาเก้าอี้ 10:1 &quot;ไทยเศรษฐ์&quot; ผงาด 2 ชื่อ ตีกลับ รมต.เพื่อไทย ขอคนรุ่นใหม่แทน...",
+          "age": "4 days ago"
+        },
+        {
+          "title": "เตรียมช่วยคนไทยที่ได้รับผลกระทบในตะวันออกกลาง และจัดตั้งศูนย์ 24 ชั่วโมงรับความช่วยเหลือเร่งด่วน โทร 025728442 > ศูนย์ต่อต้านข่าวปลอม ประเทศไทย",
+          "url": "https://www.antifakenewscenter.com/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5-%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%AA%E0%B8%B2%E0%B8%A3/%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B8%84%E0%B8%99%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%A5%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%97%E0%B8%9A%E0%B9%83%E0%B8%99%E0%B8%95%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%88%E0%B8%B1%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%A8%E0%B8%B9%E0%B8%99%E0%B8%A2%E0%B9%8C-24-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%80%E0%B8%AB%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B9%88%E0%B8%87%E0%B8%94%E0%B9%88%E0%B8%A7%E0%B8%99-%E0%B9%82%E0%B8%97%E0%B8%A3-025728442/",
+          "snippet": "1. กระทรวงฯ ได้ติดต่อสถานเอกอัครราชทูตไทยทุกแห่งในภูมิภาค อย่างต่อเนื่อง เพื่อติดตามและประเมินสถานการณ์ และแจ้งพัฒนาการแก่คนไทยในพื้นที่เสมอมาโดยสถานเอกอัครราชทูต ณ กรุงเทลอาวีฟ และสถานเอกอัครราชทูต ณ กรุงเตห",
+          "age": "20 hours ago"
+        },
+        {
+          "title": "ลุ้นต้น มี.ค.ชี้ขาดส่งศาลวินิจฉัยเลือกตั้ง“โมฆะ-เดินหน้าต่อ”",
+          "url": "https://www.thansettakij.com/politics/652515",
+          "snippet": "คาดว่าจะมีการชี้ขาดในช่วงต้นเดือนมีนาคมนี้ หลังจาก กกต. ส่งคำชี้แจงภายในวันที่ 27 ก.พ.",
+          "age": "2 days ago"
+        },
+        {
+          "title": "โหมโรง ‘ว่าที่รัฐบาลภูมิใจไทย’ ข่าวหึ่ง ‘ตีกลับรุ่นเก๋า-งูเห่า’",
+          "url": "https://www.prachachat.net/politics/news-1971763",
+          "snippet": "ในฐานะพรรคที่ได้เสียงมาเป็นที่ 1 พรรคภูมิใจไทย ซึ่งมี 193 เสียง จับมือกับพรรคเพื่อไทย ที่มี 74 เสียง ได้ 267 เสียง แล้วไปรวมกับพรรคเล็ก จะได้เสียงอยู่ที่",
+          "age": "2 days ago"
+        },
+        {
+          "title": "\"อนุทิน\" ย้ำไทยวางตัวเป็นกลาง จ่อถก สมช.ช่วยคนไทยในตะวันออกกลาง | Thai PBS News ข่าวไทยพีบีเอส",
+          "url": "https://www.thaipbs.or.th/news/content/502795",
+          "snippet": "วันนี้ (1 มี.ค.2569) เวลา 15.20 น. นายอนุทิน ชาญวีรกูล นายกรัฐมนตรี และ รมว.มหาดไทย ให้สัมภาษณ์ถึงสถานการณ์ความไม่ส...",
+          "age": "9 hours ago"
+        }
+      ]
+    },
+    {
+      "query": "Thailand economy GDP inflation central bank 2026",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "Thailand Central Bank Keeps Rate Steady Amid Growth, Low Inflation",
+          "url": "https://www.kaohooninternational.com/economics/577541",
+          "snippet": "On the inflation side, official data showed headline consumer prices declined by 0.66% in January compared with a year earlier, undershooting the anticipated drop of 0.40%. This reading is well below the central bank’s 1% to 3% inflation target.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Thailand faces high Baht volatility from internal and external risks",
+          "url": "https://www.nationthailand.com/blogs/business/economy/40063049",
+          "snippet": "Furthermore, he assessed that the Thai economic structure remains weak, projecting the 2026 GDP at only 1.8%, which is below its potential of 2.5-2.7%. This fragility stems from weak domestic demand, negative inflation, tight financial conditions, ...",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Thai economy seen expanding around 2% in 2026, 2027: BOT",
+          "url": "https://www.ainvest.com/news/thai-economy-expanding-2-2026-2027-bot-2602/",
+          "snippet": "Inflation and Labor MarketHeadline inflation turned negative at -0.66% in January 2026, while core inflation remained stable at 0.6%. Unemployment remains low at 0.76% (Q3 2025), reflecting a tight labor market.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Thailand unexpectedly cuts rates on lower growth outlook - Central Banking",
+          "url": "https://www.centralbanking.com/central-banks/monetary-policy/monetary-policy-decisions/7975241/thailand-unexpectedly-cuts-rates-on-lower-growth-outlook",
+          "snippet": "18 Feb 2026 · Monetary policy ... declines · 13 Feb 2026 · Monetary policy decisions · Inflation expected to fall to within target range by next quarter, central bank governor says ·...",
+          "age": "5 days ago"
+        },
+        {
+          "title": "List of countries by GDP (nominal) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)",
+          "snippet": "Gross domestic product (GDP) is the market value of all final goods and services from a nation in a given year. Countries are sorted by nominal GDP estimates from financial and statistical institutions, which are calculated at market or government official exchange rates.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Thailand’s economy faces a human capital problem | East Asia Forum",
+          "url": "https://eastasiaforum.org/2026/02/24/thailands-economy-faces-a-human-capital-problem/",
+          "snippet": "In 2025, Thailand’s growth rate of real GDP per capita was 2.2 per cent, according to the Bank of Thailand and the Thai Ministry of Finance. Even lower growth is projected for 2026. The problem of low growth is not recent.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Thai central bank chief aims for 2026 growth of 2.7% from policy mix, investments | Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/thai-central-bank-chief-aims-2026-growth-27-policy-mix-investments-2026-02-24/",
+          "snippet": "The central bank had earlier forecast 2026 growth of 1.5% but Vitai said current expectations were an expansion of about 1.9%. Vitai also said the Bank of Thailand plans steps to improve financing conditions for smaller firms, including measures ...",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Thai central bank chief aims for 2026 growth of 2.7% from policy mix, investments By Reuters",
+          "url": "https://www.investing.com/news/economy-news/thai-central-bank-chief-aims-for-2026-growth-of-27-from-policy-mix-investments-4520626",
+          "snippet": "The central bank had earlier forecast 2026 growth of 1.5% but Vitai said current expectations were an expansion of about 1.9%. Vitai also said the Bank of Thailand plans steps to improve financing conditions for smaller firms, including measures ...",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Weekly Global Economic Update | Deloitte Insights",
+          "url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html",
+          "snippet": "This meant that the estimated inflation level for November was artificially low. But it also means that there will likely be lingering effects from this distortion into early 2026.",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Thailand Trade Trends January 2026",
+          "url": "https://www.rsa-tax.com/single-post/thailand-trade-trends-january-2026",
+          "snippet": "In its latest outlook, the International Monetary Fund estimated Thailand’s GDP growth rate to be 1.6 per cent in 2026. The Association of Southeast Asian Nations (ASEAN), a political and economic union of ten member states, has a population ...",
+          "age": "1 week ago"
+        }
+      ]
+    },
+    {
+      "query": "เศรษฐกิจไทย ล่าสุด 2569",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "“กรุงศรี” อัพเป้าจีดีพีปี 69 โต 2% ชู AMATA-KBANK-SCC-AOT-AWC",
+          "url": "https://www.kaohoon.com/news/816181",
+          "snippet": "ล่าสุด Krungsri Research ... ได้ปรับเพิ่มคาดการณ์การเติบโตทางเศรษฐกิจ (GDP) ของไทยปี 2569 ขึ้นเป็น 2.0% จากเดิม 1.8% ...",
+          "age": "3 days ago"
+        },
+        {
+          "title": "เศรษฐกิจไทย ม.ค. 69 รับอานิสงส์ส่งออกขยายตัวสูงสุดในรอบ 4 ปี - The Bangkok Insight",
+          "url": "https://www.thebangkokinsight.com/news/business/1619863/",
+          "snippet": "มูลค่าการส่งออกสินค้ารวมในรูปเงินสกุลดอลลาร์สหรัฐ ในเดือนม.ค. 2569 อยู่ที่ 31,573.1 ล้านดอลลาร์ ...",
+          "age": "4 days ago"
+        },
+        {
+          "title": "ภาวะเศรษฐกิจไทยเดือน ม.ค. ความต้องการซื้อเพิ่ม อุปทานทรงตัว ก่อสร้างหดตัว - The Bangkok Insight",
+          "url": "https://www.thebangkokinsight.com/news/business/1620158/",
+          "snippet": "รายงานภาวะเ... 2569 ภาพรวมขยายตัวจากปีก่อน ทั้งด้านอุปสงค์ในและต่างประเทศ ขณะที่อุ...",
+          "age": "3 days ago"
+        },
+        {
+          "title": "ส.อ.ท. แนะรัฐเร่งทบทวนแผนสำรองน้ำมัน รับมือวิกฤตตะวันออกกลาง",
+          "url": "https://www.kaohoon.com/news/816573",
+          "snippet": "เงินเฟ้อ เศรษฐกิจโลก เศรษฐกิจไทย · 1 มี.ค. 2569 · Share Facebook Twitter Line · Share Facebook Twitter Line · Back to top button · Close · หน้าแรก · Breaking News · ข่าว · ข่าวล่าสุด ·",
+          "age": "1 day ago"
+        },
+        {
+          "title": "“อนุทิน” เรียกประชุม สมช. พรุ่งนี้! รับมือวิกฤตตะวันออกกลาง ยันไทยวางตัวเป็นกลาง",
+          "url": "https://www.kaohoon.com/news/816595",
+          "snippet": "อนุทิน อพยพคนไทย เศรษฐกิจไทย · 1 มี.ค. 2569 · Share Facebook Twitter Line · Share Facebook Twitter Line · Back to top button · Close · หน้าแรก · Breaking News · ข่าว · ข่าวล่าสุด ·",
+          "age": "19 hours ago"
+        },
+        {
+          "title": "วิจัยกรุงศรีหั่นเป้า GDP ไทยปี 2569 เหลือ 2.0% เซ่นพิษภาษีทรัมป์พ่นพิษเต็มปี",
+          "url": "https://www.thansettakij.com/finance/652443",
+          "snippet": "วิจัยกรุงศรีหั่นเป้า GDP ไทยปี 2569 เหลือ 2% รับมือ &#x27;ปีแห่งการประคองตัว&#x27; เซ่นพิษภาษีทรัมป์พ่น...",
+          "age": "4 days ago"
+        },
+        {
+          "title": "กนง.หั่นดอกเบี้ยประคองเศรษฐกิจซึม.!",
+          "url": "https://www.kaohoon.com/column/816013",
+          "snippet": "วันที่ 25 ก.พ. 2569 ... โดยมติเสียงส่วนใหญ่ 4 ต่อ 2 ให้ลดอัตราดอกเบี้ยนโยบายลง 0.25% เหลือ 1.00% ต่อปี ...",
+          "age": "4 days ago"
+        },
+        {
+          "title": "แนวโน้มเศรษฐกิจไทยปี 2569: ท่ามกลางแรงกดดันและความหวัง | ThaiPR.NET",
+          "url": "https://www.thaipr.net/finance/3697607",
+          "snippet": "ปี 2569 กำลังจะเป็นอีกหนึ่งปีที่เศรษฐกิจไทยต้องเผชิญแรงปะทะจากรอบด้าน ทั้งแรงกดดันจากภาวะเศรษฐกิจโลกที่มีแนวโน้มชะลอตัว การดำเนินนโยบายกีดกันทางการค้าของประเทศมหาอำนาจ ตลอดจนความเปราะบางเชิงโครงสร้างภายในปร",
+          "age": "4 days ago"
+        },
+        {
+          "title": "คาดเศรษฐกิจไทย ปี 69 โตแค่ 2% ท่ามกลางมรสุมกดดัน - HoonVision | หุ้นวิชั่น - หุ้น ข่าวหุ้น หุ้นไทยวันนี้ หุ้นวันนี้ หุ้นเด่น วิเคราะห์หุ้น ธุรกิจ การเงิน เศรษฐกิจ การลงทุน ดัชนีราคาหุ้น",
+          "url": "https://www.hoonvision.com/economy-business/%E0%B8%84%E0%B8%B2%E0%B8%94%E0%B9%80%E0%B8%A8%E0%B8%A3%E0%B8%A9%E0%B8%90%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B9%84%E0%B8%97%E0%B8%A2-%E0%B8%9B%E0%B8%B5-69-%E0%B9%82%E0%B8%95%E0%B9%81%E0%B8%84%E0%B9%88-2/",
+          "snippet": "หุ้นวิชั่น – ปี 2569 กำลังจะเป็นอีกหนึ่งปีที่เศรษฐกิจไทยต้องเผชิญแรงปะทะจากรอบด้าน ทั้งแรงกดดันจากภาวะเศรษฐกิจโลกที่มีแนวโน้มชะลอตัว การดำเนินนโยบายกีดกันทางการค้าของประเทศมหาอำนาจ ตลอดจนความเปราะบางเชิงโครงส",
+          "age": "2 days ago"
+        },
+        {
+          "title": "วิจัยกรุงศรี ปรับจีดีพีปี 69 โต 2% จาก 1.8% ชี้ นโยบายภาษี-หนี้ครัวเรือน กดดันเศรษฐกิจ",
+          "url": "https://www.prachachat.net/finance/news-1971029",
+          "snippet": "นางสาวพิมพ์...ในปี 2569 จะเติบโตเพียง 2.0% จากเดิม 1.8% ชะลอลงจากปี 2568 ที่ขยายตัว 2.4% เนื่องจาก...",
+          "age": "4 days ago"
+        }
+      ]
+    },
+    {
+      "query": "Thailand data center cloud AI investment 2026",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "GULF Drives 2026 Growth with Data Center and AI Expansion",
+          "url": "https://www.kaohooninternational.com/markets/578042",
+          "snippet": "Yupapin further stated that the company has set a five-year (2026–2030) investment budget at 130,000 million baht, mainly focusing on expanding the renewable energy portfolio (66%), gas business (5%), resource business (6%), infrastructure ...",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Why is Southeast Asia Becoming a Data Centre Hub?",
+          "url": "https://www.analyticsinsight.net/amp/story/business/why-is-southeast-asia-becoming-a-data-centre-hub",
+          "snippet": "How Is AI Pushing Cloud Spending to New Heights in 2026? Are sustainability efforts influencing data centre investments in South East Asia? Yes, renewable energy integration and energy-efficient cooling systems are becoming critical factors in infrastructure planning. ... Bangkok and the Eastern Economic Corridor are attracting major hyperscale investments, accelerating Thailand’s infrastructure capacity.",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Bangkok’s Rise as Thailand’s Next Data Center Hub - DCConnect Global",
+          "url": "https://www.dcconnectglobal.com/bangkoks-rise-as-thailands-next-data-center-hub/",
+          "snippet": "This makes Thailand an ideal regional hub for: Cloud infrastructure distribution · Content delivery networks (CDNs) Enterprise applications · Compared to Singapore, which faces infrastructure saturation, Bangkok provides room for expansion. Business impact: Companies can serve millions of users across Southeast Asia with lower latency and lower operating costs. February 27, 2026 ·",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Where AI lives: Southeast Asia's data center boom | The Manila Times",
+          "url": "https://www.manilatimes.net/2026/02/27/business/top-business/where-ai-lives-southeast-asias-data-center-boom/2286122",
+          "snippet": "February 27, 2026 · Resize · Small · Medium · Large · KARAWANG, Indonesia — Nonstop buzzing fills a windowless Microsoft data center near Jakarta, part of a tech construction boom sweeping Southeast Asia that promises economic opportunities but is also hungry for resources. As demand for artificial intelligence (AI) heats up, technology giants are racing to invest billions of dollars in the region, attracted by a growing plugged-in user base.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Who Is Investing in Bangkok’s AI Data Center Boom? - DCConnect Global",
+          "url": "https://www.dcconnectglobal.com/who-is-investing-in-bangkoks-ai-data-center-boom/",
+          "snippet": "For business owners, account executives, and relationship managers, this shift creates real opportunities—from cloud partnerships to enterprise infrastructure sales. But the key question is: Who exactly is investing in Bangkok’s AI data center ecosystem—and why now? Let’s break it down. Why Bangkok, Thailand Is Attracting Hyperscaler AI Data Center Investment",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Where AI lives: Southeast Asia's data centre boom - Digital Journal",
+          "url": "https://www.digitaljournal.com/business/where-ai-lives-southeast-asias-data-centre-boom/article",
+          "snippet": "That, along with an explosion of AI interest after ChatGPT’s debut, brought a surge of data centres to neighbouring Malaysia, and increasingly Thailand, Indonesia, the Philippines and Vietnam.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Where AI lives: Southeast Asia’s data centre boom | Fox 11 Tri Cities Fox 41 Yakima",
+          "url": "https://www.fox41yakima.com/where-ai-lives-southeast-asias-data-centre-boom/",
+          "snippet": "by Marchio Gorbiano, with Katie Forster in Tokyo AFP | @ | February 25, 2026 6:49 pm ... Nonstop buzzing fills a windowless Microsoft data centre near Jakarta, part of a tech construction boom sweeping Southeast Asia that promises economic opportunities but is also hungry for resources. As demand for artificial intelligence heats up, technology giants are racing to invest billions of dollars in the region, attracted by a growing plugged-in user base.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Where AI lives: Southeast Asia's data centre boom | National | hazard-herald.com",
+          "url": "https://www.hazard-herald.com/news/national/where-ai-lives-southeast-asias-data-centre-boom/article_a2ca7b8a-895f-53b8-ac1d-b41ae68e4235.html",
+          "snippet": "Noelle Walsh, head of the company&#x27;s cloud operations says that higher performance chips &quot;require a lot more intensity&quot; ... Nonstop buzzing fills a windowless Microsoft data centre near Jakarta, part of a tech construction boom sweeping Southeast Asia that promises economic opportunities but is also hungry for resources. As demand for artificial intelligence heats up, technology giants are racing to invest billions of dollars in the region, attracted by a growing plugged-in user base.",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Where AI lives: Southeast Asia's data centre boom | National News | manchestertimes.com",
+          "url": "https://www.manchestertimes.com/news/national/where-ai-lives-southeast-asias-data-centre-boom/article_2461fcbf-f8a3-5e84-bf3a-e489a33e03e9.html",
+          "snippet": "Noelle Walsh, head of the company&#x27;s cloud operations says that higher performance chips &quot;require a lot more intensity&quot; ... Nonstop buzzing fills a windowless Microsoft data centre near Jakarta, part of a tech construction boom sweeping Southeast Asia that promises economic opportunities but is also hungry for resources. As demand for artificial intelligence heats up, technology giants are racing to invest billions of dollars in the region, attracted by a growing plugged-in user base.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Where AI lives: Southeast Asia's data centre boom | Northwest & National News | nbcrightnow.com",
+          "url": "https://www.nbcrightnow.com/national/where-ai-lives-southeast-asias-data-centre-boom/article_531da6e4-16d8-5d5a-aa55-936562562788.html",
+          "snippet": "Noelle Walsh, head of the company&#x27;s cloud operations says that higher performance chips &quot;require a lot more intensity&quot; ... Nonstop buzzing fills a windowless Microsoft data centre near Jakarta, part of a tech construction boom sweeping Southeast Asia that promises economic opportunities but is also hungry for resources. As demand for artificial intelligence heats up, technology giants are racing to invest billions of dollars in the region, attracted by a growing plugged-in user base.",
+          "age": "4 days ago"
+        }
+      ]
+    },
+    {
+      "query": "Thailand visa expat foreigner policy 2026",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "Thailand Privilege Visa (2026): Options, Fees, How to Apply",
+          "url": "https://thaielite-express.com/thailand-privilege-visa-2026-options-fees-benefits-eligibility-and-how-to-apply/",
+          "snippet": "The applicant/the Member must have and maintain to have the following qualifications: Being allowed to stay in Thailand in accordance with the immigration laws or any related law of Thailand.(no overstay record) Holding foreign passport.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "วีซ่าไทย 2026 ต่างชาติ ทำยังไง? - GoNoGuide.com",
+          "url": "https://www.gonoguide.com/thailand-visa-2026-stay-in-thailand/",
+          "snippet": "Authorities are tightening control on visa runs and the repeated use of visa exemption to stay long-term. ... Thailand no longer welcomes foreigners who try to stay long-term using short-term visa exemptions.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Why Thailand Visas Are Easier — and Where the Limits Are",
+          "url": "https://adamfayed.com/immigration-citizenship/easy-thailand-visas-limits/",
+          "snippet": "Policy philosophy: European programs integrate migrants into society over time. Thailand, by contrast, manages foreigners as temporary residents, ensuring state discretion while allowing lifestyle or retirement-driven mobility.",
+          "age": "2 days ago"
+        },
+        {
+          "title": "Retire in Thailand from the USA: Retirement visa & cost guide",
+          "url": "https://www.taxesforexpats.com/country-guides/thailand/retiring-in-thailand.html",
+          "snippet": "A practical guide for US retirees: Thailand retirement visa routes, expected monthly budget, best cities, healthcare, and what US taxes still apply.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "How Much Does It Cost to Retire in Thailand in 2026? | Baan Thai - Immigration Lawyer Thailand",
+          "url": "https://btisolutions.co/how-much-does-it-cost-to-retire-in-thailand/",
+          "snippet": "It also includes the range of health and health insurance costs and the most overlooked expense….what it will cost to maintain your long term visa. All costs are in Thai baht ($1 ≈ 32 THB as of January 2026).",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Thailand Immigration Question No. 037/26: Visa exemption for 30 days or apply for a visa? | Thailand blog",
+          "url": "https://www.thailandblog.nl/en/visumvraag/thailand-immigration-vraag-nr-037-26-visa-exemption-naar-30-dagen-of-visum-aanvragen/",
+          "snippet": "I hope you can provide more clarity. I am 77 years old. ... The fact that the visa exemption would be reduced to 30 days is mainly a wish of the TAT (Tourism Authority of Thailand).",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Thailand Reviews Its 60-Day Visa-Free Stay Rule",
+          "url": "https://www.altexsoft.com/travel-industry-news/thailand-reviews-its-60-day-visa-free-stay-rule/",
+          "snippet": "Thailand is reviewing its policy allowing visitors from 93 countries to enter without a visa for up to 60 days. In February 2026, Foreign Affairs Minister Sihasak Phuangketkeow said officials are reassessing whether the 60-day period is still ...",
+          "age": "6 days ago"
+        },
+        {
+          "title": "Thailand LTR Visa Tax Rules Explained | Filing, Remittance & Exemptions - YouTube",
+          "url": "https://www.youtube.com/watch?v=wB8n3C0MlyE",
+          "snippet": "Are you holding a Thailand Long-Term Resident (LTR) Visa and unsure whether you need to file a Thai tax return?There is widespread confusion about how the LT...",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Thailand’s Tourism Crackdown Hits More Visa-Free Nations",
+          "url": "https://www.thetraveler.org/thailands-tourism-crackdown-hits-more-visa-free-nations/",
+          "snippet": "Officials say the goal is to protect Thai jobs and ensure that foreigners who wish to work in the kingdom do so through legal channels and appropriate visa categories. Tourism police emphasize that tourists acting within the law are not the target. Yet the high-visibility raids, often documented on social media, contribute to a perception that Thailand is taking a zero-tolerance approach to any blurring of the line between visitor and worker.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Bank - to -Bank transfers for Visa based on Marriage. - Thai Visas, Residency, and Work Permits - Thailand News and Discussion Forum | ASEANNOW",
+          "url": "https://aseannow.com/topic/1388316-bank-to-bank-transfers-for-visa-based-on-marriage/#comment-20394495",
+          "snippet": "No, there isn&#x27;t. Thailand would have no expat retirees in 12 months if that is truly the case.",
+          "age": "5 days ago"
+        }
+      ]
+    },
+    {
+      "query": "Pattaya luxury condo \"Wong Amat\" OR \"Na Kluea\" OR \"North Pattaya\" 2026",
+      "freshness": "pm",
+      "count": 6,
+      "results": [
+        {
+          "title": "New properties for sale in Pattaya | Keller Henson",
+          "url": "https://kellerhenson.com/new-properties-for-sale-pattaya/",
+          "snippet": "AROM Wongamat is a luxury high-rise condominium in Wongamat Beach, Na Kluea, Pattaya, rising 55 storeys and offering breathtaking panoramic sea views from most units.",
+          "age": "4 weeks ago"
+        },
+        {
+          "title": "The Palm Wongamat - Condo in Pattaya | FazWaz",
+          "url": "https://www.fazwaz.com/projects/thailand/chon-buri/pattaya/na-kluea/the-palm-wongamat",
+          "snippet": "The Palm Wongamat is a condo project near Wong Amat Beach in Na Kluea, Pattaya, developed by Nova Group. View photos, 3D tours and read reviews.",
+          "age": "3 weeks ago"
+        },
+        {
+          "title": "Beachfront Condo Pattaya 2 Bedroom for Rent at The Sanctuary Wongamat",
+          "url": "https://www.realestate-pattaya.com/property/beachfront-condo-for-rent-in-pattaya-2-2-2-2/",
+          "snippet": "The Sanctuary Wong Amat : เดอะ แซงชัวรี วงศ์อมาตย์, ซอย Pattaya City, Bang Lamung District, Chon Buri, Thailand, Naklua, Pattaya",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Tour Wongamat’s Next Luxury Condo & Neighborhood (Area Walk) - YouTube",
+          "url": "https://www.youtube.com/watch?v=e4T2fp1GRiY",
+          "snippet": "🏖️ ONCE WONGAMAT – Ultra-Luxury High-Rise Living in North PattayaA landmark condominium by Honour Group, featuring the tallest residential tower in Pattaya,...",
+          "age": "4 weeks ago"
+        },
+        {
+          "title": "Once Pattaya Condominium - Condo in Pattaya | FazWaz",
+          "url": "https://www.fazwaz.com/projects/thailand/chon-buri/pattaya/na-kluea/once-pattaya-condominium",
+          "snippet": "Once Pattaya Condominium is a condo project near North Pattaya Beach in Na Kluea, Pattaya, developed by Honour Group. View photos, 3D tours and read reviews.",
+          "age": "4 weeks ago"
+        },
+        {
+          "title": "Pattaya - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pattaya",
+          "snippet": "The city of Pattaya is a special municipal area which covers the whole tambon Nong Prue (Nongprue) and Na Kluea (Naklua) and parts of Huai Yai and Nong Pla Lai. Bang Lamung township which forms the northern border of Pattaya covers parts of the tambon Bang Lamung (Banglamung), Nong Pla Lai and Takhian Tia.",
+          "age": "2 weeks ago"
+        }
+      ]
+    },
+    {
+      "query": "พัทยาเหนือ คอนโด หรู ต่างชาติ 2569",
+      "freshness": "pm",
+      "count": 10,
+      "results": [
+        {
+          "title": "เอ็น.ซี เฮ้าส์ซิ่ง เบรกเปิดตัวต่ำสุดรอบ5 ปีผุดคอนโดพัทยารอบ5ปี",
+          "url": "https://www.bangkokbiznews.com/business/property/1221751",
+          "snippet": "อสังหาฯยังไม่ฟื้นตัว! เอ็น.ซี เฮ้าส์ซิ่ง แตะเบรกลดสปีดรักษากระแสเงินสดเปิดตัว2โครงการต่ำสุดรอบ 5 ปี รุกคอนโดพัทยาเหนือครั้งแรกในรอบครึ่งทศวรรษดันยอดขาย 4,000 ล้าน",
+          "age": "2 weeks ago"
+        },
+        {
+          "title": "ขายที่ดินพัทยา ติดถนนสุขุมวิท พัทยาเหนือ | ที่ดินร้อยแปด.คอม",
+          "url": "https://www.teedin108.com/land/view/4003419/",
+          "snippet": "T.423 ขายที่ดินพัทยา ติดถนนสุขุมวิท พัทยาเหนือ ที่ตั้ง เมืองพัทยา บางละมุง ชลบุรี 20150 รายละเอียด -เนื้อที่ 4 ไร่ ...",
+          "age": "3 days ago"
+        },
+        {
+          "title": "จองที่พักพัทยาราคาดี พักผ่อนสุดชิล เต็มอิ่มกับสีสันความบันเทิง | ตะลอนเที่ยวดอทคอม",
+          "url": "https://www.talontiew.com/pattaya-hotel/",
+          "snippet": "รวมที่พักพัทยาติดทะเลยอดนิยม ทั้งโรงแรม 4-5 ดาว รีสอร์ท และบ้านพักราคาถูก ครบทุกสไตล์ตอบโจทย์ทุกทริป จองได้ง่าย ๆ ผ่านแอป Traveloka ครบจบในที่เดียว",
+          "age": "4 days ago"
+        },
+        {
+          "title": "เอสปันญ่า คอนโด รีสอร์ท พัทยา ตกแต่งพร้อมอยู่ ราคาถูกที่สุดในโครงการ",
+          "url": "https://www.mabrisbane.com/board/trade?view=topic&catid=5&id=36265",
+          "snippet": "เอสปันญ่า คอนโด รีสอร์ท พัทยา ตกแต่งพร้อมอยู่ ราคาถูกที่สุดในโครงการ",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Stunning Pool View Grand Caribbean Building - Casa Pattaya Real Estate",
+          "url": "https://casapattaya.com/property/95667/",
+          "snippet": "Discover luxury living with this stunning property priced at 2,390,000 THB, featuring a Stunning Pool View Grand Caribbean Building.",
+          "age": "1 month ago"
+        },
+        {
+          "title": "ว่าวนานาชาติกว่า 150 ตัวทั่วโลกบินเต็มท้องฟ้า รับซัมเมอร์ พัทยา 2569 - หนังสือพิมพ์ข่าว ๔ เหล่าทัพ",
+          "url": "https://www.4forcenews.com/553161/",
+          "snippet": "ว่าวนานาชาติกว่า 150 ตัวทั่วโลกบินเต็มท้องฟ้า รับซัมเมอร์ พัทยา 2569",
+          "age": "4 days ago"
+        },
+        {
+          "title": "อัปเดตปฏิทินกิจกรรมเมืองพัทยา 2569 | Royal Wing Suites & Spa",
+          "url": "https://www.royalwingsuites.com/th/events/pattaya-events-calendar-2026/",
+          "snippet": "ปี 2569 ยังคงเป...ที่รอให้คุณมาสัมผัส ณ รอยัล วิง สวีท แอนด์ สปา โรงแรมหรูระดับ 5 ดาวเจ...",
+          "age": "1 week ago"
+        },
+        {
+          "title": "คอนโดใหม่พัทยากลาง ราคาเริ่ม 2 ล้านต้น!* - Your Lifestyle, Your Home",
+          "url": "https://homeday.co.th/sooriginpattaya/",
+          "snippet": "แอสเซทไวส์ ร่วมแสดงความยินดี “นางสาวไทย 2569” มอบคอนโดมิเนียมพักอาศัยฟรี 1 ปี ตอกย้ำ #คอนโดนางงาม ส่งเสริมศักยภาพและไลฟ์สไตล์ผู้หญิงยุคใหม่",
+          "age": "1 week ago"
+        },
+        {
+          "title": "ชักว่าวนานาชาติ ตระการตาชายหาดพัทยา เฟสติวัลที่โลกรอคอย",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1222986",
+          "snippet": "อย่าลืมมาอัพฟีดโซเชียลให้ปังรับซัมเมอร์ กับเทศกาลว่าวนานาชาติได้แล้ววันนี้ – 1 มีนาคม 2569 ณ ชายหาดพัทยา บริเวณหน้าศูนย์การค้าเซ็นทรัล พัทยา",
+          "age": "3 days ago"
+        },
+        {
+          "title": "ว่าวยักษ์บุกท้องฟ้าหาดหน้า ‘เซ็นทรัล พัทยา’ สัมผัสพาเหรดว่าวนานาชาติ ‘PATTAYA INTERNATIONAL KITE ON THE BEACH 2026’ เริ่ม 25 ก.พ. 69 นี้ | iChiangMaiPR.com",
+          "url": "https://www.ichiangmaipr.com/2026/02/%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%A7%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B8%9A%E0%B8%B8%E0%B8%81%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9F%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%94/",
+          "snippet": "SUN, ช้อป ชิม ...าต่างชาติ รับฟรี Premium TEA RITUAL เมื่อช้อปครบ 30,000 บาทขึ้นไป* (เงื่อนไขเป็นไปตามที่บริษัทกำหนด) เคลียร์คิวไปเก็บช็อตสวย อัพฟีดโซเชียลให้ปัง เจอกัน · 25 กุมภาพันธ์ – 1 มีนาคม 2569 ณ ...",
+          "age": "2 weeks ago"
+        }
+      ]
+    },
+    {
+      "query": "Thailand property market luxury foreign buyer 2026",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "Luxury Property Complex in Thailand Seeks More Overseas Buyers - Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-02-24/luxury-property-complex-in-thailand-seeks-more-overseas-buyers",
+          "snippet": "February 24, 2026 at 11:00 PM UTC · Save · Reignwood Group is ramping up efforts to attract international buyers to its luxury residential property complex in Thailand, betting overseas demand can offset the prolonged domestic property slump.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Thailand Real Estate 2026: Prices, Hotspots, And Investment Forecast",
+          "url": "https://www.chiangraitimes.com/business/thailand-real-estate-2026-prices/",
+          "snippet": "... Too much supply in some luxury condo clusters and certain outer-suburb zones. Economic uncertainty keeps local buyers cautious. A possible slowdown in the second half of 2026 if incentives roll off.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Phuket’s Property Market Shift: From Holiday Escape to Global Investment Hub : Thailand Law by Siam Legal",
+          "url": "https://www.siam-legal.com/thailand-law/phukets-property-market-shift-from-holiday-escape-to-global-investment-hub/",
+          "snippet": "Coinciding with the expansion of Phuket’s residential property market, luxury villas are also seeing strong growth. After 2025, 40 villa projects were established, valued at over 27,215 million baht. Much of the focus has been placed on the Cherng Talay region, which has become an increasingly popular destination for Russian buyers. If you want to secure a villa in 2026, it’s best to consider purchasing one in more inland areas rather than by beaches, as developers are concentrating on these parts due to lower costs.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Phuket Real Estate Market 2026: Hot Areas, Price Signals, Buyer Checks",
+          "url": "https://www.chiangraitimes.com/business/phuket-real-estate-market-2026/",
+          "snippet": "Phuket real estate market 2026, why Phuket is booming, where demand is strongest, price and yield ranges, and foreign ownership rules. Not financial advice...",
+          "age": "1 week ago"
+        },
+        {
+          "title": "CBRE Thailand's 2026 Outlook: Strategic Balance of Risk and Reward in an Evolving Market - Thailand-Property",
+          "url": "https://www.thailand-property.com/blog/cbre-thailands-2026-outlook-strategic-balance-risk-reward-evolving-market",
+          "snippet": "Average asking prices in the downtown market are expected to increase by up to 15% year-over-year, driven by the higher number of super-luxury launches, with an emphasis on privacy and exclusivity, supported by elevated amenities and services.” ...",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Property past its low point; second-hand homes lead, 2026 seen steady",
+          "url": "https://www.nationthailand.com/blogs/business/property/40063000",
+          "snippet": "Chinese buyers remain the main group; although their volumes and value declined, Russian and Taiwanese buyers posted standout growth. A more diversified foreign demand base could help improve the long-term resilience of Thailand’s condo market.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Can Foreigners Buy Property in Thailand? Complete Legal Guide - Rochalia",
+          "url": "https://rochalia-asia.com/en/blog/foreigners-buy-house-in-thailand-guide/",
+          "snippet": "Can foreigners buy property in Thailand? Learn the legal options, restrictions, and safest ways to invest. Discover whether can foreigners buy house in Thailand, condominium rules, leasehold structures, LTR visa benefits, and required documents.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Asia Pacific Real Estate Market Outlook 2026 - Asia Pacific Real Assets Association",
+          "url": "https://www.aprea.asia/knowledge-hub/asia-pacific-real-estate-market-outlook-2026/",
+          "snippet": "The Asia Pacific commercial real estate market is poised for another solid year in 2026, with both investment and leasing activity forecasted to strengthen, backed by the region’s resilient economy. Despite the bright outlook, there remain headwinds, with trade related volatility and geopolitical ...",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Etihad A380 Bangkok Launch Boosts Thailand Tourism and Property Market Growth",
+          "url": "https://www.siamrealestate.com/thailand-property-news/etihad-a380-bangkok-launch-boosts-thailand-tourism-and-property-market-growth",
+          "snippet": "This segment plays a key role in supporting Thailand’s luxury hospitality sector and property market. Bangkok remains a top destination for international buyers due to its affordability, lifestyle, and global accessibility.",
+          "age": "4 days ago"
+        },
+        {
+          "title": "The rise of luxury residences in Phuket, Thailand and what you can buy right now | Luxury Lifestyle Magazine",
+          "url": "https://www.luxurylifestylemag.co.uk/property/the-rise-of-luxury-residences-in-phuket-thailand-and-what-you-can-buy-right-now/",
+          "snippet": "Driven by a surge in international investment and a shift toward long-term residency, Phuket’s property market is evolving into a high-end residential hub.",
+          "age": "5 days ago"
+        }
+      ]
+    },
+    {
+      "query": "อสังหาริมทรัพย์ ไทย ต่างชาติ ซื้อ 2569",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "แนวโน้มอสังหาริมทรัพย์ไทยปี 2569: กลยุทธ์การรักษาสมดุล “ความเสี่ยงและผลตอบแทน” ในตลาดที่กำลังเปลี่ยนแปลง | ThaiPR.NET",
+          "url": "https://www.thaipr.net/estate/3696501",
+          "snippet": "สำหรับความต... 2569 คาดว่าจะต่ำกว่าระดับของปี 2568 เล็กน้อย โดยอยู่ที่ประมาณ 100,000 ตร.ม...",
+          "age": "1 week ago"
+        },
+        {
+          "title": "อสังหาฯ ปี 2569 คนกู้ไม่ผ่าน สต็อกยังล้น โครงการใหม่หดตัว",
+          "url": "https://thestandard.co/thai-property-market-2026-survival/",
+          "snippet": "ดีมานด์ต่าง... สัดส่วนผู้ซื้อคอนโดชาวต่างชาติพุ่งแตะ 46% ขณะที่บ้านมือสองมียอดโอนสูงถึง 56%...",
+          "age": "4 days ago"
+        },
+        {
+          "title": "ต่างชาติซื้อ ‘คอนโดฯไทย’ ลดลง ‘จีน’ ยังแชมป์ เมียนมา แซง รัสเซีย",
+          "url": "https://www.prachachat.net/property/news-1971437",
+          "snippet": "“ณรงค์พล” ... ซื้อเพื่อลงทุนปล่อยเช่า และพำนักระยะยาวเพื่อทำธุรกิจในประเทศไทย ทำให้ตลาดคอนโดมิเนียมไทยมีความยืดหยุ่นมากขึ้นในปี 2569 นี้ · กทม.-ปริมณฑลทำเลฮอต ต่างชาติช้อปค...",
+          "age": "7 hours ago"
+        },
+        {
+          "title": "เจาะลึกอสังหาฯ ปี 69 : วิกฤตผู้ประกอบการ แต่เป็น \"โอกาสทอง\" - Terodigital",
+          "url": "https://terodigital.com/money-guru/get-rich/%E0%B9%80%E0%B8%88%E0%B8%B2%E0%B8%B0%E0%B8%A5%E0%B8%B6%E0%B8%81%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%AF-%E0%B8%9B%E0%B8%B5-69/",
+          "snippet": "เจาะลึกอสังหาฯ ปี 69 :ท่ามกลางความท้าทายทางเศรษฐกิจ ตลาดอสังหาริมทรัพย์ไทยในปี 2569 กลับซ่อน “โอกาสทอง” ไว้สำหรับผู้ที่มีความพร้อม ผู้เชี่ยวชาญหลายท่านประเมินว่าราคาอสังหาริมทรัพย์ในขณะนี้อาจอยู่ในระดับต่ำที่สุด",
+          "age": "5 days ago"
+        },
+        {
+          "title": "อสังหาฯ พ้นจุดต่ำสุด!! REIC ชี้ปี 69 ตลาดปรับสู่สมดุล โอกาสทองของผู้ซื้อจริง : อินโฟเควสท์",
+          "url": "https://www.infoquest.co.th/2026/573312",
+          "snippet": "ขณะที่รัสเซีย และไต้หวัน เติบโตเด่น ช่วยกระจายความเสี่ยงตลาดต่างชาติ และสัดส่วนการโอนของต่างชาติคิดเป็น 14.7% ของจำนวนหน่วยอาคารชุดทั้งประเทศ และคิดเป็น 25% ของมูลค่าวม ด้านสินเชื่อที่อยู่อาศัยบุคคลปล่อยใหม่ ไตรมา",
+          "age": "40 minutes ago"
+        },
+        {
+          "title": "สถานการณ์ตลาดที่อยู่อาศัยไตรมาส 4 ปี 2568 ฟื้นตัวต่อเนื่อง",
+          "url": "https://www.thaipost.net/economy-news/953518/",
+          "snippet": "สำหรับแนวโน้มสถานการณ์ตลาดที่อยู่อาศัยปี 2569 เศรษฐกิจไทยเปราะบาง แต่ยังมีโอกาสในวิกฤต คาดการณ์ GDP Growth ในปี 2569 จะขยายตัวอยู่ในช่วง 1.5-2.5 (ค่ากลาง 2.0) ระดับหนี้ครัวเรือนยังคงอยู่ในระดับสูง กดดันกำลังซื้อ อย่างไรก็ตาม ภาครั",
+          "age": "5 days ago"
+        },
+        {
+          "title": "REIC เผยไตรมาส 4 ปี 68 อสังหา ฟื้น บ้านมือสองพุ่ง ปี 69 ยังทรงตัว",
+          "url": "https://bangkok-today.com/reic-%E0%B9%80%E0%B8%9C%E0%B8%A2%E0%B9%84%E0%B8%95%E0%B8%A3%E0%B8%A1%E0%B8%B2%E0%B8%AA-4-%E0%B8%9B%E0%B8%B5-68-%E0%B8%AD%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%B2-%E0%B8%9F%E0%B8%B7%E0%B9%89/",
+          "snippet": "สำหรับปี 2569 REIC ประเมินเศรษฐกิจไทยยังเปราะบาง คาด GDP เติบโต 1.5-2.5% ระดับหนี้ครัวเรือนกดดันกำลังซื้อ แม้มีมาตรการ Quick Big Win ช่วยบรรเทาภาระหนี้ และแนวโน้มดอกเบี้ยขาลง รวมถึงท่องเที่ยวฟื้นตัว คาดทั้งปีจะมีการโอนกรรมสิทธิ์ 314,593 หน่วย ลดลงเล็กน้อย 0.5% มูลค่า 858,453 ล้านบาท ลดลง 0.7% ส่วนสินเชื่อปล่อยใหม่คาดใกล้เคียงปี 2568 ที่ระดับ 539,062 ล้านบาท",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Real Estate Commission Calculator - Agent Fee & Net Proceeds",
+          "url": "https://miniwebtool.com/real-estate-commission-calculator/",
+          "snippet": "Real Estate Commission Calculator - Calculate real estate agent commission fees, buyer/seller agent splits, and net proceeds from your home sale. Compare different commission rates side by side.",
+          "age": "8 hours ago"
+        },
+        {
+          "title": "วิธีลงทะเบียนบัตรสวัสดิการแห่งรัฐ 2569 เช็กสิทธิ ผ่านทุกขั้นตอน",
+          "url": "https://www.bangkokbiznews.com/news/news-update/1222469",
+          "snippet": "วิธีลงทะเบียนบัตรสวัสดิการแห่งรัฐ 2569 เช็กสิทธิเงินช่วยเหลือ ล่าสุด ก่อนลงจริง ให้ผ่านทุกขั้นตอน ดูคุณส...",
+          "age": "1 week ago"
+        },
+        {
+          "title": "เอพี ปี 69 เปิดตัวสูงสุดในกลุ่มอสังหา ลุย 42 โครงการใหม่ 5.5 หมื่นล้าน ห่วงบ้านหรู 50+ ล้านบาท ขายตัดราคา | Positioning Magazine",
+          "url": "https://positioningmag.com/1561528",
+          "snippet": "รัชต์ชยุตม์ นันทโชติโสภณ ประธานฝ่ายบริหาร บริษั เอพี ไทยแลนด์ จำกัด (มหาชน) หรือ AP กล่าวว่า ปี 2569 เอพียังคงเปิดตัวโครงการใหม่เป็นอันดับ 1 ในกลุ่มอสังหาริมทรัพย์ ด้วยจำนวน 42 โครงการ มูลค่ารวม 5…",
+          "age": "4 days ago"
+        }
+      ]
+    },
+    {
+      "query": "Bangkok city news latest 2026",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "‘You can’t hide from the invisible’: why Bangkok police make arrests in disguise | Thailand | The Guardian",
+          "url": "https://www.theguardian.com/world/2026/feb/28/bangkok-police-arrests-in-disguise",
+          "snippet": "Rebecca Ratcliffe in Bangkok · Sat 28 Feb 2026 06.00 CETLast modified on Mon 2 Mar 2026 06.09 CET · Share · Prefer the Guardian on Google · Police officers from Bangkok’s metropolitan bureau had less than 24 hours to prepare for their latest undercover operation.",
+          "age": "3 hours ago"
+        },
+        {
+          "title": "\"Visit Bangkok\" Launches as the Definitive Digital Gateway to the World’s Favorite City",
+          "url": "https://www.globenewswire.com/news-release/2026/02/23/3242407/0/en/Visit-Bangkok-Launches-as-the-Definitive-Digital-Gateway-to-the-World-s-Favorite-City.html",
+          "snippet": "23, 2026 (GLOBE NEWSWIRE) -- As the world’s premier travel destination, Bangkok continues to captivate hearts by masterfully blending its golden heritage with a pulse of modern innovation.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Etihad to an send Airbus A380 to Bangkok - Economy Class & Beyond",
+          "url": "https://economyclassandbeyond.boardingarea.com/2026/02/25/etihad-to-send-airbusa380-to-bangkok/",
+          "snippet": "The aircraft will operate on Etihad’s evening daily service between Abu Dhabi’s Zayed International Airport and Bangkok Suvarnabhumi, further strengthening connectivity between Southeast Asia, the Middle East and Europe as the airline adds capacity ahead of the busy winter season · As noted, the A380 will operate on the airline’s evening flight. Timings are as follows: EY402 DEPART AUH 21:10 ARRIVE BKK 06:35+1 EY403 DEPART BKK 08:30 ARRIVE AUH 12:20 Commences 29th October 2026 Operates Daily Booked Equipment: Etihad Airbus A380",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Japan Joins China, Malaysia, India, Russia, South Korea, and More as Thailand Sees Nearly Six Million Visitors in Early 2026, Marking an Unprecedented Tourism Surge and Revitalizing Pattaya, Bangkok, and Phuket - Travel And Tour WorldTravel And Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/japan-joins-china-malaysia-india-russia-south-korea-and-more-as-thailand-sees-nearly-six-million-visitors-in-early-2026-marking-an-unprecedented-tourism-surge-and-revitalizing-pattaya-bangkok/",
+          "snippet": "As Thailand emerges as a top ... a record-breaking surge in early 2026, with nearly six million international visitors arriving in the first few months of the year....",
+          "age": "2 days ago"
+        },
+        {
+          "title": "Bangkok Population 2026",
+          "url": "https://worldpopulationreview.com/cities/thailand/bangkok",
+          "snippet": "Bangkok&#x27;s 2026 population is now estimated at 11,543,900. In 1950, the population of Bangkok was 1,360,000. Bangkok has grown by 152,200 in the last year, which represents a 1.34% annual change.",
+          "age": "5 days ago"
+        },
+        {
+          "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour WorldTravel And Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
+          "snippet": "Home » Destination News » Thailand ... As Bangkok braces for rising temperatures, the city is opening 255 BKK Cooling Centers across all 50 districts from mid-March through April 2026......",
+          "age": "2 days ago"
+        },
+        {
+          "title": "Bangkok City 4K - Highlights of February 2026 - Thailand - YouTube",
+          "url": "https://www.youtube.com/watch?v=VxQNmEabLx8",
+          "snippet": "Bangkok City 4K - Highlights of February 2026 - Thailand ————If you like our video, please subscribe to encourage our work too. thank you very much 🙏❤️———-S...",
+          "age": "4 days ago"
+        },
+        {
+          "title": "5 Things to Know Before Visiting Pattaya in 2026 | Travel Tips",
+          "url": "https://www.kimpattayabangkoktaxi.com/news/5-essential-things-to-know/",
+          "snippet": "Planning a trip to Pattaya in 2026? Discover essential travel tips, local updates, and how to book the most reliable airport transfer for a stress-free vacation.",
+          "age": "19 hours ago"
+        },
+        {
+          "title": "Grand Voyager | Exploring Bangkok & Beyond | Euronews",
+          "url": "https://www.euronews.com/travel/2026/02/18/grand-voyager-exploring-bangkok-beyond",
+          "snippet": "Back on the streets, Lilly meets Wat from Must Try Bangkok Tours for an immersive bike tour through hidden alleyways and local neighbourhoods, discovering a side of the city few visitors see.",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Asia Chaos Feb 28: 787 Delays, 35 Cancelled — KUL Worst Hit",
+          "url": "https://www.traveltourister.com/news/asia-flight-chaos-february-28-2026-787-delays-35-cancellations-kuala-lumpur-jakarta-singapore-bangkok-osaka-batik-air-airasia-garuda/",
+          "snippet": "Asia flight chaos February 28, 2026: 787 delays and 35 cancellations hit Kuala Lumpur, Jakarta, Singapore, Bangkok and beyond. Batik Air, AirAsia, Garuda worst affected.",
+          "age": "2 days ago"
+        }
+      ]
+    },
+    {
+      "query": "Bangkok city news crime safety development 2026",
+      "freshness": "pw",
+      "count": 10,
+      "results": [
+        {
+          "title": "‘You can’t hide from the invisible’: why Bangkok police make arrests in disguise | Thailand | The Guardian",
+          "url": "https://www.theguardian.com/world/2026/feb/28/bangkok-police-arrests-in-disguise",
+          "snippet": "Lertvarit hopes the footage of operations that has been shared will show the Thai public that they are committed to fighting crime – and remind criminals that “the world is getting smaller every day”.",
+          "age": "3 hours ago"
+        },
+        {
+          "title": "Thailand Crime and Safety News Update – March 1, 2026 | Thailandblog.nl",
+          "url": "https://www.thailandblog.nl/en/nieuws-uit-thailand/criminaliteit/thailandblog-nieuwsupdate-criminaliteit-1-maart-2026/",
+          "snippet": "Over the past 24 hours, incidents and security concerns have emerged. The focus is on cases involving foreigners in tourist areas, along with some robust actions against smuggling and nuisance.",
+          "age": "1 day ago"
+        },
+        {
+          "title": "Thailandblog news update crime | Thailandblog.nl",
+          "url": "https://www.thailandblog.nl/en/nieuws-uit-thailand/criminaliteit/thailandblog-nieuwsupdate-criminaliteit-3/",
+          "snippet": "The incident is being treated as a safety issue because there is a high risk of recurrence due to misuse, defective equipment, or damaged batteries. There have been no reports of fatalities.",
+          "age": "6 days ago"
+        },
+        {
+          "title": "Bangkok prepares cool spots as heat rises faster | Thailandblog.nl",
+          "url": "https://www.thailandblog.nl/en/thailand/bangkok-zet-koelteplekken-klaar-nu-de-hitte-sneller-oploopt/",
+          "snippet": "Short news24 February 2026Thailandblog news update general – February 24, 2026 · Crime24 February 2026Thailand blog news update crime",
+          "age": "6 days ago"
+        },
+        {
+          "title": "Dual Pricing Debate Clouds Thai Tourism Outlook - Thailand News - Discussion - Thailand News and Discussion Forum | ASEANNOW",
+          "url": "https://aseannow.com/topic/1388584-dual-pricing-debate-clouds-thai-tourism-outlook/#comment-20401036",
+          "snippet": "I have spent the morning in Soi Bukhao, I did take my work yellow reflective safety vest to wear whilst walking there as it&#x27;s dangerous for pedestrians .I have been walking around wearing my vest , clipboard and pen taking photos of the unsafe areas where pedestrians are at the mercy of drivers I would love to know the data on how many pedestrian is injured or killed in this area mostly on that main road going towards the markets up to the bar area That stretch is very dangerous with no f",
+          "age": "2 hours ago"
+        },
+        {
+          "title": "Bangkok rolls out adaptive CCTV-AI traffic lights to tackle traffic | Thaiger",
+          "url": "https://thethaiger.com/news/national/bangkok-rolls-out-adaptive-cctv-ai-traffic-lights-to-tackle-traffic",
+          "snippet": "Bangkok traffic police deliver two hearts in one night for transplant · February 4, 2026 · Bangkok, Thai Police, traffic · Royal Thai Police roll out warning-first traffic rule for early 2026 · January 29, 2026 · law, Royal Thai Police, ...",
+          "age": "4 days ago"
+        },
+        {
+          "title": "Police hunting for 3 robbers who stole 2m baht from British chef - Thai Newsroom",
+          "url": "https://thainewsroom.com/2026/02/27/police-hunting-for-3-robbers-who-stole-2m-baht-from-british-chef/",
+          "snippet": "A BIG hunt is underway for three robbers, likely foreigners, who broke into a British chef’s townhouse in Nong Prue area of Chonburi and stole a safe holding 2 million baht in cash last night (Feb. 26), Naewna newspaper and Amarin tv said today. Pol. Col. Natthapol Phongsookskul, superintendent of Nong Prue police station, […]",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Police Order Heightened Security Measures at Key Sites to Assist Thai Nationals Returning from the Middle East",
+          "url": "https://en.thairath.co.th/news/crime/2917178",
+          "snippet": "The National Police Chief has ordered an increase in security measures and cooperation to assist Thai nationals returning from the Middle East. Authorities will closely monitor, verify, and watch information on all social media channels to prevent ...",
+          "age": "1 day ago"
+        },
+        {
+          "title": "Thailandblog news update crime - February 23, 2026 | Thailandblog.nl",
+          "url": "https://www.thailandblog.nl/en/nieuws-uit-thailand/criminaliteit/thailandblog-nieuwsupdate-criminaliteit-2/",
+          "snippet": "Over the past 24 hours, security news in Thailand has revolved mainly around drug trafficking, fraud, and border incidents. In Phuket, there was a raid involving nitrous oxide and hard drugs, while in Sa Kaeo, a ver…",
+          "age": "1 week ago"
+        },
+        {
+          "title": "Bangkok - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bangkok",
+          "snippet": "The city has grown from its original centre along the river into a sprawling metropolis surrounded by swaths of suburban residential development extending north and south into neighbouring provinces. The highly populated and growing cities of Nonthaburi, Pak Kret, Rangsit, and Samut Prakan are effectively now suburbs of Bangkok.",
+          "age": "2 days ago"
+        }
       ]
     }
-  ]
+  ],
+  "brave_fetched_at": "2026-03-02T07:51:46.266428+00:00",
+  "brave_total": 126
 }

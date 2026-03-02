@@ -28,45 +28,18 @@ python3 scripts/fetch_rss.py 4 data/issues/YYYY-MM-DD-raw.json
 ```
 （YYYY-MM-DD 替换为本期日期，永久保留原始素材，用于事后分析抓取量 vs 选取量）
 
-同时用 web_search 补充搜索（英文+泰文，见下方关键词组）。
-
-**Brave搜索关键词组（每期必跑）：**
-1. `Thailand politics coalition government 2026` [EN]
-2. `Thailand People's Party OR Pheu Thai OR Bhumjaithai` [EN]
-3. `ข่าวการเมืองไทย รัฐบาล ล่าสุด` [TH]
-4. `Thailand economy GDP inflation central bank 2026` [EN]
-5. `เศรษฐกิจไทย ล่าสุด 2569` [TH]
-6. `Thailand data center cloud AI investment 2026` [EN]
-7. `Thailand visa expat foreigner policy 2026` [EN]
-8. `Pattaya luxury condo "Wong Amat" OR "Na Kluea" OR "North Pattaya" 2026` [EN]
-9. `พัทยาเหนือ คอนโด หรู ต่างชาติ 2569` [TH]
-10. `Thailand property market luxury foreign buyer 2026` [EN]
-11. `อสังหาริมทรัพย์ ไทย ต่างชาติ ซื้อ 2569` [TH]
-12. `Bangkok city news latest 2026` [EN]
-13. `Bangkok city news crime safety development 2026` [EN]
-（中泰触发式：只在有重磅时搜 `China Thailand investment railway scandal 2026`）
-
-**Brave搜索结果必须写入 raw.json（可事后审查）：**
-每组搜索跑完后，将结果追加到 `data/issues/YYYY-MM-DD-raw.json` 的 `brave_results` 字段下，格式如下：
-```json
-{
-  "fetched_at": "...",
-  "days_back": 4,
-  "total": 37,
-  "items": [...],
-  "brave_results": [
-    {
-      "query": "Thailand politics coalition government 2026",
-      "results": [
-        {"title": "...", "url": "...", "snippet": "..."},
-        ...
-      ]
-    },
-    ...
-  ]
-}
+然后运行 Brave 搜索脚本，结果自动追加写入同一 raw.json：
+```bash
+python3 scripts/fetch_brave.py data/issues/YYYY-MM-DD-raw.json
 ```
-即：RSS部分写完后，每跑一组Brave搜索，就把该组结果 append 到 `brave_results` 数组（read → modify → write），确保所有原料可追溯。
+脚本会跑13组预设关键词，将全部结果写入 `brave_results` 字段（126条左右）。
+
+**完成后 raw.json 包含：**
+- `items`：RSS抓取条目
+- `brave_results`：每组搜索的标题、URL、snippet
+- `brave_total`：Brave条目总数
+
+**⚠️ AI 不得在此步骤之外自行调用 web_search。所有选编原料必须且只能来自 raw.json。**
 
 ### 第4步：编辑选题（核心工作）
 
