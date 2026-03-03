@@ -40,11 +40,33 @@ python3 scripts/fetch_brave.py data/issues/YYYY-MM-DD-raw.json
 
 读取 raw.json，对每条原料（RSS items + Brave results 全部）执行：
 
-#### 5a. 硬性排除（唯一的强制过滤，只排除这两类）
-- **无标题或无URL**：跳过
-- **非泰国相关内容**：与泰国完全无关的境外新闻 → 跳过
+#### 5a. 硬性排除
 
-**除此之外全部入库。** 软文、PR稿、旅游促销、社会新闻、低质量内容——全收，用 tags 标注，交给 publish 阶段编辑精选。
+**排除以下两类，其余全收：**
+
+1. **无标题或无URL** → 跳过
+
+2. **与泰国无直接关联** → 跳过
+
+   **"泰国直接关联"判断标准（必须满足其一）：**
+   - 事件发生在泰国境内
+   - 泰国政府/机构/企业是行动主体或声明方
+   - 直接影响在泰外国人的生活、签证、安全、物价
+   - 泰国经济指标、政策、市场直接受影响
+   - 涉及泰国人或在泰外国人
+
+   **反例（不满足→不入库）：**
+   - 中东战争本身（无泰国角色）
+   - 美国政治新闻（无泰国关联）
+   - 全球股市、外国经济数据（未提及泰国）
+
+   **正例（满足→入库）：**
+   - 中东战争 → 泰国撤侨行动（主体是泰国政府）
+   - 中东战争 → 油价上涨 → 泰国燃油补贴政策（泰国政策直接响应）
+   - 中东航线关闭 → 泰国入境旅客下滑（泰国旅游业直接受影响）
+   - 美国关税 → 泰国出口商/泰国GDP预测（泰国经济直接受影响）
+
+**软文、PR稿、旅游促销、社会新闻——只要与泰国有关，全收，用 tags 标注，交给 publish 阶段精选。**
 
 #### 5b. 去重（纯机械判断，不带主观）
 对比 `data/news_pool.json` 中现有条目的 `url` + `title_cn`，以及 `data/history.json` 中的 `title`：
@@ -100,16 +122,30 @@ python3 scripts/fetch_brave.py data/issues/YYYY-MM-DD-raw.json
 - `property`：明确的房产市场动态、政策、项目
 - `thailand`：以上都不是 → 归政经动态（兜底板块）
 
-#### 5d. 写入 news_pool.json
-将所有通过过滤+去重的新条目追加到 `data/news_pool.json`（数组追加，不清空）。
+#### 5d. 每日入库上限
 
-**写入前先清理过期条目：**
-```python
-today = date.today().isoformat()
-pool = [item for item in pool if item["expires_date"] >= today]
+通过排除+去重后，如候选条目超过 **50条**，按以下优先级取前50：
+1. P1 优先于 P2 优先于 P3
+2. 同级别内，时效性内容（`time_sensitive: true`）优先
+3. 同级别同类型内，RSS 来源优先于 Brave（RSS 来源更可靠）
+
+**每天最多新增50条入库。**
+
+#### 5e. 写入 news_pool.json
+
+**第一步：归档过期条目**
+
+读取 `data/news_pool.json`，将 `expires_date < 今日` 的条目移入归档文件：
+```
+data/archive/YYYY-MM.json  （按月归档，文件名为过期条目的 added_date 所在月份）
 ```
 
-然后 append 新条目，按 `added_date` 降序排序后写回文件。
+归档文件格式：数组，每月一个文件，只追加不覆盖（读取现有内容后 append 再写回）。
+若文件不存在则新建。
+
+**第二步：追加新条目**
+
+将本次新条目 append 到清理后的 pool，按 `added_date` 降序排序后写回 `data/news_pool.json`。
 
 ### 第6步：打印入库统计（写到 stderr 即可）
 ```
