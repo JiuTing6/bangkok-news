@@ -44,6 +44,11 @@ SEARCH_GROUPS = [
     # 曼谷本地
     ("Bangkok city news latest 2026",                           "pw"),
     ("Bangkok city news crime safety development 2026",         "pw"),
+    # AI 泰国
+    ("Thailand AI data center investment infrastructure 2026",  "pw"),
+    ("Thailand artificial intelligence government education healthcare 2026", "pw"),
+    # 新楼盘
+    ("Bangkok new condo launch presale opening 2026",           "pw"),
 ]
 
 # 触发式搜索组（仅在相关话题出现时才跑，在代码里手动添加到TRIGGERED_GROUPS）
