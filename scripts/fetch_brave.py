@@ -17,44 +17,29 @@ from datetime import datetime, timezone
 # ── API 配置 ──────────────────────────────────────────────────────────────────
 BRAVE_API_KEY = "BSA2h45NgEAJZRtc7IjJJOO-L1FBgOs"
 BRAVE_API_URL = "https://api.search.brave.com/res/v1/web/search"
-RESULTS_PER_QUERY = 10       # 每组最多抓几条
+RESULTS_PER_QUERY = 8        # 每组最多抓几条
 DELAY_BETWEEN_QUERIES = 1.2  # 秒，避免触发限速
 
 # ── 搜索组配置 ────────────────────────────────────────────────────────────────
+# 定位：补漏+惊喜发现，主力新闻由RSS覆盖
 # 每组：(query, freshness)
 # freshness: "pd"=过去1天, "pw"=过去1周, "pm"=过去1月, None=不限
+# 2026-03-05 v2: 从16组精简到4组，聚焦RSS不覆盖的领域
 SEARCH_GROUPS = [
-    # 政治
-    ("Thailand politics coalition government 2026",              "pw"),
-    ("Thailand People's Party OR Pheu Thai OR Bhumjaithai 2026", "pw"),
-    ("ข่าวการเมืองไทย รัฐบาล ล่าสุด",                           "pw"),
-    # 经济
-    ("Thailand economy GDP inflation central bank 2026",         "pw"),
-    ("เศรษฐกิจไทย ล่าสุด 2569",                                 "pw"),
-    # 科技基建
-    ("Thailand data center cloud AI investment 2026",            "pw"),
-    # 签证外籍
-    ("Thailand visa expat foreigner policy 2026",               "pw"),
-    # 芭提雅房产
-    ('Pattaya luxury condo "Wong Amat" OR "Na Kluea" OR "North Pattaya" 2026', "pm"),
-    ("พัทยาเหนือ คอนโด หรู ต่างชาติ 2569",                     "pm"),
-    # 泰国房产
-    ("Thailand property market luxury foreign buyer 2026",      "pw"),
-    ("อสังหาริมทรัพย์ ไทย ต่างชาติ ซื้อ 2569",                 "pw"),
-    # 曼谷本地
-    ("Bangkok city news latest 2026",                           "pw"),
-    ("Bangkok city news crime safety development 2026",         "pw"),
-    # AI 泰国
-    ("Thailand AI data center investment infrastructure 2026",  "pw"),
-    ("Thailand artificial intelligence government education healthcare 2026", "pw"),
-    # 新楼盘
-    ("Bangkok new condo launch presale opening 2026",           "pw"),
+    # AI / Cloud / Crypto — RSS零覆盖
+    ("Thailand AI data center cloud crypto blockchain 2026 -site:wikipedia.org -site:youtube.com", "pd"),
+    # 国际学校 / 医疗 — RSS覆盖弱
+    ("Bangkok Pattaya international school healthcare hospital expat 2026 -site:wikipedia.org -site:youtube.com", "pd"),
+    # 高端房产（曼谷+芭提雅合并） — RSS部分覆盖，Brave补细分
+    ("Bangkok Pattaya luxury condo launch presale new project foreign buyer 2026 -site:wikipedia.org -site:youtube.com", "pd"),
+    # X.com 泰国话题扫描 — 社交媒体独家信息源
+    ("site:x.com Thailand Bangkok expat policy news 2026", "pd"),
 ]
 
-# 触发式搜索组（仅在相关话题出现时才跑，在代码里手动添加到TRIGGERED_GROUPS）
+# 触发式搜索组（仅在相关话题出现时才跑）
 # 目前默认不跑，如有需要在此追加
 TRIGGERED_GROUPS = [
-    # ("China Thailand investment railway 2026", "pw"),  # 中泰重磅时启用
+    # ("China Thailand investment railway 2026 -site:wikipedia.org", "pd"),
 ]
 
 
