@@ -84,7 +84,7 @@
 
 ### 第5步：生成期数 JSON
 
-将选好的新闻整理为以下格式，保存为 `data/issues/YYYY-MM-DD.json`：
+将选好的新闻整理为以下格式，保存为 `thailand10/YYYY-MM-DD-NNN.json`（NNN为期号，如 005）：
 
 **`highlights` 字段：** 从本期所有文章中，按全局编号顺序（第一个板块第1条=0），选出5条最重要的，填入 `highlights` 列表。显示在页面顶部"本期要闻"区块。
 
@@ -115,18 +115,41 @@
 
 **生成后立即验证 JSON 格式：**
 ```bash
-python3 -c "import json; json.load(open('data/issues/YYYY-MM-DD.json')); print('JSON OK')"
+python3 -c "import json; json.load(open('thailand10/YYYY-MM-DD-NNN.json')); print('JSON OK')"
 ```
 若报错，立即修复（最常见：body/title/comment 里有未转义的英文双引号 `"` → 改为 `\"`）。
 
 ### 第6步：生成 HTML
 ```bash
 cd /Users/Ade/.openclaw/workspace/bangkok-news
-python3 scripts/build_html.py data/issues/YYYY-MM-DD.json
+python3 scripts/build_html.py thailand10/YYYY-MM-DD-NNN.json
 ```
 
-### 第7步：更新记忆文件
+### 第7步：推送到 GitHub
+```bash
+cd /Users/Ade/.openclaw/workspace/bangkok-news
+git add -A
+git commit -m "🗞️ Thailand10 第N期 YYYY-MM-DD"
+git push origin main
+```
 
+### 第8步：通知 Ade
+使用 `message` 工具发送 Telegram 消息（**必须用 message 工具 + channel:telegram，不是 webchat**）：
+
+```
+🗞️ 泰兰德10:00 第N期已发布
+
+📅 YYYY年MM月DD日 周X
+📊 本期精选 XX 条新闻
+
+🔗 https://jiuting6.github.io/bangkok-news/thailand10/YYYY-MM-DD.html
+
+【速览】
+· [最重要的1-2条标题]
+· [第二重要的标题]
+```
+
+### 第9步：更新记忆文件（⚠️ 必须等 git push 成功后再执行）
 **更新 history.json：**
 将本期所有发布条目追加写入，格式：
 ```json
@@ -157,30 +180,6 @@ python3 scripts/build_html.py data/issues/YYYY-MM-DD.json
 }
 ```
 写入前清除已过期条目（expires_date < 今日）。
-
-### 第8步：推送到 GitHub
-```bash
-cd /Users/Ade/.openclaw/workspace/bangkok-news
-git add -A
-git commit -m "🗞️ Thailand10 第N期 YYYY-MM-DD"
-git push origin main
-```
-
-### 第9步：通知 Ade
-使用 `message` 工具发送 Telegram 消息（**必须用 message 工具 + channel:telegram，不是 webchat**）：
-
-```
-🗞️ 泰兰德10:00 第N期已发布
-
-📅 YYYY年MM月DD日 周X
-📊 本期精选 XX 条新闻
-
-🔗 https://jiuting6.github.io/bangkok-news/thailand10/YYYY-MM-DD.html
-
-【速览】
-· [最重要的1-2条标题]
-· [第二重要的标题]
-```
 
 ---
 

@@ -1,20 +1,43 @@
 #!/usr/bin/env python3
 """
 Thailand10 RSS 抓取工具
-用法：python3 fetch_rss.py [days]
+用法：
+  python3 fetch_rss.py 4                              # 抓过去4天
+  python3 fetch_rss.py --start 2026-03-05            # 从指定日期抓到今天
+  python3 fetch_rss.py --start 2026-03-05 --end 2026-03-08  # 指定日期范围
 输出：JSON格式的原始新闻条目
 """
 
 import json
 import sys
+import argparse
 import urllib.request
 import xml.etree.ElementTree as ET
 import hashlib
 import re
 from datetime import datetime, timezone, timedelta
 
-DAYS_BACK   = int(sys.argv[1])  if len(sys.argv) > 1 else 4
-OUTPUT_FILE = sys.argv[2]       if len(sys.argv) > 2 else None
+# 命令行参数解析
+parser = argparse.ArgumentParser(description='Thailand10 RSS 抓取工具')
+parser.add_argument('days', nargs='?', type=int, default=None, help='抓取过去N天')
+parser.add_argument('--start', type=str, help='开始日期 (YYYY-MM-DD)')
+parser.add_argument('--end', type=str, help='结束日期 (YYYY-MM-DD)，默认今天')
+parser.add_argument('-o', '--output', type=str, default=None, help='输出文件路径')
+args = parser.parse_args()
+
+OUTPUT_FILE = args.output
+
+# 如果同时指定了 days 和 --start，优先 --start
+if args.start:
+    # 指定了开始日期
+    start_date = datetime.strptime(args.start, "%Y-%m-%d").date()
+    end_str = args.end if args.end else datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    end_date = datetime.strptime(end_str, "%Y-%m-%d").date()
+    DAYS_BACK = (end_date - start_date).days + 1
+else:
+    # 没有指定开始日期
+    DAYS_BACK = args.days if args.days else 4
+    end_date = None
 
 RSS_SOURCES = [
     {
@@ -102,7 +125,13 @@ def fetch_rss(source):
         root = ET.fromstring(content)
         ns = {"content": "http://purl.org/rss/1.0/modules/content/"}
 
-        cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_BACK)
+        # 计算截止日期
+        if end_date:
+            # 指定了日期范围：只抓 start_date 到 end_date 之间的
+            # cutoff 设为 start_date（保留 start_date 当天及之后的）
+            cutoff = datetime.combine(start_date, datetime.min.time(), tzinfo=timezone.utc)
+        else:
+            cutoff = datetime.now(timezone.utc) - timedelta(days=DAYS_BACK)
 
         for item in root.findall(".//item"):
             title_el  = item.find("title")
@@ -165,6 +194,8 @@ def main():
     output = json.dumps({
         "fetched_at": datetime.now(timezone.utc).isoformat(),
         "days_back": DAYS_BACK,
+        "start_date": args.start if args.start else None,
+        "end_date": args.end if args.end else today.strftime("%Y-%m-%d"),
         "total": len(all_items),
         "items": all_items
     }, ensure_ascii=False, indent=2)
