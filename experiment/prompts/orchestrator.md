@@ -52,18 +52,28 @@ python3 scripts/fetch_brave.py data/issues/TODAY-raw.json
 
 ```bash
 python3 -c "
-import json
+import json, hashlib
 today = 'TODAY'
 with open(f'data/issues/{today}-raw.json') as f:
     raw = json.load(f)
-items = raw.get('items', [])
-for item in raw.get('brave_results', []):
-    for r in item.get('results', []):
-        r['origin'] = 'brave'
-        r.setdefault('source', item.get('query','')[:30])
-        items.append(r)
-for item in items:
+items = []
+for item in raw.get('items', []):
     item.setdefault('origin', 'rss')
+    items.append(item)
+for qg in raw.get('brave_results', []):
+    for r in qg.get('results', []):
+        url = r.get('url','')
+        items.append({
+            'id': hashlib.md5(url.encode()).hexdigest()[:12],
+            'title': r.get('title',''),
+            'desc': r.get('snippet',''),
+            'url': url,
+            'date': r.get('age',''),
+            'source': r.get('source') or qg.get('query','')[:40],
+            'origin': 'brave',
+            'tags': [],
+            'weight': 1,
+        })
 with open(f'data/issues/{today}-flat.json', 'w') as f:
     json.dump(items, f, ensure_ascii=False, indent=2)
 print(f'展平完成: {len(items)} 条')
@@ -111,7 +121,7 @@ spawn 一个 scanner sub-agent，任务说明：
 
 ## 第7步：Dedup Agent（Layer 2）
 
-spawn 一个 scanner sub-agent，任务说明：
+spawn 一个 minimax sub-agent，任务说明：
 
 ```
 按照 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/prompts/dedup_agent.md 的指令执行。
