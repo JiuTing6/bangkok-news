@@ -162,17 +162,19 @@ python3 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/scripts/pool_merg
 
 ---
 
-## 第10步：任务简报
+## 第10步：Telegram 通知
+
+使用 `message` 工具发送 Telegram 通知（channel: telegram），内容：
 
 ```
-[INGEST v2 TODAY]
-- 原料: RSS: X条 | Brave: X条 → 展平后: X条
-- Layer 1 过滤: 保留 X条 / 丢弃 X条
-- Layer 2 去重: 保留 X条 / 跳过 X条
-- Layer 3 翻译: X条标注完成
-- Pool: 新增 X条 → 共 X条
-- 重要性: P1=X P2=X P3=X
-- 板块: BKK=X PTY=X Property=X CN-Thai=X Thailand=X
+📥 Thailand10 Ingest v2 TODAY 完成
+
+原料: RSS X条 | Brave X条 → 展平 X条
+过滤(L1): X条保留 / X条丢弃
+去重(L2): X条保留 / X条跳过
+翻译(L3): X条（含摘要）✅
+Pool: +X条 → 共X条 (P1=X P2=X P3=X)
+板块: BKK=X PTY=X Prop=X CN=X TH=X
 ```
 
 ---
