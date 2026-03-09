@@ -1,5 +1,5 @@
 # Translation Agent — Layer 3 翻译与标注
-# 模型：Sonnet 4.6
+# 模型：Gemini 2.5 Flash (google/gemini-2.5-flash)
 
 ## 你的任务
 
@@ -28,10 +28,12 @@ cat [DEDUPED_FILE]
 - 如果 `desc` 为空或不存在，填 `""`
 
 ### summary_cn（中文摘要）
-- 基于 `desc_original`（或 `desc` 字段）提炼翻译成中文，100-200字
-- 不是直译，是提炼：抓核心事实，去除废话和重复
+- 基于 `desc_original`（或 `desc` 字段）提炼翻译成中文，**100-150字**
+- 不是直译，是提炼：抓核心事实，去废话，结合泰国背景解读
 - 保持客观中立，不加评论（评论是 Stage 2 编辑的工作）
 - 专有名词处理规则与 title_cn 相同（泰国机构/人名/地名附英文对照）
+- **禁止 Markdown 格式**，纯文字输出
+- **如原文信息不足，翻译现有内容，不拒绝、不追问**
 - 如果 `desc` 为空，填 `""`（Stage 2 会盲写短摘要兜底）
 
 ### title_cn（中文标题）

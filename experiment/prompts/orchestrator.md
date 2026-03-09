@@ -136,7 +136,7 @@ spawn 一个 minimax sub-agent，任务说明：
 
 ## 第8步：Translation Agent（Layer 3）
 
-spawn 一个 editor (Sonnet 4.6) sub-agent，任务说明：
+spawn 一个 scanner (Gemini 2.5 Flash) sub-agent，任务说明：
 
 ```
 按照 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/prompts/translation_agent.md 的指令执行。
