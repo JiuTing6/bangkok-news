@@ -138,6 +138,110 @@
         "url": "https://www.pattayamail.com/thailandnews/thai-commerce-ministry-sees-limited-direct-trade-impact-from-middle-east-unrest-flags-rising-logistics-costs-538013",
         "section_hint": "thailand"
       }
+    },
+    {
+      "hash": "cbf5e95dabed",
+      "title": "⚠️ 泰国外交部紧急警告：提醒仍在中东地区的泰国公民尽快撤离高风险区域",
+      "section": "thailand",
+      "importance": "P1",
+      "time_sensitive": true,
+      "added_date": "2026-03-09",
+      "expires_date": "2026-03-24",
+      "article": {
+        "title": "⚠️ 泰国外交部（Foreign Ministry）紧急警告：提醒仍在中东地区的泰国公民尽快撤离高风险区域",
+        "tags": [
+          "#安全",
+          "#外交"
+        ],
+        "body": "泰国外交部发出最高级别安全警报，正式警告仍在中东高风险区域的泰国公民必须立即启动自主撤离，或通过大使馆协助渠道离境。警报覆盖伊朗、以色列及邻近战区的周边国家。外交部表示，当前局势瞬息万变，留守风险极高，政府无法为仍在当地的公民提供完全保障。大使馆已开设24小时热线，协助登记撤离意向。",
+        "comment": "⚠️ 请注意：如有亲属或朋友仍在上述地区，务必第一时间联系泰国驻当地大使馆。",
+        "date": "2026-03-09",
+        "source": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/general/3212509/foreign-ministry-warns-thais-to-leave-risky-mideast"
+      }
+    },
+    {
+      "hash": "9be737db28e1",
+      "title": "战火冲击波：中东局势下泰国能源与供应链的多重压力与应对",
+      "section": "thailand",
+      "importance": "P2",
+      "time_sensitive": true,
+      "added_date": "2026-03-08",
+      "expires_date": "2026-03-23",
+      "article": {
+        "title": "战火冲击波：中东局势下泰国能源与供应链的多重压力与应对",
+        "tags": [
+          "#能源",
+          "#经济数据"
+        ],
+        "body": "泰国各大行业正全面评估中东战争的溢出冲击。能源成本上涨直接推高了制造业、物流和零售业的运营成本；与此同时，航运绕道导致货运时间延长，部分原材料进口出现延误。泰国工业联合会（FTI，Federation of Thai Industries）呼吁政府推出针对中小企业的能源补贴方案，以避免一轮连锁倒闭潮。",
+        "date": "2026-03-08",
+        "source": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/special-reports/3212173/easing-the-shock-of-war"
+      }
+    },
+    {
+      "hash": "caa63b8d4295",
+      "title": "泰国「向游客发钱」辟谣：旅游补贴方案系谣言，官方澄清无此政策",
+      "section": "thailand",
+      "importance": "P2",
+      "time_sensitive": false,
+      "added_date": "2026-03-09",
+      "expires_date": "2026-04-08",
+      "article": {
+        "title": "泰国是否计划向游客发钱？旅游补贴方案传言引发社交媒体热议与官方澄清",
+        "tags": [
+          "#旅游",
+          "#政策"
+        ],
+        "body": "近期在TikTok和微博等平台疯传「泰国将每天给游客2000铢补贴」的消息，泰国旅游局（TAT）和官方随即发出正式声明予以否认，称目前没有任何此类政策正在审议或实施。官方表示，泰国吸引游客靠的是自然景观、美食和文化，而非现金补贴。TAT提醒游客不要被社交媒体上的不实信息误导。",
+        "comment": "🤣 「发钱」谣言每隔一段时间就会死灰复燃。这次又冒头，大概率是中东危机下旅游业焦虑情绪的外溢。",
+        "date": "2026-03-08",
+        "source": "Pattaya Mail",
+        "url": "https://www.pattayamail.com/latestnews/news/is-thailand-planning-to-give-money-to-tourists"
+      }
+    },
+    {
+      "hash": "ef0d6602bac8",
+      "title": "泰国银行坏账出售量2025年骤降36%：银行收紧新增不良贷款管理",
+      "section": "thailand",
+      "importance": "P2",
+      "time_sensitive": false,
+      "added_date": "2026-03-07",
+      "expires_date": "2026-04-06",
+      "article": {
+        "title": "泰国银行坏账出售量2025年骤降36%：银行收紧新增不良贷款管理，静待央行纾困政策",
+        "tags": [
+          "#金融",
+          "#银行",
+          "#不良贷款"
+        ],
+        "body": "泰国2025年全年不良贷款（NPL，Non-Performing Loan）出售规模同比骤降36%，降至近年新低。银行业人士解释，各大银行在当前经济不确定性下选择内部消化和重组，而非急于出售，原因是资产管理公司（AMC）的出价相对保守。泰国银行（BOT）正在讨论是否推出专项纾困方案，协助处理中小企业贷款违约积压问题。",
+        "date": "2026-03-07",
+        "source": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/business/general/3211675/bad-loans-up-for-sale-dipped-by-36-in-2025"
+      }
+    },
+    {
+      "hash": "fe85c8e5daa0_ext",
+      "title": "挪威游客因护照页面破损被普吉岛移民局拘押数日，引发国际关注",
+      "section": "thailand",
+      "importance": "P2",
+      "time_sensitive": true,
+      "added_date": "2026-03-06",
+      "expires_date": "2026-03-21",
+      "article": {
+        "title": "挪威游客因护照页面破损被普吉岛移民局拘押数日，引发挪威媒体国际关注",
+        "tags": [
+          "#涉外",
+          "#签证"
+        ],
+        "body": "一名挪威（Norwegian）游客在抵达普吉岛（Phuket）机场时，因护照内页有轻微破损，被移民局官员认定为「损坏护照」并拘押长达数日。此事经挪威媒体报道后引发国际关注，成为外界审视泰国移民执法尺度的新案例。泰国移民局表示，官员有权拒绝护照状态存疑的入境者，此举符合国际惯例。",
+        "comment": "⚠️ 请注意：赴泰前请仔细检查护照状态，任何破损或污渍均可能成为被拒入境的理由。",
+        "date": "2026-03-05",
+        "source": "Khaosod English",
+        "url": "https://www.khaosodenglish.com/news/2026/03/05/norwegian-tourist-detained-at-phuket-airport-over-torn-passport-page/"
+      }
     }
   ]
 }

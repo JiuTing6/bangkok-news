@@ -89,7 +89,7 @@ Sub-agent 全自动执行：抓取 → 选题 → 撰稿 → 生成 HTML → 推
 
 ## 八、新闻库与 Tracking
 
-**文件：** `data/history.json`、`data/tracking.json`、`data/buffer.json`
+**文件：** `data/published_history.json`、`data/tracking.json`、`data/buffer.json`
 
 每条新闻入库字段：
 
@@ -134,7 +134,7 @@ Sub-agent 全自动执行：抓取 → 选题 → 撰稿 → 生成 HTML → 推
 ```
 
 **专有名词附英文规则：**
-- 需要：泰国机构/政治人物/非常见地名/专业术语（首次出现）
+- 需要：泰国机构/政治人物/省府/非常见地名/专业术语（首次出现）
 - 不需要：曼谷/芭提雅/泰铢/签证/常见国家名
 
 **来源核实原则：** 必须抓取并阅读原文，不得仅凭搜索摘要编写内容，不得使用地产中介/广告网站作为新闻来源。
@@ -161,11 +161,11 @@ Brave 搜索关键词组（11组，英文+泰文）：
 11. `อสังหาริมทรัพย์ ไทย ต่างชาติ ซื้อ 2569` [TH]
 
 曼谷专属补充（每期加跑）：
-- `Bangkok city news BTS Sukhumvit local 2026`
+- `Bangkok city news Sukhumvit local 2026`
 - `Bangkok Metropolitan Administration event development 2026`
 
 中泰触发式（有重磅才跑）：
-- `China Thailand investment railway scandal 2026`
+- `China Thailand investment railway scandal event 2026`
 
 ---
 
@@ -193,7 +193,7 @@ bangkok-news/
 │   └── YYYY-MM-DD.html     # 每期正文
 ├── moments/                # 素坤逸拾光（待开坑）
 ├── data/
-│   ├── history.json        # 已发布hash，去重用
+│   ├── published_history.json        # 已发布hash，去重用
 │   ├── tracking.json       # 持续追踪议题
 │   ├── rotation.json       # 长期内容轮播
 │   └── buffer.json         # 内容储备库（待建）

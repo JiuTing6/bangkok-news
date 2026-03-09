@@ -18,7 +18,7 @@
 
 ### 第2步：读取记忆文件
 - `data/news_pool.json`       → **主要原料来源**，取 `status=pending` 且 `expires_date >= 今日` 的条目
-- `data/history.json`         → 已发布条目（含标题），用于语义去重
+- `data/published_history.json`         → 已发布条目（含标题），用于语义去重
 - `data/tracking.json`        → 持续追踪议题，本期如有进展需标注 🔄
 - `data/buffer.json`          → 内容储备库，pool 可用条目不足10条时从此补充
 - `data/editorial_feedback.md` → **主编反馈日志，必读**，将历史教训内化为编辑判断
@@ -46,7 +46,7 @@
 - **软性参考值：** 25条，新闻密集期可突破
 - **溢出：** 超出25条的优质稿件不丢弃，存入 `data/buffer.json`
 
-**语义去重（对比 history.json）：**
+**语义去重（对比 published_history.json）：**
 - 相同事件 + 无新进展 → 跳过
 - 有明确新进展 → 可选，标注 🔄，正文须点明进展
 
@@ -150,7 +150,7 @@ git push origin main
 ```
 
 ### 第9步：更新记忆文件（⚠️ 必须等 git push 成功后再执行）
-**更新 history.json：**
+**更新 published_history.json：**
 将本期所有发布条目追加写入，格式：
 ```json
 {"title": "...", "date": "YYYY-MM-DD", "issue": N}

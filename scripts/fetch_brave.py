@@ -21,25 +21,27 @@ RESULTS_PER_QUERY = 8        # 每组最多抓几条
 DELAY_BETWEEN_QUERIES = 1.2  # 秒，避免触发限速
 
 # ── 搜索组配置 ────────────────────────────────────────────────────────────────
-# 定位：补漏+惊喜发现，主力新闻由RSS覆盖
+# 定位：补娱乐活动料 —— 音乐节、烟花秀、节日庆典、艺术展、购物节
+# 主力新闻由RSS覆盖，Brave专注活动资讯（RSS很少报）
 # 每组：(query, freshness)
 # freshness: "pd"=过去1天, "pw"=过去1周, "pm"=过去1月, None=不限
-# 2026-03-05 v2: 从16组精简到4组，聚焦RSS不覆盖的领域
+# 2026-03-08 v3: 专注娱乐活动，每期至少选1条
 SEARCH_GROUPS = [
-    # AI / Cloud / Crypto — RSS零覆盖
-    ("Thailand AI data center cloud crypto blockchain 2026 -site:wikipedia.org -site:youtube.com", "pd"),
-    # 国际学校 / 医疗 — RSS覆盖弱
-    ("Bangkok Pattaya international school healthcare hospital expat 2026 -site:wikipedia.org -site:youtube.com", "pd"),
-    # 高端房产（曼谷+芭提雅合并） — RSS部分覆盖，Brave补细分
-    ("Bangkok Pattaya luxury condo launch presale new project foreign buyer 2026 -site:wikipedia.org -site:youtube.com", "pd"),
-    # X.com 泰国话题扫描 — 社交媒体独家信息源
-    ("site:x.com Thailand Bangkok expat policy news 2026", "pd"),
+    # 音乐节 + 演唱会
+    ("Thailand music festival concert Bangkok Pattaya 2026 -site:wikipedia.org -site:youtube.com", "pw"),
+    # 烟花秀 + 节日庆典（泼水节/跨年/国王生日）
+    ("Thailand fireworks Songkran New Year celebration Bangkok Pattaya 2026 -site:wikipedia.org -site:youtube.com", "pw"),
+    # 艺术展 + 博物馆 + 文化活动
+    ("Bangkok Pattaya art exhibition museum cultural event 2026 -site:wikipedia.org -site:youtube.com", "pw"),
+    # 购物节 + 促销 + 展会
+    ("Thailand shopping festival fair expo Bangkok 2026 -site:wikipedia.org -site:youtube.com", "pw"),
 ]
 
 # 触发式搜索组（仅在相关话题出现时才跑）
-# 目前默认不跑，如有需要在此追加
+# 特定节日或大型活动前后启用
 TRIGGERED_GROUPS = [
-    # ("China Thailand investment railway 2026 -site:wikipedia.org", "pd"),
+    # ("Songkran 2026 Thailand festival event -site:wikipedia.org", "pw"),
+    # ("Bangkok Art Biennale 2026 -site:wikipedia.org", "pw"),
 ]
 
 

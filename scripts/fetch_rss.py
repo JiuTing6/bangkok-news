@@ -178,6 +178,7 @@ def fetch_rss(source):
     return items
 
 def main():
+    today = datetime.now(timezone.utc).date()
     all_items = []
     seen_ids = set()
 
