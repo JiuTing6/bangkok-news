@@ -1,41 +1,129 @@
 {
-  "fetched_at": "2026-03-09T12:05:53.693064+00:00",
-  "days_back": 3,
-  "start_date": "2026-03-07",
-  "end_date": "2026-03-09",
-  "total": 25,
+  "fetched_at": "2026-03-10T01:30:12.934618+00:00",
+  "days_back": 2,
+  "start_date": "2026-03-09",
+  "end_date": "2026-03-10",
+  "total": 26,
   "items": [
     {
-      "id": "aa660d6f2cec",
+      "id": "1f23f4c5df4f",
       "source": "Bangkok Post",
       "source_id": "bangkokpost_top",
       "weight": 5,
-      "title": "Air force says Cope Tiger drill with US will go ahead",
-      "url": "https://www.bangkokpost.com/thailand/general/3213130/air-force-says-cope-tiger-drill-with-us-will-go-ahead",
-      "date": "2026-03-09T16:56:00+07:00",
-      "desc": "The Royal Thai Air Force has confirmed its major air exercise, Cope Tiger, with the United States and Singapore, will go ahead in Thailand this month as planned, but with heightened security because of the Mideast war.",
+      "title": "Tourism braces for impact of Mideast war",
+      "url": "https://www.bangkokpost.com/business/general/3213523/tourism-braces-for-impact-of-mideast-war",
+      "date": "2026-03-10T06:52:00+07:00",
+      "desc": "Thai tourism should brace for an influx of foreigners seeking a safe haven amid growing geopolitical conflict, similar to the surge experienced during the Russia-Ukraine War a few years ago, when Russian arrivals rose to 1.74 million in 2024, significantly impacting property markets in tourism cities.",
       "tags": []
     },
     {
-      "id": "19ea8bda4cfc",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
+      "id": "837a96843f52",
+      "source": "Bangkok Post Property",
+      "source_id": "bangkokpost_property",
       "weight": 5,
-      "title": "Southeast Asia faces sweltering heat as war limits energy supply",
-      "url": "https://www.bangkokpost.com/thailand/general/3213100/southeast-asia-faces-sweltering-heat-as-war-limits-energy-supply",
-      "date": "2026-03-09T15:57:00+07:00",
-      "desc": "Southeast Asia is set to see a warmer-than-usual early summer, potentially raising power demand for fuel and straining grids at a time when the Middle East conflict has tightened energy supplies in the region.",
+      "title": "SC Asset persists with shift to non-residential business",
+      "url": "https://www.bangkokpost.com/property/3213488/sc-asset-persists-with-shift-to-nonresidential-business",
+      "date": "2026-03-10T06:46:00+07:00",
+      "desc": "SET-listed developer SC Asset Corporation will continue shifting towards non-residential business, aiming to increase its contribution to net profit to 30% by 2030 from 20% last year.",
       "tags": []
     },
     {
-      "id": "e05829e0939e",
+      "id": "219c34ce0f66",
       "source": "Bangkok Post",
       "source_id": "bangkokpost_top",
       "weight": 5,
-      "title": "Online scams up again, investment fraud worst",
-      "url": "https://www.bangkokpost.com/thailand/general/3213093/online-scams-up-again-investment-fraud-worst",
-      "date": "2026-03-09T15:41:00+07:00",
-      "desc": "The number of online-scam complaints rose again over the past week, with investment fraud causing the most damage, according to police.",
+      "title": "Restaurants call for anti-inflation support",
+      "url": "https://www.bangkokpost.com/business/general/3213413/restaurants-call-for-antiinflation-support",
+      "date": "2026-03-10T06:41:00+07:00",
+      "desc": "The Thai Restaurant Association is calling on the government to support the restaurant industry amid the ongoing conflict in the Middle East.",
+      "tags": []
+    },
+    {
+      "id": "e454c3a48789",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Thai bourse buoyant on return of foreign investors",
+      "url": "https://www.bangkokpost.com/business/investment/3213428/thai-bourse-buoyant-on-return-of-foreign-investors",
+      "date": "2026-03-10T06:38:00+07:00",
+      "desc": "The Stock Exchange of Thailand (SET) has expressed confidence that foreign investors will return to Thai equities once geopolitical tensions subside, noting that Thailand could serve as a regional safe haven and that the bourse has robust mechanisms to manage volatility during periods of crisis.",
+      "tags": []
+    },
+    {
+      "id": "dd3f5b5f8da0",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "ThaiHealth inspects pollution-hit village",
+      "url": "https://www.bangkokpost.com/thailand/general/3213463/thaihealth-inspects-pollutionhit-village",
+      "date": "2026-03-10T05:39:00+07:00",
+      "desc": "CHIANG RAI: A team from the Thai Health Promotion Foundation (ThaiHealth) inspected a riverside community on Sunday, amid growing concerns about heavy metal contamination along the Kok River.",
+      "tags": []
+    },
+    {
+      "id": "5e89ffb5b470",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "PP defiant despite  legal threat to MPs",
+      "url": "https://www.bangkokpost.com/thailand/politics/3213408/pp-defiant-despite-legal-threat-to-mps",
+      "date": "2026-03-10T05:25:00+07:00",
+      "desc": "Natthaphong Ruengpanyawut, leader of the People's Party, has pledged to perform his duties as opposition leader vigorously despite a looming legal case involving 44 MPs from his party.",
+      "tags": []
+    },
+    {
+      "id": "c37ccaf65162",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Govt moves to curb fuel prices",
+      "url": "https://www.bangkokpost.com/thailand/general/3213243/govt-moves-to-curb-fuel-prices",
+      "date": "2026-03-10T05:17:00+07:00",
+      "desc": "The cabinet is expected to approve a series of short- and medium-term energy management measures on Tuesday to cope with surging global energy prices driven by the conflict in the Middle East.",
+      "tags": []
+    },
+    {
+      "id": "c6d5d92cf8a1",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "France, allies preparing bid to 'gradually' reopen Strait of Hormuz",
+      "url": "https://www.bangkokpost.com/world/3213589/france-allies-preparing-bid-to-gradually-reopen-strait-of-hormuz",
+      "date": "2026-03-10T01:45:00+07:00",
+      "desc": "ABOARD THE FRENCH AIRCRAFT CARRIER CHARLES DE GAULLE - France and its allies are preparing a \"defensive\" mission to reopen the strategically vital Strait of Hormuz, President Emmanuel Macron said Monday as the Middle East war entered its second week.",
+      "tags": []
+    },
+    {
+      "id": "021c3fd5133d",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Energy price spike threatens global economic recovery",
+      "url": "https://www.bangkokpost.com/business/general/3213189/energy-price-spike-threatens-global-economic-recovery",
+      "date": "2026-03-09T20:26:00+07:00",
+      "desc": "Global oil prices have entered a &ldquo;danger zone&rdquo; after surging to around US$110 per barrel following reports that an Iranian oil storage facility had been struck, warned Bangkok Bank&rsquo;s (BBL) chief economist.",
+      "tags": []
+    },
+    {
+      "id": "d0bb4e688edb",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "State steps in as oil rockets to $100",
+      "url": "https://www.bangkokpost.com/business/general/3213185/state-steps-in-as-oil-rockets-to-100",
+      "date": "2026-03-09T20:19:00+07:00",
+      "desc": "Thai energy authorities are preparing to secure loans from commercial banks to shore up the Oil Fuel Fund, which is rapidly running dry as global crude prices surge past US$100 per barrel amid the escalating US-Iran conflict.",
+      "tags": []
+    },
+    {
+      "id": "a2074f3dfcc1",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Thai evacuees from Iran arrive in Thailand",
+      "url": "https://www.bangkokpost.com/thailand/general/3213148/thai-evacuees-from-iran-arrive-in-thailand",
+      "date": "2026-03-09T19:40:00+07:00",
+      "desc": "The first group of Thai nationals evacuating Iran amidst conflict with the United States and Israel arrived at Suvarnabhumi airport in Samut Prakan province on Monday evening.",
       "tags": []
     },
     {
@@ -87,17 +175,6 @@
         "Chiang Mai",
         "Chiang Rai"
       ]
-    },
-    {
-      "id": "de33ea1f8c50",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Thai stocks drop on escalating war in Mideast",
-      "url": "https://www.bangkokpost.com/business/general/3212985/thai-stocks-drop-on-escalating-war-in-mideast",
-      "date": "2026-03-09T10:25:00+07:00",
-      "desc": "The Stock Exchange of Thailand dived on Monday amid the escalating war in the Middle East, as oil prices moved beyond US$100 a barrel.",
-      "tags": []
     },
     {
       "id": "ecf8ffbe6dbf",
@@ -159,17 +236,6 @@
         "Evacuation",
         "Iran"
       ]
-    },
-    {
-      "id": "3b292d4cba0d",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "How the AI age is transforming us as people",
-      "url": "https://www.bangkokpost.com/business/general/3212960/how-the-ai-age-is-transforming-us-as-people",
-      "date": "2026-03-09T09:45:00+07:00",
-      "desc": "When we talk about AI transformation, we often point to systems, strategy and structure. But the deeper shift is personal. The AI age is not only redesigning how companies operate. It is reshaping how individuals create value.",
-      "tags": []
     },
     {
       "id": "125edff5de16",
@@ -268,28 +334,6 @@
       ]
     },
     {
-      "id": "0d5be4f25107",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Dollar surges as US-Iran war pushes oil past $100 a barrel",
-      "url": "https://www.bangkokpost.com/world/3212915/dollar-surges-as-usiran-war-pushes-oil-past-100-a-barrel",
-      "date": "2026-03-09T07:38:00+07:00",
-      "desc": "SINGAPORE: The dollar took ⁠another leg higher ⁠on Monday, jumping to a ​three-month peak on the euro as oil surged past $100 a barrel, stocks slid and investors headed for safety ​as protracted war in the Middle East threatened &zwnj;to disrupt global energy supplies.",
-      "tags": []
-    },
-    {
-      "id": "c7b3fd0d38e1",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Thai tourism faces B40bn revenue collapse",
-      "url": "https://www.bangkokpost.com/business/general/3212748/thai-tourism-faces-b40bn-revenue-collapse",
-      "date": "2026-03-09T07:34:00+07:00",
-      "desc": "Thailand could lose more than 40 billion baht in tourism revenue in the worst-case scenario, assuming the Middle East airspace closure lasts for eight weeks, says the Tourism and Sports Ministry.",
-      "tags": []
-    },
-    {
       "id": "87a2184daa32",
       "source": "The Thaiger",
       "source_id": "thaiger",
@@ -305,39 +349,6 @@
         "explosion",
         "Fire"
       ]
-    },
-    {
-      "id": "95dc620f6c98",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Conflict clouds outlook  for Thai vehicle exports",
-      "url": "https://www.bangkokpost.com/business/motoring/3212788/conflict-clouds-outlook-for-thai-vehicle-exports",
-      "date": "2026-03-09T07:15:00+07:00",
-      "desc": "The auto industry could record sluggish car exports this year following the outbreak of war in the Middle East, which also raises inflation concerns if the conflict is prolonged, says Surapong Paisitpatanapong, vice-chairman of the Federation of Thai Industries and spokesman for its Automotive Industry Club.",
-      "tags": []
-    },
-    {
-      "id": "4eff74027ea5",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Thailand braces for fallout from Mideast war",
-      "url": "https://www.bangkokpost.com/business/general/3212813/thailand-braces-for-fallout-from-mideast-war",
-      "date": "2026-03-09T07:10:00+07:00",
-      "desc": "Thailand's fragile economic recovery faces fresh challenges after war erupted between a US-Israel alliance and Iran.",
-      "tags": []
-    },
-    {
-      "id": "f96fe881a250",
-      "source": "Bangkok Post",
-      "source_id": "bangkokpost_top",
-      "weight": 5,
-      "title": "Nominees 'manipulating'  fragrant coconut market",
-      "url": "https://www.bangkokpost.com/business/general/3212698/nominees-manipulating-fragrant-coconut-market",
-      "date": "2026-03-09T06:48:00+07:00",
-      "desc": "The government is stepping up measures to stabilise the fragrant coconut market after investigations uncovered foreign-backed businesses allegedly manipulating prices and harming farmers.",
-      "tags": []
     },
     {
       "id": "accc3a90b51b",
@@ -367,13 +378,25 @@
           "title": "Sunset Beats: Pattaya Music Festival 2026 Hits the Beach for a Month of Melodies",
           "url": "https://www.nationthailand.com/life/entertainment/40063408",
           "snippet": "The Pattaya Music Festival 2026 is a free, month-long event taking place over four weekends in March at various locations, including Central Pattaya Beach and Jomtien Beach.",
-          "age": "3 days ago"
+          "age": "4 days ago"
         },
         {
           "title": "Crowds turn out as month-long Pattaya Beach Music Festival kicks off - Pattaya Mail",
           "url": "https://www.pattayamail.com/news/crowds-turn-out-as-month-long-pattaya-beach-music-festival-kicks-off-538396",
           "snippet": "PATTAYA, Thailand – The Pattaya Music Festival 2026 officially opened on March 6 at 7 p.m. at the Central Pattaya Beach stage, bringing music, entertainment, and tourism promotion to the city throughout March.",
-          "age": "1 day ago"
+          "age": "2 days ago"
+        },
+        {
+          "title": "Thailand’s Tourism Set for Growth as Tomorrowland 2026 Brings World-Class EDM Festival to Pattaya, Attracting Visitors from Across the Globe - Travel And Tour WorldTravel And Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/thailands-tourism-set-for-growth-as-tomorrowland-2026-brings-world-class-edm-festival-to-pattaya-attracting-visitors-from-across-the-globe/",
+          "snippet": "Tomorrowland Thailand 2026 promises an unforgettable three-day festival in Pattaya, where world-class DJs and dazzling stages await EDM fans.",
+          "age": "2 days ago"
+        },
+        {
+          "title": "Security in place as Pattaya Music Festival 2026 kicks off its first weekend - Pattaya Mail",
+          "url": "https://www.pattayamail.com/news/security-in-place-as-pattaya-music-festival-2026-kicks-off-its-first-weekend-538290",
+          "snippet": "Patrols and monitoring will continue ... gather to enjoy the performances. The Pattaya Music Festival 2026 runs every Friday and Saturday throughout March, turning beaches, islands, and public venues across the city into open-air ...",
+          "age": "3 days ago"
         },
         {
           "title": "Songkran Festival Thailand 2026: Official Dates, Local Secrets & Etiquette - KKday Blog",
@@ -382,34 +405,22 @@
           "age": "2 days ago"
         },
         {
-          "title": "Security in place as Pattaya Music Festival 2026 kicks off its first weekend - Pattaya Mail",
-          "url": "https://www.pattayamail.com/news/security-in-place-as-pattaya-music-festival-2026-kicks-off-its-first-weekend-538290",
-          "snippet": "Patrols and monitoring will continue ... gather to enjoy the performances. The Pattaya Music Festival 2026 runs every Friday and Saturday throughout March, turning beaches, islands, and public venues across the city into open-air ...",
-          "age": "2 days ago"
-        },
-        {
-          "title": "Thailand’s Tourism Set for Growth as Tomorrowland 2026 Brings World-Class EDM Festival to Pattaya, Attracting Visitors from Across the Globe - Travel And Tour WorldTravel And Tour World",
-          "url": "https://www.travelandtourworld.com/news/article/thailands-tourism-set-for-growth-as-tomorrowland-2026-brings-world-class-edm-festival-to-pattaya-attracting-visitors-from-across-the-globe/",
-          "snippet": "Tomorrowland Thailand 2026 promises an unforgettable three-day festival in Pattaya, where world-class DJs and dazzling stages await EDM fans.",
-          "age": "1 day ago"
-        },
-        {
-          "title": "Pattaya Music Festival 2026 Arrives Every Weekend in March - The Pattaya News",
-          "url": "https://thepattayanews.com/2026/02/21/pattaya-music-festival-2026-arrives-every-weekend-in-march/",
-          "snippet": "– Week 4: March 27–28, 2026 — Lan Pho Public Park, Naklua (green open space in the Naklua area). The festival will feature a mix of popular Thai pop, rock, hip-hop, and other genres to suit different tastes.",
-          "age": "1 week ago"
-        },
-        {
           "title": "Bangkok launches ‘Galaxy of Love 2026’ festival blending art, music and immersive technology - Pattaya Mail",
           "url": "https://www.pattayamail.com/thailandnews/bangkok-launches-galaxy-of-love-2026-festival-blending-art-music-and-immersive-technology-538470",
           "snippet": "... Nat Kruthasoot, Deputy Governor for Tourism Products and Business at the Tourism Authority of Thailand, opens the “Amazing Thailand Galaxy of Love 2026” festival at One Bangkok Park in Bangkok, showcasing immersive domes, music performances, ...",
-          "age": "1 day ago"
+          "age": "2 days ago"
         },
         {
-          "title": "Thailand Set to Host the Biggest Music Event of 2026 – Tomorrowland’s Historic Debut in Pattaya Will Shake the Asian Festival Scene! - Travel And Tour WorldTravel And Tour World",
-          "url": "https://www.travelandtourworld.com/news/article/thailand-set-to-host-the-biggest-music-event-of-2026-tomorrowlands-historic-debut-in-pattaya-will-shake-the-asian-festival-scene/",
-          "snippet": "The highly anticipated Tomorrowland Thailand will make its debut in Pattaya, Thailand, from 11–13 December 2026, marking the first-ever full-scale Asian edition of the iconic Belgian electronic music festival.",
-          "age": "1 week ago"
+          "title": "Tomorrowland Thailand | Tomorrowland Thailand: Everything you need to about inaugural Asian edition of EDM festival - Telegraph India",
+          "url": "https://www.telegraphindia.com/entertainment/tomorrowland-thailand-everything-you-need-to-about-inaugural-asian-edition-of-edm-festival/cid/2150277",
+          "snippet": "Tomorrowland will hold its first full-scale Asian edition in Thailand from December 11 to 13, 2026, with the Tourism Authority of Thailand confirming that the event will take place at Wisdom Valley in the resort city of Pattaya.",
+          "age": "3 days ago"
+        },
+        {
+          "title": "Pattaya Gears Up For Explosive Start to Music Festival 2026 with Free Beach Concerts This Weekend - The Pattaya News",
+          "url": "https://thepattayanews.com/2026/03/05/pattaya-gears-up-for-explosive-start-to-music-festival-2026-with-free-beach-concerts-this-weekend/",
+          "snippet": "Pattaya, Thailand – Music lovers and beachgoers are in for an electrifying treat as the Pattaya Music Festival 2026 kicks off its first weekend on March 6-7 at the Central Pattaya Beach stage.",
+          "age": "5 days ago"
         }
       ]
     },
@@ -425,46 +436,46 @@
           "age": "2 days ago"
         },
         {
+          "title": "Songkran in Bangkok 2026 – Thailand’s Biggest Water Festival",
+          "url": "https://www.pullmanbangkokkingpower.com/songkran-in-bangkok/",
+          "snippet": "Known as the Thai New Year, Songkran is celebrated with water fights, traditional rituals, and a joyful atmosphere. Bangkok has become the heart of the festivities, attracting visitors from around the world.",
+          "age": "1 day ago"
+        },
+        {
+          "title": "Guide to Songkran in Silom 2026 (Latest Updated)",
+          "url": "https://www.ibisstylesbangkoksilom.com/songkran-in-silom/",
+          "snippet": "This year, the event is held from 11 to 13 April in Bangkok during Thailand’s New Year celebration at Ratchadaphisek Road, near the MRT Thailand Cultural Centre Station, which is conveniently accessible from ibis Styles Bangkok Silom through ...",
+          "age": "19 hours ago"
+        },
+        {
+          "title": "Bangkok Celebrates Colorful Cultural Fusion at Holi-Songkran Fiesta 2026",
+          "url": "https://www.indothainews.com/bangkok-celebrates-colorful-cultural-fusion-at-holi-songkran-fiesta-2026/",
+          "snippet": "Held on March 8, 2026, at the ITCC in Bangkok, the event ran from 10:00 AM to 5:00 PM, filling the venue with music, dance, traditional rituals, and the playful spirit of both Holi and Songkran.",
+          "age": "12 hours ago"
+        },
+        {
           "title": "Songkran Water Festival 2026 in Thailand: The Thai New Year Guide",
           "url": "https://www.thailandhighlights.com/thailand/songkran-festival",
           "snippet": "Officially, Songkran runs from April 13–15 every year. April 13 is the key day, when the main rituals happen and the water fights begin. In major cities like Bangkok and Chiang Mai, water fights usually last throughout all three days.",
           "age": "3 days ago"
         },
         {
-          "title": "Songkran — Thailand’s Joyful New Year Water Festival",
-          "url": "https://worldwideinterpreters.com.au/2026/03/02/songkran-thailands-joyful-new-year-water-festival/",
-          "snippet": "Modern Songkran is a striking contrast of calm and chaos. ... • Large-scale water fights • DJ stages and live music • Foam parties and parades • Street-wide celebrations · In places like Bangkok, Songkran now resembles a massive open-air festival, with designated celebration zones, sponsored events, and organized safety measures.",
-          "age": "1 week ago"
+          "title": "Bangkok’s Holi–Songkran Fiesta Brings Two Festivals Together",
+          "url": "https://www.indothainews.com/ready-for-a-splash-of-color-and-water-bangkoks-holi-songkran-fiesta-brings-two-festivals-together/",
+          "snippet": "Bangkok is set to burst with color and celebration as the Holi–Songkran Fiesta 2026 takes place on Sunday, 8 March 2026, at the ITCC in Bangkok, bringing together two of Asia’s most joyful cultural traditions in one lively event.",
+          "age": "4 days ago"
         },
         {
           "title": "Songkran Festival 2026: Celebrate Thailand's Traditional New Year!",
           "url": "https://www.siambusinessguide.com/songkran-festival/",
           "snippet": "Enjoy unforgettable Songkran water festival experiences in Thailand from 13–15 April 2026.",
-          "age": "6 days ago"
-        },
-        {
-          "title": "SIAM Songkran Music Festival 2026: Martin Garrix, Marshmello & Tickets Guide - KKday Blog",
-          "url": "https://www.kkday.com/en/blog/90138/siam-songkran-music-festival",
-          "snippet": "Save 5% on your first KKday app booking with code BLOG5OFF. Download the KKday app here! ... Songkran Thailand 2026 is officially happening from Monday, April 13 to Wednesday, April 15, kicking…",
           "age": "1 week ago"
         },
         {
-          "title": "Bangkok’s Holi–Songkran Fiesta Brings Two Festivals Together",
-          "url": "https://www.indothainews.com/ready-for-a-splash-of-color-and-water-bangkoks-holi-songkran-fiesta-brings-two-festivals-together/",
-          "snippet": "Bangkok is set to burst with color and celebration as the Holi–Songkran Fiesta 2026 takes place on Sunday, 8 March 2026, at the ITCC in Bangkok, bringing together two of Asia’s most joyful cultural traditions in one lively event.",
-          "age": "3 days ago"
-        },
-        {
-          "title": "S2O Thailand 2026 full line-up announced | DJ Mag",
-          "url": "https://djmag.com/news/s2o-thailand-2026-full-line-announced",
-          "snippet": "“The festival’s ‘Party in ... · In 2026, S2O Thailand will once again pair its music line-up with 360-degree water features, transforming the festival site into “an immersive amusement park”....",
-          "age": "1 week ago"
-        },
-        {
-          "title": "Thailand Overtakes China, Japan, South Korea, Taiwan, and More Countries, Soaring to the Top as the Premier Destination for Songkran 2026, Fueling Unprecedented Growth in Global Travel and Cultural Celebrations - Travel And Tour WorldTravel And Tour World",
-          "url": "https://www.travelandtourworld.com/news/article/thailand-overtakes-china-japan-south-korea-taiwan-and-more-countries-soaring-to-the-top-as-the-premier-destination-for-songkran-2026-fueling-unprecedented-growth-in-global-travel-and-cultural-ce/",
-          "snippet": "Pattaya leads the list of domestic destinations, primarily due to its extended celebrations. The city’s festival continues well beyond the traditional Songkran dates, lasting until April 19.",
-          "age": "6 hours ago"
+          "title": "Thailand’s Songkran 2026 Brings New Energy to Pattaya, Joining Chiang Mai, Phuket, Krabi, Koh Samui, and Many Other Destinations, Spotlighting Them as Top Locations for Unforgettable Water Fights, Scenic Beauty, and Cultural Immersion, Making It the Ultimate Travel Experience of the Year - Travel And Tour WorldTravel And Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/thailands-songkran-2026-brings-new-energy-to-pattaya-joining-chiang-mai-phuket-krabi-koh-samui-and-many-other-destinations-spotlighting-them-as-top-locations-for-unforgettable-water-fig/",
+          "snippet": "Thailand’s Songkran 2026 is set to bring new energy to top destinations like Pattaya, Chiang Mai, Phuket, Krabi, and Koh Samui, elevating them as prime locations for unforgettable water fights, scenic beauty, and cultural immersion. With its extended festivities and growing global appeal, Songkran continues to captivate both domestic and international travelers, making it the ultimate travel experience of the year. This year’s celebration is expected to drive significant tourism growth, offering an unparalleled mix of tradition, fun, and picturesque landscapes.",
+          "age": "16 hours ago"
         }
       ]
     },
@@ -473,12 +484,6 @@
       "freshness": "pw",
       "count": 8,
       "results": [
-        {
-          "title": "Three Cities of Art Exhibition at Bangkok Art and Culture Centre Reinterprets Dvaravati Aesthetics, Boosting Cultural Tourism Growth in Thailand - Travel And Tour WorldTravel And Tour World",
-          "url": "https://www.travelandtourworld.com/news/article/three-cities-of-art-exhibition-at-bangkok-art-and-culture-centre-reinterprets-dvaravati-aesthetics-boosting-cultural-tourism-growth-in-thailand/",
-          "snippet": "From 3 to 8 March 2026, the “Three Cities of Art” exhibition will be held at the Bangkok Art and Culture Centre (BACC) in a highly transformative exhibition of Dvaravati aesthetics in the context of modern art.",
-          "age": "1 week ago"
-        },
         {
           "title": "Art in Paradise Pattaya 2026 – Ticket Price, Timings & Photos",
           "url": "https://pattayacitytourcoltd.com/sightseeing/art-in-paradise-pattaya",
@@ -489,7 +494,7 @@
           "title": "Thailand’s Tourism Set for Growth as Tomorrowland 2026 Brings World-Class EDM Festival to Pattaya, Attracting Visitors from Across the Globe - Travel And Tour WorldTravel And Tour World",
           "url": "https://www.travelandtourworld.com/news/article/thailands-tourism-set-for-growth-as-tomorrowland-2026-brings-world-class-edm-festival-to-pattaya-attracting-visitors-from-across-the-globe/",
           "snippet": "When to go The festival will run from December 11 to 13, 2026, offering three full days of music, art, and culture. Visitors can expect an array of performances from some of the most celebrated DJs, live shows, and an overall electrifying atmosphere.",
-          "age": "1 day ago"
+          "age": "2 days ago"
         },
         {
           "title": "Songkran Festival Thailand 2026: Official Dates, Local Secrets & Etiquette - KKday Blog",
@@ -507,18 +512,24 @@
           "title": "Sunset Beats: Pattaya Music Festival 2026 Hits the Beach for a Month of Melodies",
           "url": "https://www.nationthailand.com/life/entertainment/40063408",
           "snippet": "The Pattaya Music Festival 2026 is a free, month-long event taking place over four weekends in March at various locations, including Central Pattaya Beach and Jomtien Beach.",
-          "age": "3 days ago"
+          "age": "4 days ago"
         },
         {
-          "title": "What’s Pattaya Like Today? Step Into the City’s Endless Energy, Thailand 2026 - YouTube",
-          "url": "https://www.youtube.com/watch?v=BRu_FiKUWjI",
-          "snippet": "What’s Pattaya like today? These Pattaya street scenes show the real atmosphere of Pattaya, Thailand - where Beach Road stays lively, the weather stays warm,...",
-          "age": "1 week ago"
+          "title": "Bangkok Design Week 2026 Sets the Stage as Asia’s Creative Hub | The Manila Times",
+          "url": "https://www.manilatimes.net/2026/03/08/tmt-newswire/media-outreach-newswire/bangkok-design-week-2026-sets-the-stage-as-asias-creative-hub/2295391",
+          "snippet": "Elevating Bangkok Design Week as the Creative Hub of Asia · These collaborations represent only a fraction of what unfolds at Bangkok Design Week 2026, taking place from 29 January - 8 February 2026.",
+          "age": "2 days ago"
         },
         {
           "title": "Our Asia Adventure 2026: Bangkok - take it from me, let a private guide handle the (good) chaos",
           "url": "https://www.midlifemusings.ca/post/our-asia-adventure-2026-bangkok-take-it-from-me-let-a-private-guide-handle-the-good-chaos",
           "snippet": "Day 1 was what they call the “Must See Itinerary” for an introduction to Thailand ‘s architecture, culture, and tradition. (An important fact to know about Thailand is that 90% of the population has some degree of adherence to the Buddhist teachings.",
+          "age": "2 days ago"
+        },
+        {
+          "title": "All Events in Bangkok, Today and Upcoming Events in Bangkok",
+          "url": "https://allevents.in/bangkok/all",
+          "snippet": "HortEx - 2026 is happening on Wed 20 May 2026 from 9:00 AM onwards at Bangkok International Trade &amp;amp; Exhibition Centre (BITEC)",
           "age": "1 day ago"
         }
       ]
@@ -529,56 +540,56 @@
       "count": 8,
       "results": [
         {
-          "title": "All Events in Bangkok, Today and Upcoming Events in Bangkok",
-          "url": "https://allevents.in/bangkok/all",
-          "snippet": "Louis CK in Bangkok is happening ... Siam Pic-Ganesha), Bangkok · Thailand Mobile Expo 2026 is happening on Thu 12 Mar 2026 from 12:00 PM onwards at ศูนย์การประชุมแห่งชาติสิร...",
-          "age": "1 day ago"
-        },
-        {
-          "title": "Thairath TV Launches Major Annual Event Thairath Fair Debuting at The Mall Bangkae, 12-15 March",
-          "url": "https://en.thairath.co.th/lifestyle/life/2917488",
-          "snippet": "Mark your calendars for three major fun-filled events in 2026: March at The Mall Live Store Bangkae (12-15 Mar), June at Future Park Rangsit (25-28 Jun), and October at Fashion Island Ramintra (1-4 Oct).",
-          "age": "1 week ago"
-        },
-        {
           "title": "Songkran Festival Thailand 2026: Official Dates, Local Secrets & Etiquette - KKday Blog",
           "url": "https://www.kkday.com/en/blog/89168/thailand-songkran-festival",
           "snippet": "Bangkok BTS Skytrain One-Day Pass(Buy SIM Card to get special ... ... In Chiang Mai, the party is centred around the Old City Wall and moat. Things get really wild at Thapae Gate (East Gate) and Chang Puek Gate (North Gate). These spots are packed with water fights and lots of splashy chaos. Another spot you can’t escape soaking is the plaza at Central Festival Mall. Step out after shopping, and boom!",
           "age": "2 days ago"
         },
         {
+          "title": "All Events in Bangkok, Today and Upcoming Events in Bangkok",
+          "url": "https://allevents.in/bangkok/all",
+          "snippet": "Louis CK in Bangkok is happening ... Siam Pic-Ganesha), Bangkok · Thailand Mobile Expo 2026 is happening on Thu 12 Mar 2026 from 12:00 PM onwards at ศูนย์การประชุมแห่งชาติสิร...",
+          "age": "1 day ago"
+        },
+        {
+          "title": "Thailand Culture Festivals In 2026: From Songkran To Loy Krathong",
+          "url": "https://www.chiangraitimes.com/learning/thailand-culture-festivals-in-2026/",
+          "snippet": "Thailand&#x27;s culture festivals 2026 in the Kingdom of Thailand aren&#x27;t just photo ops; they&#x27;re how this Southeast Asian nation marks seasons, merit, and",
+          "age": "1 day ago"
+        },
+        {
+          "title": "Songkran in Bangkok 2026 – Thailand’s Biggest Water Festival",
+          "url": "https://www.pullmanbangkokkingpower.com/songkran-in-bangkok/",
+          "snippet": "• Shopping Sales: Major shopping malls like King Power Duty-Free, CentralWorld, and Siam Paragon have Songkran sales. You’ll find great deals on fashion, electronics, and souvenirs. • Party: Celebrate Songkran in Bangkok with the King Power Duty-Free event, featuring a Songkran festival and food fair. Also, don’t miss GCircuit 2026, a top event known for its vibrant atmosphere and high-energy parties.",
+          "age": "1 day ago"
+        },
+        {
           "title": "Bangkok Design Week 2026 Sets the Stage as Asia’s Creative Hub | The Manila Times",
-          "url": "https://www.manilatimes.net/2026/03/09/tmt-newswire/media-outreach-newswire/bangkok-design-week-2026-sets-the-stage-as-asias-creative-hub/2295567",
+          "url": "https://www.manilatimes.net/2026/03/07/tmt-newswire/media-outreach-newswire/bangkok-design-week-2026-sets-the-stage-as-asias-creative-hub/2295139",
           "snippet": "Representing the Philippines, Bangkok Design Week 2026 serves as the launch platform for &quot;LAHI (Heritage): The Philippines Fashion Exhibition,&quot; presented through a collaboration between the Department of Trade and Industry (DTI), the Philippine ...",
-          "age": "15 hours ago"
+          "age": "3 days ago"
+        },
+        {
+          "title": "Bangkok Set to Welcome the World as Thailand Counts Down to 2026 IMF-World Bank Annual Meetings",
+          "url": "https://www.nationthailand.com/business/banking-finance/40063309",
+          "snippet": "The meetings, which are due to take place from 12 to 18 October 2026, will be held at the Queen Sirikit National Convention Centre (QSNCC) in Bangkok — the very same venue that welcomed the world when Thailand last hosted the event in 1991.",
+          "age": "6 days ago"
         },
         {
           "title": "Expo 2025 - Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Expo_2025",
           "snippet": "Expo 2025 (2025年日本国際博覧会, Nisennijūgo-nen Nippon Kokusai Hakurankai; and officially 大阪・関西万博, Ōsaka–Kansai Banpaku for short) was a World Expo organized and sanctioned by the Bureau International des Expositions (BIE), which was held in Osaka, Japan.",
-          "age": "1 day ago"
-        },
-        {
-          "title": "Bangkok Design Week 2026 Sets the Stage as Asia’s Creative Hub | Arabian Post",
-          "url": "https://thearabianpost.com/bangkok-design-week-2026-sets-the-stage-as-asias-creative-hub",
-          "snippet": "Representing the Philippines, Bangkok Design Week 2026 serves as the launch platform for “LAHI (Heritage): The Philippines Fashion Exhibition,“ presented through a collaboration between the Department of Trade and Industry (DTI), the Philippine ...",
-          "age": "1 week ago"
-        },
-        {
-          "title": "Thailand Unveils 2026 MICE Masterplan for Global Innovation",
-          "url": "https://www.nationthailand.com/blogs/news/general/40058335",
-          "snippet": "Riding on the strong momentum of previous successful editions, TEA is gearing up to host the Thailand MICE X-Change 2026 (TMX 2026) this coming April at the Queen Sirikit National Convention Center (QSNCC).",
-          "age": "1 week ago"
+          "age": "2 days ago"
         },
         {
           "title": "Home 2026 - Thailand Mobile Expo 2026",
           "url": "https://thailandmobileexpo.com/",
           "snippet": "เปรียบสเปกครบ! 10 สมาร์ทโฟนแฟลกชิพที่น่าซื้อที่สุดตอนนี้” เลือกไม่ถูกว่าแฟลกชิพรุ่นไหนคุ้มค่าที่สุด?",
-          "age": "8 hours ago"
+          "age": "1 day ago"
         }
       ]
     }
   ],
-  "brave_fetched_at": "2026-03-09T12:06:06.157544+00:00",
+  "brave_fetched_at": "2026-03-10T01:30:26.103375+00:00",
   "brave_total": 32
 }

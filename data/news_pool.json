@@ -1,5 +1,600 @@
 [
   {
+    "added_date": "2026-03-10",
+    "desc_original": "Thai tourism should brace for an influx of foreigners seeking a safe haven amid growing geopolitical conflict, similar to the surge experienced during the Russia-Ukraine War a few years ago, when Russian arrivals rose to 1.74 million in 2024, significantly impacting property markets in tourism cities.",
+    "event_id": "thailand_tourism_mideast_impact_2026_03",
+    "expires_date": "2026-06-10",
+    "id": "1f23f4c5df4f",
+    "importance": "P1",
+    "location_detail": "Thailand",
+    "origin": "rss",
+    "section_hint": "thailand",
+    "source": "Bangkok Post",
+    "status": "pending",
+    "summary_cn": "随着中东地缘政治冲突加剧，泰国旅游业预计将迎来大量寻求避风港的外国人，类似于俄乌战争期间的涌入。2024年俄罗斯入境人数曾飙升至174万，对旅游城市的房地产市场产生重大影响。目前泰国被视为区域避风港，预计将再次吸引避险人群。这对关注泰国房产和长期居留政策的投资者是重要信号。",
+    "tags": [
+      "#泰国旅游",
+      "#地缘政治",
+      "#避风港",
+      "#房产市场"
+    ],
+    "time_sensitive": true,
+    "title_cn": "旅游业严阵以待：中东冲突或引发赴泰“避难”潮 (Tourism braces for impact of Mideast war)",
+    "url": "https://www.bangkokpost.com/business/general/3213523/tourism-braces-for-impact-of-mideast-war"
+  },
+  {
+    "added_date": "2026-03-10",
+    "desc_original": "Thai energy authorities are preparing to secure loans from commercial banks to shore up the Oil Fuel Fund, which is rapidly running dry as global crude prices surge past US$100 per barrel amid the escalating US-Iran conflict.",
+    "event_id": "thailand_oil_fund_crisis_2026_03",
+    "expires_date": "2026-04-10",
+    "id": "d0bb4e688edb",
+    "importance": "P1",
+    "location_detail": "Thailand",
+    "origin": "rss",
+    "section_hint": "thailand",
+    "source": "Bangkok Post",
+    "status": "pending",
+    "summary_cn": "受美伊冲突升级影响，全球原油价格已突破每桶100美元。泰国燃油基金正迅速耗尽，能源部门计划向商业银行贷款以填补缺口并维持燃油价格补贴。内阁预计周二批准短期和中期能源管理措施。油价上涨将直接推高泰国国内通胀和生活成本，是目前宏观经济的核心变量。",
+    "tags": [
+      "#能源危机",
+      "#通货膨胀",
+      "#油价",
+      "#宏观经济"
+    ],
+    "time_sensitive": true,
+    "title_cn": "油价突破100美元：泰国动用贷款维持燃油基金 (State steps in as oil rockets to $100)",
+    "url": "https://www.bangkokpost.com/business/general/3213185/state-steps-in-as-oil-rockets-to-100"
+  },
+  {
+    "id": "c37ccaf65162",
+    "url": "https://www.bangkokpost.com/thailand/general/3213243/govt-moves-to-curb-fuel-prices",
+    "title": "Govt moves to curb fuel prices",
+    "title_cn": "政府采取措施抑制燃油价格",
+    "desc_original": "The cabinet is expected to approve a series of short- and medium-term energy management measures on Tuesday to cope with surging global energy prices driven by the conflict in the Middle East.",
+    "summary_cn": "内阁预计将于周二批准一系列短期和中长期能源管理措施，以应对中东冲突导致的全球能源价格上涨。",
+    "tags": [
+      "#能源",
+      "#燃油价格",
+      "#政府政策"
+    ],
+    "source": "Bangkok Post",
+    "origin": "rss",
+    "importance": "P1",
+    "section_hint": "thailand",
+    "location_detail": "Thailand",
+    "event_id": "thailand_c37ccaf6_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": true,
+    "status": "pending"
+  },
+  {
+    "id": "f613aadcb027",
+    "url": "https://www.khaosodenglish.com/news/2026/03/09/thai-regulator-eases-rules-for-evacuation-flights/",
+    "title": "Thai Regulator Eases Rules for Evacuation Flights",
+    "title_cn": "泰国监管机构放松撤离航班规定",
+    "desc_original": "BANGKOK — 9 March 2026, Thailand's civil aviation regulator has eased rules to allow additional evacuation flights amid conflict in the Middle East, prioritising humanitarian needs for passengers stranded abroad. Air Chief Marshal Manat Chavanaprayoon, director of the Civil Aviation Authority of Thailand (CAAT), said on Monday that under normal circumstances flight approvals must follow each country's standard procedures. However, during war or emergencies, authorities often need greater flexibility and cooperation, particularly for flights arranged to repatriate citizens or passengers back to",
+    "summary_cn": "泰国航空监管机构放宽规定，允许在中东冲突期间增加撤离航班，优先考虑被困海外乘客的人道主义需求。CAAT 表示将提供更大灵活性。",
+    "tags": [
+      "#航空",
+      "#撤离",
+      "#人道主义"
+    ],
+    "source": "Khaosod English",
+    "origin": "rss",
+    "importance": "P1",
+    "section_hint": "thailand",
+    "location_detail": "Thailand",
+    "event_id": "thailand_f613aadc_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": true,
+    "status": "pending"
+  },
+  {
+    "id": "97d6a279adc3",
+    "url": "https://thethaiger.com/news/national/first-group-62-thai-nationals-arrives-safely-turkey-from-iran",
+    "title": "First group of 62 Thai nationals arrives safely in Turkey from Iran",
+    "title_cn": "首批62名泰国公民经土耳其安全撤离",
+    "desc_original": "First group of 62 Thai nationals arrives safely in Turkey from Iran Legacy A group of 62 Thai nationals has crossed from Iran into Turkey as part of a Royal Thai Government evacuation effort linked to an ongoing conflict in the Middle East, with onward travel to Thailand planned over March 8 and today, March 9. Officials at the Kapıköy border checkpoint received the first group on the evening of March 7 at 6.40pm local time. The reception was coordinated with the Department of Consular Affairs and representatives from the Royal Thai Embassy in Ankara. Photo via MFA Border staff at Kapıköy faci",
+    "summary_cn": "作为泰国政府撤离行动的一部分，62名泰国公民从伊朗进入土耳其，计划于3月8-9日返回泰国。",
+    "tags": [
+      "#撤侨",
+      "#伊朗",
+      "#土耳其"
+    ],
+    "source": "The Thaiger",
+    "origin": "rss",
+    "importance": "P1",
+    "section_hint": "thailand",
+    "location_detail": "Turkey",
+    "event_id": "thailand_97d6a279_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": true,
+    "status": "pending"
+  },
+  {
+    "id": "c30ec68b412e",
+    "url": "https://www.nationthailand.com/business/banking-finance/40063309",
+    "title": "Bangkok Set to Welcome the World as Thailand Counts Down to 2026 IMF-World Bank Annual Meetings",
+    "title_cn": "曼谷将主办2026年IMF-世界银行年会",
+    "desc_original": "The meetings are due to take place from 12 to 18 October 2026 at the Queen Sirikit National Convention Centre (QSNCC) in Bangkok.",
+    "summary_cn": "会议将于2026年10月12日至18日在曼谷诗丽吉国家会议中心（QSNCC）举行，这是泰国自1991年以来再次主办该盛会。",
+    "tags": [
+      "#国际会议",
+      "#金融",
+      "#曼谷"
+    ],
+    "source": "Thailand shopping festival fair expo Ban",
+    "origin": "brave",
+    "importance": "P1",
+    "section_hint": "bangkok",
+    "location_detail": "Bangkok",
+    "event_id": "thailand_c30ec68b_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": true,
+    "status": "pending"
+  },
+  {
+    "added_date": "2026-03-10",
+    "desc_original": "The Stock Exchange of Thailand (SET) has expressed confidence that foreign investors will return to Thai equities once geopolitical tensions subside, noting that Thailand could serve as a regional safe haven and that the bourse has robust mechanisms to manage volatility during periods of crisis.",
+    "event_id": "set_foreign_investors_outlook_2026_03",
+    "expires_date": "2026-06-10",
+    "id": "e454c3a48789",
+    "importance": "P2",
+    "location_detail": "Bangkok",
+    "origin": "rss",
+    "section_hint": "thailand",
+    "source": "Bangkok Post",
+    "status": "pending",
+    "summary_cn": "泰国证券交易所（SET）表示，一旦地缘政治紧张局势缓解，外资将重返泰国股市。SET认为泰国具有区域避风港潜力，且交易所拥有健全的机制来管理危机期间的波动。在当前全球股市动荡背景下，SET试图稳固投资者信心，强调泰国的避险价值。",
+    "tags": [
+      "#泰国股市",
+      "#SET",
+      "#外资",
+      "#资产避风港"
+    ],
+    "time_sensitive": true,
+    "title_cn": "交易所看好外资归来：泰国股市被视为避风港 (Thai bourse buoyant on return of foreign investors)",
+    "url": "https://www.bangkokpost.com/business/investment/3213428/thai-bourse-buoyant-on-return-of-foreign-investors"
+  },
+  {
+    "added_date": "2026-03-10",
+    "desc_original": "Two arrested after luxury watches stolen in Pattaya home break-in. 26 year old Kritsaphong and 28 year old Nakarin, were linked to a burglary at a luxury home in the Phra Tamnak area, where two intruders allegedly climbed a wall to enter the property. Luxury watches worth more than 6.4 million baht reported stolen.",
+    "event_id": "pattaya_luxury_burglary_arrest_2026_03",
+    "expires_date": "2026-04-10",
+    "id": "bc4a484f1869",
+    "importance": "P2",
+    "location_detail": "Phra Tamnak, Pattaya",
+    "origin": "rss",
+    "section_hint": "pattaya",
+    "source": "The Thaiger",
+    "status": "pending",
+    "summary_cn": "芭提雅警方逮捕了两名涉嫌在帕塔纳克山（Phra Tamnak）豪宅区行窃的男青年。嫌犯翻墙进入屋内，盗走价值超过640万泰铢的多块名表。此事件提醒在芭提雅居住的外国人，高净值社区的安保和财产保险仍需重视。目前嫌犯已被拘留并接受进一步调查。",
+    "tags": [
+      "#芭提雅新闻",
+      "#社会治安",
+      "#名表盗窃",
+      "#豪宅安全"
+    ],
+    "time_sensitive": false,
+    "title_cn": "芭提雅帕塔纳克山豪宅窃案告破：名表价值640万铢 (Two arrested after luxury watches stolen in Pattaya home break-in)",
+    "url": "https://thethaiger.com/news/national/two-arrested-luxury-watches-stolen-pattaya-home-break-in"
+  },
+  {
+    "id": "219c34ce0f66",
+    "url": "https://www.bangkokpost.com/business/general/3213413/restaurants-call-for-antiinflation-support",
+    "title": "Restaurants call for anti-inflation support",
+    "title_cn": "泰国餐饮协会呼吁政府提供抗通胀支持",
+    "desc_original": "The Thai Restaurant Association is calling on the government to support the restaurant industry amid the ongoing conflict in the Middle East.",
+    "summary_cn": "泰国餐饮协会呼吁政府在中东冲突持续的情况下支持餐饮行业。该组织表示，通胀压力和能源成本上涨正在严重冲击餐饮企业生存。",
+    "tags": [
+      "#餐饮",
+      "#通胀",
+      "#经济"
+    ],
+    "source": "Bangkok Post",
+    "origin": "rss",
+    "importance": "P2",
+    "section_hint": "thailand",
+    "location_detail": "Thailand",
+    "event_id": "thailand_219c34ce_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "dd3f5b5f8da0",
+    "url": "https://www.bangkokpost.com/thailand/general/3213463/thaihealth-inspects-pollutionhit-village",
+    "title": "ThaiHealth inspects pollution-hit village",
+    "title_cn": "ThaiHealth  inspects 污染受损村庄",
+    "desc_original": "CHIANG RAI: A team from the Thai Health Promotion Foundation (ThaiHealth) inspected a riverside community on Sunday, amid growing concerns about heavy metal contamination along the Kok River.",
+    "summary_cn": "泰国健康促进基金会团队周日视察了清莱府 Kok 河沿岸一个社区，此前人们对河段重金属污染的担忧日益加剧。",
+    "tags": [
+      "#健康",
+      "#污染",
+      "#清莱"
+    ],
+    "source": "Bangkok Post",
+    "origin": "rss",
+    "importance": "P2",
+    "section_hint": "thailand",
+    "location_detail": "Chiang Rai",
+    "event_id": "thailand_dd3f5b5f_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "5e89ffb5b470",
+    "url": "https://www.bangkokpost.com/thailand/politics/3213408/pp-defiant-despite-legal-threat-to-mps",
+    "title": "PP defiant despite  legal threat to MPs",
+    "title_cn": "人民党领袖无视法律威胁，坚持履行反对党领袖职责",
+    "desc_original": "Natthaphong Ruengpanyawut, leader of the People's Party, has pledged to perform his duties as opposition leader vigorously despite a looming legal case involving 44 MPs from his party.",
+    "summary_cn": "人民党领袖 Natthaphong Ruengpanyawut 表示，尽管面临涉及该党44名议员的法律案件，他仍将坚定履行反对党领袖职责。",
+    "tags": [
+      "#政治",
+      "#人民党",
+      "#议会"
+    ],
+    "source": "Bangkok Post",
+    "origin": "rss",
+    "importance": "P2",
+    "section_hint": "thailand",
+    "location_detail": "Bangkok",
+    "event_id": "thailand_5e89ffb5_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "580a7294965f",
+    "url": "https://thethaiger.com/news/national/cib-finds-gecko-carcasses-pathum-thani-warehouse",
+    "title": "CIB finds 124,200 gecko carcasses at Pathum Thani warehouse",
+    "title_cn": "中央调查局在北革府仓库查获12万条壁虎尸体",
+    "desc_original": "CIB finds 124,200 gecko carcasses at Pathum Thani warehouse Legacy The Central Investigation Bureau (CIB) yesterday, March 8, searched a warehouse in Lam Luk Ka district, Pathum Thani , leading to the arrest of two suspects and the seizure of dried gecko carcasses and restricted wood. The CIB's Natural Resources and Environmental Crime Suppression Division said investigators had developed information that the site was being used to hide wildlife carcasses and protected wood, with possible links to an international smuggling network. Photo via Naewna Officers gathered evidence and obtained a se",
+    "summary_cn": "中央调查局（CIB）搜查北革府兰鲁卡县一个仓库，逮捕两名嫌疑人，查获干燥壁虎尸体和受保护木材，可能与国际走私网络有关。",
+    "tags": [
+      "#犯罪",
+      "#野生动物走私",
+      "#北革府"
+    ],
+    "source": "The Thaiger",
+    "origin": "rss",
+    "importance": "P2",
+    "section_hint": "thailand",
+    "location_detail": "Pathum Thani",
+    "event_id": "thailand_580a7294_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "accc3a90b51b",
+    "url": "https://thethaiger.com/news/bangkok/bangkok-man-kills-ex-wife-after-she-refuses-to-have-sex-with-him",
+    "title": "Bangkok man kills ex-wife after she refuses to have sex with him",
+    "title_cn": "曼谷男子因前妻拒绝发生性关系将其刺死",
+    "desc_original": "Bangkok man kills ex-wife after she refuses to have sex with him Legacy A Thai man fatally stabbed his ex-wife at a rented room in Bangkok yesterday, March 8, after she refused to have sex with him. The suspect, 58 year old Samorn, contacted a friend, who is a police officer, to confess that he murdered his ex-wife, 49 year old Wanatda. Samorn also told the officer he planned to commit suicide , prompting police to send additional support to the location, a room in Phasi Charoen district. Armed officers from Bang Khun Thian Police Station went to a rented room in Soi Thoet Thai 82, Phasi Charo",
+    "summary_cn": "曼谷一名58岁男子因前妻拒绝与其发生性关系，在出租屋内将其刺死。嫌疑人随后联系担任警察的朋友自首，并表示计划自杀。",
+    "tags": [
+      "#犯罪",
+      "#曼谷",
+      "#谋杀"
+    ],
+    "source": "The Thaiger",
+    "origin": "rss",
+    "importance": "P2",
+    "section_hint": "bangkok",
+    "location_detail": "Bangkok",
+    "event_id": "thailand_accc3a90_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "8c79cfe94877",
+    "url": "https://thepattayanews.com/2026/03/05/pattaya-gears-up-for-explosive-start-to-music-festival-2026-with-free-beach-concerts-this-weekend/",
+    "title": "Pattaya Gears Up For Explosive Start to Music Festival 2026 with Free Beach Concerts This Weekend",
+    "title_cn": "芭提雅音乐节周末热辣开场",
+    "desc_original": "Pattaya, Thailand – Music lovers and beachgoers in for an electrifying treat as the Pattaya Music Festival 2026 kicks off its first weekend on March 6-7 at the Central Pattaya Beach stage.",
+    "summary_cn": "芭提雅——2026芭提雅音乐节于3月6-7日在芭提雅海滩舞台拉开首周序幕，音乐爱好者和海滩游客迎来精彩演出。",
+    "tags": [
+      "#旅游",
+      "#音乐节",
+      "#芭提雅"
+    ],
+    "source": "Thailand music festival concert Bangkok ",
+    "origin": "brave",
+    "importance": "P2",
+    "section_hint": "pattaya",
+    "location_detail": "Pattaya",
+    "event_id": "thailand_8c79cfe9_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "added_date": "2026-03-10",
+    "desc_original": "SET-listed developer SC Asset Corporation will continue shifting towards non-residential business, aiming to increase its contribution to net profit to 30% by 2030 from 20% last year.",
+    "event_id": "sc_asset_strategy_shift_2026_03",
+    "expires_date": "2026-12-31",
+    "id": "837a96843f52",
+    "importance": "P3",
+    "location_detail": "Thailand",
+    "origin": "rss",
+    "section_hint": "thailand",
+    "source": "Bangkok Post Property",
+    "status": "pending",
+    "summary_cn": "泰国上市开发商 SC Asset 宣布将继续向非住宅业务转型。其目标是将该业务对净利润的贡献从去年的20%提高到2030年的30%。这反映了泰国顶级开发商在波动的房地产市场中寻求多元化收入和抗风险能力的趋势，反映出纯住宅开发市场的增长放缓压力。",
+    "tags": [
+      "#泰国房产",
+      "#SCAsset",
+      "#商业地产",
+      "#投资趋势"
+    ],
+    "time_sensitive": false,
+    "title_cn": "SC Asset 转型非住宅业务：力争2030年利润占比达30% (SC Asset persists with shift to non-residential business)",
+    "url": "https://www.bangkokpost.com/property/3213488/sc-asset-persists-with-shift-to-nonresidential-business"
+  },
+  {
+    "added_date": "2026-03-10",
+    "desc_original": "Tak — Gas stations in several border districts of Tak province have begun restricting fuel sales, banning vehicles from Myanmar while limiting Thai-registered cars to purchases of no more than 1,000 baht due to surge of vehicles crossing from Myawaddy.",
+    "event_id": "tak_border_fuel_restriction_2026_03",
+    "expires_date": "2026-04-10",
+    "id": "a154a64f0aa8",
+    "importance": "P3",
+    "location_detail": "Mae Sot, Tak",
+    "origin": "rss",
+    "section_hint": "thailand",
+    "source": "Khaosod English",
+    "status": "pending",
+    "summary_cn": "因中东局势导致能源供应担忧，大量车辆从缅甸妙瓦底涌入泰国达府（Tak）加油。目前达府五个边境地区的加油站已开始限制燃油销售：禁止缅甸牌照车辆加油，泰国牌照车辆每车限购1000泰铢。这一现象也反映出泰国燃油价格补贴在邻国对比下的价格优势及供应紧张态势。",
+    "tags": [
+      "#达府",
+      "#缅币贬值",
+      "#燃油限制",
+      "#边境贸易"
+    ],
+    "time_sensitive": true,
+    "title_cn": "达府加油站限制销售：禁缅甸车加油，泰国车限1000铢 (Border gas stations in Tak ban Myanmar vehicles, limit Thai cars to 1,000 baht)",
+    "url": "https://www.khaosodenglish.com/news/2026/03/09/border-gas-stations-in-tak-ban-myanmar-vehicles-limit-thai-cars-to-1000-baht/"
+  },
+  {
+    "added_date": "2026-03-10",
+    "desc_original": "The first group of Thai nationals evacuating Iran amidst conflict arrived at Suvarnabhumi airport on Monday evening.",
+    "event_id": "thai_evacuation_iran_return_2026_03",
+    "expires_date": "2026-03-31",
+    "id": "a2074f3dfcc1",
+    "importance": "P3",
+    "location_detail": "Suvarnabhumi Airport, Bangkok",
+    "origin": "rss",
+    "source": "Bangkok Post",
+    "status": "pending",
+    "summary_cn": "受美伊冲突影响，第一批从伊朗撤离的泰国公民已于周一晚抵达曼谷苏万那普机场。政府协调了经由土耳其的撤离路线。泰国监管机构也简化了撤离航班的审批流程，优先处理人道主义救援。这标志着中东局势对泰国的直接影响已进入领事保护阶段。",
+    "tags": [
+      "#撤侨",
+      "#中东局势",
+      "#苏万那普机场"
+    ],
+    "time_sensitive": true,
+    "title_cn": "首批从伊朗撤离的泰国公民抵达曼谷 (Thai evacuees from Iran arrive in Thailand)",
+    "url": "https://www.bangkokpost.com/thailand/general/3213148/thai-evacuees-from-iran-arrive-in-thailand"
+  },
+  {
+    "id": "125edff5de16",
+    "url": "https://thethaiger.com/news/national/surgery-case-under-scrutiny-after-conflicting-accounts-over-post-op-condition",
+    "title": "Surgery case under scrutiny after conflicting accounts over post-op condition",
+    "title_cn": "泰国整形手术案例引争议：术后情况说法不一",
+    "desc_original": "Surgery case under scrutiny after conflicting accounts over post-op condition Legacy A Thai plastic surgeon defended himself after the patient's family complained that a man remained unconscious for four days and his condition worsened following nose and chin surgery on March 4. The complainant, 34 year old Jiraphat, contacted the non-profit organisation Saimai Survive, saying his older brother, 37 year old Ittiphat, is still in critical condition after undergoing surgery at a clinic. Jiraphat said he paid 480,000 baht for the operation. Jiraphat said his brother trusted the clinic because a w",
+    "summary_cn": "一名泰国整形外科医生为手术后果进行辩护，此前患者家人投诉称一男子在鼻部和下巴整形手术后昏迷四天且情况恶化。患者家人支付48万铢手术费。",
+    "tags": [
+      "#医疗",
+      "#整形手术",
+      "#争议"
+    ],
+    "source": "The Thaiger",
+    "origin": "rss",
+    "importance": "P3",
+    "section_hint": "thailand",
+    "location_detail": "Thailand",
+    "event_id": "thailand_125edff5_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "f0a1872a1b38",
+    "url": "https://www.khaosodenglish.com/life/2026/03/09/thai-teen-earns-bachelors-degree-with-honours-at-16/",
+    "title": "Thai teen earns bachelor's degree with honours at 16",
+    "title_cn": "泰国16岁少年以荣誉学位获学士学位",
+    "desc_original": "BANGKOK — A Thai teenager has drawn attention after graduating with a bachelor's degree with second-class honours at the age of 16 while also building an impressive career in figure skating. Srisupha Kesavapitak, known as 'Beijing', enrolled at Ramkhamhaeng University in 2020 at the age of 13 after passing the IGCSE equivalency exam. She studied in two faculties simultaneously: English in the Faculty of Humanities and Optometry. After three years of study, she completed her first bachelor's degree in English with second-class honours from the Faculty of Humanities. Beijing said the honours deg",
+    "summary_cn": "一名泰国青少年在16岁时以二等荣誉学位毕业，同时花滑成绩斐然。Srisupha Kesavapitak 2020年13岁时通过IGCSE考试进入兰甘亨大学。",
+    "tags": [
+      "#教育",
+      "#神童",
+      "#花滑"
+    ],
+    "source": "Khaosod English",
+    "origin": "rss",
+    "importance": "P3",
+    "section_hint": "thailand",
+    "location_detail": "Bangkok",
+    "event_id": "thailand_f0a1872a_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "ecdbb99357fe",
+    "url": "https://thethaiger.com/news/pattaya/pattaya-bar-worker-reports-foreign-man-steals-mobile-from-cashier-counter",
+    "title": "Pattaya bar worker reports foreign man steals mobile from cashier counter",
+    "title_cn": "芭提雅酒吧员工报告：外籍男子偷走收银台手机",
+    "desc_original": "Pattaya bar worker reports foreign man steals mobile from cashier counter Legacy A foreign man was seen in a CCTV footage, stealing a mobile phone of a Thai worker at a bar in Pattaya at about 8pm yesterday, March 8. The victim feared that the images and personal information on the phone would be leaked and misused. The worker of Utopia bar in Soi Pattaya 6 filed a complaint with Mueang Pattaya Police Station and provided CCTV footage as evidence. The suspect's nationality has not been confirmed. In the video, the suspect was seen wearing a black jacket, black cap, beige shorts and white train",
+    "summary_cn": "芭提雅一家酒吧的员工报告称，昨晚8点左右，一名外籍男子在收银台偷走一名泰国员工的手机。受害者担心手机中的图像和个人信息被泄露滥用。",
+    "tags": [
+      "#犯罪",
+      "#芭提雅",
+      "#盗窃"
+    ],
+    "source": "The Thaiger",
+    "origin": "rss",
+    "importance": "P3",
+    "section_hint": "pattaya",
+    "location_detail": "Pattaya",
+    "event_id": "thailand_ecdbb993_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "d476b7db1ed4",
+    "url": "https://thethaiger.com/news/national/british-man-attacks-thai-police-in-convenience-store-before-being-restrained",
+    "title": "British man attacks Thai police in convenience store before being restrained",
+    "title_cn": "英国男子在便利店攻击泰国警察后被制服",
+    "desc_original": "British man attacks Thai police in convenience store before being restrained Legacy A video circulating online showed a British man attacked a Thai police officer inside a convenience store, before the officer and store staff restrained him. The footage was posted by an X user, @JamesPGoddard90 , yesterday, March 8, with the caption, 'British tourist attacks a Thai police officer in 7-Eleven and instantly regrets it. It's behaviour like this that gives all Brits abroad a bad name.' In the video, the foreign man, reported to be a British national, forced the officer to the floor and punched him",
+    "summary_cn": "网上视频显示一名英国男子在便利店内攻击一名泰国警察，随后被警察和店员制服。视频显示该外籍男子将警察推倒并拳击。",
+    "tags": [
+      "#犯罪",
+      "#英国游客",
+      "#警察"
+    ],
+    "source": "The Thaiger",
+    "origin": "rss",
+    "importance": "P3",
+    "section_hint": "thailand",
+    "location_detail": "Thailand",
+    "event_id": "thailand_d476b7db_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "87a2184daa32",
+    "url": "https://thethaiger.com/news/national/power-bank-suspected-fire-rips-through-home-buriram",
+    "title": "Power bank suspected after fire rips through home in Buri Ram",
+    "title_cn": "疑因充电宝爆炸，武里南府民宅起火",
+    "desc_original": "Power bank suspected after fire rips through home in Buri Ram Legacy Fire tore through a two-storey home in Hin Khon subdistrict, Lam Plai Mat district, Buri Ram, yesterday, March 8, before firefighters could bring the blaze under control, with the suspected cause later linked to a power bank explosion . Fire engines from the local area were dispatched after the report of a house fire in the subdistrict. By the time firefighters arrived, the blaze had already spread through the half-concrete, half-wooden home. Fire crews used multiple engines to douse the flames, but operations were hampered b",
+    "summary_cn": "武里南府 Hin Khon 村一栋两层住宅发生火灾，消防部门怀疑是充电宝爆炸所致。消防车赶到前火势已蔓延。",
+    "tags": [
+      "#意外",
+      "#充电宝",
+      "#武里南"
+    ],
+    "source": "The Thaiger",
+    "origin": "rss",
+    "importance": "P3",
+    "section_hint": "thailand",
+    "location_detail": "Buri Ram",
+    "event_id": "thailand_87a2184d_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "4addf533737d",
+    "url": "https://pattayacitytourcoltd.com/sightseeing/art-in-paradise-pattaya",
+    "title": "Art in Paradise Pattaya 2026 – Ticket Price, Timings & Photos",
+    "title_cn": "Art in Paradise Pattaya 2026 - 门票价格和营业时间",
+    "desc_original": "Explore Art in Paradise Pattaya, Thailand's famous 3D art museum. Check latest ticket prices, opening hours, photos, location.",
+    "summary_cn": "探索泰国著名的3D艺术博物馆芭提雅艺术天堂。查看最新门票价格、营业时间、照片和位置。",
+    "tags": [
+      "#旅游",
+      "#艺术博物馆",
+      "#芭提雅"
+    ],
+    "source": "Bangkok Pattaya art exhibition museum cu",
+    "origin": "brave",
+    "importance": "P3",
+    "section_hint": "pattaya",
+    "location_detail": "Pattaya",
+    "event_id": "thailand_4addf533_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "id": "8e9a47b7f4c1",
+    "url": "https://www.timeout.com/bangkok/art-exhibitions-in-this-march",
+    "title": "Art exhibitions in Bangkok this March",
+    "title_cn": "曼谷3月艺术展览",
+    "desc_original": "This edition frames culture as an archive you carry in your body. It lives in music, photographs, half-remembered conversations and objects kept for reasons you cannot quite explain.",
+    "summary_cn": "本期将文化视为随身携带的档案。它存在于音乐、照片、 半遗忘的对话和出于无法解释的原因保存的物品中。",
+    "tags": [
+      "#艺术",
+      "#展览",
+      "#曼谷"
+    ],
+    "source": "Bangkok Pattaya art exhibition museum cu",
+    "origin": "brave",
+    "importance": "P3",
+    "section_hint": "bangkok",
+    "location_detail": "Bangkok",
+    "event_id": "thailand_8e9a47b7_2026_03",
+    "added_date": "2026-03-10",
+    "expires_date": "2026-06-08",
+    "time_sensitive": false,
+    "status": "pending"
+  },
+  {
+    "added_date": "2026-03-10",
+    "desc_original": "Five walkable cities in Thailand recommended for expats where people can walk to markets, healthcare, and parks without needing a car: Bangkok, Chiang Mai, Chiang Rai, and others.",
+    "event_id": "walkable_cities_thailand_guide_2026_03",
+    "expires_date": "2026-09-10",
+    "id": "ff84605f7e55",
+    "importance": "P4",
+    "location_detail": "Thailand",
+    "origin": "rss",
+    "section_hint": "thailand",
+    "source": "The Thaiger",
+    "status": "pending",
+    "summary_cn": "媒体盘点了泰国五个适合步行生活的城市（包括曼谷、清迈、清莱等），适合希望摆脱堵车困扰的外籍人士和养老人员。文章强调了医疗设施、公园和生活配套的便利性。对于追求生活品质、规避交通压力的人群，这些区域是移居的重要参考。",
+    "tags": [
+      "#泰国移居",
+      "#城市导览",
+      "#步行城市",
+      "#养老目的地"
+    ],
+    "time_sensitive": false,
+    "title_cn": "泰国5个适合步行的宜居城市推荐 (Looking for walkable cities in Thailand to move to? Here's 5)",
+    "url": "https://thethethaiger.com/guides/5-walkable-cities-in-thailand-to-move-to"
+  },
+  {
+    "added_date": "2026-03-10",
+    "desc_original": "Pattaya Music Festival 2026 officially opened on March 6 at the Central Pattaya Beach stage, bringing music and tourism promotion throughout March.",
+    "event_id": "pattaya_music_festival_start_2026_03",
+    "expires_date": "2026-04-01",
+    "id": "4b5de80366fe",
+    "importance": "P4",
+    "location_detail": "Central Pattaya Beach",
+    "origin": "brave",
+    "section_hint": "pattaya",
+    "source": "Pattaya Mail",
+    "status": "done",
+    "summary_cn": "2026年芭提雅音乐节已于3月6日在芭提雅海滩正式开幕。整个3月期间，海滩将举办多场免费音乐会，旨在吸引游客并促进当地旅游消费。如果是周末前往芭提雅，需注意交通封路和人潮拥挤情况。",
+    "tags": [
+      "#芭提雅音乐节",
+      "#旅游活动",
+      "#娱乐资讯"
+    ],
+    "time_sensitive": true,
+    "title_cn": "2026芭提雅音乐节开幕：3月狂欢持续全月 (Crowds turn out as Pattaya Beach Music Festival kicks off)",
+    "url": "https://www.pattayamail.com/news/crowds-turn-out-as-month-long-pattaya-beach-music-festival-kicks-off-538396"
+  },
+  {
     "id": "c7b3fd0d38e1",
     "title_cn": "泰国旅游业面临400亿铢（Baht）收入崩塌：中东战争与高油价双重打击下的至暗时刻",
     "importance": "P1",
@@ -16,7 +611,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Thailand could lose more than 40 billion baht in tourism revenue in the worst-case scenario, assuming the Middle East airspace closure lasts for eight weeks, says the Tourism and Sports Ministry."
   },
   {
     "id": "cbf5e95dabed",
@@ -33,7 +629,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-03-24",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "c109543cd229",
@@ -51,7 +648,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-03-24",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "4eff74027ea5",
@@ -68,7 +666,9 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-03-24",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thailand's fragile economic recovery faces fresh challenges after war erupted between a US-Israel alliance and Iran.",
+    "summary_cn": "美以联军对伊朗发动战争，令泰国本已脆弱的经济复苏雪上加霜。冲突引发的能源价格波动、供应链中断和地区旅游信心下滑，正从多个维度向泰国施压。能源进口依赖、出口竞争力及旅游业收入均面临不确定性风险，各界正密切评估霍尔木兹海峡（Strait of Hormuz）局势对泰国经济的多重冲击。"
   },
   {
     "id": "777dbeeb96de",
@@ -87,7 +687,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": ""
   },
   {
     "id": "bef21b7fab07",
@@ -103,7 +704,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "bd574bd9c6fc",
@@ -121,7 +723,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": ""
   },
   {
     "id": "ce4ed9a6f157",
@@ -137,7 +740,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "1b33614cb544",
@@ -153,7 +757,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "59ebd8665655",
@@ -172,7 +777,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": ""
   },
   {
     "id": "dd6012a0a507",
@@ -188,7 +794,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "63edd4a66a5e",
@@ -204,7 +811,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "544fbf39a4c3",
@@ -220,7 +828,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "b1e2bfa37866",
@@ -236,7 +845,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "2e78007dd590",
@@ -255,7 +865,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "When to go The festival will run from December 11 to 13, 2026, offering three full days of music, art, and culture. Visitors can expect an array of performances from some of the most celebrated DJs, live shows, and an overall electrifying atmosphere."
   },
   {
     "id": "817f24aa99b1",
@@ -273,7 +884,9 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-03-24",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "... Nat Kruthasoot, Deputy Governor for Tourism Products and Business at the Tourism Authority of Thailand, opens the “Amazing Thailand Galaxy of Love 2026” festival at One Bangkok Park in Bangkok, showcasing immersive domes, music performances, ...",
+    "summary_cn": "泰国旅游局（Tourism Authority of Thailand）副局长纳特·庆他萨（Nat Kruthasoot）主持开幕典礼，在曼谷One Bangkok公园正式揭幕「Amazing Thailand Galaxy of Love 2026」节庆活动。活动以沉浸式穹顶装置与现场音乐表演为核心体验，旨在提升入境旅游吸引力，展示泰国文化与创意产业的软实力。"
   },
   {
     "id": "88e9c81adbf1",
@@ -291,7 +904,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "65e1cc73d5bb",
@@ -307,7 +921,9 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-03-24",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Mark your calendars for three major fun-filled events in 2026: March at The Mall Live Store Bangkae (12-15 Mar), June at Future Park Rangsit (25-28 Jun), and October at Fashion Island Ramintra (1-4 Oct).",
+    "summary_cn": "泰叻日报（Thairath）年度嘉年华2026年将分三站举行：3月12至15日在曼谷The Mall Live Store Bangkae商场开幕，6月25至28日移师Future Park Rangsit，10月1至4日在Fashion Island Ramintra收官。活动涵盖娱乐、展览等多类型项目，是泰国媒体举办的年度大型公众活动。"
   },
   {
     "id": "1bf1f1aeebcf",
@@ -324,7 +940,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "ed68ccf3c7cd",
@@ -342,7 +959,8 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "8ed31ff19a6e",
@@ -359,7 +977,9 @@
     "added_date": "2026-03-09",
     "expires_date": "2026-04-08",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "“The festival’s ‘Party in ... · In 2026, S2O Thailand will once again pair its music line-up with 360-degree water features, transforming the festival site into “an immersive amusement park”....",
+    "summary_cn": "S2O Thailand 2026音乐节正式公布演出阵容，活动延续以360度水舞装置配合电子音乐（EDM）表演的特色，将场地打造成沉浸式游乐公园体验。该节庆以泼水为核心互动元素，吸引国内外乐迷参与，是泰国年度重要的大型音乐娱乐活动之一。"
   },
   {
     "id": "9be737db28e1",
@@ -376,7 +996,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The escalating conflict in the Middle East, particularly the looming threat of a blockade of the Strait of Hormuz, is casting a long shadow over the economy.",
+    "summary_cn": "中东冲突持续升级，霍尔木兹海峡（Strait of Hormuz）被封锁的威胁日益逼近，泰国经济面临严峻考验。作为石油进口依赖型经济体，泰国在能源供应安全、原材料成本上涨和供应链稳定等多个层面承受压力，政府和企业正积极研究应对替代方案，全面评估冲击规模。"
   },
   {
     "id": "a7e44728508c",
@@ -396,7 +1018,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Thailand has begun evacuating its first group of nationals from Iran, relocating diplomatic operations to eastern Turkey to support the repatriation effort."
   },
   {
     "id": "c8e451017729",
@@ -412,7 +1035,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The Supreme Administrative Court is reviewing 18 cases related to the recent election and referendum, with one case already dismissed, two rejected, and one withdrawn, says Prawit Boonthiem, vice president of the court.",
+    "summary_cn": "最高行政法院（Supreme Administrative Court）副院长巴威·汶提姆（Prawit Boonthiem）表示，法院目前仍在审查与近期大选及公投相关的18起案件，其中1起已被撤销、2起被驳回、1起由申请方主动撤回，其余案件仍在程序推进中，选后法律争议清理工作持续进行。"
   },
   {
     "id": "403b1415340f",
@@ -429,7 +1054,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "A survey in Khon Kaen on Friday has found the retail price of urea fertiliser to have increased by about 50 baht per sack as stocks at several distributors become depleted ahead of planting season.",
+    "summary_cn": "对孔敬府（Khon Kaen）的调查显示，受中东紧张局势影响，尿素（Urea）化肥零售价格每袋上涨约50铢，多家经销商库存已告紧张。此次涨价恰逢农业播种季前，对农民成本造成直接压力，当地农业部门正密切关注供应动态，评估后续影响。"
   },
   {
     "id": "beca37e73ca3",
@@ -445,7 +1072,8 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-04-07",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "d378383d986d",
@@ -464,7 +1092,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": ""
   },
   {
     "id": "caa63b8d4295",
@@ -481,7 +1110,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "",
+    "summary_cn": "2026年初，社交媒体流传「泰国将每天向外国游客发放2000铢」的消息，引发广泛讨论。泰国官方随即澄清，此说法纯属谣言，政府从未制定或讨论过此类政策。当局呼吁公众通过官方渠道核实旅游相关信息，避免被误导性内容混淆，以免损害泰国旅游业形象。"
   },
   {
     "id": "9272b9e3e4cf",
@@ -498,7 +1129,8 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-04-07",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "5347ed72e343",
@@ -516,7 +1148,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": ""
   },
   {
     "id": "e6de0c1e034d",
@@ -533,7 +1166,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "",
+    "summary_cn": "本文为评论文章，写作于美以联合打击伊朗后第6天。文章指出伊朗已反击多个海湾国家美军目标及以色列，冲突造成超千名平民死亡，据报包括168名女学生罹难。作者以霍尔木兹封锁第6天为切入点，呼吁泰国在「丛林法则」主导的新国际秩序中保持独立外交立场，拒绝随美国立场起舞。"
   },
   {
     "id": "a206d8adf666",
@@ -549,7 +1184,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "",
+    "summary_cn": "2026年3月6日下午4时，差春骚府（Chachoengsao）班珀区（Ban Pho）Cargo Chemical公司（生产稀释剂和易燃化学品）发生重大火灾，浓烟冲天、多次连环爆炸。事发初期有工人被困，消防队紧急出动扑救，周边居民被疏散，火势得到初步控制，暂无死亡报告，事故原因正在调查中。"
   },
   {
     "id": "fe2f6f015ca0",
@@ -566,7 +1203,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "",
+    "summary_cn": "泰国移民局官员博讪（Pol. Col. Phongthorn Phongratchatanan）驳斥柬埔寨媒体报道，称其所谓柬埔寨和印度游客在泰国机场遭不公平拒绝入境并被索取额外费用的说法「完全失实」。他表示相关报道属片面描述，可能损害泰国旅游形象，已要求相关方通过官方渠道核实事实。"
   },
   {
     "id": "66607defd286",
@@ -582,7 +1221,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-04-07",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "2 Thai women jailed in Taiwan for heroin smuggling Legacy A Taiwanese court sentenced two Thai women to prison for smuggling heroin into Taiwan in September last year by swallowing drug packages and concealing them in their genital area. The two women were arrested on September 7 at an airport in Kaohsiung in southern Taiwan after Taiwanese officials said they had received a tip-off about a heroin smuggling operation in August and tightened passenger screening measures at the airport. Officials ",
+    "summary_cn": "台湾法院判决两名泰国女性因走私海洛因（Heroin）入狱，二人于去年9月通过吞咽毒品包装袋并藏匿于身体隐私部位的方式将毒品带入台湾。两人于9月7日在高雄机场落网，台湾当局此前接到线报后已提前加强相关航班旅客安检力度。"
   },
   {
     "id": "522b4ef2a25f",
@@ -601,7 +1242,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": ""
   },
   {
     "id": "50d7d27f01ac",
@@ -618,7 +1260,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "5 things to do in Bangkok this weekend (March 7 to 8) Legacy As always, Bangkok gives you plenty of ways to fill your weekend, whether you want to browse, socialise, plan a trip, or catch something more lively. From festivals and fairs to Muay Thai and a playful singles night, here are five things to do in Bangkok this weekend. On this page Event Date Location Highlight Beer People Festival 2026 at ChangChui Creative Park March 6 to 8 ChangChui Creative Park A bigger version of the former beer f",
+    "summary_cn": "2026年3月7至8日曼谷周末五大推荐活动：ChangChui Creative Park啤酒节（3月6至8日）、昭披耶滨水庆典、泰拳赛事观赛体验、曼谷旅游展览，以及面向单身人士的联谊活动。活动覆盖娱乐、美食和体育多个类型，适合不同偏好的市民和游客。"
   },
   {
     "id": "192ba498c562",
@@ -635,7 +1279,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "",
+    "summary_cn": "曼谷都市电力局（Metropolitan Electricity Authority，MEA）于3月5日宣布，因王通郎（Wang Thonglang）区域大量摩托车遥控启动系统集体失灵，疑似遭无线信号干扰，MEA已临时关闭其网络通讯系统以配合排查。干扰范围包括英他拉蓬路（Intharaphon Road）等多条街道，当局正协同调查干扰源头。"
   },
   {
     "id": "4fbae4a37c6f",
@@ -651,7 +1297,9 @@
     "added_date": "2026-03-08",
     "expires_date": "2026-03-23",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Foreigners sought after dodging fuel bill in Koh Lanta, Krabi Legacy A fuel dispenser owner on Koh Lanta in Krabi is seeking two foreign men who refuelled a motorcycle and left without paying yesterday, March 5. The owner, Sirilak Kasikun, posted CCTV footage of the incident in the Koh Lanta Jobs Facebook group and asked members to help identify the two men. She said the pair served themselves at the dispenser before riding away without making payment. Sirilak later told ThaiRath that the two fo",
+    "summary_cn": "甲米府蔻兰塔岛（Koh Lanta）一名加油站站主希里拉克（Sirilak Kasikun）报告，两名外国男子于3月5日为摩托车加油后拒绝付款扬长而去。她在Facebook群组发布监控录像协助辨认，并向警方报案。摩托车随后被发现遗弃于附近路边，警方正介入调查两名男子身份。"
   },
   {
     "id": "92f88b530df1",
@@ -669,7 +1317,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Bangkok woman&#8217;s dating app meetup turns into Line Man delivery run Chinatown An online dating app meetup in Bangkok took an unexpected turn after a woman said the man she arranged to see turned up in a delivery uniform and insisted she go along with him while he worked. According to a post shared by Facebook page อีซ้อขยี้ข่าว :อีซ้อ yesterday, March 5, the woman met the man on a Facebook dating app and chatted with him for a while. He told her from the start he was not looking for a girlf"
   },
   {
     "id": "4a599c1fb2f5",
@@ -689,7 +1338,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "BANGKOK — Prime Minister Anutin Charnvirakul has ordered a temporary ban on the export of several types of fuel and liquefied petroleum gas (LPG) to prevent potential shortages in Thailand, citing escalating tensions in the Middle East. The order, published in the Royal Thai Government Gazette on 6 March 2026, takes effect immediately under Prime Ministerial Order No. 2/2026. The measure suspends exports of refined fuels including gasoline, gasohol, high-speed diesel and Jet A1 aviation fuel, as"
   },
   {
     "id": "db27a6e8dc98",
@@ -709,7 +1359,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Thailand boosts oil reserves to last 95 days amid Middle East tensions Legacy Thailand&#8217;s oil reserves have risen to a 95-day supply, up from 60 days, following additional procurement efforts by domestic traders, the Ministry of Energy confirmed on Thursday, March 6. Oil traders have been directed to expedite deliveries to regions experiencing shortages, while a directive from the prime minister requires traders to gradually raise the legal reserve proportion from 1% to 3% to ensure long-te"
   },
   {
     "id": "8af675fe6899",
@@ -728,7 +1379,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-03-22",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The war in the Middle East could become a prolonged geopolitical risk, with attacks already spreading across the region and likely to persist for more than a month, potentially causing an energy supply shortage, warn capital market executives.",
+    "summary_cn": "泰国资本市场高管发出警告：中东战争已演变为持续性地缘政治风险，袭击已蔓延至多个区域，冲突预计将持续超过一个月，届时将不可避免地造成能源供应缺口。对石油进口依赖度较高的泰国而言，这一风险对经济和金融市场构成重大威胁，投资者需警惕能源价格剧烈波动。"
   },
   {
     "id": "e9d67258f949",
@@ -746,7 +1399,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-03-22",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai nationals in Iran to begin return journey amid Middle East tensions Legacy Thailand&#8217;s government has confirmed that 125 Thai nationals in Iran have requested repatriation, with the first group of 69 set to depart on March 7 by land to Van, Turkey, before flying home. The update came following a meeting of the Centre for Administration and Monitoring of Situations in the Middle East (CAMSME), with details shared at a briefing at 6.25pm on March 6 at Government House. Panidom Pachimsawa",
+    "summary_cn": "泰国政府确认，目前在伊朗共有125名泰国公民申请回国撤侨。首批69人将于3月7日从伊朗出发，经陆路前往土耳其范城（Van），再转乘飞机返回泰国。相关协调工作由中东局势管理与监测中心（CAMSME）负责，撤侨行动于3月6日晚政府大厅新闻发布会后正式启动。"
   },
   {
     "id": "f97d7da3607e",
@@ -764,7 +1419,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-03-22",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The post-election political landscape has entered a delicate new phase after voters endorsed the first step towards constitutional change in a referendum held alongside the Feb 8 general election &mdash; a victory claimed by the People&rsquo;s Party.",
+    "summary_cn": "2月8日大选同步举行的公投中，选民支持启动修宪进程，人民党（People's Party）将此视为改革授权的重要信号。然而选后政治格局错综复杂，人民党主导的修宪议程在新国会内面临多党博弈，如何在保守势力与各方盟友之间寻求共识，将是决定修宪进程能否推进的关键变量。"
   },
   {
     "id": "4f89758c1941",
@@ -784,7 +1441,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Experts have called for the urgent formation of a new government as Thailand faces mounting economic, geopolitical and climate challenges, warning delays could worsen policy responses and weaken public confidence."
   },
   {
     "id": "ef0d6602bac8",
@@ -802,7 +1460,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The sale of non-performing loans (NPLs) by the banking industry declined by more than 30% last year as banks tightened their management of new bad loans and awaited support measures from the Bank of Thailand.",
+    "summary_cn": "2025年泰国银行业不良贷款（Non-Performing Loans，NPLs）出售规模大幅下降逾30%。银行普遍加强对新增坏账的内部管理，并等待泰国央行（Bank of Thailand）出台相关纾困政策支持。此举反映银行业对外部不确定性的审慎态度，亦显示金融系统正积极消化历史坏账存量。"
   },
   {
     "id": "fe85c8e5daa0",
@@ -823,7 +1483,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Phuket tackles work permit delays for 130,000 foreign workers Legacy Phuket &#8216;s provincial officials are moving to address significant delays in renewing and issuing work permits for more than 130,000 foreign workers, following mounting complaints from employers about the backlog&#8217;s impact on businesses across the island. The issue was raised during a monthly meeting of labour agencies at the Phuket Provincial Labour Office on March 4, prompting Phuket Vice Governor Teeraphong Chuaycho"
   },
   {
     "id": "522b4ef2a25f",
@@ -843,7 +1504,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "BANGKOK — 5 March 2026, Thailand’s Board of Investment (BOI), in cooperation with the Chinese Embassy in Thailand and public and private sector partners, hosted the “Thailand-China Investment Forum: Keys to Success &amp; Sustainable Growth for Chinese Enterprises” at the Siam Kempinski Hotel in Bangkok. The forum aimed to present investment opportunities in Thailand’s targeted industries and provide key information on business regulations and best practices for Chinese investors operating in the"
   },
   {
     "id": "5ec934a5e720",
@@ -863,7 +1525,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "DSI uncovers billion-baht online gambling network linked to politician Legacy The Department of Special Investigation (DSI) has stated it has not issued an arrest warrant for Chonnapat Nakasu, even as investigators uncovered significant evidence linking him to a network of ten online gambling websites with funds circulating in the billions of baht. On March 5, police seized an additional 12 million baht in assets at 2pm. At a press conference held at the DSI conference room in the Ratchaburi Dir"
   },
   {
     "id": "91d250de3837",
@@ -884,7 +1547,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "The Department of Special Investigation (DSI) has summoned Klatham Party MP Chonnaphat Naksua to acknowledge charges linked to an online gambling and money-laundering network, following raids that uncovered audio and chat evidence reportedly tying him to the network."
   },
   {
     "id": "971f4bfdca49",
@@ -901,7 +1565,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "A controversy has erupted over the strict rules set for those taking the exam for admission to Matthayom Suksa 4 (Grade 10) at a prestigious Bangkok school after some students had to discard cash in trash bins, raising concerns that some might have no money to travel home.",
+    "summary_cn": "曼谷一所知名学校高一（Matthayom Suksa 4）入学考试规定引发争议：考场严禁携带现金，部分考生被迫将身上的钱丢入垃圾桶，事后因无钱乘车而陷入困境。事件引发家长和公众对考试管理规定合理性的广泛质疑，相关批评在社交媒体迅速发酵。"
   },
   {
     "id": "b2ccd1120735",
@@ -919,7 +1585,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-03-22",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Marketing spending is likely to decline further as geopolitical conflicts influence consumer sentiment, according to the Marketing Association of Thailand (MAT).",
+    "summary_cn": "泰国营销协会（Marketing Association of Thailand，MAT）发出预警，受中东地缘政治冲突影响，消费者信心持续下滑，预计全年营销和广告支出将进一步收缩。企业正重新评估预算分配，削减品牌推广投入，中东局势的持续恶化是主要压制因素之一，广告市场面临结构性压力。"
   },
   {
     "id": "d378383d986d",
@@ -939,7 +1607,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Pattaya City officials, police, and Banglamung district officers line up during the deployment briefing ahead of the opening night of Pattaya Music Festival 2026 at Pattaya Beach. PATTAYA, Thailand – Authorities have deployed teams of municipal officers, police, and local administrators to ensure safety and smooth operations as the first weekend of the Pattaya Music Festival 2026 gets underway along Pattaya Beach. Pattaya City officials, together with Pattaya Police, Banglamung district administ"
   },
   {
     "id": "caa63b8d4295",
@@ -957,7 +1626,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Online discussions in early 2026 sparked debate after claims circulated on social media suggesting Thailand might give foreign tourists 2,000 baht per day, raising questions about possible incentives to boost tourism. PATTAYA, Thailand &#8211; In early 2026, a wave of discussion began circulating on social media suggesting that Thailand was considering a policy to give foreign tourists 2,000 baht per day. The idea quickly sparked public debate. Some people questioned whether the government was p",
+    "summary_cn": "2026年初，社交媒体流传「泰国将每天向外国游客发放2000铢」的消息，引发广泛讨论。泰国官方随即澄清，此说法纯属谣言，政府从未制定或讨论过此类政策。当局呼吁公众通过官方渠道核实旅游相关信息，避免被误导性内容混淆，以免损害泰国旅游业形象。"
   },
   {
     "id": "d58ab3029ae9",
@@ -974,7 +1645,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-03-22",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thailand braces for summer storm with thunderstorms and strong winds Legacy Thailand&#8217;s Meteorological Department has forecast that upper Thailand will continue to experience thunderstorms and strong winds tomorrow, with 41 provinces, including Bangkok, expected to be affected. On March 6, the department released its weather forecast for the next 24 hours, warning that a summer storm will bring thunderstorms, strong winds, and isolated lightning strikes to upper Thailand. The conditions are",
+    "summary_cn": "泰国气象局（Meteorological Department）3月6日发布天气预警，预测未来24小时内，包括曼谷在内的41个府将受夏季风暴影响，出现雷暴、强阵风和局部闪电。上泰国（Upper Thailand）地区气候条件不稳定，当局提醒民众注意户外安全，避免在强风雷暴期间从事户外活动。"
   },
   {
     "id": "e6de0c1e034d",
@@ -993,7 +1666,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-03-22",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "It has been 6 days since the deadly joint attack by the United States and Israel on Iran, followed by Iran’s retaliatory strikes against mostly American targets in half a dozen Gulf states and against Israel, as people around the world grapple with the economic and geopolitical repercussions. The civilian death toll has surpassed one thousand, according to both US-based and Iranian sources, including 168 schoolgirls reportedly killed in a still-disputed strike on an elementary school in Minab, s",
+    "summary_cn": "本文为评论文章，写作于美以联合打击伊朗后第6天。文章指出伊朗已反击多个海湾国家美军目标及以色列，冲突造成超千名平民死亡，据报包括168名女学生罹难。作者以霍尔木兹封锁第6天为切入点，呼吁泰国在「丛林法则」主导的新国际秩序中保持独立外交立场，拒绝随美国立场起舞。"
   },
   {
     "id": "a206d8adf666",
@@ -1010,7 +1685,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "CHACHOENGSAO — A major fire broke out at a thinner and flammable chemical factory in Ban Pho district on 6 March 2026, sending thick black smoke into the sky and triggering repeated explosions, authorities said. The blaze began around 16:00 at Cargo Chemical Co., Ltd., located at 79/1 Moo 4, Thep Ratcha subdistrict, Ban Pho district. Officials said the fire quickly intensified to a severe level, with flames and dense smoke visible from a distance. Witnesses reported hearing multiple loud blasts ",
+    "summary_cn": "2026年3月6日下午4时，差春骚府（Chachoengsao）班珀区（Ban Pho）Cargo Chemical公司（生产稀释剂和易燃化学品）发生重大火灾，浓烟冲天、多次连环爆炸。事发初期有工人被困，消防队紧急出动扑救，周边居民被疏散，火势得到初步控制，暂无死亡报告，事故原因正在调查中。"
   },
   {
     "id": "fe2f6f015ca0",
@@ -1028,7 +1705,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "BANGKOK — Thai immigration authorities on Thursday rejected reports by Cambodian media claiming Cambodian and Indian tourists were being unfairly denied entry at Thai airports and forced to pay additional fees. Pol. Col. Phongthorn Phongratchatanan, deputy commander of Immigration Division 2 and its spokesperson, said the reports were “completely inaccurate” and presented only one side of the story, which could mislead the public and harm Thailand’s tourism image. The Cambodian report alleged th",
+    "summary_cn": "泰国移民局官员博讪（Pol. Col. Phongthorn Phongratchatanan）驳斥柬埔寨媒体报道，称其所谓柬埔寨和印度游客在泰国机场遭不公平拒绝入境并被索取额外费用的说法「完全失实」。他表示相关报道属片面描述，可能损害泰国旅游形象，已要求相关方通过官方渠道核实事实。"
   },
   {
     "id": "a5167fc4a6a0",
@@ -1046,7 +1725,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Brazilian drug delivery suspect arrested on Koh Pha Ngan Legacy Yesterday, March 5, immigration police in Surat Thani arrested a Brazilian man accused of running a drug delivery service on Koh Pha Ngan. A controlled buy led to the seizure of multiple drugs and more than 106,000 baht in cash. The arrest was made after investigators received information that a foreign suspect, later identified as Brazilian national Pedro, was allegedly acting as a major dealer among tourists on the island. Police ",
+    "summary_cn": "3月5日，苏叻他尼府（Surat Thani）移民警察在帕岸岛（Koh Pha Ngan）逮捕一名巴西籍男子，绰号Pedro，其被指通过WhatsApp向岛上游客提供毒品外卖服务，接受订单后上门配送。警方通过卧底购毒行动完成抓捕，当场缴获多种毒品及逾10.6万铢现金，确认其系岛上重要毒品中间商。"
   },
   {
     "id": "5347ed72e343",
@@ -1066,7 +1747,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Immigration Police officers from Chonburi Province inspect a house in the Jomtien area of Pattaya after uncovering an alleged illegal cannabis processing operation run by a 27-year-old Russian national. PATTAYA, Thailand – Immigration police in Chonburi Province have arrested a Russian national accused of operating an illegal cannabis production and processing site in the Jomtien area of Pattaya. The operation was led by Pol. Col. Decho Sosuwannakul, deputy commander of Immigration Division 3, t"
   },
   {
     "id": "f3dc8439ab76",
@@ -1084,7 +1766,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Transwoman nabbed in Bangkok over South Korean tourist robbery Legacy Following an earlier report on the pool villa incident involving a transgender suspect and a South Korean tourist in Chon Buri, police tracked down and arrested the 20 year old in Bangkok yesterday, March 5. The case dates back to about 3am on February 24, when 46 year old South Korean national Kim Sangyul, and two male friends invited three transgender women they met along the Pattaya beach area to continue drinking at a pool",
+    "summary_cn": "警方于3月5日在曼谷逮捕一名20岁跨性别女性嫌疑人，涉嫌参与2月24日凌晨发生在芭提雅泳池别墅的抢劫案。受害人为46岁韩国游客金相烈（Kim Sangyul）及其朋友，三人邀请在芭提雅海滩结识的三名跨性别女性继续饮酒，随后遭抢劫，嫌疑人此后潜逃至曼谷，现已归案候审。"
   },
   {
     "id": "192ba498c562",
@@ -1102,7 +1786,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "MEA suspends communications system after remote key motorbike failures Legacy The Metropolitan Electricity Authority (MEA) issued a statement yesterday, March 5, saying it had temporarily shut down its network communications system after reports that remote key motorbikes in Wang Thonglang, Bangkok, were failing to start due to suspected signal interference . On its official Facebook account , the MEA said that it had been made aware that residents in Intharaphon Road, Soi Intharaphon 10, Phlapp",
+    "summary_cn": "曼谷都市电力局（Metropolitan Electricity Authority，MEA）于3月5日宣布，因王通郎（Wang Thonglang）区域大量摩托车遥控启动系统集体失灵，疑似遭无线信号干扰，MEA已临时关闭其网络通讯系统以配合排查。干扰范围包括英他拉蓬路（Intharaphon Road）等多条街道，当局正协同调查干扰源头。"
   },
   {
     "id": "35955bf2323c",
@@ -1120,7 +1806,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Asia is where travel strategy is being tested in real time. Bangkok offers a front-row seat to the decisions shaping the industry’s next phase.",
+    "summary_cn": "国际旅游媒体Skift在曼谷举办专业论坛，聚焦亚洲旅游业下一阶段的战略变革。曼谷被定位为全球旅游策略的前沿实验场，成为观察亚洲旅行趋势、数字化转型和旅游体验创新的核心窗口。各行业领袖就市场定位、技术应用及可持续旅游等议题在曼谷展开深度对话。"
   },
   {
     "id": "5acfaf95fde0",
@@ -1138,7 +1826,9 @@
     "added_date": "2026-03-07",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The Thailand Tennis Masters 2026 officially unveiled its tournament jerseys in Bangkok. Scheduled for April 13-20, 2026, the event aims to boost sports tourism by featuring international players and highlighting cities like Bangkok, Pattaya, ...",
+    "summary_cn": "泰国网球大师赛（Thailand Tennis Masters）2026年正式公布球队球衣设计，赛事将于4月13至20日举行，跨越曼谷、芭提雅、普吉和华欣（Hua Hin）四座城市联合举办。组委会期望通过引进国际球员吸引体育旅游人群，同时展示泰国多元城市魅力，推动体育赛事与旅游业深度融合。"
   },
   {
     "id": "10fe5b426e1b",
@@ -1158,7 +1848,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Thailand faces closer scrutiny over products falsely claiming \"Made in Thailand\" status that are exported to the US, following a surge in Thai exports to the American market over the past year."
   },
   {
     "id": "66d4d18fc959",
@@ -1176,7 +1867,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The government has introduced a series of emergency measures to prevent domestic fuel shortages, including increasing oil reserves and suspending most exports, while assuring the public that national energy supplies remain secure.",
+    "summary_cn": "面对中东局势引发的能源供应不确定性，泰国政府紧急出台系列措施：增加国内石油战略储备、暂停大部分燃料出口，以优先保障国内需求。政府同时向公众保证，泰国能源整体供应安全，呼吁民众理性应对，避免恐慌性囤油加剧人为短缺，确保全国能源市场稳定运行。"
   },
   {
     "id": "546a5f07a4af",
@@ -1196,7 +1889,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "War in the Middle East could seriously affect Thai tourism this year, with a 25% decline from the 2026 target being the worst-case scenario if the fighting extends beyond three months, prompting officials to target short‑haul tourists to fill the gap."
   },
   {
     "id": "4d38857747dd",
@@ -1214,7 +1908,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Prime Minister Anutin Charnvirakul has ordered a stepped-up effort to secure more oil and gas after the closure of the Strait of Hormuz cut off access to about half of Thailand&rsquo;s regular supply.",
+    "summary_cn": "总理安努廷（Anutin Charnvirakul）下令紧急加大力度寻找替代石油和天然气来源，原因是霍尔木兹海峡（Strait of Hormuz）封锁导致泰国约半数常规石油供应中断。政府正积极与非中东产油国接触，评估替代供应方案，以应对潜在的能源短缺危机，保障国内市场供应稳定。"
   },
   {
     "id": "7f5d67d9256d",
@@ -1234,7 +1930,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "BANGKOK — 5 March 2026, On Thursday at the Royal Thai Police headquarters, Mr. Atchariya Ruangrattanapong, president of the Crime Victims Assistance Club, submitted evidence to Pol. Gen. Kittirat Phanphet, the national police chief, requesting an investigation into alleged misconduct by officers under the Immigration Bureau assigned to the detention facility at Suan Phlu Immigration Office. He said he had received information that Chinese detainees were being required to pay monthly bribes. The "
   },
   {
     "id": "5d31bece2bba",
@@ -1253,7 +1950,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "94 Vietnamese arrested in Bangkok raid linked to gambling network Legacy Police arrested 94 Vietnamese nationals during a raid on an office in a luxury condominium in Rama 9, Bangkok, yesterday, March 4, after suspicions that the site may have been linked to a call centre scam network . Officers from Makkasan Police Station, Immigration Police and the Cyber Crime Investigation Bureau searched the office, located on the first floor of the condominium in Huai Khwang district. Police said the opera"
   },
   {
     "id": "d4a5b0e95122",
@@ -1270,7 +1968,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The Election Commission (EC) has submitted written responses to 30 police questions as part of an investigation into allegations that several individuals photographed ballot papers and attempted to decode ballot barcodes during a recent re-poll in Bangkok.",
+    "summary_cn": "选举委员会（Election Commission，EC）已就警方提出的30项书面讯问作出正式回应，配合调查曼谷补选期间有人拍摄选票及试图解码条形码的指控。此案涉及选举程序安全性问题，目前仍在侦查阶段，警方正对相关人员身份及行为动机展开核实，选委会表示将全力配合司法程序。"
   },
   {
     "id": "90adf42583fd",
@@ -1288,7 +1988,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Restaurants are bracing for potential hikes in raw material prices due to rising energy costs, driven by the ongoing conflict in the Middle East.",
+    "summary_cn": "中东冲突推高能源价格，泰国餐饮业者正为原材料成本全面上涨做准备。烹饪油、食材运输费用及采购价格均存在上涨压力，部分餐厅正评估是否调整菜单定价或压缩运营支出，以维持可持续经营，业界普遍对中东局势走向保持高度警惕。"
   },
   {
     "id": "fd18e81896c1",
@@ -1307,7 +2009,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "The global surge in memory prices has lifted computer costs in Thailand by 10-20%, while artificial intelligence (AI) server costs have climbed significantly, with some key components such as memory nearly doubling in the first quarter."
   },
   {
     "id": "a329161e4457",
@@ -1324,7 +2027,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "PHUKET — A 26-year-old Norwegian man was detained at Phuket International Airport after Thai immigration officers allegedly found a torn page in his passport, according to a report first published on 27 February by Norwegian daily Verdens Gang (VG). Marcus Haavik, 26, had arrived in Phuket with a friend for a planned two-week holiday when he was stopped at passport control. The pair had intended to spend a week in Phuket, travel to the Phi Phi islands and conclude their trip in Bangkok. Haavik t",
+    "summary_cn": "26岁挪威男子马库斯·哈维克（Marcus Haavik）抵达普吉国际机场度假时，因护照被发现有破损页面而遭泰国移民官员扣押数日。事件由挪威日报《世界之路》（Verdens Gang）率先报道后引发国际关注，外界对泰国出入境审查标准和拘押程序合理性提出质疑，泰方尚未作出正式回应。"
   },
   {
     "id": "89ceab0f7cc7",
@@ -1343,7 +2048,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Middle East airspace disruption: What you need to know about delays and reroutes Legacy The Middle East airspace situation remains highly disrupted as of March 5, 2026, with conflict-driven closures, restrictions and airline suspensions affecting key routes between Europe and Asia. The disruption extends beyond airline cancellations , as airlines, regulators, cargo operators and passengers face a fast-changing risk environment shaped by military escalation, missile and air-defence threats, and n",
+    "summary_cn": "截至2026年3月5日，中东空域因武装冲突持续严重受阻，欧亚之间多条主干航线遭到关闭、限制和航空公司停飞。局势牵涉军事升级、导弹和防空威胁，影响不仅限于航班取消，还波及货运运营商和普通旅客。文章梳理最新绕道方案，并提供旅客权益保护和出行风险应对指南。"
   },
   {
     "id": "b2c7bd04b373",
@@ -1361,7 +2068,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai dancer and girlfriend arrested at Cambodia border checkpoint Legacy Cambodian officials arrested a Thai dancer and his girlfriend after they were reportedly deceived into working for a call centre scam gang. The man, 25 year old Pongsakorn “Aon” Phueanpharam, and his girlfriend , 23 year old Panadda “Dream” Chokeboonrueang, were reported missing on February 24. Aon told his family he would accompany Dream to apply for a job and attend training before she started work. The couple checked int",
+    "summary_cn": "柬埔寨当局在边境关卡逮捕了一对被骗入电话诈骗园区的泰国情侣：25岁舞蹈演员蓬萨坤（Pongsakorn Phueanpharam）和23岁女友帕纳达（Panadda Chokeboonrueang）。二人于2月24日以求职为由进入柬埔寨后失联，现已被安全带回泰国，结束了诈骗园区的噩梦经历。"
   },
   {
     "id": "76a0e39083ff",
@@ -1378,7 +2087,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Chinese man found hanging in Chon Buri with wounds and stun gun marks Legacy Police are investigating the death of a Chinese man whose body was found hanging near a railway track in Chon Buri , with three handwritten suicide notes. His wounds and bruises are consistent with an assault and possible use of a stun gun. A construction contractor, 41 year old Ekkapoj Nundee, found the body while working near the Khao Talo railway track. Ekkapoj said he was assigned to spray water on a nearby road to ",
+    "summary_cn": "警方正在调查一名中国男子在春武里府（Chon Buri）铁路附近死亡案，尸体以绳索悬挂，现场遗留三份手写遗书。然而法医发现其身上有与殴打和电击枪（Stun Gun）使用相符的伤痕和瘀伤，严重质疑自杀说法，案件目前被列为疑似他杀案进行深入调查。"
   },
   {
     "id": "34118f3b40f9",
@@ -1395,7 +2106,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Signal interference disrupts remote-key motorcycles in Bangkok Legacy A suspected signal interference issue has been reported in the Town in Town area of Bangkok , where locals say remote-key motorcycles have repeatedly failed to start . The National Broadcasting and Telecommunications Commission (NBTC) has now issued a preliminary finding after inspecting the area. The issue gained attention after TikTok user @iggunji posted a clip with the captioned headline stating that Town in Town, Wang Tho",
+    "summary_cn": "曼谷Town in Town区（王通郎）居民反映摩托车遥控启动系统反复失灵，疑似受无线信号干扰。国家广播与电信委员会（NBTC）已完成初步现场检查并发布阶段性调查结论，事件经TikTok视频曝光后获广泛关注，与同一区域此前发生的MEA通讯系统事件相互关联，干扰来源尚待确认。"
   },
   {
     "id": "88e32a7cade5",
@@ -1411,7 +2124,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai man accused of killing girlfriend, presents her death as suicide Legacy A Thai man in Suphan Buri province denied an accusation of killing his girlfriend and presenting the death as a suicide . CCTV footage from their accommodation reportedly exposed his criminal act. The case drew public attention after the woman’s relatives approached several news outlets and appeared on Channel 3’s Hone Krasae programme yesterday, March 4, to share details they said were suspicious. The family said polic",
+    "summary_cn": "素攀武里府（Suphan Buri）一名男子被指控杀害女友后将死亡伪装为自杀，本人坚决否认。其住处监控录像据报揭露了事件经过，女方家属随即在媒体曝光，并上电视节目施压警方立案。此案引发公众对女性人身安全问题的广泛关注，警方已介入立案调查。"
   },
   {
     "id": "35951634d7fc",
@@ -1428,7 +2143,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "BANGKOK — Jun Wanavit, founder and owner of Thai electric fan maker Hatari, has died peacefully at the age of 89. Jun, widely known as “Ah Kong Jun”, rose to national prominence in 2022 after donating 900 million baht to the Ramathibodi Foundation to support the construction of a new medical building and innovation projects. The donation sparked widespread admiration on social media, with many Thais posting photos of Hatari fans in their homes in tribute. He was later recognised by Forbes as one",
+    "summary_cn": "泰国知名电扇品牌哈他利（Hatari）创始人俊·华纳维（Jun Wanavit），人称「阿公俊」（Ah Kong Jun），安详辞世，享年89岁。他于2022年向玛希隆大学附属医院拉玛提博迪基金会（Ramathibodi Foundation）捐款9亿铢而广为人知，此后被《福布斯》（Forbes）列入泰国慈善家名单，十年累计捐款逾15亿铢，深受泰国各界爱戴。"
   },
   {
     "id": "a367f22f4bbf",
@@ -1444,7 +2161,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai man attacks mechanic with samurai sword over motorcycle repair dispute Legacy Police in Chon Buri arrested a Thai man for attacking a motorcycle repairman with a samurai sword , leaving the victim needing 27 stitches and suffering an ear injury that was nearly severed. Officers from Bang Lamung Police Station arrested the suspect, 53 year old Anucha Boonthawon, yesterday, March 4, and seized a one-metre samurai sword. Police said the attack took place at a rented room at about 10.30pm on Mo",
+    "summary_cn": "春武里府（Chon Buri）警方逮捕53岁男子阿努查·汶他旺（Anucha Boonthawon），其因摩托维修费用纠纷持一米长武士刀袭击修车师傅，造成对方耳朵几乎被割断，伤口需缝合27针。案发于3月3日夜间约10:30，嫌犯已被带押候审，缴获武士刀一把，案件背景为长期积累的维修费用纠纷激化。"
   },
   {
     "id": "332984d2d39f",
@@ -1461,7 +2180,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "BANGKOK — The United States Trade Representative (USTR) has listed one shopping centre in central Bangkok among markets with high levels of intellectual property (IP) infringement in its 2025 Notorious Markets Report, Thai officials said. Armon Thapthawitham, director-general of the Department of Intellectual Property, said the report, released on 3 March, identified 37 online markets and 32 physical markets across 19 countries. For Thailand, only one physical market — a shopping mall in central",
+    "summary_cn": "美国贸易代表（USTR）在其2025年「恶名市场」报告（Notorious Markets Report）中，将曼谷市中心一座购物中心列为知识产权（IP）侵权高发场所。该报告共涉及19个国家37个网络市场和32个实体市场。泰国知识产权局（Department of Intellectual Property）局长指出，泰国在执法层面获得肯定评价，全国仅有一处实体市场被点名。"
   },
   {
     "id": "2ec234a089b7",
@@ -1478,7 +2199,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Purchasing IT equipment, particularly servers, has become significantly more difficult due to market volatility, said a veteran IT executive who requested anonymity.",
+    "summary_cn": "一位不愿具名的资深IT高管指出，受全球市场剧烈波动影响，泰国企业在采购IT设备（尤其是服务器）方面面临前所未有的困难。价格波动幅度已超过近年历史水平，令企业采购计划难以制定，成本核算存在较大不确定性，数字化转型和基础设施升级项目进度受到制约。"
   },
   {
     "id": "5b29e5d30fe3",
@@ -1495,7 +2218,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-03-21",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai family reports Shanghai hotel staff who sneaks into their room Legacy A Thai family is pursuing legal action against a hotel in Shanghai after they said they found a male staff member sneaking into their room and later claiming he entered by mistake. A Thai woman, Yatida Siriwangchai, posted videos of the incident on her TikTok account, @tyatida , on Tuesday, March 3. In the clips, a man is seen lying in a narrow gap between her father’s bed and the wall, appearing to hide. Yatida asked how",
+    "summary_cn": "泰国女性雅提达（Yatida Siriwangchai）于3月3日在TikTok（账号@tyatida）发布视频，记录了一名上海酒店男性员工藏身其父亲床底的经过，视频中当事人被发现时正躲在床与墙壁之间的狭缝中。该员工事后声称系误入房间。雅提达家庭已启动法律程序向酒店追责，视频在国际社交平台引发大量关注。"
   },
   {
     "id": "597a99492818",
@@ -1511,7 +2236,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Poramet Ngampichet and Manot Nongyai inspect the reclaimed public land at Soi 5 Thanwa as Pattaya moves forward with plans to widen the roadway. PATTAYA, Thailand – Poramet Ngampichet, Mayor of Pattaya, accompanied by Deputy Mayor Manot Nongyai and the mayor’s secretariat team, inspected progress on reclaiming public land along Soi 5 Thanwa, On March 4. Officials from the city’s Engineering Department were also present to provide technical details. Mayor Poramet revealed that the visit focused o",
+    "summary_cn": "芭提雅市长颇拉梅（Poramet Ngampichet）与副市长马诺（Manot Nongyai）于3月4日亲赴Soi 5 Thanwa（他纳5巷）视察公共用地收回进展。相关土地此前遭到侵占，市政府已启动路面拓宽工程，旨在缓解该路段长期存在的交通拥堵问题，市政工程部门官员同步提供技术支持。"
   },
   {
     "id": "e1f7a7401667",
@@ -1527,7 +2254,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "BANGKOK — A video showing a young woman sitting in the middle of a busy intersection in Chonburi has gone viral, alarming motorists and prompting debate online over road safety. The clip, posted on 5 March by the Facebook page, shows the woman seated on the roadway at the Kiri–Ang Sila traffic lights in Muang district, Chonburi province, as vehicles continued moving through the junction. The caption read: “If you’re going to sulk, at least pick a safe place. It’s dangerous.” In the footage, the ",
+    "summary_cn": "一段视频在网络爆红：一名年轻女子在春武里府（Chonburi）基里-昂西拉（Kiri-Ang Sila）路口正中央静坐，疑因与男友争吵后一时冲动，脱鞋乱砸并拦截过往车辆。视频引发大量网友就道路安全及情绪管理展开激烈讨论，有人呼吁警方加强对危险行为的执法力度。"
   },
   {
     "id": "c1eb83176931",
@@ -1543,7 +2272,9 @@
     "added_date": "2026-03-06",
     "expires_date": "2026-04-06",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Man high on cannabis threatens and demands cigarettes, gets beaten Legacy Police were called to a roadside stall in Bang Pakong district, Chachoengsao, earlier today, March 5, after a man allegedly threatened people while going around asking for cigarettes . He was later tracked down and restrained by a group of youths. At 4am, officers from Bang Pakong Police Station received a report that a man was threatening to harm people at a roadside shack in Bang Samak Subdistrict, Bang Pakong District. ",
+    "summary_cn": "3月5日凌晨4时，差春骚府（Chachoengsao）邦巴功区（Bang Pakong）警方接报，一名男子疑似在大麻（Cannabis）影响下四处威胁路人讨要香烟，令周边居民感到恐慌。嫌疑人随后被当地一群年轻人合力制伏后遭警方拘捕，此案引发社区对大麻滥用问题的再度关注。"
   },
   {
     "id": "f3492fa96c66",
@@ -1562,7 +2293,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The countdown has begun to the start of a new Thai parliament session, with the Election Commission&rsquo;s official certification of the results of the Feb 8 poll."
   },
   {
     "id": "4669c23fdd90",
@@ -1581,7 +2313,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The war-induced sell-off in global stocks continued on Wednesday, with the Stock Exchange of Thailand (SET) having to halt trading at one point to allow nervous investors to take a breather."
   },
   {
     "id": "1afc8d4d2230",
@@ -1601,7 +2334,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "TEHRAN - Iran&rsquo;s Revolutionary Guards said on Wednesday they had total control of the Strait of Hormuz, a key waterway for global energy transit, as Israel launched a new wave of strikes on the Iranian capital."
   },
   {
     "id": "cfe043b37680",
@@ -1621,7 +2355,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Fears of a prolonged Middle East conflict disrupting global energy supplies are rippling across Thailand, triggering price anxieties, panic buying and warnings of logistical strain."
   },
   {
     "id": "5aa68cdb7ceb",
@@ -1640,7 +2375,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The government has introduced visa relief measures after 166 flights were cancelled amid Middle East fighting, with immigration waiving overstay fines for stranded travellers."
   },
   {
     "id": "c2cd69bc445e",
@@ -1659,7 +2395,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": ""
   },
   {
     "id": "885470dd3827",
@@ -1679,7 +2416,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Labor Minister Treenuch Thienthong announces plans for the first evacuation of Thai workers from high-risk areas in Iran, with departures scheduled via land routes to Turkey under coordinated government and private-sector arrangements. BANGKOK, Thailand – Thailand’s Labor Ministry is preparing to evacuate the first group of Thai workers from the Middle East on March 7 following regional unrest, Labor Minister Treenuch Thienthong said on Wednesday. Speaking after a meeting of the situation monito"
   },
   {
     "id": "15bfbab0c4db",
@@ -1697,7 +2435,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": ""
   },
   {
     "id": "3db21b6e34de",
@@ -1717,7 +2456,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": ""
   },
   {
     "id": "a2a4c4f1b027",
@@ -1737,7 +2477,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "BANGKOK — Foreign buyers remain a key force in Thailand’s condominium market, with Chinese nationals retaining the top spot in 2025 despite a decline, while Myanmar buyers posted the strongest growth to rank second. Narongpol Prabhanirin, acting director of the Real Estate Information Center (REIC), said foreign condominium transfers in the fourth quarter of 2025 totaled 3,888 units, up 1.1% quarter on quarter and 9.3% year on year. Although transfer value rose only slightly from a year earlier,"
   },
   {
     "id": "a14c639592e8",
@@ -1756,7 +2497,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Thai dancer and girlfriend deceived into working for a call centre scam gang Legacy A Thai male dancer and his girlfriend have been out of contact with their families since February 24, and were later found being deceived into working for a call centre scam gang in a neighbouring country. A complaint was filed after 65 year old Suthep Phueanpharam reported the disappearance of his nephew, 25 year old Pongsakorn “Aon” Phueanpharam, and Aon’s girlfriend, 23 year old Panadda “Dream” Chokeboonrueang"
   },
   {
     "id": "09869d1dfa5b",
@@ -1773,7 +2515,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "BANGKOK — Iran’s Ambassador to Thailand, Nassereddin Heidari, on Wednesday denounced what he described as “unprovoked and unjustified acts of aggression” by the United States and Israel against Iran, calling the situation a dangerous escalation. Speaking at a press conference in Bangkok, Heidari said the alleged attacks constituted “a direct assault on the very core principles of international law,” including the prohibition on the use of force and respect for sovereign equality. “This cowardly ",
+    "summary_cn": "伊朗驻泰大使纳赛尔丁·海达里（Nassereddin Heidari）在曼谷召开新闻发布会，谴责美国和以色列对伊朗发动的袭击属于「无端且不正当的侵略行为」，严重违反国际法中禁止使用武力和尊重国家主权平等的核心原则。他将此次冲突定性为危险升级，并警告国际社会对「丛林法则」蔓延保持高度警觉。"
   },
   {
     "id": "d52a046945dc",
@@ -1790,7 +2534,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Phuket drivers rush to fill tanks as fears of a fuel price rise spread Legacy Phuket motorists rushed to refuel yesterday evening, March 3, with long queues forming at a Bangchak petrol station in Kathu as concerns grew that fuel costs could rise amid uncertainty in the Middle East. Vans and taxis running main routes such as Kathu to Patong were among those filling up, along with riders and other residents. The queue reportedly stretched beyond the forecourt and out towards the station entrance.",
+    "summary_cn": "3月3日傍晚，普吉岛卡图区（Kathu）邦查克（Bangchak）加油站出现大规模排队，当地车主、面包车和出租摩托司机纷纷抢先加满油箱，原因是中东局势不明朗引发对燃油涨价的普遍担忧，排队车辆一度延伸至加油站出入口外。类似情况在普吉岛多处加油站同步出现。"
   },
   {
     "id": "dd290625b79f",
@@ -1810,7 +2556,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The baht could slide beyond 33 to the US dollar, with high volatility possible if the war in the Middle East is prolonged, forcing Thailand, a net oil importer, to pay a significantly higher import bill, according to Kasikorn Research Center (K-Research)."
   },
   {
     "id": "ba8b8f34c616",
@@ -1830,7 +2577,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "As the conflict in the Middle East weighs on global travel prices and travellers' pocketbooks, tourism operators project long-haul markets in 2026 will fall short of last year's 10 million arrivals."
   },
   {
     "id": "6cc0c9c696a3",
@@ -1849,7 +2597,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Thai equities still have downside risk amid heightened volatility as escalating tensions in the Middle East threaten global energy supply routes, with strategists warning only a handful of sectors are likely to withstand a prolonged crisis."
   },
   {
     "id": "7b581c54091d",
@@ -1868,7 +2617,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Caretaker Prime Minister Anutin Charnvirakul has instructed police to coordinate with Interpol to seek a red notice for fugitive&nbsp;businessman Benjamin Mauerberger, also known as \"Ben Smith\", amid ongoing asset seizures."
   },
   {
     "id": "20c9fefb158d",
@@ -1885,7 +2635,8 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "722309348af0",
@@ -1902,7 +2653,8 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "0d0f4a7354a9",
@@ -1919,7 +2671,8 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "1020d4b68180",
@@ -1935,7 +2688,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "SARABURI — 4 March 2026, In a reversal of traditional roles, a bride led the engagement procession and brought a 400,000 baht dowry to formally propose to her groom after more than eight years together. The wedding of Duanghathaimat Chaiwong, known as Ice, and Jirayuth Khamphu, known as Toy, was held at a club inside Adisorn Camp in Saraburi province. Family members and friends from both sides attended the ceremony in a joyful atmosphere. The highlight of the event was the khan mak procession, w",
+    "summary_cn": "沙拉武里府（Saraburi）一场婚礼打破传统习俗：新娘杜安哈泰马（Duanghathaimat Chaiwong，昵称Ice）亲自率领「汉玛」（Khan Mak）迎亲队伍，携40万铢彩礼向男方吉拉育（Jirayuth Khamphu，昵称Toy）正式求婚，二人已相恋逾八年。婚礼在阿迪森军营（Adisorn Camp）内举行，亲友见证了这一反传统角色的温馨时刻。"
   },
   {
     "id": "633d5af4708c",
@@ -1951,7 +2706,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Owner blames unsecured door as pit bull bites delivery driver Legacy A parcel delivery rider is seeking compensation after a pit bull attack left her with an infected wound during a delivery at a home in Chon Buri province, an incident the owner linked to an unsecured door. The case dates back to February 23, when the rider, identified as 49 year old Saifon, was bitten on the upper part of her right leg while attempting to deliver an order. She remains in treatment at Vibharam Amata Nakorn Hospi",
+    "summary_cn": "春武里府（Chon Buri）一名49岁外卖骑手赛丰（Saifon）在送货时被屋主饲养的比特犬（Pit Bull）咬伤大腿，伤口随后感染，仍在维帕拉阿玛他那空医院（Vibharam Amata Nakorn Hospital）接受治疗。屋主将此事归咎于门锁未关，受害者目前要求屋主承担赔偿责任，双方就责任归属产生争议。"
   },
   {
     "id": "bc67abea4c2d",
@@ -1968,7 +2725,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Foreigner filmed leaving Phuket steakhouse without paying Legacy A Phuket dine and dash was reported after a foreign man left a steakhouse in Choeng Talay through a back door without paying yesterday, March 3. The Phuket Times Facebook page posted about the incident today, March 4, saying it happened at about 9pm last night at a steak restaurant in the Choeng Talay area. The page did not name the venue. According to the post, the man ordered what was described as the restaurant’s most premium st",
+    "summary_cn": "普吉岛程塔雷区（Choeng Talay）一家牛排餐厅于3月3日晚约9时遭遇「吃霸王餐」事件，一名外籍男子点了餐厅最高档牛排套餐后，趁机从后门溜走，全程被监控录像拍下。餐厅已向当地警方报案，并在社交媒体发布监控画面协助寻找肇事者，目前当事人下落不明。"
   },
   {
     "id": "ac5905ee1b1c",
@@ -1984,7 +2743,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai woman allegedly exposes breasts to 2 teenage boys Legacy Thai parents urged a woman to apologise after she exposed her breasts to two 15 year old boys on a quiet road in Ban Khai district in Rayong on February 28. According to Channel 7, a Thai man helped the teenagers and took them home after the woman, believed to be about 40 years old, persuaded them to travel with her on a motorcycle before sexually harassing them near a rubber plantation. The incident was reported to happen at about 1a",
+    "summary_cn": "2月28日，罗勇府（Rayong）班凯区（Ban Khai）发生涉嫌性骚扰案件，一名约40岁女子以免费带路为由，将两名15岁少年带至橡胶园僻静处，对其实施骚扰。一名路人及时介入将少年带离。两名少年家长事后报案，并呼吁女方公开道歉，案件已由警方受理调查。"
   },
   {
     "id": "a107436fddc2",
@@ -2001,7 +2762,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Few Thai street snacks are as iconic as khanom krok, small round coconut rice cakes with a crisp shell and creamy centre. Made from rice flour, sugar and coconut milk, the dessert is traditionally cooked in a cast iron pan with small indentations over charcoal heat. Vendors pour two batters into each well, typically one lightly salted coconut base and one sweet topping, before pressing two half moons together into a single bite sized disc. Mont lin ma yar in Myanmar Variations of this coconut ba",
+    "summary_cn": "椰奶糕（Khanom Krok）是泰国最具代表性的街头小食之一，以米粉、糖和椰奶为主料，传统上用带小圆形凹槽的铸铁锅置于炭火上烹制，外壳酥脆、内芯嫩滑。文章追溯其历史渊源，并介绍东南亚各国的同类食品，如缅甸的蒙林马亚（Mont lin ma yar），展现这一小食在区域饮食文化中的共通性。"
   },
   {
     "id": "eeb04fc102a0",
@@ -2017,7 +2780,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai man claims accident after ramming pickup into ex-wife and 7 others Legacy A Thai man claimed an accident caused him to drive a pickup truck into a group of eight people at a restaurant in Buriram on Monday, March 2, injuring seven , including his ex-wife . Victims were not convinced and suspected jealousy may have been a motive. Bang Kruad Police Station received a report about the crash at about 9pm on Monday. Officers went to the scene with rescuers from the Sawang Janya Dham Foundation. ",
+    "summary_cn": "3月2日晚9时，布里兰府（Buriram）一名男子被指驾驶皮卡冲入前妻所在的餐厅聚会现场，撞伤包括前妻在内的7人。嫌犯坚称属意外驾驶失控，但受害者及目击者对此说法存疑，认为背后可能存在嫉妒情感动机，案件已由警方立案调查。"
   },
   {
     "id": "3e1332559700",
@@ -2034,7 +2799,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai dentist stunned by tooth protruding into patient’s nose Legacy A patient&#8217;s concern about a white object inside their nose has become an unusual dental treatment , after a Thai dentist, “Dr Mos”, said in a TikTok post today, March 4, that he found a tooth protruding into the nasal cavity. Posting a video on the TikTok account @drmosodc , the dentist said the patient had noticed a white object inside the nose for some time and sought a medical check-up due to concern. The cause was repo",
+    "summary_cn": "泰国牙医「莫斯医生」（Dr. Mos，TikTok账号@drmosodc）于3月4日发布视频，披露一起罕见病例：一名患者因长期发现鼻腔内有白色异物就诊，经检查发现系一颗牙齿穿入鼻腔所致。该视频发布后迅速获得数百万次浏览，引发网友对牙科解剖知识的广泛好奇与讨论。"
   },
   {
     "id": "ea42e8eded63",
@@ -2050,7 +2817,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-03-20",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai man sets himself on fire after repeated love rejection Legacy Pattaya rescuers yesterday, March 3, saved a Thai man who set himself on fire outside a dormitory in Pattaya , following repeated rejection of his romantic advances . Rescue workers from the Sawang Borribun Dhammastan Foundation went to a one-storey dormitory and found the injured man, identified as 44 year old Boonlert, outside room four. DailyNews reported that Boonlert had burns covering about 30 to 40% of his body. Rescuers g",
+    "summary_cn": "3月3日，芭提雅救援人员在一处单层宿舍楼外将44岁男子汶勒（Boonlert）救起，其因长期追求女性邻居遭多次拒绝，情绪崩溃后在宿舍门外自焚，全身约30至40%面积烧伤。救援人员紧急将其送往医院救治，目前生命体征稳定，警方已就事件展开调查。"
   },
   {
     "id": "f75e503087f8",
@@ -2066,7 +2835,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The death of a 20-year-old wild elephant during relocation in Loei has intensified scrutiny of the government's handling of escalating human-elephant conflict in the Northeast.",
+    "summary_cn": "泰国东北部廊开府（Loei）一头20岁野象在转移过程中死亡，此事件引发外界对政府处理人象冲突（Human-Elephant Conflict）方式的强烈质疑。野象持续侵占农田和居民区，造成财产损失和人员伤亡，政府现行的转移安置方案成本高企且效果存疑，相关治理政策面临日益严峻的社会审视。"
   },
   {
     "id": "75ba8b7b7a41",
@@ -2082,7 +2853,8 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "63fa5a4587c2",
@@ -2099,7 +2871,8 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": ""
   },
   {
     "id": "d3a89ce74078",
@@ -2115,7 +2888,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Prime Minister Anutin Charnvirakul joins a humanitarian flight under the “Hearts on Wings” program with the Thai Red Cross Society, deploying a Cirrus SR22T aircraft to transport surgeons from Siriraj Hospital to Surin for an urgent organ retrieval operation benefiting transplant patients. SURIN, Thailand – Prime Minister Anutin Charnvirakul has assigned a volunteer pilot with the Thai Red Cross Society to carry out an urgent organ transport mission in Surin province under the “Hearts on Wings” ",
+    "summary_cn": "总理安努廷（Anutin Charnvirakul）亲赴素林府（Surin），参与泰国红十字会（Thai Red Cross Society）「心翼行动」（Hearts on Wings）紧急器官空运任务。本次任务动用Cirrus SR22T飞机，将诗里拉医院（Siriraj Hospital）外科医生紧急运抵素林执行器官摘取手术，所摘器官将用于等待移植的危重患者。"
   },
   {
     "id": "8fd65d0fdeca",
@@ -2131,7 +2906,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "UDON THANI — 4 March 2026, A 43-year-old man was arrested on Wednesday after allegedly exposing himself in a public area in central Udon Thani, telling police he had lowered his trousers because of the heat. At 13:00, the Rompho Thong radio centre at Muang Udon Thani Police Station received a report of a man believed to be mentally unstable walking with his trousers down in front of the Udon Thani City Museum on Pho Si Road. Police were dispatched to the scene along with 191 patrol officers. Wit",
+    "summary_cn": "3月4日下午1时，乌冬他尼府（Udon Thani）警方接报，一名43岁男子在市区乌冬他尼城市博物馆（Udon Thani City Museum）前公开暴露私处。该男子被捕后向警方解释称是因天气炎热而脱裤，警方已以公共场所猥亵罪对其提起诉讼。"
   },
   {
     "id": "046063b7fcce",
@@ -2148,7 +2925,9 @@
     "added_date": "2026-03-05",
     "expires_date": "2026-04-04",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Play padel and unwind at the Sensei Padel Club in Patong, Phuket Legacy Sensei Padel Club brings a piece of one of the world&#8217;s fastest-growing sports right to Patong, Phuket . The club, as the only padel venue operating in Patong, offers not just its courts, but also a wellness destination for those in the southern island province. Padel combines the best elements of tennis and squash into a fun, social, and easy-to-learn game suitable for players of all ages and skill levels. Sensei Padel",
+    "summary_cn": "Sensei Padel Club在普吉岛芭东区（Patong）正式开业，成为当地唯一提供板式网球（Padel）运动的专业场馆。Padel融合网球与壁球元素，适合各年龄层和不同水平的运动者。该俱乐部同时定位为健康休闲目的地，为南部岛屿运动爱好者提供新选择，有望推动普吉岛运动旅游发展。"
   },
   {
     "id": "999ddef775ae",
@@ -2168,7 +2947,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "BANGKOK — 4 March 2026, PTT Public Company Limited and PTT Oil and Retail Business Public Company Limited (OR) have agreed to freeze diesel and gasohol prices for 15 days starting 4 March at all PTT Station outlets nationwide, while requesting motorists to temporarily refrain from filling fuel into gallon containers or other portable vessels. While the Prime Minister’s directive focused on capping diesel at 29.94 baht per litre, PTT’s announcement extended the 15-day freeze to include gasohol, b"
   },
   {
     "id": "19299ddd729e",
@@ -2188,7 +2968,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Anutin announces 15-day cap on diesel price at 29.94 baht per litre Legacy Thailand’s government ordered a diesel price freeze yesterday, March 3, after concerns over an escalating overseas conflict prompted some motorists to rush to fill up and stockpile fuel, amid fears prices could rise. The move follows reports that fighting involving the United States and Israel against Iran has affected oil exports and is expected to last for around four weeks. The situation led to heightened public attent"
   },
   {
     "id": "f7ddc2f3dd3a",
@@ -2207,7 +2988,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "SET-listed developer Pruksa Holding continues to scale back new residential launches this year, planning only seven projects worth a combined 8.2 billion baht as it shifts focus to clearing unsold inventory worth 66 billion baht and expanding recurring-income assets."
   },
   {
     "id": "d1189178b3e4",
@@ -2227,7 +3009,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Thailand urgently needs to develop digital data sovereignty under Thai jurisdiction, while prioritising the use of more locally developed artificial intelligence (AI) and software, according to the Digital Council of Thailand (DCT)."
   },
   {
     "id": "d1796905a67b",
@@ -2245,7 +3028,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Thailand's decade-long surge in international schools is approaching a plateau, as falling birth rates and demographic shifts threaten to curb expansion in a sector that has nearly tripled in size since 2014."
   },
   {
     "id": "9589789fa718",
@@ -2262,7 +3046,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Cambodia's absence from the Cobra Gold military drill this year signals a persistent lack of trust between Thailand and Cambodia, analysts say.",
+    "summary_cn": "分析人士指出，柬埔寨今年缺席由泰国主办的「眼镜蛇」（Cobra Gold）多边军事演习，是两国之间长期存在互信赤字的最新信号。泰柬双边关系持续处于紧张状态，边境冲突造成大量人员流离失所，此次缺席被视为两国在地区安全合作层面分歧的显性体现，短期内关系修复难度较大。"
   },
   {
     "id": "88110677184a",
@@ -2279,7 +3065,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Irish man jailed for 218 months over forged passport offences Legacy Hua Hin Provincial Court has sentenced a fugitive Irishman to 218 months in prison over forged passport offences, police said yesterday, March 3, after investigators linked him to a false identity used to travel in and out of Thailand. Immigration police in Surat Thani said the court sentenced Paul Noel Casey to 218 months in prison, about 18 years, for offences relating to a fake passport and immigration law violations. Invest",
+    "summary_cn": "华欣（Hua Hin）省法院判决爱尔兰逃犯保罗·诺尔·卡西（Paul Noel Casey）以伪造护照（Forged Passport）及违反入境法规等罪名入狱218个月（约18年）。调查显示，他长期以虚假身份多次出入泰国，曾以苏叻他尼府（Surat Thani）为主要活动区域，移民警察协同多部门共同侦破此案。"
   },
   {
     "id": "2be2551ef4f9",
@@ -2299,7 +3087,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "For expatriates in Pattaya, Chiang Mai, and Phuket, Persian Gulf tensions are less about geopolitics and more about practical concerns &#8211; cost stability, exchange rates, and reliable international travel. PATTAYA, Thailand &#8211; The recent tensions in the Persian Gulf, particularly involving Iran and Israel, may appear geographically distant from Thailand. However, for expatriates living in Pattaya, Chiang Mai, and Phuket, the discussion is not about geopolitics. It is about cost stabilit"
   },
   {
     "id": "d94da79332e7",
@@ -2318,7 +3107,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "BANGKOK — 3 March 2026, The government on Tuesday warned businesses against taking advantage of tensions in the Middle East by raising prices, saying violators face up to seven years in prison and fines of up to 140,000 baht. Ayrin Phanphruet, deputy government spokeswoman, said authorities are closely monitoring unrest in the Middle East and have instructed all relevant agencies to prepare response measures, particularly to ensure adequate supplies of essential consumer goods. She said retailer"
   },
   {
     "id": "19ef319fbcc0",
@@ -2334,7 +3124,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Prime Minister Anutin Charnvirakul says he is unfazed by any possible political fallout resulting from the developing criminal case against South African businessman Benjamin Mauerberger, who has been linked to some high-profile political figures in Thailand.",
+    "summary_cn": "总理安努廷（Anutin Charnvirakul）表示，对南非商人本杰明·毛尔伯格（Benjamin Mauerberger）刑事案件引发的政治连带风险并不担忧。毛尔伯格与泰国多名政界要人存在关联，其被追查引发外界对联合政府稳定性的猜测，但安努廷否认此事对执政联盟造成实质冲击，表示一切均依法处理。"
   },
   {
     "id": "0e7d2570da59",
@@ -2353,7 +3145,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Bangkok police have arrested a 33 year old man accused of snatching a handbag from a young British tourist in December, allegedly telling officers he committed the crime to support his two wives. Officers from Bang Rak Police Station apprehended Thanit “Nui” Meesaeng, a native of Ayutthaya province, on 2 March at around 19:20 in front of a 7 Eleven convenience store in Prachasongkhro 23 alley, Din Daeng district. He was wanted under a Criminal Court warrant issued on 27 February on charges of ro"
   },
   {
     "id": "aa4bf37f60dd",
@@ -2370,7 +3163,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-04-03",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The Department of Thai Traditional and Alternative Medicine (DTAM) says it is working on a comprehensive upgrade of the country's traditional Thai massage industry.",
+    "summary_cn": "泰国传统与替代医学厅（Department of Thai Traditional and Alternative Medicine，DTAM）宣布，正在推进泰国传统按摩（Thai Massage）行业的全面升级整顿计划，涵盖从业人员资质认证、服务质量管理及市场监管等多个维度，旨在提高行业标准化程度，维护泰式按摩的国际品牌声誉。"
   },
   {
     "id": "df1480edc414",
@@ -2386,7 +3181,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai man burned to death after abduction involved 9 suspects Legacy Police identified nine suspects linked to the abduction and murder of a Thai man whose body was found at a house in Lop Buri province yesterday, February 3, after he was reported missing from Bangkok on February 18. The victim was identified as Rut “Top” Meneeprasert. His mother filed a missing person report at Sutthisan Police Station in Bangkok on February 19, stating she last saw him on February 18 at about 5.45am before he l",
+    "summary_cn": "警方确认九名嫌疑人与一起绑架杀人焚尸案有关。受害人鲁特（Rut Meneeprasert）于2月18日在曼谷失踪，母亲次日在沙统警察局（Sutthisan Police Station）报案。其焚毁遗体随后在华富里府（Lop Buri）一处民居被发现，警方已陆续逮捕九名涉案人员，案件动机及背景仍在深入调查中。"
   },
   {
     "id": "90d42a1551e7",
@@ -2402,7 +3199,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "PATTAYA — 3 March 2026, A 20-year-old woman has filed a police complaint after being allegedly duped out of more than 8,000 baht in a rental scam in South Pattaya. At 23:30, Amornrat Hathaisong reported the incident to investigators at Pattaya City Police Station in Chonburi province. Amornrat told police she had been searching for accommodation in the South Pattaya area when she saw a Facebook advertisement offering a room for 3,500 baht per month. She contacted a person using the Line ID “Hia ",
+    "summary_cn": "3月3日深夜，20岁女子阿蒙拉（Amornrat Hathaisong）向芭提雅市区警察局报案，称其在搜寻芭提雅南部租房时，在Facebook上看到一则月租3500铢的广告，联系后被骗去逾8000铢，发现广告系诈骗后对方立即失联。警方正追查发布假广告的Line账号，提醒市民警惕网络租房诈骗。"
   },
   {
     "id": "6fe7864ccad2",
@@ -2420,7 +3219,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Pattaya Bolt driver caught on viral video kicking foreign man Legacy A Pattaya Bolt driver kicked a foreign man on a road along Jomtien Beach. The incident was reported to happen about two weeks ago, but the cause of the dispute has not been confirmed. The clip was shared across several social media platforms, including TikTok. One user posted the video with the caption, “ Bolt driver, that’s not a nice thing to do.” The background of the footage showed a squid festival that took place on Februa",
+    "summary_cn": "一段视频在社交媒体广泛传播，画面显示一名芭提雅Bolt网约车司机在朱天海滩（Jomtien Beach）路段踢打外籍乘客。事件发生约两周前，与当时举办的朱天鱿鱼节（Squid Festival）时间吻合，纠纷具体起因尚未确认。视频在TikTok等平台引发大量批评，Bolt公司已就此事展开调查。"
   },
   {
     "id": "dc679130eef4",
@@ -2437,7 +3238,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Long queues at Suvarnabhumi linked to check-in malfunction Legacy A clarification was issued yesterday, March 3, after images of long Suvarnabhumi Airport queues circulated online following reports of a Thai Airways check-in problem a day earlier, March 2. The airport explained that the congestion occurred because March 2 was the first day Thai Airways switched its baggage rules to the “Piece Concept”, introducing a baggage limit based on the number of pieces passengers can check in. Photo via T",
+    "summary_cn": "3月2日，苏万纳普机场（Suvarnabhumi）出现大规模值机排队，原因是泰国航空（Thai Airways）当日正式启用新行李政策「件数制」（Piece Concept），依据行李件数而非重量设定限额。新政策上线首日导致自助值机系统（CUSS）出现故障宕机，大批旅客被迫排队人工办理，引发严重拥堵。"
   },
   {
     "id": "2ca7bea37a31",
@@ -2455,7 +3258,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Indian jet ski rider hits Russian woman in swimming zone off Pattaya beach Legacy An Indian man rode a jet ski into a marked swimming zone at Jomtien Beach in Pattaya and hit a Russian woman on Monday, March 2, leaving the victim with head injury. Thai lifeguards brought the injured woman, 65 year old Erina, out of the sea and provided first aid on the sand at Jomtien Beach in Nong Prue, Bang Lamung, Chon Buri. The incident was reported to happen at about 11am, according to The Pattaya News. Foo",
+    "summary_cn": "3月2日上午约11时，一名印度男子驾驶水上摩托（Jet Ski）闯入芭提雅朱天海滩（Jomtien Beach）标识划定的游泳安全区域，撞伤65岁俄罗斯女游客艾琳娜（Erina），造成其头部受伤。泰国救生员随即将伤者救上岸实施急救，警方已对肇事者展开调查，涉嫌违规行驶。"
   },
   {
     "id": "51565a721ac9",
@@ -2472,7 +3277,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-04-03",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Dr. Chula Sukmanop, Secretary-General of the Eastern Economic Corridor Office of Thailand (EECO), speaks at the “Insight &amp; Connecting Eastern Economic Corridor” event, held in collaboration with multiple international chambers, highlighting strong global business interest in Thailand’s flagship development zone. PATTAYA, Thailand – In celebration of its 80th anniversary, the British Chamber of Commerce Thailand (BCCT) hosted the BCCT Multi-Chamber Insight &amp; Connecting Eastern Economic Co",
+    "summary_cn": "泰国东部经济走廊办公室（EECO）秘书长朱拉·苏克马诺（Dr. Chula Sukmanop）出席由英国泰国商会（BCCT）八十周年纪念暨多国商会联合举办的「东部经济走廊洞察与对接」论坛，向各国商界代表解读EEC最新投资路线图及政策重点，吸引外资进入泰国东部经济特区。"
   },
   {
     "id": "cc590f216f92",
@@ -2488,7 +3295,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-04-03",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Officials and animal welfare volunteers carefully transport a seriously ill stray dog from Koh Larn to the mainland on March 3 for urgent medical treatment. PATTAYA, Thailand – A coordinated rescue operation was carried out on March 3 to save a seriously ill stray dog from Koh Larn, drawing widespread praise from local residents and animal lovers. Deputy Mayor Manot ordered city officials to coordinate with an animal welfare group on Koh Larn to transport the ailing dog to the mainland for urgen",
+    "summary_cn": "3月3日，芭提雅副市长马诺（Manot）下令市政官员配合珂兰岛（Koh Larn）动物保护义工，将一条病危流浪犬紧急运送至大陆进行救治。此次联合救援行动获得当地居民和动物爱好者的广泛赞誉，体现了官民协作推动动物福利的积极姿态。"
   },
   {
     "id": "c9e5650910d7",
@@ -2504,7 +3313,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Firefighters deploy water from six engines as flames engulf a sawdust storage warehouse at a timber yard in Nong Pla Lai, Banglamung late on March 2. PATTAYA, Thailand – A late-night fire tore through a wood storage warehouse in east Pattaya, prompting a major emergency response with six fire engines battling the flames for nearly an hour. At approximately 11:00 p.m. on March 2, rescue volunteers from Sawang Boriboon Thammasathan Rescue Foundation were alerted to a fire at Surapha Timber Shop, l",
+    "summary_cn": "3月2日晚约11时，东芭提雅农拉来（Nong Pla Lai）邦拉蒙区（Banglamung）苏拉帕木材店（Surapha Timber Shop）一处锯末仓库突发大火，六辆消防车赶赴现场鏖战近一小时方将火势扑灭。事发时仓库存有大量木料，浓烟可见范围较广，幸无人员伤亡报告，事故原因正在调查中。"
   },
   {
     "id": "bb7c716ff289",
@@ -2521,7 +3332,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Mongkolkit pitches white-skin injections and flying cars for Bangkok Legacy Mongkolkit Suksintharanont , a former New Alternative Party member, said today, March 2, that his team is gearing up for the Bangkok governor election , with applications already coming in from Bangkok councillor candidates. Mongkolkit said that preparations for the “Krungthep Bin Dai” team, meaning “Bangkok Can Fly”, are underway and that applications have begun coming in from prospective Bangkok councillor candidates. ",
+    "summary_cn": "前新替代党（New Alternative Party）成员蒙科基·苏克辛他拉诺（Mongkolkit Suksintharanont）于3月2日宣布备战曼谷市长选举，其竞选团队名为「曼谷能飞」（Krungthep Bin Dai）。他提出多项争议性政纲，包括为市民提供美白注射和在曼谷引入飞行汽车，引发媒体和公众广泛关注。"
   },
   {
     "id": "e809d51ad5a5",
@@ -2537,7 +3350,9 @@
     "added_date": "2026-03-04",
     "expires_date": "2026-03-19",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Influencer seeks refund over botched 400,000 baht nose surgery in Bangkok Legacy A female influencer has filed a complaint over an alleged botched nose surgery procedure from a well-known hospital in Bangkok, after reporting post-operation complications and an unresolved dispute over compensation. The 25 year old influencer said she decided to undergo revision nose surgery at the hospital, where she reportedly paid 400,000 baht for the operation. The woman claimed she trusted the reputation and ",
+    "summary_cn": "一名25岁女性网红向曼谷一家知名医院投诉，称其花费40万铢接受的隆鼻修复手术失败，术后出现并发症，且与医院就赔偿方案长期协商无果，决定公开维权。此案引发公众对医疗美容行业监管及消费者权益保护的广泛关注。"
   },
   {
     "id": "d3e7cad06c16",
@@ -2557,7 +3372,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The government is accelerating efforts to evacuate Thai nationals from Iran to Turkey before arranging return flights to Thailand, according to Foreign Affairs Minister Sihasak Phuangketkeow."
   },
   {
     "id": "7f35591eb15a",
@@ -2576,7 +3392,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "RIYADH - Drones hit the US embassy in Riyadh on Tuesday as Iran continued to hit back at industrial and diplomatic targets across the Middle East and Washington warned its citizens to evacuate the entire region."
   },
   {
     "id": "bc287d2fdf21",
@@ -2595,7 +3412,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The government has confirmed there are adequate supplies of oil for local consumption but warns local prices will still rise in line with global prices, even with the use of subsidies to offset the increase."
   },
   {
     "id": "dd4b1234cadb",
@@ -2614,7 +3432,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The Thai government expects the conflict in the Middle East to continue for at least four weeks and is expressing growing concern about Thais living in Iran."
   },
   {
     "id": "adabcfac1f8c",
@@ -2634,7 +3453,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "HONG ​KONG - The price of flights between Asia and Europe &zwnj;has soared after the closure of key Middle Eastern hubs due to the US-Israel war against Iran, with airline websites showing tickets on many popular routes booked out for days."
   },
   {
     "id": "75cec1d9907a",
@@ -2653,7 +3473,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The number of list MPs allocated to each party in the wake of the Feb 8 general election will be officially announced on Wednesday, Election Commission chairman Narong Klanwarin said on Tuesday."
   },
   {
     "id": "5ad4ac5c56aa",
@@ -2672,7 +3493,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "PARIS - With few captains willing to brave the Strait of Hormuz as war rages around the Gulf, companies will have to do business without one of the world's most vital shipping lanes, especially for oil and gas."
   },
   {
     "id": "1d81bc19082c",
@@ -2692,7 +3514,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "BANGKOK — Prime Minister Anutin Charnvirakul on 3 March declared a “Thailand First” policy as tensions escalate in the Middle East, pledging to prioritize the safety of Thai nationals and minimize any impact on the country. Speaking after chairing a meeting at the Foreign Ministry to assess the situation with ambassadors and consular officials across the region, he said the government is preparing all possible measures to evacuate around 300 Thais from Iran, considered the highest-risk area. Anu"
   },
   {
     "id": "4ab1bb3bd206",
@@ -2711,7 +3534,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "WASHINGTON (UNITED STATES) - Energy prices surged Monday as the war in the Middle East led to outages of key energy production operations and a critical waterway was essentially emptied of traffic."
   },
   {
     "id": "35f586a040ab",
@@ -2730,7 +3554,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The Stock Exchange of Thailand (SET) could plunge by 50-75 points or 3-5% in the short term amid the spread of risk-off sentiment across Asia, but declines in most global markets have so far remained contained, suggesting caution rather than systemic panic, analysts say."
   },
   {
     "id": "e6b2a5f8c9d4",
@@ -2750,7 +3575,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The Governor of the Bank of Thailand ... increase of $10 per barrel in oil prices, which could also cause inflation to rise by 0.4% to 0.5%. Thailand is particularly vulnerable to oil volatility as it imports roughly 60% of its oil ..."
   },
   {
     "id": "e2b8a1f4c5d0",
@@ -2769,7 +3595,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Looking ahead, JLL expects the luxury residential segment in Bangkok to strengthen gradually as end-user demand becomes the primary market driver and developers maintain disciplined supply strategies. While buyers are likely to remain selective, improving economic conditions and stable rental performance are set to support both price recovery and investor confidence through 2026."
   },
   {
     "id": "957ffc235b05",
@@ -2788,7 +3615,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "WASHINGTON - The ⁠US Trade Representative's ⁠office said on ​Monday it will seek further reductions in foreign tariffs and non-tariff ​barriers this year, enforce its \"reciprocal\" trade &zwnj;deals and consider launching new unfair trade practices investigations."
   },
   {
     "id": "665d917c901e",
@@ -2805,7 +3633,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "BANGKOK — Prime Minister Anutin Charnvirakul said Thailand will continue exporting fuel to Laos despite heightened tensions in the Middle East, stressing the importance of energy cooperation with its neighbor as concerns grow over a possible closure of the Strait of Hormuz. Speaking on 3 March after chairing a meeting at the Foreign Ministry to assess the regional situation, Anutin said Thailand has the legal authority to suspend fuel exports if national security requires it. However, he noted t",
+    "summary_cn": "总理安努廷（Anutin Charnvirakul）3月3日表示，泰国将继续向老挝出口燃料，强调对老挝的能源合作义务不因中东局势而中断。他同时指出，如国家安全需要，泰国具有法律授权暂停燃料出口，但目前情况尚未达到此门槛，双边能源合作将维持正常。"
   },
   {
     "id": "f57f295d56be",
@@ -2822,7 +3652,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "CHIANG RAI — Residents of Mae Sai district and Myanmar’s Tachileik province continued to queue for fuel on 3 March after fears spread that Thailand could suspend fuel exports amid fighting in the Middle East. After the Thai–Myanmar Friendship Bridge opened at 06:30, Myanmar-registered cars and motorcycles crossed into Mae Sai to refuel at local petrol stations. Many drivers were seen filling vehicles and containers for stockpiling over concerns that Myanmar could face shortages if exports were h",
+    "summary_cn": "3月3日，清莱府湄赛区（Mae Sai）与缅甸大其力（Tachileik）边境口岸开放后，大批缅甸注册车辆越境涌入泰国加油，等待队伍中逾半数为缅甸牌照车辆。起因是中东战事引发外界担忧泰国可能暂停燃料出口，缅甸车主趁机抢先囤油，以缓解对本国燃料短缺的担忧。"
   },
   {
     "id": "08861bed4d8d",
@@ -2841,7 +3673,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "The commercial real estate market is expected to remain resilient in 2026, with demand concentrated in hotels, data centres, industrial and logistics assets, and high-quality office and retail space, according to property consultancy JLL Thailand."
   },
   {
     "id": "ba19dd900356",
@@ -2860,7 +3693,8 @@
     "time_sensitive": true,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "Many Thai workers in Middle East choose to stay on despite escalating conflict Legacy Many Thai workers in the Middle East said they do not want to return to Thailand despite the escalating conflict involving Iran and a US-Israel military coalition, with Thai residents posting updates on social media. Thai people living and working in the region, particularly in Israel and the United Arab Emirates (UAE) , shared photos and videos of themselves running to bunkers during air strikes on their socia"
   },
   {
     "id": "35bc2e169c4e",
@@ -2877,7 +3711,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thailand to offer travel deals to tourists affected by Middle East flight cancellations Legacy Thailand’s Ministry of Tourism and Sports is seeking cooperation from the private sector to offer special travel packages for foreign tourists affected by Middle East flight cancellations . The Tourism Authority of Thailand (TAT) has set up a Tourism Crisis Monitoring Centre to closely track the escalating situation in the Middle East and provide information to travellers impacted by the disruption. Ch",
+    "summary_cn": "泰国旅游和体育部（Ministry of Tourism and Sports）正积极联合私营旅游业者，为因中东局势导致航班取消而无法按原计划入境的外国游客提供特别旅游套餐。泰国旅游局（TAT）已设立旅游危机监测中心，实时追踪中东局势动态，为受影响旅客提供信息支持和出行替代方案。"
   },
   {
     "id": "a39f5028e2ec",
@@ -2894,7 +3730,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Bangladeshi woman arrested in Phuket Airport with cocaine and fake documents Legacy Police arrested a Bangladeshi woman at Phuket International Airport on Friday, February 27, after she was found with cocaine and counterfeit documents . Officers from Phuket Airport Immigration detained the 26 year old Bangladeshi woman, whose name was not released, at the international departures terminal on Friday as she was preparing to board a flight back to Bangladesh. According to a report posted on the Phu",
+    "summary_cn": "2月27日，26岁孟加拉国女子在普吉国际机场国际出港区准备登机时，被移民局警察拦截检查，当场发现其携带可卡因（Cocaine）及伪造证件（Fake Documents）。该女子已被依法逮捕，详细案情仍在进一步调查中，当局未公开其姓名。"
   },
   {
     "id": "a2f8c1b3d4e5",
@@ -2910,7 +3748,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The conservative Bhumjaithai Party ... House of Representatives. It was followed by the People’s Party with 118 seats, Pheu Thai with 74, and the Democrat Party with 22....",
+    "summary_cn": "外媒对泰国大选结果进行深度解读，保守派民力党（Bhumjaithai Party）在选举中强势获胜，其后依次为人民党（People's Party）118席、为泰党（Pheu Thai）74席、民主党（Democrat Party）22席。文章分析保守势力如何借助此次胜选重新整合泰国政治权力版图，进一步巩固建制派在议会的主导地位。"
   },
   {
     "id": "b3e9d2c5f6a1",
@@ -2926,7 +3766,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "By the time of the 2026 campaign, the Pitutechas had learned from their setback in the previous election. In Districts 3 and 4, they ran younger members of the family, better educated and with less of a godfather image than the older generation.",
+    "summary_cn": "BBC深度报道分析泰国根深蒂固的庇护网络（Patronage System）如何在大选中系统性地排斥政治局外人。以皮图查（Pitutecha）家族为例，该家族在2026年大选中吸取上届教训，在关键选区推出更年轻、受教育程度更高、「大佬形象」更淡的家族成员参选，展示了传统政治世家的延续性适应能力，令外来挑战者难以突破。"
   },
   {
     "id": "c4f0e3d6a7b2",
@@ -2942,7 +3784,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The results signal popular support for Thailand’s military and royalist establishment after a year defined by sluggish economic growth and the eruption of a conflict with Cambodia that displaced nearly half a million people on either side of the border. Amidst uncertainty at home and a changing order abroad, Thailand’s voters opted for the conservative status quo.",
+    "summary_cn": "大选结果显示，泰国选民在经历经济增长低迷和与柬埔寨边境冲突（波及近50万难民）的一年后，选择向军事和保皇建制派靠拢。进步改革力量在此次选举中受到明显压制，面对国内外双重不确定性，泰国选民整体倾向于保守的政治稳定选项，建制派成功稳守政坛主导地位。"
   },
   {
     "id": "d5a1f4e7b8c3",
@@ -2958,7 +3802,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Anutin’s Bhumjaithai Party captured a commanding 193 seats, leaving the People’s Party a distant second and the Shinawatra-aligned Pheu Thai Party with its poorest showing of 74 seats.",
+    "summary_cn": "《星报》（The Star）对泰国大选结果进行长篇解读：民力党（Bhumjaithai Party）领袖安努廷（Anutin）以193席强势胜出，人民党（People's Party）以远低于预期的席位屈居第二，与他信（Thaksin Shinawatra）系挂钩的为泰党（Pheu Thai）则以74席创下历史最差表现，标志着塔克辛政治力量的显著衰退。"
   },
   {
     "id": "f7c3b6a9d0e5",
@@ -2975,7 +3821,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The central bank had earlier forecast 2026 growth of 1.5% but Vitai said current expectations were an expansion of about 1.9%. Vitai also said the Bank of Thailand plans steps to improve financing conditions for smaller firms, including measures ...",
+    "summary_cn": "泰国央行行长维泰（Vitai）表示，央行最新预期2026年GDP增速约为1.9%，高于此前1.5%的预测。他同时指出，通过政策组合和扩大投资的配套措施，有望推动全年GDP增速达到2.7%的目标。央行还计划出台改善中小企业融资条件的专项措施，以激活内需和信贷扩张。"
   },
   {
     "id": "a8d4c7b0e1f6",
@@ -2992,7 +3840,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Furthermore, he assessed that the Thai economic structure remains weak, projecting the 2026 GDP at only 1.8%, which is below its potential of 2.5-2.7%. This fragility stems from weak domestic demand, negative inflation, tight financial conditions, ...",
+    "summary_cn": "分析人士指出，泰国经济结构性疲软问题严峻，2026年GDP预测仅为1.8%，低于2.5至2.7%的潜在增长水平。主要制约因素包括：内需低迷、通胀呈负值（通缩压力）、信贷条件偏紧，以及内外部双重风险对泰铢（Baht）汇率的压制，经济恢复至潜在增速面临较大挑战。"
   },
   {
     "id": "b9e5d8c1f2a7",
@@ -3008,7 +3858,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "ล่าสุด Krungsri Research ... ได้ปรับเพิ่มคาดการณ์การเติบโตทางเศรษฐกิจ (GDP) ของไทยปี 2569 ขึ้นเป็น 2.0% จากเดิม 1.8% ...",
+    "summary_cn": "大城银行研究（Krungsri Research）最新将泰国2026年GDP增长预测由1.8%上调至2.0%，反映对经济复苏前景的审慎乐观。调整背景包括出口数据改善和政府投资提速等积极因素，同时推荐关注AMATA、KBANK、SCC、AOT和AWC等与基础设施、银行及交通相关的上市公司。"
   },
   {
     "id": "c0f6e9d2a3b8",
@@ -3026,7 +3878,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "อสังหาฯยังไม่ฟื้นตัว! เอ็น.ซี เฮ้าส์ซิ่ง แตะเบรกลดสปีดรักษากระแสเงินสดเปิดตัว2โครงการต่ำสุดรอบ 5 ปี รุกคอนโดพัทยาเหนือครั้งแรกในรอบครึ่งทศวรรษดันยอดขาย 4,000 ล้าน"
   },
   {
     "id": "d1a7f0e3b4c9",
@@ -3046,7 +3899,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 6,
-    "published_date": "2026-03-09"
+    "published_date": "2026-03-09",
+    "desc_original": "Chinese buyers remain the main group; although their volumes and value declined, Russian and Taiwanese buyers posted standout growth. A more diversified foreign demand base could help improve the long-term resilience of Thailand’s condo market."
   },
   {
     "id": "b5e1d4c7f8a3",
@@ -3063,7 +3917,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "A BIG hunt is underway for three robbers, likely foreigners, who broke into a British chef’s townhouse in Nong Prue area of Chonburi and stole a safe holding 2 million baht in cash last night (Feb. 26), Naewna newspaper and Amarin tv said today. Pol. Col. Natthapol Phongsookskul, superintendent of Nong Prue police station, […]",
+    "summary_cn": "2月26日夜间，芭提雅农裴区（Nong Prue，春武里府）一名英籍大厨的联排别墅遭三名疑似外籍劫匪入室行窃，贼人搬走装有约200万铢现金的保险箱后逃逸。农裴警察局（Nong Prue Police Station）已启动大规模追查行动，案件正在侦办中。"
   },
   {
     "id": "c6f2e5d8a9b4",
@@ -3081,7 +3937,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The National Police Chief has ordered an increase in security measures and cooperation to assist Thai nationals returning from the Middle East. Authorities will closely monitor, verify, and watch information on all social media channels to prevent ...",
+    "summary_cn": "泰国警察总署署长下令全国各重要场所升级安保措施，同时要求各部门全力协助从中东返回的泰国公民。当局将对所有社交媒体平台进行全面监控和核查，以防范可能由中东局势引发的国内安全隐患及不实信息传播，确保社会稳定。"
   },
   {
     "id": "d7a3f6e9b0c5",
@@ -3100,7 +3958,8 @@
     "time_sensitive": false,
     "status": "published",
     "published_issue": 5,
-    "published_date": "2026-03-05"
+    "published_date": "2026-03-05",
+    "desc_original": "This makes Thailand an ideal regional hub for: Cloud infrastructure distribution · Content delivery networks (CDNs) Enterprise applications · Compared to Singapore, which faces infrastructure saturation, Bangkok provides room for expansion. Business impact: Companies can serve millions of users across Southeast Asia with lower latency and lower operating costs. February 27, 2026 ·"
   },
   {
     "id": "e8b4a7f0c1d6",
@@ -3117,7 +3976,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "In Phuket Town, more than 366 CCTV cameras are linked to a central control room that operates 24 hours a day. The project aims to increase coverage throughout the city and thus enable faster detection and response to incidents.",
+    "summary_cn": "普吉城（Phuket Town）已完成对366台以上闭路电视（CCTV）摄像头的联网整合，统一接入24小时运营的中央控制室，实现城区全覆盖监控。该智慧安防项目旨在大幅提升事件发现和应急响应速度，是普吉府持续推进智慧城市建设的重要组成部分。"
   },
   {
     "id": "f9c5b8a1d2e7",
@@ -3135,7 +3996,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Mekong River, border region of Northeast Thailand 26 February 2026 Time not stated · Thailand and Laos have agreed to intensify joint patrols on the Mekong River. The aim is to curb drug trafficking, illegal border crossings, and other forms ...",
+    "summary_cn": "泰国与老挝于2026年2月26日达成协议，将加强在湄公河（Mekong River）的联合巡逻力度，重点打击毒品走私、非法越境及其他跨境犯罪活动。此次合作协议聚焦泰国东北部边境地区，双方将通过联合执法机制强化边境安全管理，维护湄公河流域稳定秩序。"
   },
   {
     "id": "e94d2a589e91",
@@ -3152,7 +4015,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-03-18",
     "time_sensitive": true,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "A 68-year-old German tourist said he was heartbroken after his flight to Thailand was canceled due to Middle East airspace closures linked to the conflict between Iran and Israel. Rolf Kollrep, who visits Thailand twice a year, had planned to spend the entire month of March holidaying in the country. He was scheduled to depart Germany on 2 March on a Qatar Airways flight transiting through Doha before continuing to Bangkok. Accommodation in Pattaya and Hua Hin had been booked since last year. Ho",
+    "summary_cn": "68岁德国游客罗尔夫·科尔雷普（Rolf Kollrep）每年赴泰两次，原计划3月全月在泰国度假，在芭提雅和华欣（Hua Hin）均有预订住宿，但因中东空域关闭，其搭乘卡塔尔航空（Qatar Airways）经多哈（Doha）转机的航班于出发前被取消，计划全盘落空，令其深感遗憾，成为受中东局势影响的众多欧洲游客之一。"
   },
   {
     "id": "aa5808753e35",
@@ -3169,7 +4034,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "PHUKET — Residents in Rawai have raised concerns over foreign tourists sunbathing and swimming naked on a public beach, questioning whether the practice is appropriate and calling on authorities to investigate. On 2 March 2026, the Facebook page “Phuket Info Center” posted four photos showing foreign visitors reportedly sunbathing nude at a beach in Rawai subdistrict, Muang district. The images triggered widespread debate online. The post asked whether a so-called “nude beach” in Phuket was suit",
+    "summary_cn": "普吉岛拉威区（Rawai）居民向当局反映，有外国游客在当地公共海滩裸体日晒和游泳，质疑此举是否符合当地文化和法律规范。「Phuket Info Center」于3月2日发布现场照片后，引发网络热议，当地居民呼吁官方尽快介入调查并采取管理措施，明确公共海滩相关行为规范。"
   },
   {
     "id": "7e99b76cfc17",
@@ -3186,7 +4053,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Thai ex-wife of ASOS co-founder seeks child custody after his death Legacy A Thai woman is seeking custody of her three children following the death of her British ex-husband, ASOS co-founder Quentin Griffiths , alleging she was prevented from seeing them for nearly five years following their divorce . The 58 year old British businessman, Griffiths, was found dead on February 9 after falling from his 18th-floor apartment in Pattaya . Police said they suspected suicide , reporting the room was lo",
+    "summary_cn": "ASOS联合创始人、58岁英国商人昆廷·格里菲斯（Quentin Griffiths）于2月9日被发现坠亡于芭提雅一处18楼公寓，警方初步判断为自杀。其泰籍前妻随即申请三名子女的监护权，并指控自离婚后被长达近五年阻止探视孩子，案件涉及跨国家庭法律纠纷和遗产争议，引发国际媒体关注。"
   },
   {
     "id": "f3c9b2a5d6e1",
@@ -3203,7 +4072,9 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "Together, these efforts frame restoration as a strategic pillar of urban cultural asset management - revitalizing historic districts, generating economic vitality, and strengthening a creative business ecosystem that grows sustainably from the city&#x27;s existing foundations. LAHI (Heritage): The Philippine Fashion Exhibition · Fashion as Cultural Diplomacy and a New Economic Bridge in ASEAN ... Representing the Philippines, Bangkok Design Week 2026 serves as the launch platform for &quot;LAHI ",
+    "summary_cn": "曼谷设计周（Bangkok Design Week）2026以城市遗产活化（Heritage Restoration）为战略核心，将历史街区复兴与创意经济发展相结合，旨在构建可持续的创意商业生态系统。本届活动同时承担国际文化交流平台功能，包括菲律宾时装展览「LAHI」，以曼谷为东盟（ASEAN）创意经济合作的发布平台，定位亚洲创意枢纽。"
   },
   {
     "id": "a4d0c3b6e7f2",
@@ -3220,6 +4091,8 @@
     "added_date": "2026-03-03",
     "expires_date": "2026-04-02",
     "time_sensitive": false,
-    "status": "pending"
+    "status": "pending",
+    "desc_original": "The aircraft will operate on Etihad’s evening daily service between Abu Dhabi’s Zayed International Airport and Bangkok Suvarnabhumi, further strengthening connectivity between Southeast Asia, the Middle East and Europe as the airline adds capacity ahead of the busy winter season · As noted, the A380 will operate on the airline’s evening flight. Timings are as follows: EY402 DEPART AUH 21:10 ARRIVE BKK 06:35+1 EY403 DEPART BKK 08:30 ARRIVE AUH 12:20 Commences 29th October 2026 Operates Daily Boo",
+    "summary_cn": "阿提哈德航空（Etihad Airways）宣布，自2026年10月29日起，将在阿布扎比扎耶德国际机场（Zayed International Airport）至曼谷苏万纳普（Suvarnabhumi）每日航班上引入A380客机执飞，为每日固定班次。去程EY402于21:10从阿布扎比出发，次日06:35抵达曼谷；回程EY403于08:30从曼谷出发，12:20抵达阿布扎比，进一步强化东南亚、中东与欧洲之间的航空连接。"
   }
 ]

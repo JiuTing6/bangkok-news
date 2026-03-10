@@ -13,7 +13,7 @@
 - 格式必须精确，今天是 **2026-03-07**
 
 ### 第2步：读取现有数据（用于去重）
-- 读取 `data/news_pool.json` → 取所有 url + title_cn 用于去重
+- 读取 `data/news_pool.json` → **只取最近10天内的条目（added_date >= 今日-10天），且最多100条（取最新100条）**，提取 url + title_cn 用于去重
 - 读取 `data/published_history.json` → 取已发布条目的 title 用于语义去重
 
 ### 第3步：抓取 raw 原料（基于日期戳的增量抓取）
@@ -58,7 +58,7 @@ python3 scripts/fetch_brave.py data/issues/2026-03-08-raw.json
 3. **语义指纹 (`event_id`)**：
    - 为该新闻生成一个核心事件 ID，格式如 `thailand_visa_policy_2026_03`。
    - 对比 `published_history.json` 的标题：如果该事件在历史中已发布，且当前条目**没有提供新的重大进展**（增量信息），则判定为"重复"，不予入库。
-   - **如果是持续追踪报道**（有新证据/新数据），请入库并将 tags 加上 `#追踪`。
+   - **如果是持续追踪报道**（有新证据/新数据），直接入库，无需加任何追踪标签。
 
 ### 层级 3：精细化标注 (Categorization)
 - **title_cn**：翻译需信达雅，专有名词首次出现附英文（如：披集县 Phichit）。
