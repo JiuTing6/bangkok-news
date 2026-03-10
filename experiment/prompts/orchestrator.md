@@ -164,7 +164,7 @@ python3 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/scripts/pool_merg
 
 ## 第10步：Telegram 通知
 
-使用 `message` 工具发送 Telegram 通知（channel: telegram），内容：
+使用 `message` 工具发送 Telegram 通知（**channel: telegram，to: "818033361"**），内容：
 
 ```
 📥 Thailand10 Ingest v2 TODAY 完成
