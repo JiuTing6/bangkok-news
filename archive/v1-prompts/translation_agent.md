@@ -1,5 +1,5 @@
 # Translation Agent — Layer 3 翻译与标注
-# 模型：Gemini 2.5 Flash (google/gemini-2.5-flash)
+# 模型：scanner (Gemini 3 Flash Preview)
 
 ## 你的任务
 
