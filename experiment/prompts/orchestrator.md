@@ -149,6 +149,12 @@ python3 scripts/translate.py \
 
 ## 第8步：Pool Merge (Python收尾)
 
+先备份当前 pool：
+
+```bash
+cp data/news_pool.json data/news_pool.bak.json
+```
+
 合并新条目：
 
 ```bash
