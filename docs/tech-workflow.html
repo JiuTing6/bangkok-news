@@ -320,8 +320,8 @@
     <div class="page-title">🇹🇭 Thailand<span>10:00</span> 技术工作流文档</div>
     <p style="color:#aaa; font-size:15px; margin-top:10px;">从触发到发布的完整技术流程，面向 Ade 自用参考</p>
     <div class="page-meta">
-      <span>📅 最后更新：2026-02-26</span>
-      <span>🔖 版本：v0.3</span>
+      <span>📅 最后更新：2026-03-11</span>
+      <span>🔖 版本：v2.1</span>
       <span>🌐 <a href="../thailand10/index.html" style="color:#e74c3c;">→ 查看期刊归档</a></span>
     </div>
   </div>
@@ -352,16 +352,19 @@
     <p>Thailand10 是一个<strong>零服务器、零运营成本</strong>的自动化新闻简报系统。除 AI API 调用费用外，所有基础设施完全免费。</p>
 
     <div class="card">
-      <div class="card-label">核心设计原则</div>
+      <div class="card-label">核心设计原则（v2.1）</div>
       <table>
         <tr><th>层级</th><th>技术</th><th>成本</th></tr>
-        <tr><td>调度触发</td><td>OpenClaw Gateway（本地 Mac Mini 后台服务）</td><td>免费</td></tr>
-        <tr><td>内容生成</td><td>Claude Sub-agent（AI 编辑）</td><td>API 按量计费</td></tr>
-        <tr><td>数据抓取</td><td>Python + RSS / Brave Search API</td><td>免费</td></tr>
-        <tr><td>页面渲染</td><td>Python 标准库（无第三方依赖）</td><td>免费</td></tr>
+        <tr><td>调度触发</td><td>OpenClaw Cron（Mac Mini 后台）× 3 个 job</td><td>免费</td></tr>
+        <tr><td>Ingest 主控</td><td>minimax sub-agent（Orchestrator）</td><td>~$0.0004/次</td></tr>
+        <tr><td>过滤 + 去重</td><td>scanner sub-agent（Gemini Flash）</td><td>~$0.005/次</td></tr>
+        <tr><td>翻译 + 标注</td><td>Python → OpenRouter API（scanner JSON mode）</td><td>~$0.010/次</td></tr>
+        <tr><td>数据入库</td><td>Python pool_merge.py</td><td>免费</td></tr>
+        <tr><td>发布主控</td><td>minimax sub-agent（Publish Prompt）</td><td>~$0.001/次</td></tr>
+        <tr><td>页面渲染</td><td>Python build_html.py（无第三方依赖）</td><td>免费</td></tr>
         <tr><td>网站托管</td><td>GitHub Pages（全球 CDN）</td><td>免费</td></tr>
-        <tr><td>用户反馈</td><td>浏览器 localStorage（纯前端）</td><td>免费</td></tr>
       </table>
+      <p style="margin-top:12px; color:#666; font-size:14px;">📊 每日 Ingest 合计 ~$0.015，每月 ~$0.45（vs v1 每月 $9–12）</p>
     </div>
 
     <div class="callout callout-info">
@@ -373,114 +376,97 @@
   <!-- 2. 触发层 -->
   <div class="section" id="trigger">
     <div class="section-title"><span class="num">02</span> 触发层：OpenClaw Cron</div>
-    <p>OpenClaw Gateway 是运行在 Mac Mini 上的一个后台守护进程，负责维护任务调度器。到达预定时间时，它自动唤醒一个隔离的 Sub-agent session，并把任务提示词作为第一条消息发送给它。</p>
+    <p>OpenClaw Gateway 是运行在 Mac Mini 上的后台守护进程，维护3个 Cron 任务：</p>
 
     <table>
-      <tr><th>任务名</th><th>Cron 表达式</th><th>运行时间</th></tr>
-      <tr><td>Thailand10 周四</td><td><code>30 9 * * 4 @ Asia/Bangkok</code></td><td>每周四 09:30 BKK</td></tr>
-      <tr><td>Thailand10 周一</td><td><code>30 9 * * 1 @ Asia/Bangkok</code></td><td>每周一 09:30 BKK</td></tr>
+      <tr><th>任务名</th><th>时间</th><th>Prompt 文件</th><th>模型</th></tr>
+      <tr><td>每日 Ingest</td><td>每天 08:30 BKK</td><td><code>experiment/prompts/orchestrator.md</code></td><td>minimax</td></tr>
+      <tr><td>Thailand10 周四</td><td>每周四 09:30 BKK</td><td><code>experiment/prompts/publish.md</code></td><td>minimax</td></tr>
+      <tr><td>Thailand10 周一</td><td>每周一 09:30 BKK</td><td><code>experiment/prompts/publish.md</code></td><td>minimax</td></tr>
     </table>
 
-    <p>Sub-agent 收到的"任务书"是 <code>scripts/cron_prompt_thailand10.md</code>，里面详细定义了 10 个执行步骤。这个文件是整个系统的核心配置文件。</p>
+    <p>Ingest 每天跑，补充素材进 <code>data/news_pool.json</code>；Publish 每周一/四从 pool 选编并发布。两个流程完全解耦。</p>
   </div>
 
-  <!-- 3. Sub-agent -->
+  <!-- 3. Pipeline -->
   <div class="section" id="agent">
-    <div class="section-title"><span class="num">03</span> Sub-agent：AI 编辑</div>
-    <p>Sub-agent 是一个与主对话 session 完全隔离的 AI 实例。它按照 <code>cron_prompt_thailand10.md</code> 定义的 10 步流程执行：</p>
+    <div class="section-title"><span class="num">03</span> 两阶段流水线：Ingest + Publish</div>
+
+    <h3>🔽 Ingest Pipeline（每天 08:30）</h3>
+    <p>负责将原始新闻素材处理入库，由 minimax Orchestrator 主控，分9步完成：</p>
 
     <div class="flow">
-
       <div class="flow-step">
         <div class="flow-left"><div class="flow-dot">1</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>确定期数和日期</strong><div class="sub">读取 thailand10/index.html，数归档条目数 +1，确定本期期号</div></div>
+        <div class="flow-body"><strong>确定日期 + 上次入库时间</strong><div class="sub">读取 <code>data/last_ingest.txt</code>，确定抓取时间窗口</div></div>
       </div>
-
       <div class="flow-step">
         <div class="flow-left"><div class="flow-dot">2</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>读取记忆文件</strong><div class="sub">加载 history.json / tracking.json / buffer.json，获取去重数据、追踪议题状态和储备库内容</div></div>
+        <div class="flow-body"><strong>双轨抓取原始素材</strong><div class="sub">fetch_rss.py（6个英文 RSS 源）+ fetch_brave.py（11组关键词）→ <code>TODAY-raw.json</code></div></div>
       </div>
-
       <div class="flow-step">
         <div class="flow-left"><div class="flow-dot">3</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>双轨抓取新闻</strong><div class="sub">轨道A：调用 fetch_rss.py 从6个 RSS 源抓取原始素材，存入 data/issues/YYYY-MM-DD-raw.json<br>轨道B：调用 Brave Search API 跑 11 组关键词（英文+泰文）补充搜索</div></div>
+        <div class="flow-body"><strong>展平 + Pool 摘录</strong><div class="sub">Python 内联：dict → 统一数组 <code>TODAY-flat.json</code>；取最近10天 pool 前100条 → <code>TODAY-pool-excerpt.json</code></div></div>
       </div>
-
       <div class="flow-step">
         <div class="flow-left"><div class="flow-dot">4</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>编辑选题（AI 核心工作）</strong><div class="sub">按三原则筛选：原料优先 → 重要性优先 → 板块关联度。硬性下限10条，软性参考25条。溢出稿件存 buffer。曼谷版块严格只收本地新闻</div></div>
+        <div class="flow-body"><strong>Filter + Dedup（scanner sub-agent）</strong><div class="sub">Layer 1：过滤非泰国内容 → <code>TODAY-filtered.json</code><br>Layer 2：与近期 pool 去重（10天窗口）→ <code>TODAY-deduped.json</code></div></div>
       </div>
-
       <div class="flow-step">
         <div class="flow-left"><div class="flow-dot">5</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>撰写中文摘要</strong><div class="sub">阅读原文（web_fetch），用中文写 150–500 字摘要，加编辑评论，首次出现专有名词附英文</div></div>
+        <div class="flow-body"><strong>Translation（Python → OpenRouter API）</strong><div class="sub"><code>scripts/translate.py</code>：分批调用 scanner JSON mode，生成 title_cn / summary_cn / importance / section_hint 等字段 → <code>TODAY-translated.json</code></div></div>
       </div>
-
       <div class="flow-step">
         <div class="flow-left"><div class="flow-dot">6</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>生成期数 JSON</strong><div class="sub">输出结构化 JSON，存入 data/issues/YYYY-MM-DD.json（永久保留）</div></div>
+        <div class="flow-body"><strong>备份 + 入库</strong><div class="sub"><code>cp news_pool.json news_pool.bak.json</code>，然后 pool_merge.py 合并写入 <code>data/news_pool.json</code></div></div>
       </div>
-
       <div class="flow-step">
-        <div class="flow-left"><div class="flow-dot">7</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>调用 build_html.py</strong><div class="sub">Python 脚本读取 JSON，生成完整 HTML 页面</div></div>
+        <div class="flow-left"><div class="flow-dot">7</div></div>
+        <div class="flow-body"><strong>Telegram 通知</strong><div class="sub">发送入库统计：条数 / P1-P3 分布 / 各板块数量</div></div>
       </div>
+    </div>
 
+    <h3>📰 Publish Pipeline（周一/四 09:30）</h3>
+    <p>从 pool 中选题编写，由 minimax Publish Agent 执行：</p>
+    <div class="flow">
       <div class="flow-step">
-        <div class="flow-left"><div class="flow-dot">8</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>更新记忆文件</strong><div class="sub">写入 history.json 去重哈希，更新 tracking.json 议题进展，处理 buffer.json 过期条目并写入新溢出稿</div></div>
+        <div class="flow-left"><div class="flow-dot">1</div><div class="flow-line"></div></div>
+        <div class="flow-body"><strong>从 news_pool.json 选题</strong><div class="sub">按 importance + section_hint 选 15-25 条，参考 editorial_feedback.md 编辑规则</div></div>
       </div>
-
       <div class="flow-step">
-        <div class="flow-left"><div class="flow-dot">9</div><div class="flow-line"></div></div>
-        <div class="flow-body"><strong>推送 GitHub</strong><div class="sub">git add → commit → push，GitHub Pages 约 1–2 分钟自动部署上线</div></div>
+        <div class="flow-left"><div class="flow-dot">2</div><div class="flow-line"></div></div>
+        <div class="flow-body"><strong>撰写正文 + 生成期数 JSON</strong><div class="sub">AI 编辑：扩写 summary_cn，加编辑视角，输出 <code>thailand10/YYYY-MM-DD-NNN.json</code></div></div>
       </div>
-
       <div class="flow-step">
-        <div class="flow-left"><div class="flow-dot">10</div></div>
-        <div class="flow-body"><strong>通知</strong><div class="sub">发送消息给 Ade（webchat / Telegram），附期刊链接和速览</div></div>
+        <div class="flow-left"><div class="flow-dot">3</div><div class="flow-line"></div></div>
+        <div class="flow-body"><strong>渲染 HTML + 推送发布</strong><div class="sub">build_html.py → git push → GitHub Pages 上线，Telegram 通知</div></div>
       </div>
-
     </div>
   </div>
 
   <!-- 4. 数据层 -->
   <div class="section" id="data">
-    <div class="section-title"><span class="num">04</span> 数据层：JSON 记忆文件</div>
-    <p>所有持久化数据存在 <code>data/</code> 目录下，用 JSON 文件模拟一个轻量级数据库。</p>
+    <div class="section-title"><span class="num">04</span> 数据层：JSON 文件</div>
+    <p>所有持久化数据存在 <code>data/</code> 目录下，用 JSON 文件模拟轻量级数据库。</p>
 
-    <h3>data/history.json — 去重库</h3>
-    <p>存储每条已发布新闻的哈希值（<code>md5(title + url)</code> 前12位）和发布日期。Sub-agent 每期抓到新闻后先比对此文件，已有的跳过，防止同一条新闻重复发布。</p>
-    <pre><code>{
-  "entries": {
-    "60b68f13d4a9": "2026-02-26",
-    "f2fce14dc7a2": "2026-02-26"
-  }
-}</code></pre>
+    <h3>data/news_pool.json — 核心素材库</h3>
+    <p>Ingest 每天新增的翻译后条目，是 Publish 的唯一原料来源。每条包含完整字段：id、title_cn、summary_cn、importance（P1/P2/P3）、section_hint、tags、expires_date 等。备份文件：<code>data/news_pool.bak.json</code>（每次 ingest 前自动覆盖）。</p>
 
-    <h3>data/tracking.json — 追踪议题库</h3>
-    <p>存储 15 个长期追踪议题（政治/经济/科技/房产/签证），记录每个议题最后出现时间和摘要。有进展时在新闻上标注 🔄 持续追踪。当前追踪的议题包括：泰国组阁、泰铢/央行政策、签证改革、Google数据中心、中泰铁路等。</p>
+    <h3>data/buffer.json — 补充储备库</h3>
+    <p>Publish 选题时如 pool 内容不足，从此处补充。按时效性分类：时效性内容（14天）/ 时效中性内容（90天）。</p>
 
-    <h3>data/buffer.json — 内容储备库</h3>
-    <p>存储未发布的优质稿件，供新鲜内容不足 10 条时调取。稿件按时效性分两类：</p>
+    <h3>data/editorial_feedback.md — 编辑规则</h3>
+    <p>人工维护的编辑偏好文件，Publish Agent 选题时参考。记录哪类内容优先、哪类降权、特殊说明等。</p>
+
+    <h3>data/issues/ — 每日中间产物</h3>
     <table>
-      <tr><th>类型</th><th>内容示例</th><th>有效期</th></tr>
-      <tr><td>时效性内容</td><td>政策变动、经济数据、安全事件</td><td>14 天</td></tr>
-      <tr><td>时效中性内容</td><td>新开酒店、餐厅、寺庙、地标、生活指南</td><td>90 天（读者不感知时间差）</td></tr>
+      <tr><th>文件</th><th>内容</th><th>生命周期</th></tr>
+      <tr><td><code>TODAY-raw.json</code></td><td>RSS + Brave 原始抓取</td><td>永久保留（近期），旧文件归档</td></tr>
+      <tr><td><code>TODAY-flat.json</code></td><td>展平后统一数组</td><td>下次 ingest 后可删</td></tr>
+      <tr><td><code>TODAY-filtered.json</code></td><td>Layer 1 过滤结果</td><td>同上</td></tr>
+      <tr><td><code>TODAY-deduped.json</code></td><td>Layer 2 去重结果</td><td>同上</td></tr>
+      <tr><td><code>TODAY-translated.json</code></td><td>Layer 3 翻译结果</td><td>同上（已入 pool）</td></tr>
     </table>
-
-    <h3>data/issues/ — 期数档案</h3>
-    <p>每期生成两个永久存档文件：</p>
-    <table>
-      <tr><th>文件</th><th>内容</th><th>用途</th></tr>
-      <tr><td><code>YYYY-MM-DD-raw.json</code></td><td>RSS 抓取的全部原始素材</td><td>分析抓取量、来源分布</td></tr>
-      <tr><td><code>YYYY-MM-DD.json</code></td><td>AI 最终选取并撰写的稿件</td><td>随时重新渲染 HTML、数据分析</td></tr>
-    </table>
-
-    <div class="callout callout-tip">
-      <div class="callout-title">✅ 为什么不用 /tmp/？</div>
-      早期版本将 JSON 存入系统 <code>/tmp/</code> 临时目录，Mac 重启后自动清空，导致无法复现历史期刊。v0.3 起改为永久存档于 <code>data/issues/</code>，两个文件对比可完整还原"抓了什么 → 选了什么"的编辑决策链路。
-    </div>
   </div>
 
   <!-- 5. 抓取层 -->
@@ -606,62 +592,52 @@ delete fb[article_id]
 
   <!-- 9. 数据流图 -->
   <div class="section" id="dataflow">
-    <div class="section-title"><span class="num">09</span> 完整数据流图</div>
+    <div class="section-title"><span class="num">09</span> 完整数据流图（v2.1）</div>
     <pre><code>
-  ┌─────────────────────────────────────────────────────┐
-  │  OpenClaw Gateway（Mac Mini 后台）                   │
-  │  Cron: 每周一/四 09:30 BKK                          │
-  └──────────────────────┬──────────────────────────────┘
-                         │ 触发
-                         ▼
-  ┌─────────────────────────────────────────────────────┐
-  │  Sub-agent（隔离 AI session）                        │
-  │  读取 cron_prompt_thailand10.md 任务书               │
-  └───┬──────────────────────────────────────┬──────────┘
-      │                                      │
-      ▼                                      ▼
-  fetch_rss.py                        Brave Search API
-  6 个 RSS 源                          11 组关键词
-      │                                      │
-      └──────────────┬───────────────────────┘
-                     │ 原始素材
-                     ▼
-             data/issues/YYYY-MM-DD-raw.json
-                     │
-                     ▼
-            AI 编辑选题（三原则）
-            ↕ 对照 data/history.json（去重）
-            ↕ 读取 data/tracking.json（追踪议题）
-            ↕ 读取 data/buffer.json（储备库）
-                     │
-                     ▼
-             data/issues/YYYY-MM-DD.json（最终稿）
-                     │
-                     ▼
-             build_html.py
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-  thailand10/                data/*.json
-  YYYY-MM-DD.html            （更新记忆文件）
-  index.html
+  ┌──────────────────────────────────────────────────────────┐
+  │  OpenClaw Gateway（Mac Mini 后台）                        │
+  │  Cron ×3：Ingest 每天08:30 / Publish 周一/四 09:30       │
+  └──────────────────────┬───────────────────────────────────┘
+                         │
+          ┌──────────────┴──────────────────┐
+          ▼                                 ▼
+  ── INGEST（每日）──                ── PUBLISH（周一/四）──
+          │                                 │
+  Orchestrator（minimax）          Publish Agent（minimax）
+          │                                 │
+  fetch_rss.py + fetch_brave.py    读取 news_pool.json
+          │                        + buffer.json
+  TODAY-raw.json                   + editorial_feedback.md
+          │                                 │
+  Python: flatten                  AI 选题（15-25条）
+  TODAY-flat.json                           │
+          │                        撰写正文 + 期数 JSON
+  scanner sub-agent                         │
+  Filter → TODAY-filtered.json     build_html.py
+  Dedup  → TODAY-deduped.json               │
+          │                        thailand10/YYYY-MM-DD.html
+  Python: translate.py             index.html
+  （OpenRouter JSON mode）                   │
+  TODAY-translated.json            git push → GitHub Pages
+          │                                 │
+  pool_merge.py                    Telegram 通知
+  → news_pool.json（+备份.bak）
           │
-          ▼
-       git push
-          │
-          ▼
-  GitHub Pages（全球上线）
-          │
-          ▼
-     读者浏览器
-          │
-     👍🏻 / 👎🏻（localStorage，待接通回路）
+  Telegram 通知
 </code></pre>
   </div>
 
   <!-- 10. 路线图 -->
   <div class="section" id="roadmap">
     <div class="section-title"><span class="num">10</span> 下一步改进计划</div>
+
+    <div class="roadmap-item">
+      <span class="roadmap-badge badge-done">✅ 已完成</span>
+      <div class="roadmap-text">
+        <strong>v2.1 架构升级（2026-03-11）</strong>
+        <span>Ingest/Publish 两阶段解耦；news_pool.json 中央素材库；Translation 改用 Python + OpenRouter JSON mode；成本从 $9-12/月降至 ~$0.45/月</span>
+      </div>
+    </div>
 
     <div class="roadmap-item">
       <span class="roadmap-badge badge-done">✅ 已完成</span>
@@ -732,7 +708,7 @@ delete fb[article_id]
 </div>
 
 <div class="page-footer">
-  Thailand10 技术文档 · 最后更新 2026-02-26 · 仅供内部参考
+  Thailand10 技术文档 · 最后更新 2026-03-11 · 仅供内部参考
 </div>
 
 </body>

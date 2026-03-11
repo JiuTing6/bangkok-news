@@ -1,8 +1,8 @@
 # Ingest Pipeline v2 设计文档
 
-**版本：** v2.0-draft  
-**更新：** 2026-03-09  
-**状态：** 设计验证阶段（已完成关键实验）
+**版本：** v2.1  
+**更新：** 2026-03-11  
+**状态：** 生产运行中（v2 已上线，v1 已归档）
 
 ---
 
@@ -16,18 +16,21 @@
 
 ---
 
-## v2 目标架构：Orchestrator + 子Agent 流水线
+## v2 实际架构：Orchestrator + 子Agent + Python 流水线
 
 ```
-Cron（minimax/scanner）→ Orchestrator session
-  ├── exec: fetch_rss.py + fetch_brave.py → raw.json       [Python]
-  ├── sessions_spawn(model=scanner) → Filter Agent          [LLM-F]
-  ├── sessions_spawn(model=scanner) → Dedup Agent           [LLM-D]
-  └── sessions_spawn(model=sonnet) → Translation Agent      [LLM-T]
-       └── exec: pool_merge.py → news_pool.json             [Python]
+Cron（minimax）→ Orchestrator session（主控 LLM）
+  ├── exec: fetch_rss.py + fetch_brave.py → raw.json        [Python]
+  ├── exec: flatten + pool_excerpt（Python 内联）            [Python]
+  ├── sessions_spawn(model=scanner) → Filter + Dedup Agent  [LLM-FD]
+  ├── exec: python3 scripts/translate.py                    [Python→API]
+  │    └── OpenRouter API (scanner, JSON mode, batch=5)
+  └── exec: pool_merge.py → news_pool.json                  [Python]
 ```
 
-数据传递：通过文件（子agent自己 read，不内联到 prompt）
+**关键设计：Translation 不再由 sub-agent 完成，改为 Python 脚本直调 OpenRouter API（JSON mode），Python 负责写文件，100% 可靠。**
+
+数据传递：通过文件（各步骤读写 `data/issues/TODAY-*.json`）
 
 ---
 
@@ -37,16 +40,18 @@ Cron（minimax/scanner）→ Orchestrator session
 |---|---|---|---|---|---|
 | 0 | Orchestrator 调度 | LLM-O | minimax-m2.5 | 3k / 0.5k | ~$0.0004 |
 | 1 | RSS + Brave 抓取 | Python | — | — | $0 |
-| 2 | Layer 1：过滤（泰国相关性） | LLM-F | scanner（Gemini Flash） | 15k / 0.5k | ~$0.003 |
-| 3 | Layer 2：去重 | LLM-D | scanner | ~15k / 1k | ~$0.002 |
-| 4 | Layer 3：翻译 + 标注 | LLM-T | Sonnet 4.6 | 15k / 12k | ~$0.18 |
+| 2 | 展平 + Pool 摘录 | Python | — | — | $0 |
+| 3 | Layer 1：过滤 + Layer 2：去重 | LLM-FD | scanner（Gemini Flash） | ~25k / 2k | ~$0.005 |
+| 4 | Layer 3：翻译 + 标注 | Python→API | scanner（JSON mode，batch=5） | ~22k / 20k | ~$0.01 |
 | 5 | pool_merge 入库收尾 | Python | — | — | $0 |
 
-**每次运行合计：~$0.19 → 月度 ~$5.70（节省约 40-50%）**
+**每次运行合计：~$0.015 → 月度 ~$0.45（vs v1 ~$9-12，节省 95%+）**
+
+> 注：Translation 从 Sonnet 4.6（$0.18/次）换成 scanner JSON mode（$0.01/次），是成本下降的主要原因。
 
 ---
 
-## 关键设计决策（2026-03-09 确认）
+## 关键设计决策与实验结论
 
 ### 1. Cron → 子Agent spawn 可行性 ✅ 已验证
 
@@ -60,6 +65,17 @@ Cron（minimax/scanner）→ Orchestrator session
 - **过滤测试**（29条真实 3/3 数据）：判断质量优秀，15秒，tokens 13.2k/5.2k
 - **去重测试**（25条候选 vs 116条 pool）：URL精确匹配100%正确，语义去重90%准确，10秒，tokens 32.2k/1.8k
 - 注意：去重测试输出带了 ``` 代码框，需在 prompt 加强"纯JSON"指令
+
+### 3. Scanner 工具调用（写文件）不可靠 ❌ 已确认 → 改用 Python
+
+**2026-03-11 测试（4次）：**
+- Run 1/2（原 prompt，45条）：scanner 输出 JSON 为文字，从未调用 write/exec 工具 → 文件不落盘
+- Run 3（明确要求用 write 工具，20条）：同样不写文件
+- Run 4（同上）：偶发成功写文件
+
+**结论：** scanner 工具调用写文件成功率约 25%，不可依赖，与 prompt 措辞关系不大。
+
+**解决方案：** `scripts/translate.py` — Python 直调 OpenRouter API（scanner，JSON mode），分批处理，Python 负责写文件，100% 可靠。测试：45条 9个 batch 全部成功，约 2 分钟完成。
 
 ### 3. Gemini 关于 maxSpawnDepth 的说法 ❌ 错误
 
@@ -104,26 +120,27 @@ Scanner 对泰国地名识别无需依赖"Thailand"字样：
 
 ---
 
-## 待完成
+## 当前状态（2026-03-11）
 
-### 实验阶段（不动生产环境）
-- [ ] 建立 `experiment/` 独立目录
-- [ ] 编写 orchestrator prompt（minimax/scanner 驱动）
-- [ ] 编写 filter_agent_prompt（Layer 1）
-- [ ] 编写 dedup_agent_prompt（Layer 2，含10天窗口逻辑）
-- [ ] 编写 translation_agent_prompt（Layer 3，去掉追踪标签）
-- [ ] 编写 `scripts/pool_merge.py`（Python 收尾：归档过期+合并写入）
-- [ ] 端到端联调测试
+### ✅ 已完成
+- v2 pipeline 完整上线，v1 脚本已归档至 `archive/v1-scripts/`
+- `experiment/prompts/orchestrator.md`：主控 prompt，步骤1-9
+- `experiment/prompts/filter_agent.md`：Layer 1 过滤
+- `experiment/prompts/dedup_agent.md`：Layer 2 去重（10天窗口）
+- `scripts/translate.py`：Layer 3 翻译，Python + OpenRouter JSON mode
+- `experiment/scripts/pool_merge.py`：入库收尾
+- `data/news_pool.bak.json`：每次 ingest 前自动备份
+- 2026-03-09 第6期成功发布（v2 首期）
 
-### 上线阶段
-- [ ] 切换 cron `c9fbffa7` model 为 minimax/scanner
-- [ ] 替换 `cron_prompt_ingest.md` 为新 orchestrator prompt
-- [ ] 监控首次生产跑结果
+### 待验证
+- [ ] 2026-03-12 08:30 Ingest（首次用新 translate.py）
+- [ ] 2026-03-13 09:30 Publish（验收 → experiment 转正）
 
-### 生产环境约束（绝对不动）
-- ❌ 不改动现有 cron jobs（`c9fbffa7` / `a3aa4070` / `de8116d8`）
-- ❌ 不动 `cron_prompt_ingest.md`（现有版本）
-- ❌ 不动 `data/news_pool.json` 生产数据
+### experiment 转正条件（2026-03-13 后）
+ingest 连续正常 + 周四发布成功后：
+1. `experiment/prompts/` 路径固化（或移入正式目录）
+2. 旧 v1 archive 保留不删
+3. MEMORY.md 路径同步更新
 
 ---
 
