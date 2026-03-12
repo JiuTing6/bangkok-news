@@ -242,6 +242,87 @@
         "source": "Khaosod English",
         "url": "https://www.khaosodenglish.com/news/2026/03/05/norwegian-tourist-detained-at-phuket-airport-over-torn-passport-page/"
       }
+    },
+    {
+      "id": "cbf5e95dabed",
+      "title_cn": "泰国外交部紧急警告：提醒仍在中东地区的泰国公民尽快撤离高风险区域",
+      "section_hint": "thailand",
+      "importance": "P1",
+      "time_sensitive": true,
+      "added_date": "2026-03-12",
+      "expires_date": "2026-03-27",
+      "article": {
+        "title": "⚠️ 泰国外交部（Foreign Ministry）紧急警告：提醒仍在中东地区的泰国公民尽快撤离高风险区域",
+        "tags": [
+          "#安全",
+          "#外交"
+        ],
+        "body": "泰国外交部发出最高级别安全警报，正式警告仍在中东高风险区域的泰国公民必须立即启动自主撤离，或通过大使馆协助渠道离境。警报覆盖伊朗、以色列及邻近战区的周边国家。外交部表示，当前局势瞬息万变，留守风险极高，政府无法为仍在当地的公民提供完全保障。大使馆已开设24小时热线，协助登记撤离意向。",
+        "comment": "⚠️ 请注意：如有亲属或朋友仍在上述地区，务必第一时间联系泰国驻当地大使馆。",
+        "date": "2026-03-09",
+        "source": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/general/3212509/foreign-ministry-warns-thais-to-leave-risky-mideast"
+      }
+    },
+    {
+      "id": "c109543cd229",
+      "title_cn": "战火波及全球物流：泰国空域关闭动态，霍尔木兹封锁对海运的连锁冲击",
+      "section_hint": "thailand",
+      "importance": "P1",
+      "time_sensitive": true,
+      "added_date": "2026-03-12",
+      "expires_date": "2026-03-27",
+      "article": {
+        "title": "战火波及全球物流：泰国相关空域关闭更新与霍尔木兹（Hormuz）封锁对海运货运的连锁冲击",
+        "tags": [
+          "#能源",
+          "#物流"
+        ],
+        "body": "中东冲突带来的物流连锁反应正持续扩大：部分过境中东空域的航班被迫绕行，导致飞行时间延长2-4小时不等；海运方面，霍尔木兹海峡的实际关闭迫使船舶绕行好望角，航程增加约2周，运费大幅攀升。泰国进出口企业已开始感受到物流成本和交期双重压力，部分原材料和半成品的到货时间面临不确定性。",
+        "date": "2026-03-09",
+        "source": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/thailand/general/3212429/airspace-closures-update-wars-impact-on-sea-freight"
+      }
+    },
+    {
+      "id": "7e834f2544b9",
+      "title_cn": "特朗普战争立场反复摇摆：最初要伊朗无条件投降，后逐渐软化",
+      "section_hint": "thailand",
+      "importance": "P2",
+      "time_sensitive": true,
+      "added_date": "2026-03-12",
+      "expires_date": "2026-03-27",
+      "article": {
+        "title": "伊美战争进入第12天：特朗普立场在\"无条件投降\"与接受换领导层之间摇摆",
+        "tags": [
+          "#中东局势",
+          "#地缘政治"
+        ],
+        "body": "伊美战争进入第12天，美国总统特朗普（Trump）在终战立场上出现明显摇摆。从最初要求伊朗「无条件投降」，到后来暗示接受「更换领导层」作为停战条件，其模糊表态令中东局势更加复杂。部分分析人士认为特朗普在寻求面子工程式的出口，另一些则担忧局势持续失控。对泰国而言，战事每延续一天，能源和贸易压力就继续积累。",
+        "date": "2026-03-11",
+        "source": "Bangkok Post",
+        "url": "https://www.bangkokpost.com/world/3214741/trump-wavers-on-unconditional-surrender"
+      }
+    },
+    {
+      "id": "e8b4a7f0c1d6",
+      "title_cn": "普吉城366台CCTV联网24小时控制室，智慧安防系统全面扩容",
+      "section_hint": "pattaya",
+      "importance": "P2",
+      "time_sensitive": false,
+      "added_date": "2026-03-12",
+      "expires_date": "2026-04-12",
+      "article": {
+        "title": "普吉城（Phuket Town）366台CCTV联网24小时控制室，智慧安防系统全面扩容",
+        "tags": [
+          "#普吉",
+          "#安防"
+        ],
+        "body": "普吉城已完成366台高清CCTV摄像头的联网整合，统一接入24小时运营的实时监控指挥室。新系统配备人脸识别和车牌识别AI辅助功能，目标是大幅提升案件响应速度和事后取证能力。这是普吉岛打造「智慧旅游安全城市」计划的一部分，预计未来将向普吉其他区域延伸。对在普吉旅居的外籍人士而言，公共场所的全面视频覆盖既是安全保障，也意味着公共空间的隐私边界正在收窄。",
+        "date": "2026-03-10",
+        "source": "Pattaya Mail",
+        "url": "https://www.pattayamail.com/thailandnews/phuket-town-366-cctv"
+      }
     }
   ]
 }
