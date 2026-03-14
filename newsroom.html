@@ -364,7 +364,7 @@
     </div>
     <div class="nr-meta">
       共 <strong id="total-count">384</strong> 条新闻<br>
-      更新于 2026-03-14 22:41 BKK
+      更新于 2026-03-15 00:17 BKK
     </div>
   </div>
 </div>
@@ -417,24 +417,17 @@ let searchQ = "";
 
 // ── 初始化 Section 按钮 ──
 const sectionBar = document.getElementById("section-bar");
-
-function setSection(sectionId) {
-  activeSection = sectionId;
-  sectionBar.querySelectorAll(".sec-btn").forEach(b => {
-    b.classList.toggle("active", b.dataset.section === sectionId);
-  });
-  render();
-}
-
-// 给静态的【全部】按钮绑定事件
-sectionBar.querySelector('.sec-btn[data-section=""]').onclick = () => setSection("");
-
 SECTIONS.forEach(s => {
   const btn = document.createElement("button");
   btn.className = "sec-btn";
   btn.dataset.section = s.id;
   btn.textContent = `${s.label} (${s.count})`;
-  btn.onclick = () => setSection(s.id);
+  btn.onclick = () => {
+    activeSection = s.id;
+    sectionBar.querySelectorAll(".sec-btn").forEach(b => b.classList.remove("active"));
+    btn.classList.add("active");
+    render();
+  };
   sectionBar.appendChild(btn);
 });
 
@@ -477,7 +470,7 @@ function filterItems() {
       if (![...activeTags].every(t => itemTags.includes(t))) return false;
     }
     if (searchQ) {
-      const haystack = ((item.title_cn || item.title || "") + " " + (item.summary_cn || item.desc_original || "") + " " + (item.title || "") + " " + (item.desc_original || "")).toLowerCase();
+      const haystack = (item.title + " " + (item.summary_cn || "") + " " + (item.desc || "")).toLowerCase();
       if (!haystack.includes(searchQ)) return false;
     }
     return true;
@@ -485,12 +478,17 @@ function filterItems() {
 }
 
 // ── 格式化日期 ──
-function fmtDate(d) {
-  if (!d) return "";
+// 优先用能解析的标准日期，非标准格式（如 "4 days ago"）fallback 到 added_date 或原字符串
+function fmtDate(d, fallback) {
+  if (!d) return fallback ? fmtDate(fallback) : "";
   try {
     const dt = new Date(d);
+    if (isNaN(dt.getTime())) {
+      // 非标准格式：尝试 fallback
+      return fallback ? fmtDate(fallback) : d.slice(0, 10);
+    }
     return dt.toLocaleDateString("zh-CN", { month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" });
-  } catch(e) { return d.slice(0, 10); }
+  } catch(e) { return fallback ? fmtDate(fallback) : d.slice(0, 10); }
 }
 
 // ── 渲染 ──
@@ -516,11 +514,11 @@ function render() {
     card.innerHTML = `
       <div class="nr-card-meta">
         <span class="nr-card-source">${item.source || ""}</span>
-        <span>${fmtDate(item.date || item.added_date)}</span>
+        <span>${fmtDate(item.date, item.added_date)}</span>
         ${imp ? `<span class="nr-card-importance imp-${imp}">${imp}</span>` : ""}
       </div>
-      <div class="nr-card-title">${item.title_cn || item.title || ""}</div>
-      <div class="nr-card-summary">${item.summary_cn || item.desc_original || ""}</div>
+      <div class="nr-card-title">${item.title || ""}</div>
+      <div class="nr-card-summary">${item.summary_cn || item.desc || ""}</div>
       ${tags ? `<div class="nr-card-tags">${tags}</div>` : ""}
     `;
     card.onclick = () => openModal(item);
@@ -530,14 +528,14 @@ function render() {
 
 // ── Modal ──
 function openModal(item) {
-  document.getElementById("modal-title").textContent = item.title_cn || item.title || "";
+  document.getElementById("modal-title").textContent = item.title || "";
   document.getElementById("modal-meta").innerHTML = `
     <span><strong>${item.source || ""}</strong></span>
-    <span>${fmtDate(item.date || item.added_date)}</span>
+    <span>${fmtDate(item.date, item.added_date)}</span>
     ${item.section_hint ? `<span>板块：${item.section_hint}</span>` : ""}
     ${item.importance ? `<span>优先级：${item.importance}</span>` : ""}
   `;
-  document.getElementById("modal-summary").textContent = item.summary_cn || item.desc_original || "";
+  document.getElementById("modal-summary").textContent = item.summary_cn || "";
   const descEl = document.getElementById("modal-desc");
   if (item.desc && item.desc !== item.desc_original) {
     descEl.textContent = item.desc;
