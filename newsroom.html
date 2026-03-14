@@ -470,7 +470,7 @@ function filterItems() {
       if (![...activeTags].every(t => itemTags.includes(t))) return false;
     }
     if (searchQ) {
-      const haystack = (item.title + " " + (item.summary_cn || "") + " " + (item.desc || "")).toLowerCase();
+      const haystack = ((item.title_cn || item.title || "") + " " + (item.summary_cn || item.desc_original || "") + " " + (item.title || "") + " " + (item.desc_original || "")).toLowerCase();
       if (!haystack.includes(searchQ)) return false;
     }
     return true;
@@ -512,8 +512,8 @@ function render() {
         <span>${fmtDate(item.date || item.added_date)}</span>
         ${imp ? `<span class="nr-card-importance imp-${imp}">${imp}</span>` : ""}
       </div>
-      <div class="nr-card-title">${item.title || ""}</div>
-      <div class="nr-card-summary">${item.summary_cn || item.desc || ""}</div>
+      <div class="nr-card-title">${item.title_cn || item.title || ""}</div>
+      <div class="nr-card-summary">${item.summary_cn || item.desc_original || ""}</div>
       ${tags ? `<div class="nr-card-tags">${tags}</div>` : ""}
     `;
     card.onclick = () => openModal(item);
@@ -523,14 +523,14 @@ function render() {
 
 // ── Modal ──
 function openModal(item) {
-  document.getElementById("modal-title").textContent = item.title || "";
+  document.getElementById("modal-title").textContent = item.title_cn || item.title || "";
   document.getElementById("modal-meta").innerHTML = `
     <span><strong>${item.source || ""}</strong></span>
     <span>${fmtDate(item.date || item.added_date)}</span>
     ${item.section_hint ? `<span>板块：${item.section_hint}</span>` : ""}
     ${item.importance ? `<span>优先级：${item.importance}</span>` : ""}
   `;
-  document.getElementById("modal-summary").textContent = item.summary_cn || "";
+  document.getElementById("modal-summary").textContent = item.summary_cn || item.desc_original || "";
   const descEl = document.getElementById("modal-desc");
   if (item.desc && item.desc !== item.desc_original) {
     descEl.textContent = item.desc;
