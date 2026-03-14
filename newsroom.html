@@ -417,17 +417,24 @@ let searchQ = "";
 
 // ── 初始化 Section 按钮 ──
 const sectionBar = document.getElementById("section-bar");
+
+function setSection(sectionId) {
+  activeSection = sectionId;
+  sectionBar.querySelectorAll(".sec-btn").forEach(b => {
+    b.classList.toggle("active", b.dataset.section === sectionId);
+  });
+  render();
+}
+
+// 给静态的【全部】按钮绑定事件
+sectionBar.querySelector('.sec-btn[data-section=""]').onclick = () => setSection("");
+
 SECTIONS.forEach(s => {
   const btn = document.createElement("button");
   btn.className = "sec-btn";
   btn.dataset.section = s.id;
   btn.textContent = `${s.label} (${s.count})`;
-  btn.onclick = () => {
-    activeSection = s.id;
-    sectionBar.querySelectorAll(".sec-btn").forEach(b => b.classList.remove("active"));
-    btn.classList.add("active");
-    render();
-  };
+  btn.onclick = () => setSection(s.id);
   sectionBar.appendChild(btn);
 });
 
