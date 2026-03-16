@@ -894,11 +894,13 @@
       "#政策"
     ],
     "event_id": "thailand_energy_security_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-15",
     "time_sensitive": false,
     "expires_date": "2026-04-14",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "fac94087d380",
@@ -917,11 +919,13 @@
       "#经济"
     ],
     "event_id": "bangchak_fuel_limit_cancel_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-15",
     "time_sensitive": true,
     "expires_date": "2026-03-30",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "bbb5993c9f71",
@@ -941,11 +945,13 @@
       "#交通"
     ],
     "event_id": "thai_navy_sea_mine_warning_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-15",
     "time_sensitive": true,
     "expires_date": "2026-03-30",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "3ca8f7b10884",
@@ -966,11 +972,13 @@
       "#安全"
     ],
     "event_id": "thailand_immigration_screening_tighten_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-15",
     "time_sensitive": true,
     "expires_date": "2026-03-30",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "602fb597c652",
@@ -992,9 +1000,11 @@
     "time_sensitive": true,
     "expires_date": "2026-03-30",
     "event_id": "thailand_parliament_opening_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-15"
+    "added_date": "2026-03-15",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "c1a6e263878f",
@@ -1016,9 +1026,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-14",
     "event_id": "thailand_nacc_saksayam_ruling_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-15"
+    "added_date": "2026-03-15",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "072422e6401d",
@@ -1248,11 +1260,13 @@
     "time_sensitive": true,
     "expires_date": "2026-03-30",
     "event_id": "thailand_election_ballot_legal_2026",
-    "status": "pending",
+    "status": "published",
     "source": "Bangkok Post",
     "url": "https://www.bangkokpost.com/thailand/politics/3216708/ombudsman-asks-court-to-rule-on-ballot-barcodes",
     "origin": "rss",
-    "added_date": "2026-03-15"
+    "added_date": "2026-03-15",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "4a8573c5714c",
@@ -1269,11 +1283,13 @@
     "time_sensitive": true,
     "expires_date": "2026-03-30",
     "event_id": "peoples_party_data_breach_2026",
-    "status": "pending",
+    "status": "published",
     "source": "Bangkok Post",
     "url": "https://www.bangkokpost.com/thailand/politics/3216689/calls-for-accountability-after-peoples-party-data-breach",
     "origin": "rss",
-    "added_date": "2026-03-15"
+    "added_date": "2026-03-15",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "9d8b0058bf55",
@@ -1296,9 +1312,11 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "event_id": "thailand_russia_oil_import_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-14"
+    "added_date": "2026-03-14",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "7de36a650064",
@@ -1320,9 +1338,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "event_id": "thailand_set_market_trends_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-14"
+    "added_date": "2026-03-14",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "99e5c442f83e",
@@ -1345,9 +1365,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "event_id": "thailand_property_selfbuilt_market_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-14"
+    "added_date": "2026-03-14",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "57308bc63037",
@@ -1418,9 +1440,11 @@
       "#交通"
     ],
     "event_id": "thailand_ship_attack_hormuz_2026",
-    "status": "pending",
+    "status": "published",
     "time_sensitive": false,
-    "expires_date": "2026-04-13"
+    "expires_date": "2026-04-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "f6ee6eebad4a",
@@ -1442,9 +1466,11 @@
       "#政策"
     ],
     "event_id": "thailand_crypto_scandal_2026",
-    "status": "pending",
+    "status": "published",
     "time_sensitive": false,
-    "expires_date": "2026-04-13"
+    "expires_date": "2026-04-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "e5fe93268d56",
@@ -1657,9 +1683,11 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "event_id": "pattaya_railway_road_upgrade_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-14"
+    "added_date": "2026-03-14",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "c1923c6776fe",
@@ -1705,9 +1733,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "event_id": "thai_iran_diplomatic_gaffe_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-14"
+    "added_date": "2026-03-14",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "ec747a6d6ba0",
@@ -1730,9 +1760,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "event_id": "bangkok_mbk_fake_raid_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-14"
+    "added_date": "2026-03-14",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "487b6ab05831",
@@ -1781,8 +1813,10 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "event_id": "bangkok_bus_disability_incident_2026",
-    "status": "pending",
-    "title_cn": "曼谷公交车因拒绝载客残障人士遭抨击 (Bangkok Public Bus)"
+    "status": "published",
+    "title_cn": "曼谷公交车因拒绝载客残障人士遭抨击 (Bangkok Public Bus)",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "0ca46353a87c",
@@ -1806,8 +1840,10 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "event_id": "bangkok_samsen_fire_hero_2026",
-    "status": "pending",
-    "title_cn": "外籍英雄在曼谷三森路（Samsen Road）火灾中协助居民疏散"
+    "status": "published",
+    "title_cn": "外籍英雄在曼谷三森路（Samsen Road）火灾中协助居民疏散",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "0b3b580a0147",
@@ -1959,9 +1995,11 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "event_id": "bangkok_israel_embassy_protest_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-14"
+    "added_date": "2026-03-14",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "a9ce870a55d2",
@@ -2077,10 +2115,12 @@
       "#中泰"
     ],
     "event_id": "chinese_woman_pattaya_murder_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-14",
     "time_sensitive": false,
-    "expires_date": "2026-04-13"
+    "expires_date": "2026-04-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "6ed02e10b753",
@@ -2170,11 +2210,13 @@
       "#政策"
     ],
     "event_id": "thailand_songkran_festival_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-14",
     "time_sensitive": true,
     "expires_date": "2026-03-29",
-    "origin": "brave"
+    "origin": "brave",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "7ec15a6b0784",
@@ -2255,11 +2297,13 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "event_id": "thailand_songkran_2026_dates_guide",
-    "status": "pending",
+    "status": "published",
     "source": "Thailand fireworks Songkran New Year cel",
     "url": "https://voyeglobal.com/songkran-festival-2026-thailand-water-festival/",
     "origin": "brave",
-    "added_date": "2026-03-14"
+    "added_date": "2026-03-14",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "9747e415888c",
@@ -2446,9 +2490,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-12",
     "event_id": "thailand_ai_investment_2026_03",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-13"
+    "added_date": "2026-03-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "0c09e25732a9",
@@ -2472,9 +2518,11 @@
     "time_sensitive": true,
     "expires_date": "2026-03-28",
     "event_id": "thailand_wfh_policy_2026_03",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-13"
+    "added_date": "2026-03-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "38eee1b16705",
@@ -2696,9 +2744,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-12",
     "event_id": "pattaya_chinese_raid_vape_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-13"
+    "added_date": "2026-03-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "974655fafc81",
@@ -2768,9 +2818,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-12",
     "event_id": "nakhon_pathom_gold_heist_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-13"
+    "added_date": "2026-03-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "91aae88a43cb",
@@ -2865,9 +2917,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-12",
     "event_id": "noble_development_asset_light_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-13"
+    "added_date": "2026-03-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "e53bda433842",
@@ -3067,9 +3121,11 @@
     "time_sensitive": true,
     "expires_date": "2026-03-28",
     "event_id": "us_thailand_trade_probe_2026_03",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
-    "added_date": "2026-03-13"
+    "added_date": "2026-03-13",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "aea9b5febc30",
@@ -3428,12 +3484,14 @@
       "#政策"
     ],
     "event_id": "thailand_plastic_shortage_oil_2026_03",
-    "status": "pending",
+    "status": "published",
     "time_sensitive": false,
     "expires_date": "2026-04-11",
     "url": "https://www.bangkokpost.com/business/general/3214963/plastic-shortages-loom-as-war-hits-oil-supplies",
     "origin": "rss",
-    "added_date": "2026-03-12"
+    "added_date": "2026-03-12",
+    "published_issue": 8,
+    "published_date": "2026-03-16"
   },
   {
     "id": "1742b9de3b36",

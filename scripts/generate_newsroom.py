@@ -539,12 +539,17 @@ function filterItems() {{
 }}
 
 // ── 格式化日期 ──
-function fmtDate(d) {{
-  if (!d) return "";
+// 优先用能解析的标准日期，非标准格式（如 "4 days ago"）fallback 到 added_date 或原字符串
+function fmtDate(d, fallback) {{
+  if (!d) return fallback ? fmtDate(fallback) : "";
   try {{
     const dt = new Date(d);
+    if (isNaN(dt.getTime())) {{
+      // 非标准格式：尝试 fallback
+      return fallback ? fmtDate(fallback) : d.slice(0, 10);
+    }}
     return dt.toLocaleDateString("zh-CN", {{ month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" }});
-  }} catch(e) {{ return d.slice(0, 10); }}
+  }} catch(e) {{ return fallback ? fmtDate(fallback) : d.slice(0, 10); }}
 }}
 
 // ── 渲染 ──
@@ -570,7 +575,7 @@ function render() {{
     card.innerHTML = `
       <div class="nr-card-meta">
         <span class="nr-card-source">${{item.source || ""}}</span>
-        <span>${{fmtDate(item.date || item.added_date)}}</span>
+        <span>${{fmtDate(item.date, item.added_date)}}</span>
         ${{imp ? `<span class="nr-card-importance imp-${{imp}}">${{imp}}</span>` : ""}}
       </div>
       <div class="nr-card-title">${{item.title || ""}}</div>
@@ -587,7 +592,7 @@ function openModal(item) {{
   document.getElementById("modal-title").textContent = item.title || "";
   document.getElementById("modal-meta").innerHTML = `
     <span><strong>${{item.source || ""}}</strong></span>
-    <span>${{fmtDate(item.date || item.added_date)}}</span>
+    <span>${{fmtDate(item.date, item.added_date)}}</span>
     ${{item.section_hint ? `<span>板块：${{item.section_hint}}</span>` : ""}}
     ${{item.importance ? `<span>优先级：${{item.importance}}</span>` : ""}}
   `;
