@@ -142,9 +142,11 @@ cd /Users/Ade/.openclaw/workspace/bangkok-news && \
 python3 scripts/translate.py \
   --input data/issues/TODAY-deduped.json \
   --output data/issues/TODAY-translated.json \
+  --batch 5 \
   --date TODAY
 ```
 
+**重要：** exec 工具调用时 `timeout` 必须设为 **600000ms（600秒）**，条目较多时翻译需要较长时间。
 脚本通过 OpenRouter API (scanner) 以 JSON mode 分批翻译，Python 直接写文件。
 等待输出 `TRANSLATION_RESULT: total=N P1=X P2=Y P3=Z`，确认文件生成后继续。
 
