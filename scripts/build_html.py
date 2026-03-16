@@ -35,9 +35,11 @@ def article_html(a, idx):
         if "⚠️" in t: ttype = "urgent"
         inline_tags += tag_html(t, ttype)
 
-    comment_html = ""
-    if a.get("comment"):
-        comment_html = f'<div class="article-comment">{a["comment"]}</div>'
+    # 编辑点评已禁用（2026-03-16）：token浪费，读者用处不大
+    # comment_html = ""
+    # if a.get("comment"):
+    #     comment_html = f'<div class="article-comment">{a["comment"]}</div>'
+    comment_html = ""  # 始终为空，comment 字段保留在 JSON 中但不渲染
 
     date_str = a.get("date","")
     source   = a.get("source","")
