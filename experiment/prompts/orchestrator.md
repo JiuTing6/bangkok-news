@@ -107,7 +107,10 @@ print(f'Pool 摘录: {len(excerpt)} 条（10天内）')
 
 ## 第6步：Filter + Dedup Agent (Layer 1 + 2)
 
-spawn **一个** scanner sub-agent，依次执行两步处理（filter → dedup），任务说明：
+spawn **一个** scanner sub-agent，依次执行两步处理（filter → dedup）：
+- `label`: `"Thailand10 Ingest: Filter+Dedup (TODAY)"`（把 TODAY 替换为实际日期）
+
+任务说明：
 
 ```
 你需要依次完成以下两个步骤，每步完成后再进行下一步。
@@ -168,12 +171,27 @@ python3 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/scripts/pool_merg
 
 ---
 
+## 第8.5步：推送 news_pool.json 到 GitHub
+
+```bash
+cd /Users/Ade/.openclaw/workspace/bangkok-news && \
+git add data/news_pool.json && \
+git commit -m "data: ingest TODAY" && \
+git push
+```
+
+（把 TODAY 替换为实际日期，如 `2026-03-15`）
+
+这样 Newsroom 前端（fetch 动态加载）会自动拿到最新数据，无需重新生成 HTML。
+
+---
+
 ## 第9步：Telegram 通知
 
 使用 `message` 工具发送 Telegram 通知（**channel: telegram，to: "818033361"**），内容：
 
 ```
-📥 Thailand10 Ingest v2 TODAY 完成
+📥 Thailand10 Ingest v2 [执行日期，格式 YYYY-MM-DD，用系统当天日期，非新闻数据日期] 完成
 
 原料: RSS X条 | Brave X条 → 展平 X条
 过滤(L1): X条保留 / X条丢弃
