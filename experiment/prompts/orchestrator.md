@@ -105,33 +105,42 @@ print(f'Pool 摘录: {len(excerpt)} 条（10天内）')
 
 ---
 
-## 第6步：Filter + Dedup Agent (Layer 1 + 2)
+## 第6步：Filter + Dedup（直接在本 session 执行，不 spawn subagent）
 
-spawn **一个** scanner sub-agent，依次执行两步处理（filter → dedup）：
-- `label`: `"Thailand10 Ingest: Filter+Dedup (TODAY)"`（把 TODAY 替换为实际日期）
+### Step 6a：Filter (Layer 1) — 泰国相关性过滤
 
-任务说明：
+读取 `data/issues/TODAY-flat.json`，按以下规则逐条判断：
 
-```
-你需要依次完成以下两个步骤，每步完成后再进行下一步。
+**保留（keep）标准：**
+- 文章主体是泰国、发生在泰国、直接涉及泰国的政策/人/事件
+- 泰国地名（Bangkok, Pattaya, Phuket, Chiang Mai, Koh Samui, Krabi, Hua Hin, Udon Thani, Korat, Hat Yai 等）出现在标题或摘要中
+- 国际事件但明确涉及泰国政府/企业/民众的具体行动
 
-⚠️ 重要约束：禁止 spawn 任何 sub-agent 或子任务。所有操作必须在本 session 内通过 exec/read/write 工具直接完成，不得嵌套调用 sessions_spawn。
+**丢弃（skip）标准：**
+- 纯全球新闻，无泰国具体行动/数据/提及（美联储加息、中东战争、AI模型发布等）
+- Wikipedia 页面、YouTube 视频、学术论文、纯广告页
+- 来源极不可靠或非新闻性质
 
-=== Step 1: Filter (Layer 1) ===
-按照 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/prompts/filter_agent.md 的指令执行。
-[INPUT_FILE]  = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-flat.json
-[OUTPUT_FILE] = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-filtered.json
-完成后确认文件已写入，再继续。
+判断完成后，将 keep=true 的条目用 `write` 工具写入 `data/issues/TODAY-filtered.json`（纯 JSON 数组，无任何额外文字）。
 
-=== Step 2: Dedup (Layer 2) ===
-按照 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/prompts/dedup_agent.md 的指令执行。
-[FILTERED_FILE]     = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-filtered.json
-[POOL_EXCERPT_FILE] = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-pool-excerpt.json
-[OUTPUT_FILE]       = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-deduped.json
-完成后确认文件已写入。
-```
+输出统计：`FILTER_RESULT: input=N keep=M skip=K`
 
-等待完成，确认 `data/issues/TODAY-deduped.json` 已生成。
+---
+
+### Step 6b：Dedup (Layer 2) — 语义去重
+
+读取 `data/issues/TODAY-filtered.json` 和 `data/issues/TODAY-pool-excerpt.json`，按以下规则逐条比对：
+
+1. **URL 完全相同** → skip
+2. **标题语义高度重合**（同一事件，同一角度，无新增信息）→ skip
+3. **同一事件但有新进展/新数据/新角度** → keep
+4. **不确定** → 偏向 keep
+
+将 keep 的条目用 `write` 工具写入 `data/issues/TODAY-deduped.json`（纯 JSON 数组，无任何额外文字）。
+
+输出统计：`DEDUP_RESULT: input=N keep=M skip=K`
+
+确认 `data/issues/TODAY-deduped.json` 已生成后继续。
 
 ---
 
