@@ -5,6 +5,8 @@
 
 将过滤后的候选条目与现有 pool 进行比对，去除重复，输出不重复的条目列表。
 
+⚠️ 严格约束：禁止调用 sessions_spawn，禁止 spawn 任何 sub-agent。所有操作必须在本 session 内通过 exec/read/write 工具直接完成。
+
 ---
 
 ## 第一步：读取数据

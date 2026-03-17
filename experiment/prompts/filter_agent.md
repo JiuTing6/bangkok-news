@@ -5,6 +5,8 @@
 
 读取原始新闻数据，过滤出与泰国真正相关的条目，输出纯 JSON。
 
+⚠️ 严格约束：禁止调用 sessions_spawn，禁止 spawn 任何 sub-agent。所有操作必须在本 session 内通过 exec/read/write 工具直接完成。
+
 ---
 
 ## 第一步：读取原始数据
