@@ -115,6 +115,8 @@ spawn **一个** scanner sub-agent，依次执行两步处理（filter → dedup
 ```
 你需要依次完成以下两个步骤，每步完成后再进行下一步。
 
+⚠️ 重要约束：禁止 spawn 任何 sub-agent 或子任务。所有操作必须在本 session 内通过 exec/read/write 工具直接完成，不得嵌套调用 sessions_spawn。
+
 === Step 1: Filter (Layer 1) ===
 按照 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/prompts/filter_agent.md 的指令执行。
 [INPUT_FILE]  = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-flat.json
