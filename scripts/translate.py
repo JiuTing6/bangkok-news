@@ -195,6 +195,15 @@ def main():
 
         results.extend(translated)
 
+    # Fallback: title_cn 为空则用 title 兜底
+    fallback_count = 0
+    for item in results:
+        if not item.get('title_cn') and item.get('title'):
+            item['title_cn'] = item['title']
+            fallback_count += 1
+    if fallback_count:
+        print(f"⚠️  title_cn fallback: {fallback_count} 条（用 title 兜底）")
+
     # Write output
     out_path = Path(args.output)
     out_path.parent.mkdir(parents=True, exist_ok=True)

@@ -21,7 +21,8 @@
     "event_id": "thailand_living_cost_crisis_2026",
     "status": "pending",
     "time_sensitive": false,
-    "expires_date": "2026-04-18"
+    "expires_date": "2026-04-18",
+    "title_cn": "民众呼吁泰国政府采取行动应对生活成本上涨"
   },
   {
     "id": "16118ae39d74",
@@ -45,7 +46,8 @@
     "event_id": "thailand_pm_vote_march_2026",
     "status": "pending",
     "time_sensitive": true,
-    "expires_date": "2026-04-03"
+    "expires_date": "2026-04-03",
+    "title_cn": "众议院议长（Speaker）称总理选举投票将顺利进行"
   },
   {
     "id": "83d43dd7824c",
@@ -69,7 +71,8 @@
     "event_id": "thailand_zero_dollar_tour_crackdown_2026",
     "status": "pending",
     "time_sensitive": false,
-    "expires_date": "2026-04-18"
+    "expires_date": "2026-04-18",
+    "title_cn": "内阁严查非法旅游经营及“零元团”代持行为"
   },
   {
     "id": "c1d44f25d88a",
@@ -93,7 +96,8 @@
     "event_id": "thailand_transport_fare_cap_2026",
     "status": "pending",
     "time_sensitive": true,
-    "expires_date": "2026-04-03"
+    "expires_date": "2026-04-03",
+    "title_cn": "泰国交通部要求维持现行票价以减轻民生负担"
   },
   {
     "id": "7b0488e22a8f",
@@ -117,7 +121,8 @@
     "event_id": "bangkok_education_policy_protest_2026",
     "status": "pending",
     "time_sensitive": false,
-    "expires_date": "2026-04-18"
+    "expires_date": "2026-04-18",
+    "title_cn": "活动家在曼谷（Bangkok）向教育部递交请愿书，反对招收非泰籍学生政策"
   },
   {
     "id": "86387a044926",
@@ -266,7 +271,8 @@
     "status": "pending",
     "added_date": "2026-03-19",
     "time_sensitive": false,
-    "expires_date": "2026-04-18"
+    "expires_date": "2026-04-18",
+    "title_cn": "泰国社会保障基金（SSF）触及风险上限，高管呼吁紧急改革"
   },
   {
     "id": "ed73356aed46",
@@ -290,7 +296,8 @@
     "status": "pending",
     "added_date": "2026-03-19",
     "time_sensitive": false,
-    "expires_date": "2026-04-18"
+    "expires_date": "2026-04-18",
+    "title_cn": "XCL 教育进军东部经济走廊，与 Mooltripakdee 国际学校达成合作"
   },
   {
     "id": "60dfaf0e5e15",
@@ -314,7 +321,8 @@
     "status": "pending",
     "added_date": "2026-03-19",
     "time_sensitive": false,
-    "expires_date": "2026-04-18"
+    "expires_date": "2026-04-18",
+    "title_cn": "地缘冲突加剧生产基地外移，泰国投资促进委员会（BoI）拟吸引全球产业链"
   },
   {
     "id": "bc46dc6cde57",
@@ -338,7 +346,8 @@
     "status": "pending",
     "added_date": "2026-03-19",
     "time_sensitive": false,
-    "expires_date": "2026-04-18"
+    "expires_date": "2026-04-18",
+    "title_cn": "Jaymart 联手 7-Eleven 扩张，计划年内新增40家迷你维修点"
   },
   {
     "id": "0fbd35d0e17f",
@@ -362,7 +371,8 @@
     "status": "pending",
     "added_date": "2026-03-19",
     "time_sensitive": false,
-    "expires_date": "2026-04-18"
+    "expires_date": "2026-04-18",
+    "title_cn": "北碧府（Kanchanaburi）逮捕10名嫌疑人，涉嫌前往缅甸电诈园区"
   },
   {
     "id": "d897aeabd916",
@@ -1017,7 +1027,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "芭提雅阿凡尼度假酒店（Avani Pattaya Resort）Dicey Reilly’s餐厅将于3月21日举行托斯卡纳品酒会"
   },
   {
     "id": "47086c7375ad",
@@ -1043,7 +1054,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "普吉（Phuket）面包车车祸导致一名俄罗斯女子死亡，另有11人受伤"
   },
   {
     "id": "2c6f6f0c1c29",
@@ -1069,7 +1081,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "多国商会联合举办：2026年3月20日EEC东部经济走廊商务对接沙龙（Sundowners）"
   },
   {
     "id": "cb62f3b2490a",
@@ -1094,7 +1107,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "泰国北大年府（Pattani）前哨站遭遇炸弹袭击，5名警员受伤"
   },
   {
     "id": "bb35be344674",
@@ -1120,7 +1134,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "3月26日中天本剧场（Ben’s Theater Jomtien）将举办古典音乐之夜"
   },
   {
     "id": "76e1d80b5b2d",
@@ -1147,7 +1162,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "距离芭提雅 30 分钟：Warng Warng 台湾火锅惊艳亮相"
   },
   {
     "id": "0fecd9918434",
@@ -1174,7 +1190,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "芭提雅（Pattaya）城管清理海滩，查扣无证出租凉席椅"
   },
   {
     "id": "82defde05a84",
@@ -1200,7 +1217,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "中天海滩（Jomtien）持刀男子疑似毒驾受惊，警方迅速抓捕"
   },
   {
     "id": "88285e61a965",
@@ -1226,7 +1244,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "芭提雅（Pattaya）官员协助一流浪男子返乡重启生活"
   },
   {
     "id": "7670e77bbd6b",
@@ -1252,7 +1271,8 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "芭提雅 Arunothai 社区发生火灾，临时出租房被焚毁"
   },
   {
     "id": "e2b1682c1204",
@@ -1555,7 +1575,8 @@
     "event_id": "thailand_property_agent_outlook_2026",
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#房产"
+    "topic_tag": "#房产",
+    "title_cn": "2026年泰国房产中介行业深度解析：收入水平与成功秘诀"
   },
   {
     "id": "d5d36887459c",
@@ -1581,7 +1602,8 @@
     "event_id": "pattaya_good_samaritan_rider_2026",
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "芭提雅（Pattaya）外卖骑手见义勇为，协助残障外籍人士通过受阻人行道"
   },
   {
     "id": "3cc5ddb74d1b",
@@ -1607,7 +1629,8 @@
     "event_id": "korat_heatstroke_emergency_2026",
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "呵叻府（Korat）举办体育赛事，球员比赛期间中暑陷入昏迷"
   },
   {
     "id": "56dbe2257875",
@@ -1633,7 +1656,8 @@
     "event_id": "thailand_rare_coin_market_2026",
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "翻翻零钱包：1999版25萨当硬币售价暴涨至5000泰铢"
   },
   {
     "id": "2e07c8b6f0c4",
@@ -1659,7 +1683,8 @@
     "event_id": "phetchabun_fuel_scam_2026",
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "碧差汶府（Phetchabun）男子网骗预警：斥资4万购买燃油却收到满桶水"
   },
   {
     "id": "33d26412a8dd",
@@ -2006,7 +2031,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "降雨延误芭提雅（Pattaya）铁路平行路维修，重新开放时间推迟10天"
   },
   {
     "id": "e59771f9909e",
@@ -2032,7 +2058,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "危急时刻！芭提雅（Pattaya）交警在按摩店救回晕倒病患获赞"
   },
   {
     "id": "1af4ffda6278",
@@ -2059,7 +2086,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "芭提雅（Pattaya）步行街惊现外籍劳工持刀滋事，游客惊荒逃离"
   },
   {
     "id": "1408db8117b1",
@@ -2084,7 +2112,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "芭提雅（Pattaya）政府强化居家护理系统，赋能社区卫生志愿者"
   },
   {
     "id": "9b269200f0ef",
@@ -2111,7 +2140,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "“十瓶啤酒变七瓶”：游客反映芭提雅（Pattaya）物价持续上涨"
   },
   {
     "id": "f8dcc38c6bb9",
@@ -2419,7 +2449,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "两名外籍游客在皮皮岛（Koh Phi Phi）酒吧行窃，偷走两瓶酒被当场抓获"
   },
   {
     "id": "df6709bce2ad",
@@ -2444,7 +2475,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "乌隆他尼（Udon Thani）网约代步旗手因当众羞辱乘客体型遭社会谴责"
   },
   {
     "id": "0ed585975738",
@@ -2470,7 +2502,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "斯米兰群岛（Similan Islands）附近惊现120多只海豚组成的超级族群"
   },
   {
     "id": "d778f2840e24",
@@ -2496,7 +2529,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "北大年府（Pattani）爆发激烈交火，一名边境巡逻警不幸殉职"
   },
   {
     "id": "e3e5e393b173",
@@ -2521,7 +2555,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "北榄府（Samut Prakan）一男子因救流浪猫遭修车厂老板毒打致重伤"
   },
   {
     "id": "0171f0110777",
@@ -2547,7 +2582,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "外籍男子在普吉岛（Phuket）袭击女友及突突车司机"
   },
   {
     "id": "8fe589209dc2",
@@ -2573,7 +2609,8 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "沙拉武里府（Saraburi）轻型飞机坠毁，75岁飞行员受伤"
   },
   {
     "id": "7366fad6a1e2",
@@ -2784,7 +2821,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "曼谷伦披尼公园（Lumpini Park）翻新工程收获广泛好评"
   },
   {
     "id": "ddd465fdbf30",
@@ -2811,7 +2849,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "泰国政府正与多个产油国洽谈以保障国家能源供应"
   },
   {
     "id": "99639e80b11c",
@@ -2838,7 +2877,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "一名外籍女游客在芭提雅（Pattaya）酒店坠楼受重伤"
   },
   {
     "id": "d09b44136812",
@@ -2865,7 +2905,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "芭提雅（Pattaya）旅游业因预订周期缩短调整促销策略"
   },
   {
     "id": "6cf842e7bcb9",
@@ -2893,7 +2934,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "芭提雅（Pattaya）城管叫醒并协助露宿银行台阶的醉酒游客"
   },
   {
     "id": "323046a586c0",
@@ -3059,7 +3101,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "全泰鸡蛋价格上涨，芭提雅（Pattaya）餐饮与酒店业称供应尚稳"
   },
   {
     "id": "853af3e5e215",
@@ -3085,7 +3128,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "恐慌性囤油席卷泰国局部，芭提雅（Pattaya）加油站目前保持冷静"
   },
   {
     "id": "b2fed59f5565",
@@ -3112,7 +3156,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "民众抢油导致泵井干涸，政府坚称燃料储备充足"
   },
   {
     "id": "b94692d2f82d",
@@ -3138,7 +3183,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "数据泄露后，人民党（People's Party）数字身份核验系统权限被封禁"
   },
   {
     "id": "01a5f748d27f",
@@ -3163,7 +3209,8 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "泰自豪党（Bhumjaithai）索蓬（Sophon）当选下议院议长"
   },
   {
     "id": "aa0dde3da107",
@@ -3966,7 +4013,8 @@
     "origin": "brave",
     "added_date": "2026-03-15",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "曼谷 Dib Bangkok 现代美术馆落成：仓库改造的艺术新地标"
   },
   {
     "id": "d6630106ae61",
@@ -3990,7 +4038,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "监察员申请宪法法院裁定：大选选票上的条形码是否违宪"
   },
   {
     "id": "4a8573c5714c",
@@ -4015,7 +4064,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "民众党数据泄露引发追责呼声：成员面临身份失窃风险"
   },
   {
     "id": "9d8b0058bf55",
@@ -4044,7 +4094,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "泰国政府拟进口俄罗斯原油，汽油价格或将上调"
   },
   {
     "id": "7de36a650064",
@@ -4072,7 +4123,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "泰股大盘受地缘政治阴云困扰，指数波动明显"
   },
   {
     "id": "99e5c442f83e",
@@ -4101,7 +4153,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#房产"
+    "topic_tag": "#房产",
+    "title_cn": "泰国自建房市场潜力巨大，吸引大型开发商入场"
   },
   {
     "id": "57308bc63037",
@@ -4128,7 +4181,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "应对中东冲突影响，泰旅局拟推旅游刺激措施"
   },
   {
     "id": "9475d00f1417",
@@ -4154,7 +4208,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "商会大学：中东冲突或致泰国GDP缩减2.31%"
   },
   {
     "id": "685babc18d0e",
@@ -4314,7 +4369,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "皮卡车为避让锥桶失控翻车撞电线杆，芭提雅（Pattaya）附近司机不幸身亡"
   },
   {
     "id": "9a22c3a59ca3",
@@ -4340,7 +4396,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "芭提雅（Pattaya）整治帕塔纳克山（Pratumnak Hill）公园流浪狗引发的蜱虫瘙痒问题"
   },
   {
     "id": "37d9b9368848",
@@ -4366,7 +4423,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "燃油价格上涨威胁萨美桑（Samae San）渔民生计，芭提雅海鲜恐调价"
   },
   {
     "id": "144163018ed6",
@@ -4392,7 +4450,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "强降雨导致梭桃邑（Sattahip）多处内涝，湿冷天气将持续至周末"
   },
   {
     "id": "606955e86356",
@@ -4417,7 +4476,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "保险监管委员会在芭提雅（Pattaya）开展慈善活动，捐赠自行车及康复物资"
   },
   {
     "id": "9036e104e2bc",
@@ -4445,7 +4505,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#房产"
+    "topic_tag": "#房产",
+    "title_cn": "芭提雅（Pattaya）东部铁路沿线道路翻新工程将于3月20日启动"
   },
   {
     "id": "c1923c6776fe",
@@ -4471,7 +4532,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "治理芭提雅（Pattaya）绝非易事：市长谈旅游增长与居民需求的平衡"
   },
   {
     "id": "dab63fa781dc",
@@ -4499,7 +4561,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "伊朗使馆就“泰籍海员遭袭”发不当笑话引发泰国网民强烈抗议"
   },
   {
     "id": "ec747a6d6ba0",
@@ -4528,7 +4591,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "曼谷 MBK 购物中心遭扫黄打非，查获 3000 万铢假货"
   },
   {
     "id": "487b6ab05831",
@@ -4554,7 +4618,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "泰选委会小组撤销对 229 名参议员选举舞弊嫌疑人的指控"
   },
   {
     "id": "217c8ff09278",
@@ -4725,7 +4790,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "在泰国当老师全攻略：入职流程、薪资水平及所需材料必备清单"
   },
   {
     "id": "69f1c0aa92ae",
@@ -4752,7 +4818,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "泰国海军证实：泰籍货船遇袭后 3 名失联船员确认幸存但暂无法接回"
   },
   {
     "id": "ba2970261cb9",
@@ -4781,7 +4848,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "曼谷素坤逸路（Sukhumvit）爆发抗议：穆斯林团体集会抗议以色列对伊战争"
   },
   {
     "id": "a9ce870a55d2",
@@ -4808,7 +4876,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "突发！呵叻府（Korat）M6 高速公路惊现裸男拦截车辆"
   },
   {
     "id": "d62115f1dd5b",
@@ -4835,7 +4904,8 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "北榄府（Samut Prakan）发生比特犬伤人案：70岁老妇在家门口遭重创"
   },
   {
     "id": "79929b443011",
@@ -4860,7 +4930,8 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "2026年印度尼西亚旅游交易会（ITX 2026）将汇聚行业领袖共话旅游业未来"
   },
   {
     "id": "936bffbdc527",
@@ -4885,7 +4956,8 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "名士“坤将” Gun Jompalang 提议泰海军使用摩托艇搜救霍尔姆斯海峡失踪船员"
   },
   {
     "id": "46473c8ee3f0",
@@ -4912,7 +4984,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "芭提雅 Pattaya 华裔女性失踪案告破：遗体于叻武里府 Ratchaburi 种植园被发现"
   },
   {
     "id": "6ed02e10b753",
@@ -4936,7 +5009,8 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "泰国羽毛球名将昆拉武特 Kunlavut Vitidsarn 时隔九月重返世界第一"
   },
   {
     "id": "3d4d18784bd8",
@@ -4961,7 +5035,8 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "泰国活动家坤将对霍尔姆斯海峡失踪水手救援提出“水上摩托艇”方案"
   },
   {
     "id": "976778bb37d7",
@@ -5155,7 +5230,8 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "2026年泰国大事预测：2月8日将举行新宪法全民公投"
   },
   {
     "id": "cf9263509e32",
@@ -5177,7 +5253,8 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "2026年曼谷（Bangkok）艺术浪潮更迭：传统与现代公共空间的交融"
   },
   {
     "id": "ebaff4a780a6",
@@ -5199,7 +5276,8 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "2026年泰国必打卡文化节指南：深度体验泰式传统魅力"
   },
   {
     "id": "83764d1cccfe",
@@ -5222,7 +5300,8 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "2026芭提雅（Pattaya）深度游攻略：从真理寺到东芭乐园的完整路线"
   },
   {
     "id": "7ec15a6b0784",
@@ -5320,7 +5399,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "AI 浪潮推动泰国科技投资激增"
   },
   {
     "id": "0c09e25732a9",
@@ -5350,7 +5430,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "泰国政府推行居家办公政策，交通及传媒股应声下跌"
   },
   {
     "id": "38eee1b16705",
@@ -5376,7 +5457,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "外资持有泰股比例创新高，1月达6.11万亿泰铢"
   },
   {
     "id": "93ab7782f7c9",
@@ -5403,7 +5485,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "中东局势趋紧，近千名泰籍员工渴望回国"
   },
   {
     "id": "dc22eb11bdf0",
@@ -5430,7 +5513,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "泰证监会对币圈名人 Acme Traderist 采取法律行动"
   },
   {
     "id": "34ca2969f982",
@@ -5594,7 +5678,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "移民局警方突袭芭提雅（Pattaya）中国籍团伙：涉非法销售笑气与电子烟，缴获枪支及大量物资"
   },
   {
     "id": "974655fafc81",
@@ -5620,7 +5705,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#房产"
+    "topic_tag": "#房产",
+    "title_cn": "芭提雅（Pattaya）官员清理被占公地前祭拜神龛，推行道路拓宽工程"
   },
   {
     "id": "ccfda62c2013",
@@ -5646,7 +5732,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "芭提雅（Pattaya）铁路平交道口附近发生惨剧：重型机车高速追尾导致车手丧生"
   },
   {
     "id": "b19532f5e9d2",
@@ -5674,7 +5761,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "佛统府（Nakhon Pathom）金店遭劫：持枪蒙面贼鸣枪示威掠走350万泰铢金饰"
   },
   {
     "id": "91aae88a43cb",
@@ -5701,7 +5789,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "中东局势加剧担忧：泰国密切监控航司燃油供应及价格走势"
   },
   {
     "id": "c166afaa88bb",
@@ -5727,7 +5816,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "普吉岛 Sensei Padel 俱乐部：芭东（Patong）下班后运动与桑拿新去处"
   },
   {
     "id": "f1cbb1926090",
@@ -5753,7 +5843,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "芭提雅（Pattaya）官员严密监控易涝区，应对降雨引发的积水担忧"
   },
   {
     "id": "056ba54892da",
@@ -5781,7 +5872,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#房产"
+    "topic_tag": "#房产",
+    "title_cn": "诺博地产（Noble）坚持轻资产战略，寻求合资及公寓租赁合作伙伴"
   },
   {
     "id": "e53bda433842",
@@ -5808,7 +5900,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "夏季风暴预警：芭提雅（Pattaya）将迎来雷雨及强风天气"
   },
   {
     "id": "7cba56721930",
@@ -5833,7 +5926,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "阿努廷（Anutin）确认执政联盟组建完成，排除民主党及 Klatham 党"
   },
   {
     "id": "65fafcf1fd21",
@@ -6001,7 +6095,8 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "美国启动针对包括泰国 (Thailand) 在内16个伙伴国家“不公平贸易”的调查"
   },
   {
     "id": "aea9b5febc30",
@@ -6028,7 +6123,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "美籍士兵在芭提雅 (Pattaya) 袭击友人并企图袭警咬人"
   },
   {
     "id": "be6a408303a4",
@@ -6055,7 +6151,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "美籍男子在春武里 (Chon Buri) 树林身亡，死前曾向妻子寄送临终视频"
   },
   {
     "id": "06e56793bf80",
@@ -6082,7 +6179,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "泰国总理阿努廷 (Anutin) 谴责针对载有泰籍船员货轮的袭击“不恰当”"
   },
   {
     "id": "1cc39d1459a1",
@@ -6109,7 +6207,8 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "title_cn": "泰国国家健康安全局 (NHSO) 推动泰产医疗创新产品进入“30铢”全民健保系统"
   },
   {
     "id": "0542e9f71340",
@@ -6135,7 +6234,8 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "一美国游客在清迈（Chiang Mai）商店涉嫌盗窃被捕"
   },
   {
     "id": "a85af30dec2c",
@@ -6161,7 +6261,8 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "一名印度籍男子被发现死于普吉岛卡利姆海滩（Kalim Beach）"
   },
   {
     "id": "a54c46d37073",
@@ -6187,7 +6288,8 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "德国游客在芭提雅（Pattaya）酒店9楼坠亡，疑因个人财务压力"
   },
   {
     "id": "c507236f464d",
@@ -6213,7 +6315,8 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "曼谷5个月大婴儿托儿所死亡，母亲与经营者说辞不一"
   },
   {
     "id": "ee4ce6bb9c5e",
@@ -6239,7 +6342,8 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "罗勇府（Rayong）食客因炒饭不满大闹餐厅致店员受伤"
   },
   {
     "id": "677dab3eb552",
@@ -6566,7 +6670,8 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "卡塔尔领空部分关闭，泰国驻多哈 (Doha) 使馆发布安全预警"
   },
   {
     "id": "17f0cec4ba6e",
@@ -6593,7 +6698,8 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "泰国与日本续签液化天然气 (LNG) 合作协议以保障能源安全"
   },
   {
     "id": "bbd89ccf8de1",
@@ -6620,7 +6726,8 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "阿努廷 (Anutin) 主持 2026 亚洲餐饮酒店展开幕，打造区域 HoReCa 中心"
   },
   {
     "id": "98cc71ae2682",
@@ -6649,7 +6756,8 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "中泰澳联手？泰国与澳大利亚合作升级打击网络诈骗调查"
   },
   {
     "id": "b0df504afef7",
@@ -6676,7 +6784,8 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "孔敬 (Khon Kaen) 研究者呼吁放宽能源法，支持废旧橡胶转化燃料创新"
   },
   {
     "id": "6ccaea3eb66d",
@@ -6703,7 +6812,8 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "中东冲突升级，泰国紧急疏散381名公民"
   },
   {
     "id": "9486a0b5f50b",
@@ -6730,7 +6840,8 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "印度航空快运客机普吉岛（Phuket）硬着陆导致起落架受损，跑道暂时关闭"
   },
   {
     "id": "7a69296b7b9d",
@@ -6755,7 +6866,8 @@
     "status": "pending",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "泰国货轮在霍尔木兹海峡（Strait of Hormuz）附近遭导弹袭击"
   },
   {
     "id": "fe8c6a09dfd1",
@@ -6780,7 +6892,8 @@
     "status": "pending",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "董里府（Trang）海域拍到罕见儒艮求偶画面，显示海洋生态修复成效"
   },
   {
     "id": "a075b995a99d",
@@ -6805,7 +6918,8 @@
     "status": "pending",
     "added_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "曼谷被《DestinAsian》读者评选为2026年亚洲最佳城市榜首"
   },
   {
     "id": "2aa4cc9b367b",
@@ -6831,7 +6945,8 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "货船在霍尔木兹海峡（Strait of Hormuz）附近遇袭，泰国海军协调营救"
   },
   {
     "id": "7e834f2544b9",
@@ -6856,7 +6971,8 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "特朗普宣传对伊战争胜利，但终战方案尚不明确"
   },
   {
     "id": "9648587f35ee",
@@ -6885,7 +7001,8 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "美以对伊战争深度解析：将如何影响泰国？"
   },
   {
     "id": "258dd248f64e",
@@ -6912,7 +7029,8 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "芭提雅（Pattaya）突发“鹿撞”车祸，泰籍骑手与外籍游客受伤"
   },
   {
     "id": "8045c603df4b",
@@ -6938,7 +7056,8 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "北大年（Pattani）近500名青少年深夜街道非法赛车"
   },
   {
     "id": "2e4ca1fe2826",
@@ -7105,7 +7224,8 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "印度航空快运客机在普吉（Phuket）硬着陆导致跑道受阻"
   },
   {
     "id": "fb371f28bde4",
@@ -7130,7 +7250,8 @@
     "expires_date": "2026-04-11",
     "origin": "rss",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "曼谷一外卖配送员在饮料店偷拍女摊主裙底被监控抓获"
   },
   {
     "id": "fd26f920eaa7",
@@ -7155,7 +7276,8 @@
     "expires_date": "2026-04-11",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "关于考生进入考场前“丢弃现金”的网络传导图片被证实为不实信息"
   },
   {
     "id": "f430d5e84baf",
@@ -7183,7 +7305,8 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "泰国环保署表示曼谷最严重PM2.5雾霾危机期已过"
   },
   {
     "id": "59d0328511ca",
@@ -7208,7 +7331,8 @@
     "expires_date": "2026-04-11",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#安全",
+    "title_cn": "男子将爱车借放给女性朋友，归还时发现车内血迹斑斑"
   },
   {
     "id": "d1bb1ac50784",
@@ -7327,7 +7451,8 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "2026年宋干节攻略：芭提雅（Pattaya）庆祝时间延长至4月19日"
   },
   {
     "id": "3c419c6cdc7b",
@@ -7350,7 +7475,8 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "泰国2026宋干节注入新活力：清迈（Chiang Mai）、普吉（Phuket）等目的地受瞩目"
   },
   {
     "id": "1d6c6f04a50d",
@@ -7373,7 +7499,8 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "泰国超越东亚多国，成为2026年全球最佳宋干节旅游目的地"
   },
   {
     "id": "d1bb1ac50784",
@@ -7399,7 +7526,8 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "title_cn": "2026曼谷SIAM宋干节音乐节官宣：官方日期与交通指南"
   },
   {
     "id": "c0603514baf4",
@@ -7422,7 +7550,8 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "title_cn": "2026曼谷设计周圆满闭幕，助力曼谷确立亚洲创意中心地位"
   },
   {
     "id": "65cb980adf01",
