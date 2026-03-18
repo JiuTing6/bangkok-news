@@ -1,5 +1,5 @@
 # Thailand10 Ingest Orchestrator v2
-# 模型：minimax-m2.5
+# 模型：haiku（总控），flash（通过 Python 脚本直调 API，非 session 切模型）
 
 ## 你是谁
 
@@ -84,7 +84,7 @@ print(f'展平完成: {len(items)} 条')
 
 ## 第5步：准备 Pool 摘录（用于去重）
 
-取最近10天内、最多100条的 pool 条目，写入 `data/issues/TODAY-pool-excerpt.json` :
+取最近10天内、最多100条的 pool 条目，写入 `data/issues/TODAY-pool-excerpt.json`：
 
 ```bash
 python3 -c "
@@ -105,39 +105,40 @@ print(f'Pool 摘录: {len(excerpt)} 条（10天内）')
 
 ---
 
-## 第6步：Filter + Dedup Agent (Layer 1 + 2)
+## 第6步：Filter + Dedup（Python 直调 Flash API）
 
-spawn **一个** scanner sub-agent，依次执行两步处理（filter → dedup）：
-- `label`: `"Thailand10 Ingest: Filter+Dedup (TODAY)"`（把 TODAY 替换为实际日期）
+**⚠️ 不要 spawn 任何 subagent，不要切换 session 模型。直接用 exec 跑 Python 脚本。**
 
-任务说明：
+### 6a. Filter（Layer 1）
 
-```
-你需要依次完成以下两个步骤，每步完成后再进行下一步。
-
-⚠️ 严格约束：禁止调用 sessions_spawn，禁止 spawn 任何 sub-agent 或子任务。所有操作必须在本 session 内通过 exec/read/write 工具直接完成。
-
-=== Step 1: Filter (Layer 1) ===
-按照 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/prompts/filter_agent.md 的指令执行。
-[INPUT_FILE]  = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-flat.json
-[OUTPUT_FILE] = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-filtered.json
-完成后确认文件已写入，再继续。
-
-=== Step 2: Dedup (Layer 2) ===
-按照 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/prompts/dedup_agent.md 的指令执行。
-[FILTERED_FILE]     = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-filtered.json
-[POOL_EXCERPT_FILE] = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-pool-excerpt.json
-[OUTPUT_FILE]       = /Users/Ade/.openclaw/workspace/bangkok-news/data/issues/TODAY-deduped.json
-完成后确认文件已写入。
+```bash
+cd /Users/Ade/.openclaw/workspace/bangkok-news && \
+python3 scripts/filter.py \
+  --input data/issues/TODAY-flat.json \
+  --output data/issues/TODAY-filtered.json
 ```
 
-等待完成，确认 `data/issues/TODAY-deduped.json` 已生成。
+**重要：** exec 调用时 `timeout` 设为 **180000ms（180秒）**。
+等待输出 `FILTER_RESULT: input=N keep=M skip=K`，确认文件生成后继续。
+
+### 6b. Dedup（Layer 2）
+
+```bash
+cd /Users/Ade/.openclaw/workspace/bangkok-news && \
+python3 scripts/dedup.py \
+  --input data/issues/TODAY-filtered.json \
+  --pool data/issues/TODAY-pool-excerpt.json \
+  --output data/issues/TODAY-deduped.json
+```
+
+**重要：** exec 调用时 `timeout` 设为 **180000ms（180秒）**。
+等待输出 `DEDUP_RESULT: input=N keep=M skip=K`，确认文件生成后继续。
 
 ---
 
 ## 第7步：Translation (Layer 3) — Python
 
-直接用 exec 工具执行 Python 脚本完成翻译（不再 spawn sub-agent）：
+直接用 exec 工具执行 Python 脚本完成翻译（不 spawn sub-agent）：
 
 ```bash
 cd /Users/Ade/.openclaw/workspace/bangkok-news && \
@@ -186,8 +187,6 @@ git push
 
 （把 TODAY 替换为实际日期，如 `2026-03-15`）
 
-这样 Newsroom 前端（fetch 动态加载）会自动拿到最新数据，无需重新生成 HTML。
-
 ---
 
 ## 第9步：Telegram 通知
@@ -212,7 +211,4 @@ Pool: +X条 → 共X条 (P1=X P2=X P3=X)
 - 每步确认文件生成后再继续下一步
 - 如任何步骤失败，停止并报告错误位置
 - 中间产物（flat/filtered/deduped/translated/pool-excerpt）保留在 `data/issues/` 供回溯
-
----
-
-
+- **不使用 sessions_spawn / sessions_yield**，所有步骤在本 session 内顺序完成
