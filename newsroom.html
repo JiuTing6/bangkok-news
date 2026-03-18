@@ -84,53 +84,44 @@
     }
     .nr-count strong { color: var(--accent); }
 
-    /* ── Section 筛选 ── */
-    .nr-sections {
+    /* ── 两层 Tag 筛选 ── */
+    .nr-filter-row {
       display: flex;
-      flex-wrap: wrap;
+      align-items: center;
       gap: 6px;
-      margin-bottom: 8px;
+      margin-bottom: 6px;
     }
-    .sec-btn {
-      padding: 4px 12px;
-      border-radius: 20px;
+    .nr-filter-label {
+      font-family: var(--font-ui);
+      font-size: 10px;
+      color: #bbb;
+      white-space: nowrap;
+      width: 28px;
+      flex-shrink: 0;
+      text-align: right;
+    }
+    .nr-filter-tags {
+      display: flex;
+      flex-wrap: nowrap;
+      gap: 5px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      flex: 1;
+    }
+    .nr-filter-tags::-webkit-scrollbar { display: none; }
+    .tag-btn {
+      padding: 4px 11px;
+      border-radius: 14px;
       border: 1px solid var(--border);
-      background: var(--tag-bg);
+      background: #fff;
       font-size: 12px;
       font-family: var(--font-ui);
       cursor: pointer;
       color: var(--text-muted);
       transition: all .15s;
-    }
-    .sec-btn:hover { border-color: var(--primary); color: var(--primary); }
-    .sec-btn.active {
-      background: var(--primary);
-      color: #fff;
-      border-color: var(--primary);
-    }
-
-    /* ── Tag 筛选 ── */
-    .nr-tags-wrap {
-      display: flex;
-      align-items: flex-start;
-      gap: 8px;
-    }
-    .nr-tags {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 5px;
-      flex: 1;
-    }
-    .tag-btn {
-      padding: 3px 10px;
-      border-radius: 12px;
-      border: 1px solid var(--border);
-      background: #fff;
-      font-size: 11px;
-      font-family: var(--font-ui);
-      cursor: pointer;
-      color: var(--text-muted);
-      transition: all .15s;
+      white-space: nowrap;
+      flex-shrink: 0;
     }
     .tag-btn:hover { border-color: var(--accent-light); color: var(--accent); }
     .tag-btn.active {
@@ -138,15 +129,27 @@
       color: #fff;
       border-color: var(--accent);
     }
+    /* 城市 tag 激活色用主色 */
+    .tag-btn.city.active {
+      background: var(--primary);
+      border-color: var(--primary);
+      color: #fff;
+    }
+    .nr-filter-actions {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      flex-shrink: 0;
+    }
     .clear-btn {
-      padding: 3px 10px;
-      border-radius: 12px;
-      border: 1px solid #ccc;
+      padding: 4px 10px;
+      border-radius: 14px;
+      border: 1px solid #ddd;
       background: #fff;
       font-size: 11px;
       font-family: var(--font-ui);
       cursor: pointer;
-      color: #999;
+      color: #aaa;
       white-space: nowrap;
     }
     .clear-btn:hover { color: var(--accent); border-color: var(--accent); }
@@ -217,16 +220,21 @@
       display: flex;
       flex-wrap: wrap;
       gap: 4px;
-      margin-top: 2px;
+      margin-top: 4px;
     }
     .nr-card-tag {
       font-size: 10px;
       font-family: var(--font-ui);
       color: var(--text-muted);
       background: var(--tag-bg);
-      padding: 1px 7px;
+      padding: 2px 8px;
       border-radius: 10px;
       border: 1px solid var(--border);
+    }
+    .nr-card-tag.city {
+      color: var(--primary);
+      background: #eef2ff;
+      border-color: #c7d2fe;
     }
 
     /* ── 空状态 ── */
@@ -375,12 +383,16 @@
       <input class="nr-search" id="search-input" type="text" placeholder="搜索标题、摘要...（支持中英文）">
       <span class="nr-count">显示 <strong id="visible-count">402</strong> 条</span>
     </div>
-    <div class="nr-sections" id="section-bar">
-      <button class="sec-btn active" data-section="">全部</button>
+    <div class="nr-filter-row">
+      <span class="nr-filter-label">城市</span>
+      <div class="nr-filter-tags" id="city-bar"></div>
     </div>
-    <div class="nr-tags-wrap">
-      <div class="nr-tags" id="tag-bar"></div>
-      <button class="clear-btn" id="clear-tags" style="display:none">清除筛选</button>
+    <div class="nr-filter-row">
+      <span class="nr-filter-label">主题</span>
+      <div class="nr-filter-tags" id="topic-bar"></div>
+      <div class="nr-filter-actions">
+        <button class="clear-btn" id="clear-tags" style="display:none">✕ 清除</button>
+      </div>
     </div>
   </div>
 </div>
@@ -408,10 +420,25 @@
 <script>
 
 
+// ── 城市 tag 配置 ──
+const KNOWN_CITIES = ["#泰国", "#曼谷", "#芭提雅", "#普吉岛", "#清迈"];
+const MORE_CITY_LABEL = "#更多地区";
+
+// 将 item 的 city_tag 归一化为显示用城市
+function normCity(item) {
+  const c = item.city_tag || "";
+  if (!c) return "#泰国";
+  if (KNOWN_CITIES.includes(c)) return c;
+  return MORE_CITY_LABEL;
+}
+
+// 固定主题 tag 顺序
+const TOPIC_TAGS = ["#时政", "#经济", "#生活", "#社会", "#旅游", "#教育", "#科技", "#房产", "#文化", "#安全"];
+
 // ── 状态 ──
 let ALL_ITEMS = [];
-let activeSection = "";
-let activeTags = new Set();
+let activeCityTag = "";   // 当前选中城市（空=全部）
+let activeTopicTag = "";  // 当前选中主题（空=全部）
 let searchQ = "";
 
 // ── 从 pool.json 动态加载数据 ──
@@ -427,41 +454,8 @@ fetch('data/news_pool.json')
       `<div style="padding:40px;color:#c00;font-family:sans-serif">⚠️ 数据加载失败：${err.message}</div>`;
   });
 
-// ── 动态计算 Sections 和 Tags ──
-function computeSections(items) {
-  const SECTION_LABELS = {
-    thailand: "泰国", pattaya: "芭提雅", bangkok: "曼谷",
-    property: "房产", cn_thai: "中泰", politics: "政治",
-    energy: "能源", finance: "金融", expat: "外籍", other: "其他"
-  };
-  const counts = {};
-  items.forEach(item => {
-    const s = item.section_hint || "other";
-    counts[s] = (counts[s] || 0) + 1;
-  });
-  return Object.entries(counts)
-    .sort((a, b) => b[1] - a[1])
-    .map(([id, count]) => ({ id, label: SECTION_LABELS[id] || id, count }));
-}
-
-function computeTopTags(items, limit = 40) {
-  const counts = {};
-  items.forEach(item => {
-    (item.tags || []).forEach(t => { counts[t] = (counts[t] || 0) + 1; });
-  });
-  return Object.entries(counts)
-    .sort((a, b) => b[1] - a[1])
-    .slice(0, limit)
-    .map(([tag, count]) => ({ tag, count }));
-}
-
-// ── 初始化 UI（Section/Tag 按钮，更新计数）──
+// ── 初始化 UI ──
 function initUI() {
-  const SECTIONS = computeSections(ALL_ITEMS);
-  const TOP_TAGS = computeTopTags(ALL_ITEMS);
-
-  // 更新标题计数
-  document.getElementById("total-count").textContent = ALL_ITEMS.length;
   // 更新时间戳
   const now = new Date();
   const bkkStr = now.toLocaleString("zh-CN", {
@@ -472,48 +466,87 @@ function initUI() {
   document.querySelector(".nr-meta").innerHTML =
     `共 <strong id="total-count">${ALL_ITEMS.length}</strong> 条新闻<br>更新于 ${bkkStr} BKK`;
 
-  // Section 按钮
-  const sectionBar = document.getElementById("section-bar");
-  // 清除旧按钮（保留"全部"）
-  sectionBar.querySelectorAll("[data-section]:not([data-section=''])").forEach(b => b.remove());
-  SECTIONS.forEach(s => {
+  // 统计城市分布（动态计数）
+  const cityCounts = {};
+  ALL_ITEMS.forEach(item => {
+    const c = normCity(item);
+    cityCounts[c] = (cityCounts[c] || 0) + 1;
+  });
+
+  // 城市 bar：全部 + 已知城市（有数据时显示）+ 更多地区
+  const cityBar = document.getElementById("city-bar");
+  cityBar.innerHTML = "";
+  const allCities = ["全部", ...KNOWN_CITIES];
+  if (cityCounts[MORE_CITY_LABEL]) allCities.push(MORE_CITY_LABEL);
+
+  allCities.forEach(label => {
     const btn = document.createElement("button");
-    btn.className = "sec-btn";
-    btn.dataset.section = s.id;
-    btn.textContent = `${s.label} (${s.count})`;
+    btn.className = "tag-btn city";
+    const cityKey = label === "全部" ? "" : label;
+    const count = label === "全部" ? ALL_ITEMS.length : (cityCounts[label] || 0);
+    if (count === 0 && label !== "全部") return; // 无数据的城市不显示
+    btn.textContent = label === "全部" ? `全部 ${count}` : `${label} ${count}`;
+    btn.dataset.city = cityKey;
+    if (cityKey === activeCityTag) btn.classList.add("active");
     btn.onclick = () => {
-      activeSection = s.id;
-      sectionBar.querySelectorAll(".sec-btn").forEach(b => b.classList.remove("active"));
+      activeCityTag = cityKey;
+      cityBar.querySelectorAll(".tag-btn").forEach(b => b.classList.remove("active"));
       btn.classList.add("active");
       render();
     };
-    sectionBar.appendChild(btn);
+    cityBar.appendChild(btn);
   });
 
-  // Tag 按钮
-  const tagBar = document.getElementById("tag-bar");
-  tagBar.innerHTML = "";
-  const clearTagsBtn = document.getElementById("clear-tags");
-  TOP_TAGS.forEach(t => {
+  // 主题 bar：固定10个
+  const topicBar = document.getElementById("topic-bar");
+  topicBar.innerHTML = "";
+  // 统计主题计数
+  const topicCounts = {};
+  ALL_ITEMS.forEach(item => {
+    const t = item.topic_tag || "";
+    if (t) topicCounts[t] = (topicCounts[t] || 0) + 1;
+  });
+
+  TOPIC_TAGS.forEach(tag => {
     const btn = document.createElement("button");
-    btn.className = "tag-btn";
-    btn.textContent = `${t.tag} ${t.count}`;
-    btn.dataset.tag = t.tag;
+    btn.className = "tag-btn topic";
+    const count = topicCounts[tag] || 0;
+    btn.textContent = `${tag} ${count}`;
+    btn.dataset.topic = tag;
+    if (tag === activeTopicTag) btn.classList.add("active");
     btn.onclick = () => {
-      if (activeTags.has(t.tag)) activeTags.delete(t.tag);
-      else activeTags.add(t.tag);
-      btn.classList.toggle("active", activeTags.has(t.tag));
-      clearTagsBtn.style.display = activeTags.size ? "inline-block" : "none";
+      if (activeTopicTag === tag) {
+        activeTopicTag = "";
+        btn.classList.remove("active");
+      } else {
+        activeTopicTag = tag;
+        topicBar.querySelectorAll(".tag-btn").forEach(b => b.classList.remove("active"));
+        btn.classList.add("active");
+      }
+      updateClearBtn();
       render();
     };
-    tagBar.appendChild(btn);
+    topicBar.appendChild(btn);
   });
-  clearTagsBtn.onclick = () => {
-    activeTags.clear();
-    tagBar.querySelectorAll(".tag-btn").forEach(b => b.classList.remove("active"));
-    clearTagsBtn.style.display = "none";
+
+  // 清除按钮
+  document.getElementById("clear-tags").onclick = () => {
+    activeCityTag = "";
+    activeTopicTag = "";
+    cityBar.querySelectorAll(".tag-btn").forEach(b => b.classList.remove("active"));
+    cityBar.querySelector("[data-city='']")?.classList.add("active");
+    topicBar.querySelectorAll(".tag-btn").forEach(b => b.classList.remove("active"));
+    updateClearBtn();
     render();
   };
+
+  // 初始激活"全部"城市
+  cityBar.querySelector("[data-city='']")?.classList.add("active");
+}
+
+function updateClearBtn() {
+  const hasFilter = activeCityTag || activeTopicTag;
+  document.getElementById("clear-tags").style.display = hasFilter ? "inline-block" : "none";
 }
 
 // ── 搜索 ──
@@ -522,24 +555,19 @@ document.getElementById("search-input").addEventListener("input", e => {
   render();
 });
 
-// "全部" 按钮
-document.getElementById("section-bar").querySelector("[data-section='']").onclick = function() {
-  activeSection = "";
-  document.getElementById("section-bar").querySelectorAll(".sec-btn").forEach(b => b.classList.remove("active"));
-  this.classList.add("active");
-  render();
-};
-
 // ── 过滤 ──
 function filterItems() {
   return ALL_ITEMS.filter(item => {
-    if (activeSection && (item.section_hint || "other") !== activeSection) return false;
-    if (activeTags.size > 0) {
-      const itemTags = item.tags || [];
-      if (![...activeTags].every(t => itemTags.includes(t))) return false;
+    // 城市过滤
+    if (activeCityTag) {
+      const itemCity = normCity(item);
+      if (itemCity !== activeCityTag) return false;
     }
+    // 主题过滤
+    if (activeTopicTag && item.topic_tag !== activeTopicTag) return false;
+    // 搜索
     if (searchQ) {
-      const haystack = (item.title + " " + (item.title_cn || "") + " " + (item.summary_cn || "") + " " + (item.desc_original || "")).toLowerCase();
+      const haystack = ((item.title || "") + " " + (item.title_cn || "") + " " + (item.summary_cn || "") + " " + (item.desc_original || "")).toLowerCase();
       if (!haystack.includes(searchQ)) return false;
     }
     return true;
@@ -574,8 +602,12 @@ function render() {
     const card = document.createElement("div");
     card.className = "nr-card";
     const imp = item.importance || "";
-    const tags = (item.tags || []).slice(0, 4).map(t =>
-      `<span class="nr-card-tag">${t}</span>`).join("");
+    const cityTag = item.city_tag ? normCity(item) : "";
+    const topicTag = item.topic_tag || "";
+    const tagHtml = [
+      cityTag ? `<span class="nr-card-tag city">${cityTag}</span>` : "",
+      topicTag ? `<span class="nr-card-tag">${topicTag}</span>` : "",
+    ].filter(Boolean).join("");
     card.innerHTML = `
       <div class="nr-card-meta">
         <span class="nr-card-source">${item.source || ""}</span>
@@ -584,7 +616,7 @@ function render() {
       </div>
       <div class="nr-card-title">${item.title_cn || item.title || ""}</div>
       <div class="nr-card-summary">${item.summary_cn || item.desc_original || ""}</div>
-      ${tags ? `<div class="nr-card-tags">${tags}</div>` : ""}
+      ${tagHtml ? `<div class="nr-card-tags">${tagHtml}</div>` : ""}
     `;
     card.onclick = () => openModal(item);
     grid.appendChild(card);
@@ -597,7 +629,6 @@ function openModal(item) {
   document.getElementById("modal-meta").innerHTML = `
     <span><strong>${item.source || ""}</strong></span>
     <span>${fmtDate(item.date, item.added_date)}</span>
-    ${item.section_hint ? `<span>板块：${item.section_hint}</span>` : ""}
     ${item.importance ? `<span>优先级：${item.importance}</span>` : ""}
   `;
   document.getElementById("modal-summary").textContent = item.summary_cn || "";
@@ -609,8 +640,12 @@ function openModal(item) {
     descEl.style.display = "none";
   }
   const tagsEl = document.getElementById("modal-tags");
-  tagsEl.innerHTML = (item.tags || []).map(t =>
-    `<span class="modal-tag">${t}</span>`).join("");
+  const cityTag = item.city_tag ? normCity(item) : "";
+  const topicTag = item.topic_tag || "";
+  tagsEl.innerHTML = [
+    cityTag ? `<span class="modal-tag" style="color:var(--primary);background:#eef2ff;border-color:#c7d2fe">${cityTag}</span>` : "",
+    topicTag ? `<span class="modal-tag">${topicTag}</span>` : "",
+  ].filter(Boolean).join("");
   const link = document.getElementById("modal-link");
   link.href = item.url || "#";
   link.style.display = item.url ? "inline-block" : "none";
