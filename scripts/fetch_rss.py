@@ -89,12 +89,6 @@ RSS_SOURCES = [
         "weight": 4
     },
     {
-        "id": "nation",
-        "name": "The Nation",
-        "url": "https://www.nationthailand.com/rss.xml",
-        "weight": 4
-    },
-    {
         "id": "pattaya_mail",
         "name": "Pattaya Mail",
         "url": "https://www.pattayamail.com/feed",
