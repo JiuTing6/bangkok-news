@@ -53,6 +53,24 @@ RSS_SOURCES = [
         "weight": 5
     },
     {
+        "id": "bangkokpost_thailand",
+        "name": "Bangkok Post Thailand",
+        "url": "https://www.bangkokpost.com/rss/data/thailand.xml",
+        "weight": 5
+    },
+    {
+        "id": "bangkokpost_business",
+        "name": "Bangkok Post Business",
+        "url": "https://www.bangkokpost.com/rss/data/business.xml",
+        "weight": 5
+    },
+    {
+        "id": "bangkokpost_life",
+        "name": "Bangkok Post Life",
+        "url": "https://www.bangkokpost.com/rss/data/life.xml",
+        "weight": 4
+    },
+    {
         "id": "thaiger",
         "name": "The Thaiger",
         "url": "https://thethaiger.com/feed",

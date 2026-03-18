@@ -50,7 +50,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "2e8cab36bdc2",
@@ -245,7 +245,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "14f80d599962",
@@ -273,7 +273,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "090e67d63351",
@@ -349,7 +349,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9d2e9e13c35a",
@@ -399,7 +399,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "89dfb5b863c5",
@@ -426,7 +426,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "47086c7375ad",
@@ -529,7 +529,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "76e1d80b5b2d",
@@ -556,7 +556,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "0fecd9918434",
@@ -740,7 +740,7 @@
     "time_sensitive": true,
     "expires_date": "2026-04-02",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "34f1674f0e49",
@@ -765,7 +765,7 @@
     "time_sensitive": true,
     "expires_date": "2026-04-02",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "f88ee2b8edbb",
@@ -788,7 +788,7 @@
     "origin": "brave",
     "url": "https://us.trip.com/moments/detail/thailand-100021-142842540/",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "6ed282f3b19b",
@@ -811,7 +811,7 @@
     "origin": "brave",
     "url": "https://us.trip.com/moments/detail/chiang-mai-209-143141426/",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "bbb07d5d98a8",
@@ -834,7 +834,7 @@
     "origin": "brave",
     "url": "https://www.timeout.com/bangkok/news/traveloka-thailands-top-songkran-travel-picks-031326",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "7d02fb891423",
@@ -857,7 +857,7 @@
     "origin": "brave",
     "url": "https://etravelsim.com/blogs/updates/songkran-festival-the-history-traditions",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "19b95fa4dd11",
@@ -884,7 +884,7 @@
     "event_id": "dib_bangkok_opening_2026",
     "status": "pending",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "c69cf40486be",
@@ -911,7 +911,7 @@
     "event_id": "thailand_music_exchange_2026",
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "5977ef7861d3",
@@ -990,7 +990,7 @@
     "event_id": "pattaya_good_samaritan_rider_2026",
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "3cc5ddb74d1b",
@@ -1177,7 +1177,7 @@
     "added_date": "2026-03-18",
     "title_cn": "2026年度芭提雅音乐节本周末重返中天海滩 Jomtien Beach",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "f1cbc8fb67d2",
@@ -1201,7 +1201,7 @@
     "weight": 1,
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "7b08b94493e7",
@@ -1224,7 +1224,7 @@
     "weight": 1,
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "e2859699c11b",
@@ -1333,7 +1333,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9a7ff20a2274",
@@ -1468,7 +1468,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "1408db8117b1",
@@ -1548,7 +1548,7 @@
     "added_date": "2026-03-17",
     "origin": "rss",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "5c909e36a9a9",
@@ -1605,7 +1605,7 @@
     "added_date": "2026-03-17",
     "origin": "rss",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "d29b2e429847",
@@ -1773,7 +1773,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "ffe11dc32243",
@@ -1879,7 +1879,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "d778f2840e24",
@@ -2006,7 +2006,7 @@
     "origin": "brave",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "57ce857e721d",
@@ -2028,7 +2028,7 @@
     "origin": "brave",
     "added_date": "2026-03-17",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "2c1f5b269cce",
@@ -2274,7 +2274,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "6cf842e7bcb9",
@@ -2302,7 +2302,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "323046a586c0",
@@ -2358,7 +2358,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9482b3780e34",
@@ -2386,7 +2386,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "09d6022b44d2",
@@ -2796,7 +2796,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9092223543b5",
@@ -2848,7 +2848,7 @@
     "origin": "brave",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "bdce095f0dd8",
@@ -2874,7 +2874,7 @@
     "origin": "brave",
     "weight": 1,
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "58d4a45f72a3",
@@ -2900,7 +2900,7 @@
     "time_sensitive": false,
     "expires_date": "2026-04-15",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "0b3afa6e5098",
@@ -2927,7 +2927,7 @@
     "time_sensitive": false,
     "expires_date": "2026-04-15",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "56f8c65f7390",
@@ -2950,7 +2950,7 @@
     "origin": "brave",
     "added_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "b897a9abb1fc",
@@ -3087,7 +3087,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "602fb597c652",
@@ -3170,7 +3170,7 @@
     "origin": "rss",
     "added_date": "2026-03-15",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "2ae1cf4ba9fa",
@@ -3223,7 +3223,7 @@
     "origin": "rss",
     "added_date": "2026-03-15",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "95af5003f0f7",
@@ -3330,7 +3330,7 @@
     "origin": "brave",
     "weight": 1,
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "b56b4c766af1",
@@ -3375,7 +3375,7 @@
     "origin": "brave",
     "added_date": "2026-03-15",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "d6630106ae61",
@@ -3537,7 +3537,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9475d00f1417",
@@ -3645,7 +3645,7 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "72ac48379c69",
@@ -3671,7 +3671,7 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "94dcd3a77170",
@@ -3880,7 +3880,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "dab63fa781dc",
@@ -4050,7 +4050,7 @@
     "status": "pending",
     "title_cn": "法国籍红通嫌犯在普吉岛拉威（Rawai）落网",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "592f38526ba0",
@@ -4134,7 +4134,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "69f1c0aa92ae",
@@ -4269,7 +4269,7 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "936bffbdc527",
@@ -4345,7 +4345,7 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "3d4d18784bd8",
@@ -4425,7 +4425,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "7ec15a6b0784",
@@ -4473,7 +4473,7 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "a7e43c487cf3",
@@ -4495,7 +4495,7 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "6ab48057eb27",
@@ -4520,7 +4520,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9747e415888c",
@@ -4542,7 +4542,7 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "7ec15a6b0784",
@@ -4586,7 +4586,7 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "ebaff4a780a6",
@@ -4608,7 +4608,7 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "83764d1cccfe",
@@ -4631,7 +4631,7 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "7ec15a6b0784",
@@ -4700,7 +4700,7 @@
     "origin": "brave",
     "added_date": "2026-03-14",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "4f2b9d54b02f",
@@ -4920,7 +4920,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "d486a973ef05",
@@ -4947,7 +4947,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "6b4232b4a578",
@@ -5136,7 +5136,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "f1cbb1926090",
@@ -5326,7 +5326,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "ba0fe362a947",
@@ -5696,7 +5696,7 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "da14aa787086",
@@ -6029,7 +6029,7 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "98cc71ae2682",
@@ -6214,7 +6214,7 @@
     "status": "pending",
     "added_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "2aa4cc9b367b",
@@ -6564,7 +6564,7 @@
     "expires_date": "2026-04-11",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "f430d5e84baf",
@@ -6643,7 +6643,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "d1bb1ac50784",
@@ -6668,7 +6668,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "c0e22aeaff25",
@@ -6691,7 +6691,7 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "1c3ff90f8063",
@@ -6714,7 +6714,7 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "49e0d23dd271",
@@ -6736,7 +6736,7 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "3c419c6cdc7b",
@@ -6759,7 +6759,7 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "1d6c6f04a50d",
@@ -6782,7 +6782,7 @@
     "origin": "brave",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "d1bb1ac50784",
@@ -6808,7 +6808,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "c0603514baf4",
@@ -6855,7 +6855,7 @@
     "status": "pending",
     "added_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "1c3ff90f8063",
@@ -6880,7 +6880,7 @@
     "status": "pending",
     "added_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "d1bb1ac50784",
@@ -6907,7 +6907,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9f6863761673",
@@ -7047,7 +7047,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "1bd2f77a20d0",
@@ -7410,7 +7410,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "31d3045255b0",
@@ -7566,7 +7566,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "28c5db4334f5",
@@ -7701,7 +7701,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "6fd5dc39ebbd",
@@ -7745,7 +7745,7 @@
     "time_sensitive": true,
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "26728cdbc681",
@@ -7767,7 +7767,7 @@
     "time_sensitive": true,
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9febc90d7c91",
@@ -7789,7 +7789,7 @@
     "time_sensitive": true,
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "3a86efb7b249",
@@ -7833,7 +7833,7 @@
     "time_sensitive": true,
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "e48416009594",
@@ -7856,7 +7856,7 @@
     "time_sensitive": true,
     "status": "pending",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "ac5e89a6800b",
@@ -7900,7 +7900,7 @@
     "time_sensitive": true,
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "49ddc3227dd0",
@@ -7947,7 +7947,7 @@
     "title_cn": "旅游业严阵以待：中东冲突或引发赴泰“避难”潮 (Tourism braces for impact of Mideast war)",
     "url": "https://www.bangkokpost.com/business/general/3213523/tourism-braces-for-impact-of-mideast-war",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "added_date": "2026-03-10",
@@ -8180,7 +8180,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "5e89ffb5b470",
@@ -8280,7 +8280,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "added_date": "2026-03-10",
@@ -8378,7 +8378,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "f0a1872a1b38",
@@ -8403,7 +8403,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#教育"
   },
   {
     "id": "ecdbb99357fe",
@@ -8503,7 +8503,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "8e9a47b7f4c1",
@@ -8528,7 +8528,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#文化"
   },
   {
     "added_date": "2026-03-10",
@@ -8553,7 +8553,7 @@
     "title_cn": "泰国5个适合步行的宜居城市推荐 (Looking for walkable cities in Thailand to move to? Here's 5)",
     "url": "https://thethethaiger.com/guides/5-walkable-cities-in-thailand-to-move-to",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "added_date": "2026-03-10",
@@ -8577,7 +8577,7 @@
     "title_cn": "2026芭提雅音乐节开幕：3月狂欢持续全月 (Crowds turn out as Pattaya Beach Music Festival kicks off)",
     "url": "https://www.pattayamail.com/news/crowds-turn-out-as-month-long-pattaya-beach-music-festival-kicks-off-538396",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "c7b3fd0d38e1",
@@ -8599,7 +8599,7 @@
     "published_date": "2026-03-09",
     "desc_original": "Thailand could lose more than 40 billion baht in tourism revenue in the worst-case scenario, assuming the Middle East airspace closure lasts for eight weeks, says the Tourism and Sports Ministry.",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "cbf5e95dabed",
@@ -8881,7 +8881,7 @@
     "published_date": "2026-03-09",
     "desc_original": "When to go The festival will run from December 11 to 13, 2026, offering three full days of music, art, and culture. Visitors can expect an array of performances from some of the most celebrated DJs, live shows, and an overall electrifying atmosphere.",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "817f24aa99b1",
@@ -8903,7 +8903,7 @@
     "desc_original": "... Nat Kruthasoot, Deputy Governor for Tourism Products and Business at the Tourism Authority of Thailand, opens the “Amazing Thailand Galaxy of Love 2026” festival at One Bangkok Park in Bangkok, showcasing immersive domes, music performances, ...",
     "summary_cn": "泰国旅游局（Tourism Authority of Thailand）副局长纳特·庆他萨（Nat Kruthasoot）主持开幕典礼，在曼谷One Bangkok公园正式揭幕「Amazing Thailand Galaxy of Love 2026」节庆活动。活动以沉浸式穹顶装置与现场音乐表演为核心体验，旨在提升入境旅游吸引力，展示泰国文化与创意产业的软实力。",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "88e9c81adbf1",
@@ -8924,7 +8924,7 @@
     "status": "pending",
     "desc_original": "",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "65e1cc73d5bb",
@@ -8944,7 +8944,7 @@
     "desc_original": "Mark your calendars for three major fun-filled events in 2026: March at The Mall Live Store Bangkae (12-15 Mar), June at Future Park Rangsit (25-28 Jun), and October at Fashion Island Ramintra (1-4 Oct).",
     "summary_cn": "泰叻日报（Thairath）年度嘉年华2026年将分三站举行：3月12至15日在曼谷The Mall Live Store Bangkae商场开幕，6月25至28日移师Future Park Rangsit，10月1至4日在Fashion Island Ramintra收官。活动涵盖娱乐、展览等多类型项目，是泰国媒体举办的年度大型公众活动。",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "1bf1f1aeebcf",
@@ -8964,7 +8964,7 @@
     "status": "pending",
     "desc_original": "",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#文化"
   },
   {
     "id": "ed68ccf3c7cd",
@@ -8985,7 +8985,7 @@
     "status": "pending",
     "desc_original": "",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "8ed31ff19a6e",
@@ -9006,7 +9006,7 @@
     "desc_original": "“The festival’s ‘Party in ... · In 2026, S2O Thailand will once again pair its music line-up with 360-degree water features, transforming the festival site into “an immersive amusement park”....",
     "summary_cn": "S2O Thailand 2026音乐节正式公布演出阵容，活动延续以360度水舞装置配合电子音乐（EDM）表演的特色，将场地打造成沉浸式游乐公园体验。该节庆以泼水为核心互动元素，吸引国内外乐迷参与，是泰国年度重要的大型音乐娱乐活动之一。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9be737db28e1",
@@ -9132,7 +9132,7 @@
     "published_date": "2026-03-09",
     "desc_original": "",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "caa63b8d4295",
@@ -9153,7 +9153,7 @@
     "desc_original": "",
     "summary_cn": "2026年初，社交媒体流传「泰国将每天向外国游客发放2000铢」的消息，引发广泛讨论。泰国官方随即澄清，此说法纯属谣言，政府从未制定或讨论过此类政策。当局呼吁公众通过官方渠道核实旅游相关信息，避免被误导性内容混淆，以免损害泰国旅游业形象。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "9272b9e3e4cf",
@@ -9173,7 +9173,7 @@
     "status": "pending",
     "desc_original": "",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#教育"
   },
   {
     "id": "5347ed72e343",
@@ -9256,7 +9256,7 @@
     "desc_original": "",
     "summary_cn": "泰国移民局官员博讪（Pol. Col. Phongthorn Phongratchatanan）驳斥柬埔寨媒体报道，称其所谓柬埔寨和印度游客在泰国机场遭不公平拒绝入境并被索取额外费用的说法「完全失实」。他表示相关报道属片面描述，可能损害泰国旅游形象，已要求相关方通过官方渠道核实事实。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "66607defd286",
@@ -9319,7 +9319,7 @@
     "desc_original": "5 things to do in Bangkok this weekend (March 7 to 8) Legacy As always, Bangkok gives you plenty of ways to fill your weekend, whether you want to browse, socialise, plan a trip, or catch something more lively. From festivals and fairs to Muay Thai and a playful singles night, here are five things to do in Bangkok this weekend. On this page Event Date Location Highlight Beer People Festival 2026 at ChangChui Creative Park March 6 to 8 ChangChui Creative Park A bigger version of the former beer f",
     "summary_cn": "2026年3月7至8日曼谷周末五大推荐活动：ChangChui Creative Park啤酒节（3月6至8日）、昭披耶滨水庆典、泰拳赛事观赛体验、曼谷旅游展览，以及面向单身人士的联谊活动。活动覆盖娱乐、美食和体育多个类型，适合不同偏好的市民和游客。",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "192ba498c562",
@@ -9563,7 +9563,7 @@
     "published_date": "2026-03-09",
     "desc_original": "Phuket tackles work permit delays for 130,000 foreign workers Legacy Phuket &#8216;s provincial officials are moving to address significant delays in renewing and issuing work permits for more than 130,000 foreign workers, following mounting complaints from employers about the backlog&#8217;s impact on businesses across the island. The issue was raised during a monthly meeting of labour agencies at the Phuket Provincial Labour Office on March 4, prompting Phuket Vice Governor Teeraphong Chuaycho",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "522b4ef2a25f",
@@ -9654,7 +9654,7 @@
     "desc_original": "A controversy has erupted over the strict rules set for those taking the exam for admission to Matthayom Suksa 4 (Grade 10) at a prestigious Bangkok school after some students had to discard cash in trash bins, raising concerns that some might have no money to travel home.",
     "summary_cn": "曼谷一所知名学校高一（Matthayom Suksa 4）入学考试规定引发争议：考场严禁携带现金，部分考生被迫将身上的钱丢入垃圾桶，事后因无钱乘车而陷入困境。事件引发家长和公众对考试管理规定合理性的广泛质疑，相关批评在社交媒体迅速发酵。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#教育"
   },
   {
     "id": "b2ccd1120735",
@@ -9699,7 +9699,7 @@
     "published_date": "2026-03-09",
     "desc_original": "Pattaya City officials, police, and Banglamung district officers line up during the deployment briefing ahead of the opening night of Pattaya Music Festival 2026 at Pattaya Beach. PATTAYA, Thailand – Authorities have deployed teams of municipal officers, police, and local administrators to ensure safety and smooth operations as the first weekend of the Pattaya Music Festival 2026 gets underway along Pattaya Beach. Pattaya City officials, together with Pattaya Police, Banglamung district administ",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "caa63b8d4295",
@@ -9742,7 +9742,7 @@
     "desc_original": "Thailand braces for summer storm with thunderstorms and strong winds Legacy Thailand&#8217;s Meteorological Department has forecast that upper Thailand will continue to experience thunderstorms and strong winds tomorrow, with 41 provinces, including Bangkok, expected to be affected. On March 6, the department released its weather forecast for the next 24 hours, warning that a summer storm will bring thunderstorms, strong winds, and isolated lightning strikes to upper Thailand. The conditions are",
     "summary_cn": "泰国气象局（Meteorological Department）3月6日发布天气预警，预测未来24小时内，包括曼谷在内的41个府将受夏季风暴影响，出现雷暴、强阵风和局部闪电。上泰国（Upper Thailand）地区气候条件不稳定，当局提醒民众注意户外安全，避免在强风雷暴期间从事户外活动。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "e6de0c1e034d",
@@ -9808,7 +9808,7 @@
     "desc_original": "BANGKOK — Thai immigration authorities on Thursday rejected reports by Cambodian media claiming Cambodian and Indian tourists were being unfairly denied entry at Thai airports and forced to pay additional fees. Pol. Col. Phongthorn Phongratchatanan, deputy commander of Immigration Division 2 and its spokesperson, said the reports were “completely inaccurate” and presented only one side of the story, which could mislead the public and harm Thailand’s tourism image. The Cambodian report alleged th",
     "summary_cn": "泰国移民局官员博讪（Pol. Col. Phongthorn Phongratchatanan）驳斥柬埔寨媒体报道，称其所谓柬埔寨和印度游客在泰国机场遭不公平拒绝入境并被索取额外费用的说法「完全失实」。他表示相关报道属片面描述，可能损害泰国旅游形象，已要求相关方通过官方渠道核实事实。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "a5167fc4a6a0",
@@ -9919,7 +9919,7 @@
     "desc_original": "Asia is where travel strategy is being tested in real time. Bangkok offers a front-row seat to the decisions shaping the industry’s next phase.",
     "summary_cn": "国际旅游媒体Skift在曼谷举办专业论坛，聚焦亚洲旅游业下一阶段的战略变革。曼谷被定位为全球旅游策略的前沿实验场，成为观察亚洲旅行趋势、数字化转型和旅游体验创新的核心窗口。各行业领袖就市场定位、技术应用及可持续旅游等议题在曼谷展开深度对话。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "5acfaf95fde0",
@@ -9941,7 +9941,7 @@
     "desc_original": "The Thailand Tennis Masters 2026 officially unveiled its tournament jerseys in Bangkok. Scheduled for April 13-20, 2026, the event aims to boost sports tourism by featuring international players and highlighting cities like Bangkok, Pattaya, ...",
     "summary_cn": "泰国网球大师赛（Thailand Tennis Masters）2026年正式公布球队球衣设计，赛事将于4月13至20日举行，跨越曼谷、芭提雅、普吉和华欣（Hua Hin）四座城市联合举办。组委会期望通过引进国际球员吸引体育旅游人群，同时展示泰国多元城市魅力，推动体育赛事与旅游业深度融合。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "10fe5b426e1b",
@@ -10011,7 +10011,7 @@
     "published_date": "2026-03-09",
     "desc_original": "War in the Middle East could seriously affect Thai tourism this year, with a 25% decline from the 2026 target being the worst-case scenario if the fighting extends beyond three months, prompting officials to target short‑haul tourists to fill the gap.",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "4d38857747dd",
@@ -10166,7 +10166,7 @@
     "desc_original": "PHUKET — A 26-year-old Norwegian man was detained at Phuket International Airport after Thai immigration officers allegedly found a torn page in his passport, according to a report first published on 27 February by Norwegian daily Verdens Gang (VG). Marcus Haavik, 26, had arrived in Phuket with a friend for a planned two-week holiday when he was stopped at passport control. The pair had intended to spend a week in Phuket, travel to the Phi Phi islands and conclude their trip in Bangkok. Haavik t",
     "summary_cn": "26岁挪威男子马库斯·哈维克（Marcus Haavik）抵达普吉国际机场度假时，因护照被发现有破损页面而遭泰国移民官员扣押数日。事件由挪威日报《世界之路》（Verdens Gang）率先报道后引发国际关注，外界对泰国出入境审查标准和拘押程序合理性提出质疑，泰方尚未作出正式回应。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "89ceab0f7cc7",
@@ -10294,7 +10294,7 @@
     "desc_original": "BANGKOK — Jun Wanavit, founder and owner of Thai electric fan maker Hatari, has died peacefully at the age of 89. Jun, widely known as “Ah Kong Jun”, rose to national prominence in 2022 after donating 900 million baht to the Ramathibodi Foundation to support the construction of a new medical building and innovation projects. The donation sparked widespread admiration on social media, with many Thais posting photos of Hatari fans in their homes in tribute. He was later recognised by Forbes as one",
     "summary_cn": "泰国知名电扇品牌哈他利（Hatari）创始人俊·华纳维（Jun Wanavit），人称「阿公俊」（Ah Kong Jun），安详辞世，享年89岁。他于2022年向玛希隆大学附属医院拉玛提博迪基金会（Ramathibodi Foundation）捐款9亿铢而广为人知，此后被《福布斯》（Forbes）列入泰国慈善家名单，十年累计捐款逾15亿铢，深受泰国各界爱戴。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#文化"
   },
   {
     "id": "a367f22f4bbf",
@@ -10377,7 +10377,7 @@
     "desc_original": "Thai family reports Shanghai hotel staff who sneaks into their room Legacy A Thai family is pursuing legal action against a hotel in Shanghai after they said they found a male staff member sneaking into their room and later claiming he entered by mistake. A Thai woman, Yatida Siriwangchai, posted videos of the incident on her TikTok account, @tyatida , on Tuesday, March 3. In the clips, a man is seen lying in a narrow gap between her father’s bed and the wall, appearing to hide. Yatida asked how",
     "summary_cn": "泰国女性雅提达（Yatida Siriwangchai）于3月3日在TikTok（账号@tyatida）发布视频，记录了一名上海酒店男性员工藏身其父亲床底的经过，视频中当事人被发现时正躲在床与墙壁之间的狭缝中。该员工事后声称系误入房间。雅提达家庭已启动法律程序向酒店追责，视频在国际社交平台引发大量关注。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "597a99492818",
@@ -10549,7 +10549,7 @@
     "published_date": "2026-03-05",
     "desc_original": "The government has introduced visa relief measures after 166 flights were cancelled amid Middle East fighting, with immigration waiving overstay fines for stranded travellers.",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "c2cd69bc445e",
@@ -10725,7 +10725,7 @@
     "desc_original": "Phuket drivers rush to fill tanks as fears of a fuel price rise spread Legacy Phuket motorists rushed to refuel yesterday evening, March 3, with long queues forming at a Bangchak petrol station in Kathu as concerns grew that fuel costs could rise amid uncertainty in the Middle East. Vans and taxis running main routes such as Kathu to Patong were among those filling up, along with riders and other residents. The queue reportedly stretched beyond the forecourt and out towards the station entrance.",
     "summary_cn": "3月3日傍晚，普吉岛卡图区（Kathu）邦查克（Bangchak）加油站出现大规模排队，当地车主、面包车和出租摩托司机纷纷抢先加满油箱，原因是中东局势不明朗引发对燃油涨价的普遍担忧，排队车辆一度延伸至加油站出入口外。类似情况在普吉岛多处加油站同步出现。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "dd290625b79f",
@@ -10771,7 +10771,7 @@
     "published_date": "2026-03-05",
     "desc_original": "As the conflict in the Middle East weighs on global travel prices and travellers' pocketbooks, tourism operators project long-haul markets in 2026 will fall short of last year's 10 million arrivals.",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "6cc0c9c696a3",
@@ -10977,7 +10977,7 @@
     "desc_original": "Few Thai street snacks are as iconic as khanom krok, small round coconut rice cakes with a crisp shell and creamy centre. Made from rice flour, sugar and coconut milk, the dessert is traditionally cooked in a cast iron pan with small indentations over charcoal heat. Vendors pour two batters into each well, typically one lightly salted coconut base and one sweet topping, before pressing two half moons together into a single bite sized disc. Mont lin ma yar in Myanmar Variations of this coconut ba",
     "summary_cn": "椰奶糕（Khanom Krok）是泰国最具代表性的街头小食之一，以米粉、糖和椰奶为主料，传统上用带小圆形凹槽的铸铁锅置于炭火上烹制，外壳酥脆、内芯嫩滑。文章追溯其历史渊源，并介绍东南亚各国的同类食品，如缅甸的蒙林马亚（Mont lin ma yar），展现这一小食在区域饮食文化中的共通性。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#文化"
   },
   {
     "id": "eeb04fc102a0",
@@ -11117,7 +11117,7 @@
     "desc_original": "Prime Minister Anutin Charnvirakul joins a humanitarian flight under the “Hearts on Wings” program with the Thai Red Cross Society, deploying a Cirrus SR22T aircraft to transport surgeons from Siriraj Hospital to Surin for an urgent organ retrieval operation benefiting transplant patients. SURIN, Thailand – Prime Minister Anutin Charnvirakul has assigned a volunteer pilot with the Thai Red Cross Society to carry out an urgent organ transport mission in Surin province under the “Hearts on Wings” ",
     "summary_cn": "总理安努廷（Anutin Charnvirakul）亲赴素林府（Surin），参与泰国红十字会（Thai Red Cross Society）「心翼行动」（Hearts on Wings）紧急器官空运任务。本次任务动用Cirrus SR22T飞机，将诗里拉医院（Siriraj Hospital）外科医生紧急运抵素林执行器官摘取手术，所摘器官将用于等待移植的危重患者。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "8fd65d0fdeca",
@@ -11158,7 +11158,7 @@
     "desc_original": "Play padel and unwind at the Sensei Padel Club in Patong, Phuket Legacy Sensei Padel Club brings a piece of one of the world&#8217;s fastest-growing sports right to Patong, Phuket . The club, as the only padel venue operating in Patong, offers not just its courts, but also a wellness destination for those in the southern island province. Padel combines the best elements of tennis and squash into a fun, social, and easy-to-learn game suitable for players of all ages and skill levels. Sensei Padel",
     "summary_cn": "Sensei Padel Club在普吉岛芭东区（Patong）正式开业，成为当地唯一提供板式网球（Padel）运动的专业场馆。Padel融合网球与壁球元素，适合各年龄层和不同水平的运动者。该俱乐部同时定位为健康休闲目的地，为南部岛屿运动爱好者提供新选择，有望推动普吉岛运动旅游发展。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "999ddef775ae",
@@ -11270,7 +11270,7 @@
     "published_date": "2026-03-05",
     "desc_original": "Thailand's decade-long surge in international schools is approaching a plateau, as falling birth rates and demographic shifts threaten to curb expansion in a sector that has nearly tripled in size since 2014.",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#教育"
   },
   {
     "id": "9589789fa718",
@@ -11312,7 +11312,7 @@
     "desc_original": "Irish man jailed for 218 months over forged passport offences Legacy Hua Hin Provincial Court has sentenced a fugitive Irishman to 218 months in prison over forged passport offences, police said yesterday, March 3, after investigators linked him to a false identity used to travel in and out of Thailand. Immigration police in Surat Thani said the court sentenced Paul Noel Casey to 218 months in prison, about 18 years, for offences relating to a fake passport and immigration law violations. Invest",
     "summary_cn": "华欣（Hua Hin）省法院判决爱尔兰逃犯保罗·诺尔·卡西（Paul Noel Casey）以伪造护照（Forged Passport）及违反入境法规等罪名入狱218个月（约18年）。调查显示，他长期以虚假身份多次出入泰国，曾以苏叻他尼府（Surat Thani）为主要活动区域，移民警察协同多部门共同侦破此案。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "2be2551ef4f9",
@@ -11335,7 +11335,7 @@
     "published_date": "2026-03-05",
     "desc_original": "For expatriates in Pattaya, Chiang Mai, and Phuket, Persian Gulf tensions are less about geopolitics and more about practical concerns &#8211; cost stability, exchange rates, and reliable international travel. PATTAYA, Thailand &#8211; The recent tensions in the Persian Gulf, particularly involving Iran and Israel, may appear geographically distant from Thailand. However, for expatriates living in Pattaya, Chiang Mai, and Phuket, the discussion is not about geopolitics. It is about cost stabilit",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "d94da79332e7",
@@ -11627,7 +11627,7 @@
     "desc_original": "Influencer seeks refund over botched 400,000 baht nose surgery in Bangkok Legacy A female influencer has filed a complaint over an alleged botched nose surgery procedure from a well-known hospital in Bangkok, after reporting post-operation complications and an unresolved dispute over compensation. The 25 year old influencer said she decided to undergo revision nose surgery at the hospital, where she reportedly paid 400,000 baht for the operation. The woman claimed she trusted the reputation and ",
     "summary_cn": "一名25岁女性网红向曼谷一家知名医院投诉，称其花费40万铢接受的隆鼻修复手术失败，术后出现并发症，且与医院就赔偿方案长期协商无果，决定公开维权。此案引发公众对医疗美容行业监管及消费者权益保护的广泛关注。",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "d3e7cad06c16",
@@ -12024,7 +12024,7 @@
     "desc_original": "Thailand to offer travel deals to tourists affected by Middle East flight cancellations Legacy Thailand’s Ministry of Tourism and Sports is seeking cooperation from the private sector to offer special travel packages for foreign tourists affected by Middle East flight cancellations . The Tourism Authority of Thailand (TAT) has set up a Tourism Crisis Monitoring Centre to closely track the escalating situation in the Middle East and provide information to travellers impacted by the disruption. Ch",
     "summary_cn": "泰国旅游和体育部（Ministry of Tourism and Sports）正积极联合私营旅游业者，为因中东局势导致航班取消而无法按原计划入境的外国游客提供特别旅游套餐。泰国旅游局（TAT）已设立旅游危机监测中心，实时追踪中东局势动态，为受影响旅客提供信息支持和出行替代方案。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "a39f5028e2ec",
@@ -12360,7 +12360,7 @@
     "desc_original": "A 68-year-old German tourist said he was heartbroken after his flight to Thailand was canceled due to Middle East airspace closures linked to the conflict between Iran and Israel. Rolf Kollrep, who visits Thailand twice a year, had planned to spend the entire month of March holidaying in the country. He was scheduled to depart Germany on 2 March on a Qatar Airways flight transiting through Doha before continuing to Bangkok. Accommodation in Pattaya and Hua Hin had been booked since last year. Ho",
     "summary_cn": "68岁德国游客罗尔夫·科尔雷普（Rolf Kollrep）每年赴泰两次，原计划3月全月在泰国度假，在芭提雅和华欣（Hua Hin）均有预订住宿，但因中东空域关闭，其搭乘卡塔尔航空（Qatar Airways）经多哈（Doha）转机的航班于出发前被取消，计划全盘落空，令其深感遗憾，成为受中东局势影响的众多欧洲游客之一。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "aa5808753e35",
@@ -12381,7 +12381,7 @@
     "desc_original": "PHUKET — Residents in Rawai have raised concerns over foreign tourists sunbathing and swimming naked on a public beach, questioning whether the practice is appropriate and calling on authorities to investigate. On 2 March 2026, the Facebook page “Phuket Info Center” posted four photos showing foreign visitors reportedly sunbathing nude at a beach in Rawai subdistrict, Muang district. The images triggered widespread debate online. The post asked whether a so-called “nude beach” in Phuket was suit",
     "summary_cn": "普吉岛拉威区（Rawai）居民向当局反映，有外国游客在当地公共海滩裸体日晒和游泳，质疑此举是否符合当地文化和法律规范。「Phuket Info Center」于3月2日发布现场照片后，引发网络热议，当地居民呼吁官方尽快介入调查并采取管理措施，明确公共海滩相关行为规范。",
     "city_tag": "#泰国",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅游"
   },
   {
     "id": "7e99b76cfc17",
@@ -12402,7 +12402,7 @@
     "desc_original": "Thai ex-wife of ASOS co-founder seeks child custody after his death Legacy A Thai woman is seeking custody of her three children following the death of her British ex-husband, ASOS co-founder Quentin Griffiths , alleging she was prevented from seeing them for nearly five years following their divorce . The 58 year old British businessman, Griffiths, was found dead on February 9 after falling from his 18th-floor apartment in Pattaya . Police said they suspected suicide , reporting the room was lo",
     "summary_cn": "ASOS联合创始人、58岁英国商人昆廷·格里菲斯（Quentin Griffiths）于2月9日被发现坠亡于芭提雅一处18楼公寓，警方初步判断为自杀。其泰籍前妻随即申请三名子女的监护权，并指控自离婚后被长达近五年阻止探视孩子，案件涉及跨国家庭法律纠纷和遗产争议，引发国际媒体关注。",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#生活"
   },
   {
     "id": "f3c9b2a5d6e1",
@@ -12423,7 +12423,7 @@
     "desc_original": "Together, these efforts frame restoration as a strategic pillar of urban cultural asset management - revitalizing historic districts, generating economic vitality, and strengthening a creative business ecosystem that grows sustainably from the city&#x27;s existing foundations. LAHI (Heritage): The Philippine Fashion Exhibition · Fashion as Cultural Diplomacy and a New Economic Bridge in ASEAN ... Representing the Philippines, Bangkok Design Week 2026 serves as the launch platform for &quot;LAHI ",
     "summary_cn": "曼谷设计周（Bangkok Design Week）2026以城市遗产活化（Heritage Restoration）为战略核心，将历史街区复兴与创意经济发展相结合，旨在构建可持续的创意商业生态系统。本届活动同时承担国际文化交流平台功能，包括菲律宾时装展览「LAHI」，以曼谷为东盟（ASEAN）创意经济合作的发布平台，定位亚洲创意枢纽。",
     "city_tag": "#曼谷",
-    "topic_tag": "#旅居"
+    "topic_tag": "#文化"
   },
   {
     "id": "a4d0c3b6e7f2",
