@@ -39,10 +39,10 @@ cat data/last_ingest.txt
 ```bash
 cd /Users/Ade/.openclaw/workspace/bangkok-news
 python3 scripts/fetch_rss.py --start LAST_DATE --end TODAY -o data/issues/TODAY-raw.json
-python3 scripts/fetch_brave.py data/issues/TODAY-raw.json
 ```
 
 （把 LAST_DATE 和 TODAY 替换为实际日期）
+注：fetch_brave.py 已停用，仅抓 RSS 9个源。
 
 ---
 
@@ -52,7 +52,7 @@ python3 scripts/fetch_brave.py data/issues/TODAY-raw.json
 
 ```bash
 python3 -c "
-import json, hashlib
+import json
 today = 'TODAY'
 with open(f'data/issues/{today}-raw.json') as f:
     raw = json.load(f)
@@ -60,20 +60,6 @@ items = []
 for item in raw.get('items', []):
     item.setdefault('origin', 'rss')
     items.append(item)
-for qg in raw.get('brave_results', []):
-    for r in qg.get('results', []):
-        url = r.get('url','')
-        items.append({
-            'id': hashlib.md5(url.encode()).hexdigest()[:12],
-            'title': r.get('title',''),
-            'desc': r.get('snippet',''),
-            'url': url,
-            'date': r.get('age',''),
-            'source': r.get('source') or qg.get('query','')[:40],
-            'origin': 'brave',
-            'tags': [],
-            'weight': 1,
-        })
 with open(f'data/issues/{today}-flat.json', 'w') as f:
     json.dump(items, f, ensure_ascii=False, indent=2)
 print(f'展平完成: {len(items)} 条')
@@ -196,12 +182,12 @@ git push
 ```
 📥 Thailand10 Ingest v2 [执行日期，格式 YYYY-MM-DD，用系统当天日期，非新闻数据日期] 完成
 
-原料: RSS X条 | Brave X条 → 展平 X条
+原料: RSS X条 → 展平 X条
 过滤(L1): X条保留 / X条丢弃
-去重(L2): X条保留 / X条跳过
+去重+控量(L2): X条保留 / X条跳过
 翻译(L3): X条（含摘要）✅
 Pool: +X条 → 共X条 (P1=X P2=X P3=X)
-板块: BKK=X PTY=X Prop=X CN=X TH=X
+Topic: 时政=X 经济=X 安全=X 旅居=X 社会=X 房产=X 科技=X 中泰=X 健康=X
 ```
 
 ---

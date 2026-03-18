@@ -363,7 +363,7 @@
     "section_hint": "thailand",
     "location_detail": "北碧府 Kanchanaburi",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "relevance_score": 1.0,
     "tags": [],
     "origin": "rss",
@@ -389,7 +389,7 @@
     "section_hint": "thailand",
     "location_detail": "",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "relevance_score": 0.9,
     "tags": [],
     "origin": "rss",
@@ -415,7 +415,7 @@
     "section_hint": "thailand",
     "location_detail": "",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "relevance_score": 0.85,
     "tags": [],
     "origin": "rss",
@@ -679,7 +679,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "39f642b8e320",
@@ -707,7 +707,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "67263577adc2",
@@ -734,7 +734,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "61744247cae5",
@@ -762,7 +762,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "597d6d3e590a",
@@ -790,7 +790,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "80dcdde0a9b0",
@@ -900,7 +900,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "c9ac2d124437",
@@ -975,7 +975,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "9f4e6998c12d",
@@ -1054,7 +1054,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "普吉（Phuket）面包车车祸导致一名俄罗斯女子死亡，另有11人受伤"
   },
   {
@@ -1107,7 +1107,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "泰国北大年府（Pattani）前哨站遭遇炸弹袭击，5名警员受伤"
   },
   {
@@ -1217,7 +1217,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "中天海滩（Jomtien）持刀男子疑似毒驾受惊，警方迅速抓捕"
   },
   {
@@ -1271,7 +1271,7 @@
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "芭提雅 Arunothai 社区发生火灾，临时出租房被焚毁"
   },
   {
@@ -1326,7 +1326,7 @@
     "time_sensitive": true,
     "expires_date": "2026-04-02",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "3b995027994d",
@@ -1629,7 +1629,7 @@
     "event_id": "korat_heatstroke_emergency_2026",
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "呵叻府（Korat）举办体育赛事，球员比赛期间中暑陷入昏迷"
   },
   {
@@ -1683,7 +1683,7 @@
     "event_id": "phetchabun_fuel_scam_2026",
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "碧差汶府（Phetchabun）男子网骗预警：斥资4万购买燃油却收到满桶水"
   },
   {
@@ -1711,7 +1711,7 @@
     "added_date": "2026-03-18",
     "title_cn": "YouTube 撤下冒充 Bitkub 首席执行官的 AI 加密货币诈骗广告",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "5b1b44cbf719",
@@ -1766,7 +1766,7 @@
     "added_date": "2026-03-18",
     "title_cn": "暖武里府 Nonthaburi 一母亲举报排球教练多次殴打儿子",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "550c547583a6",
@@ -1892,7 +1892,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "20ad942c378a",
@@ -2005,7 +2005,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "e02b8b26e2b4",
@@ -2031,7 +2031,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "降雨延误芭提雅（Pattaya）铁路平行路维修，重新开放时间推迟10天"
   },
   {
@@ -2058,7 +2058,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "危急时刻！芭提雅（Pattaya）交警在按摩店救回晕倒病患获赞"
   },
   {
@@ -2254,7 +2254,7 @@
     "added_date": "2026-03-17",
     "origin": "rss",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "002e9620ed74",
@@ -2282,7 +2282,7 @@
     "added_date": "2026-03-17",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "4193b63e38b8",
@@ -2339,7 +2339,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "b5cb0c47ce15",
@@ -2366,7 +2366,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "c1fa428357cf",
@@ -2449,7 +2449,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "两名外籍游客在皮皮岛（Koh Phi Phi）酒吧行窃，偷走两瓶酒被当场抓获"
   },
   {
@@ -2475,7 +2475,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "乌隆他尼（Udon Thani）网约代步旗手因当众羞辱乘客体型遭社会谴责"
   },
   {
@@ -2529,7 +2529,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "北大年府（Pattani）爆发激烈交火，一名边境巡逻警不幸殉职"
   },
   {
@@ -2555,7 +2555,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "北榄府（Samut Prakan）一男子因救流浪猫遭修车厂老板毒打致重伤"
   },
   {
@@ -2582,7 +2582,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "外籍男子在普吉岛（Phuket）袭击女友及突突车司机"
   },
   {
@@ -2609,7 +2609,7 @@
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "沙拉武里府（Saraburi）轻型飞机坠毁，75岁飞行员受伤"
   },
   {
@@ -2821,7 +2821,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "曼谷伦披尼公园（Lumpini Park）翻新工程收获广泛好评"
   },
   {
@@ -2877,7 +2877,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "一名外籍女游客在芭提雅（Pattaya）酒店坠楼受重伤"
   },
   {
@@ -2963,7 +2963,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "023fad83718b",
@@ -3047,7 +3047,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "8c942e249a4d",
@@ -3075,7 +3075,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "08b25630f007",
@@ -3266,7 +3266,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "4360f52957f7",
@@ -3294,7 +3294,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "9a2edba9a07b",
@@ -3349,7 +3349,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "f0d0169f208d",
@@ -3377,7 +3377,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "d4c624c3990b",
@@ -3405,7 +3405,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "584d26a99684",
@@ -3463,7 +3463,7 @@
     "origin": "rss",
     "added_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "a45cce296fc6",
@@ -3696,7 +3696,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "3ca8f7b10884",
@@ -3835,7 +3835,7 @@
     "origin": "rss",
     "added_date": "2026-03-15",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "b32cff3f45b3",
@@ -3917,7 +3917,7 @@
     "origin": "rss",
     "added_date": "2026-03-15",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "45ff7c2988c6",
@@ -3944,7 +3944,7 @@
     "origin": "rss",
     "added_date": "2026-03-15",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "e5856b0316c9",
@@ -3990,7 +3990,7 @@
     "origin": "rss",
     "added_date": "2026-03-15",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "db53a7b49036",
@@ -4237,7 +4237,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "f6ee6eebad4a",
@@ -4343,7 +4343,7 @@
     "time_sensitive": false,
     "expires_date": "2026-04-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "97035e70d8a3",
@@ -4369,7 +4369,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "皮卡车为避让锥桶失控翻车撞电线杆，芭提雅（Pattaya）附近司机不幸身亡"
   },
   {
@@ -4396,7 +4396,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "芭提雅（Pattaya）整治帕塔纳克山（Pratumnak Hill）公园流浪狗引发的蜱虫瘙痒问题"
   },
   {
@@ -4450,7 +4450,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "强降雨导致梭桃邑（Sattahip）多处内涝，湿冷天气将持续至周末"
   },
   {
@@ -4561,7 +4561,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "伊朗使馆就“泰籍海员遭袭”发不当笑话引发泰国网民强烈抗议"
   },
   {
@@ -4591,7 +4591,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "曼谷 MBK 购物中心遭扫黄打非，查获 3000 万铢假货"
   },
   {
@@ -4649,7 +4649,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "0ca46353a87c",
@@ -4678,7 +4678,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "0b3b580a0147",
@@ -4734,7 +4734,7 @@
     "status": "pending",
     "title_cn": "2026年改善空气质量会议（BAQ）在曼谷探讨污染治理方案",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "3f55d3ec17ba",
@@ -4762,7 +4762,7 @@
     "status": "pending",
     "title_cn": "中国籍男子因在芭提雅（Pattaya）向青少年贩卖笑气被捕",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "cec89ec0c7cc",
@@ -4818,7 +4818,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "泰国海军证实：泰籍货船遇袭后 3 名失联船员确认幸存但暂无法接回"
   },
   {
@@ -4848,7 +4848,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "曼谷素坤逸路（Sukhumvit）爆发抗议：穆斯林团体集会抗议以色列对伊战争"
   },
   {
@@ -4876,7 +4876,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "突发！呵叻府（Korat）M6 高速公路惊现裸男拦截车辆"
   },
   {
@@ -4904,7 +4904,7 @@
     "origin": "rss",
     "added_date": "2026-03-14",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "北榄府（Samut Prakan）发生比特犬伤人案：70岁老妇在家门口遭重创"
   },
   {
@@ -4956,7 +4956,7 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "名士“坤将” Gun Jompalang 提议泰海军使用摩托艇搜救霍尔姆斯海峡失踪船员"
   },
   {
@@ -4984,7 +4984,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "芭提雅 Pattaya 华裔女性失踪案告破：遗体于叻武里府 Ratchaburi 种植园被发现"
   },
   {
@@ -5035,7 +5035,7 @@
     "time_sensitive": true,
     "expires_date": "2026-03-29",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "泰国活动家坤将对霍尔姆斯海峡失踪水手救援提出“水上摩托艇”方案"
   },
   {
@@ -5063,7 +5063,7 @@
     "expires_date": "2026-03-29",
     "origin": "rss",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "6ab48057eb27",
@@ -5430,7 +5430,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "泰国政府推行居家办公政策，交通及传媒股应声下跌"
   },
   {
@@ -5485,7 +5485,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "中东局势趋紧，近千名泰籍员工渴望回国"
   },
   {
@@ -5678,7 +5678,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "移民局警方突袭芭提雅（Pattaya）中国籍团伙：涉非法销售笑气与电子烟，缴获枪支及大量物资"
   },
   {
@@ -5732,7 +5732,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "芭提雅（Pattaya）铁路平交道口附近发生惨剧：重型机车高速追尾导致车手丧生"
   },
   {
@@ -5761,7 +5761,7 @@
     "published_issue": 8,
     "published_date": "2026-03-16",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "佛统府（Nakhon Pathom）金店遭劫：持枪蒙面贼鸣枪示威掠走350万泰铢金饰"
   },
   {
@@ -5843,7 +5843,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "芭提雅（Pattaya）官员严密监控易涝区，应对降雨引发的积水担忧"
   },
   {
@@ -5900,7 +5900,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "夏季风暴预警：芭提雅（Pattaya）将迎来雷雨及强风天气"
   },
   {
@@ -5983,7 +5983,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "4f279a887e76",
@@ -6039,7 +6039,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "da41b6a40f3c",
@@ -6066,7 +6066,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "2604d4a1d913",
@@ -6123,7 +6123,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "美籍士兵在芭提雅 (Pattaya) 袭击友人并企图袭警咬人"
   },
   {
@@ -6151,7 +6151,7 @@
     "origin": "rss",
     "added_date": "2026-03-13",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "美籍男子在春武里 (Chon Buri) 树林身亡，死前曾向妻子寄送临终视频"
   },
   {
@@ -6234,7 +6234,7 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "一美国游客在清迈（Chiang Mai）商店涉嫌盗窃被捕"
   },
   {
@@ -6261,7 +6261,7 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "一名印度籍男子被发现死于普吉岛卡利姆海滩（Kalim Beach）"
   },
   {
@@ -6288,7 +6288,7 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "德国游客在芭提雅（Pattaya）酒店9楼坠亡，疑因个人财务压力"
   },
   {
@@ -6315,7 +6315,7 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "曼谷5个月大婴儿托儿所死亡，母亲与经营者说辞不一"
   },
   {
@@ -6342,7 +6342,7 @@
     "added_date": "2026-03-13",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "罗勇府（Rayong）食客因炒饭不满大闹餐厅致店员受伤"
   },
   {
@@ -6670,7 +6670,7 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "卡塔尔领空部分关闭，泰国驻多哈 (Doha) 使馆发布安全预警"
   },
   {
@@ -6756,7 +6756,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "中泰澳联手？泰国与澳大利亚合作升级打击网络诈骗调查"
   },
   {
@@ -6812,7 +6812,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "中东冲突升级，泰国紧急疏散381名公民"
   },
   {
@@ -6840,7 +6840,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "印度航空快运客机普吉岛（Phuket）硬着陆导致起落架受损，跑道暂时关闭"
   },
   {
@@ -6866,7 +6866,7 @@
     "status": "pending",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "泰国货轮在霍尔木兹海峡（Strait of Hormuz）附近遭导弹袭击"
   },
   {
@@ -6892,7 +6892,7 @@
     "status": "pending",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "董里府（Trang）海域拍到罕见儒艮求偶画面，显示海洋生态修复成效"
   },
   {
@@ -6945,7 +6945,7 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "货船在霍尔木兹海峡（Strait of Hormuz）附近遇袭，泰国海军协调营救"
   },
   {
@@ -7029,7 +7029,7 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "芭提雅（Pattaya）突发“鹿撞”车祸，泰籍骑手与外籍游客受伤"
   },
   {
@@ -7056,7 +7056,7 @@
     "origin": "rss",
     "added_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "北大年（Pattani）近500名青少年深夜街道非法赛车"
   },
   {
@@ -7085,7 +7085,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "d3cb2ea70f2d",
@@ -7140,7 +7140,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "d437d0d4b1c1",
@@ -7167,7 +7167,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "abb0049fa78c",
@@ -7224,7 +7224,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "印度航空快运客机在普吉（Phuket）硬着陆导致跑道受阻"
   },
   {
@@ -7250,7 +7250,7 @@
     "expires_date": "2026-04-11",
     "origin": "rss",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "曼谷一外卖配送员在饮料店偷拍女摊主裙底被监控抓获"
   },
   {
@@ -7305,7 +7305,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "泰国环保署表示曼谷最严重PM2.5雾霾危机期已过"
   },
   {
@@ -7331,7 +7331,7 @@
     "expires_date": "2026-04-11",
     "origin": "rss",
     "city_tag": "#泰国",
-    "topic_tag": "#安全",
+    "topic_tag": "#治安",
     "title_cn": "男子将爱车借放给女性朋友，归还时发现车内血迹斑斑"
   },
   {
@@ -7696,7 +7696,7 @@
     "published_issue": 7,
     "published_date": "2026-03-12",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "9732838be844",
@@ -7812,7 +7812,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "c00304fc1c43",
@@ -8108,7 +8108,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "98b137440a53",
@@ -8309,7 +8309,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "ec7e7c745732",
@@ -8331,7 +8331,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "42865e4e4111",
@@ -8376,7 +8376,7 @@
     "time_sensitive": false,
     "status": "pending",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "5e345a473a51",
@@ -9339,7 +9339,7 @@
     "status": "pending",
     "desc_original": "",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "c109543cd229",
@@ -9403,7 +9403,7 @@
     "published_date": "2026-03-09",
     "desc_original": "",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "bef21b7fab07",
@@ -9422,7 +9422,7 @@
     "status": "pending",
     "desc_original": "",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "bd574bd9c6fc",
@@ -9770,7 +9770,7 @@
     "published_date": "2026-03-09",
     "desc_original": "Thailand has begun evacuating its first group of nationals from Iran, relocating diplomatic operations to eastern Turkey to support the repatriation effort.",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "c8e451017729",
@@ -9955,7 +9955,7 @@
     "desc_original": "",
     "summary_cn": "2026年3月6日下午4时，差春骚府（Chachoengsao）班珀区（Ban Pho）Cargo Chemical公司（生产稀释剂和易燃化学品）发生重大火灾，浓烟冲天、多次连环爆炸。事发初期有工人被困，消防队紧急出动扑救，周边居民被疏散，火势得到初步控制，暂无死亡报告，事故原因正在调查中。",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "fe2f6f015ca0",
@@ -10800,7 +10800,7 @@
     "published_date": "2026-03-09",
     "desc_original": "94 Vietnamese arrested in Bangkok raid linked to gambling network Legacy Police arrested 94 Vietnamese nationals during a raid on an office in a luxury condominium in Rama 9, Bangkok, yesterday, March 4, after suspicions that the site may have been linked to a call centre scam network . Officers from Makkasan Police Station, Immigration Police and the Cyber Crime Investigation Bureau searched the office, located on the first floor of the condominium in Huai Khwang district. Police said the opera",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "d4a5b0e95122",
@@ -10909,7 +10909,7 @@
     "desc_original": "Middle East airspace disruption: What you need to know about delays and reroutes Legacy The Middle East airspace situation remains highly disrupted as of March 5, 2026, with conflict-driven closures, restrictions and airline suspensions affecting key routes between Europe and Asia. The disruption extends beyond airline cancellations , as airlines, regulators, cargo operators and passengers face a fast-changing risk environment shaped by military escalation, missile and air-defence threats, and n",
     "summary_cn": "截至2026年3月5日，中东空域因武装冲突持续严重受阻，欧亚之间多条主干航线遭到关闭、限制和航空公司停飞。局势牵涉军事升级、导弹和防空威胁，影响不仅限于航班取消，还波及货运运营商和普通旅客。文章梳理最新绕道方案，并提供旅客权益保护和出行风险应对指南。",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "b2c7bd04b373",
@@ -10931,7 +10931,7 @@
     "desc_original": "Thai dancer and girlfriend arrested at Cambodia border checkpoint Legacy Cambodian officials arrested a Thai dancer and his girlfriend after they were reportedly deceived into working for a call centre scam gang. The man, 25 year old Pongsakorn “Aon” Phueanpharam, and his girlfriend , 23 year old Panadda “Dream” Chokeboonrueang, were reported missing on February 24. Aon told his family he would accompany Dream to apply for a job and attend training before she started work. The couple checked int",
     "summary_cn": "柬埔寨当局在边境关卡逮捕了一对被骗入电话诈骗园区的泰国情侣：25岁舞蹈演员蓬萨坤（Pongsakorn Phueanpharam）和23岁女友帕纳达（Panadda Chokeboonrueang）。二人于2月24日以求职为由进入柬埔寨后失联，现已被安全带回泰国，结束了诈骗园区的噩梦经历。",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "76a0e39083ff",
@@ -11314,7 +11314,7 @@
     "published_date": "2026-03-05",
     "desc_original": "Labor Minister Treenuch Thienthong announces plans for the first evacuation of Thai workers from high-risk areas in Iran, with departures scheduled via land routes to Turkey under coordinated government and private-sector arrangements. BANGKOK, Thailand – Thailand’s Labor Ministry is preparing to evacuate the first group of Thai workers from the Middle East on March 7 following regional unrest, Labor Minister Treenuch Thienthong said on Wednesday. Speaking after a meeting of the situation monito",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "15bfbab0c4db",
@@ -11358,7 +11358,7 @@
     "published_date": "2026-03-05",
     "desc_original": "",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "a2a4c4f1b027",
@@ -11403,7 +11403,7 @@
     "published_date": "2026-03-05",
     "desc_original": "Thai dancer and girlfriend deceived into working for a call centre scam gang Legacy A Thai male dancer and his girlfriend have been out of contact with their families since February 24, and were later found being deceived into working for a call centre scam gang in a neighbouring country. A complaint was filed after 65 year old Suthep Phueanpharam reported the disappearance of his nephew, 25 year old Pongsakorn “Aon” Phueanpharam, and Aon’s girlfriend, 23 year old Panadda “Dream” Chokeboonrueang",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "09869d1dfa5b",
@@ -11555,7 +11555,7 @@
     "status": "pending",
     "desc_original": "",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "722309348af0",
@@ -11595,7 +11595,7 @@
     "status": "pending",
     "desc_original": "",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "1020d4b68180",
@@ -12223,7 +12223,7 @@
     "desc_original": "Long queues at Suvarnabhumi linked to check-in malfunction Legacy A clarification was issued yesterday, March 3, after images of long Suvarnabhumi Airport queues circulated online following reports of a Thai Airways check-in problem a day earlier, March 2. The airport explained that the congestion occurred because March 2 was the first day Thai Airways switched its baggage rules to the “Piece Concept”, introducing a baggage limit based on the number of pieces passengers can check in. Photo via T",
     "summary_cn": "3月2日，苏万纳普机场（Suvarnabhumi）出现大规模值机排队，原因是泰国航空（Thai Airways）当日正式启用新行李政策「件数制」（Piece Concept），依据行李件数而非重量设定限额。新政策上线首日导致自助值机系统（CUSS）出现故障宕机，大批旅客被迫排队人工办理，引发严重拥堵。",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "2ca7bea37a31",
@@ -12245,7 +12245,7 @@
     "desc_original": "Indian jet ski rider hits Russian woman in swimming zone off Pattaya beach Legacy An Indian man rode a jet ski into a marked swimming zone at Jomtien Beach in Pattaya and hit a Russian woman on Monday, March 2, leaving the victim with head injury. Thai lifeguards brought the injured woman, 65 year old Erina, out of the sea and provided first aid on the sand at Jomtien Beach in Nong Prue, Bang Lamung, Chon Buri. The incident was reported to happen at about 11am, according to The Pattaya News. Foo",
     "summary_cn": "3月2日上午约11时，一名印度男子驾驶水上摩托（Jet Ski）闯入芭提雅朱天海滩（Jomtien Beach）标识划定的游泳安全区域，撞伤65岁俄罗斯女游客艾琳娜（Erina），造成其头部受伤。泰国救生员随即将伤者救上岸实施急救，警方已对肇事者展开调查，涉嫌违规行驶。",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "51565a721ac9",
@@ -12306,7 +12306,7 @@
     "desc_original": "Firefighters deploy water from six engines as flames engulf a sawdust storage warehouse at a timber yard in Nong Pla Lai, Banglamung late on March 2. PATTAYA, Thailand – A late-night fire tore through a wood storage warehouse in east Pattaya, prompting a major emergency response with six fire engines battling the flames for nearly an hour. At approximately 11:00 p.m. on March 2, rescue volunteers from Sawang Boriboon Thammasathan Rescue Foundation were alerted to a fire at Surapha Timber Shop, l",
     "summary_cn": "3月2日晚约11时，东芭提雅农拉来（Nong Pla Lai）邦拉蒙区（Banglamung）苏拉帕木材店（Surapha Timber Shop）一处锯末仓库突发大火，六辆消防车赶赴现场鏖战近一小时方将火势扑灭。事发时仓库存有大量木料，浓烟可见范围较广，幸无人员伤亡报告，事故原因正在调查中。",
     "city_tag": "#芭提雅",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "bb7c716ff289",
@@ -12558,7 +12558,7 @@
     "desc_original": "In Phuket Town, more than 366 CCTV cameras are linked to a central control room that operates 24 hours a day. The project aims to increase coverage throughout the city and thus enable faster detection and response to incidents.",
     "summary_cn": "普吉城（Phuket Town）已完成对366台以上闭路电视（CCTV）摄像头的联网整合，统一接入24小时运营的中央控制室，实现城区全覆盖监控。该智慧安防项目旨在大幅提升事件发现和应急响应速度，是普吉府持续推进智慧城市建设的重要组成部分。",
     "city_tag": "#泰国",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   },
   {
     "id": "aa5808753e35",
@@ -12642,6 +12642,6 @@
     "desc_original": "The aircraft will operate on Etihad’s evening daily service between Abu Dhabi’s Zayed International Airport and Bangkok Suvarnabhumi, further strengthening connectivity between Southeast Asia, the Middle East and Europe as the airline adds capacity ahead of the busy winter season · As noted, the A380 will operate on the airline’s evening flight. Timings are as follows: EY402 DEPART AUH 21:10 ARRIVE BKK 06:35+1 EY403 DEPART BKK 08:30 ARRIVE AUH 12:20 Commences 29th October 2026 Operates Daily Boo",
     "summary_cn": "阿提哈德航空（Etihad Airways）宣布，自2026年10月29日起，将在阿布扎比扎耶德国际机场（Zayed International Airport）至曼谷苏万纳普（Suvarnabhumi）每日航班上引入A380客机执飞，为每日固定班次。去程EY402于21:10从阿布扎比出发，次日06:35抵达曼谷；回程EY403于08:30从曼谷出发，12:20抵达阿布扎比，进一步强化东南亚、中东与欧洲之间的航空连接。",
     "city_tag": "#曼谷",
-    "topic_tag": "#安全"
+    "topic_tag": "#治安"
   }
 ]

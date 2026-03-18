@@ -8,7 +8,7 @@ Usage:
   python3 dedup.py --input <filtered.json> --pool <pool-excerpt.json> --output <deduped.json>
 
 After dedup, applies per-topic limits (sorted by relevance_score desc):
-  一级 topic (#时政 #经济 #安全 #旅居 #社会): 最多5条
+  一级 topic (#时政 #经济 #治安 #旅居 #社会): 最多5条
   二级 topic (#房产 #科技 #中泰 #健康): 最多3条
 """
 
@@ -33,7 +33,7 @@ MAX_RETRIES = 2
 TOPIC_LIMITS = {
     "#时政": 5,
     "#经济": 5,
-    "#安全": 5,
+    "#治安": 5,
     "#旅居": 5,
     "#社会": 5,
     "#房产": 3,
