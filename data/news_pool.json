@@ -19,10 +19,12 @@
     "origin": "rss",
     "added_date": "2026-03-19",
     "event_id": "thailand_living_cost_crisis_2026",
-    "status": "pending",
+    "status": "published",
     "time_sensitive": false,
     "expires_date": "2026-04-18",
-    "title_cn": "民众呼吁泰国政府采取行动应对生活成本上涨"
+    "title_cn": "民众呼吁泰国政府采取行动应对生活成本上涨",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "16118ae39d74",
@@ -44,10 +46,12 @@
     "origin": "rss",
     "added_date": "2026-03-19",
     "event_id": "thailand_pm_vote_march_2026",
-    "status": "pending",
+    "status": "published",
     "time_sensitive": true,
     "expires_date": "2026-04-03",
-    "title_cn": "众议院议长（Speaker）称总理选举投票将顺利进行"
+    "title_cn": "众议院议长（Speaker）称总理选举投票将顺利进行",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "83d43dd7824c",
@@ -69,10 +73,12 @@
     "origin": "rss",
     "added_date": "2026-03-19",
     "event_id": "thailand_zero_dollar_tour_crackdown_2026",
-    "status": "pending",
+    "status": "published",
     "time_sensitive": false,
     "expires_date": "2026-04-18",
-    "title_cn": "内阁严查非法旅游经营及“零元团”代持行为"
+    "title_cn": "内阁严查非法旅游经营及“零元团”代持行为",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "c1d44f25d88a",
@@ -94,10 +100,12 @@
     "origin": "rss",
     "added_date": "2026-03-19",
     "event_id": "thailand_transport_fare_cap_2026",
-    "status": "pending",
+    "status": "published",
     "time_sensitive": true,
     "expires_date": "2026-04-03",
-    "title_cn": "泰国交通部要求维持现行票价以减轻民生负担"
+    "title_cn": "泰国交通部要求维持现行票价以减轻民生负担",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "7b0488e22a8f",
@@ -119,10 +127,12 @@
     "origin": "rss",
     "added_date": "2026-03-19",
     "event_id": "bangkok_education_policy_protest_2026",
-    "status": "pending",
+    "status": "published",
     "time_sensitive": false,
     "expires_date": "2026-04-18",
-    "title_cn": "活动家在曼谷（Bangkok）向教育部递交请愿书，反对招收非泰籍学生政策"
+    "title_cn": "活动家在曼谷（Bangkok）向教育部递交请愿书，反对招收非泰籍学生政策",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "86387a044926",
@@ -170,9 +180,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-18",
     "event_id": "thai_monks_viral_speedboat_2026_03",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "cada3d5e2f2a",
@@ -245,9 +257,11 @@
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "event_id": "thailand_fuel_tax_cut_policy_2026_03",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "cb333757d6f7",
@@ -268,11 +282,13 @@
     "tags": [],
     "origin": "rss",
     "event_id": "thailand_ssf_risk_reform_2026_03",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
     "time_sensitive": false,
     "expires_date": "2026-04-18",
-    "title_cn": "泰国社会保障基金（SSF）触及风险上限，高管呼吁紧急改革"
+    "title_cn": "泰国社会保障基金（SSF）触及风险上限，高管呼吁紧急改革",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "ed73356aed46",
@@ -318,11 +334,13 @@
     "tags": [],
     "origin": "rss",
     "event_id": "thailand_boi_investment_relocation_2026_03",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
     "time_sensitive": false,
     "expires_date": "2026-04-18",
-    "title_cn": "地缘冲突加剧生产基地外移，泰国投资促进委员会（BoI）拟吸引全球产业链"
+    "title_cn": "地缘冲突加剧生产基地外移，泰国投资促进委员会（BoI）拟吸引全球产业链",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "bc46dc6cde57",
@@ -368,11 +386,13 @@
     "tags": [],
     "origin": "rss",
     "event_id": "kanchanaburi_scam_arrest_2026_03",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
     "time_sensitive": false,
     "expires_date": "2026-04-18",
-    "title_cn": "北碧府（Kanchanaburi）逮捕10名嫌疑人，涉嫌前往缅甸电诈园区"
+    "title_cn": "北碧府（Kanchanaburi）逮捕10名嫌疑人，涉嫌前往缅甸电诈园区",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "d897aeabd916",
@@ -396,9 +416,11 @@
     "time_sensitive": false,
     "expires_date": "2026-04-18",
     "event_id": "thailand_fraud_trafficking_warning_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "title_cn": "泰国警示：网络诈骗与人口贩运深度挂钩"
+    "title_cn": "泰国警示：网络诈骗与人口贩运深度挂钩",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "bd5af1fe97b8",
@@ -500,9 +522,11 @@
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "event_id": "bangkok_earth_hour_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "title_cn": "曼谷号召居民参与 3 月 28 日“地球一小时”熄灯活动"
+    "title_cn": "曼谷号召居民参与 3 月 28 日“地球一小时”熄灯活动",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "0703634061b1",
@@ -569,12 +593,14 @@
     "relevance_score": 1.0,
     "tags": [],
     "event_id": "thailand_medical_supply_stock_update_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "url": "https://www.bangkokpost.com/thailand/general/3219338/necessary-drugs-medical-supplies-enough-for-three-months",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "e6495d754f39",
@@ -593,12 +619,14 @@
     "relevance_score": 0.95,
     "tags": [],
     "event_id": "chinese_fugitive_arrest_khonkaen_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "url": "https://www.khaosodenglish.com/news/2026/03/18/chinese-fugitive-held-in-thailand-over-500m baht-fraud/",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "a628f654af9f",
@@ -621,9 +649,11 @@
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "event_id": "thailand_commerce_price_control_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "title_cn": "泰国商务部（Ministry of Commerce）拟调整价格管制清单以稳定物价"
+    "title_cn": "泰国商务部（Ministry of Commerce）拟调整价格管制清单以稳定物价",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "0e6e5a29f175",
@@ -646,9 +676,11 @@
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "event_id": "thailand_ride_hailing_fuel_price_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "title_cn": "Grab与Bolt应对油价上涨，正积极调整运营策略"
+    "title_cn": "Grab与Bolt应对油价上涨，正积极调整运营策略",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "2f72e5c2bc42",
@@ -671,9 +703,11 @@
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "event_id": "pattaya_diesel_price_stabilize_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "title_cn": "泰政府冻结柴油价格，力求稳定芭提雅（Pattaya）旅游消费"
+    "title_cn": "泰政府冻结柴油价格，力求稳定芭提雅（Pattaya）旅游消费",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "4c7283a44887",
@@ -721,9 +755,11 @@
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "event_id": "pattaya_storm_warning_2026_03",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "title_cn": "乌云笼罩芭提雅海湾，当地部门发布连续雷雨预警"
+    "title_cn": "乌云笼罩芭提雅海湾，当地部门发布连续雷雨预警",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "d2dcee6cc834",
@@ -746,9 +782,11 @@
     "time_sensitive": true,
     "expires_date": "2026-04-03",
     "event_id": "pattaya_sukhumvit_road_upgrade_2026_03",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-19",
-    "origin": "rss"
+    "origin": "rss",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "ea37a7a285df",
@@ -795,11 +833,13 @@
     "time_sensitive": true,
     "expires_date": "2026-04-02",
     "event_id": "thailand_election_ballot_codes_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#时政"
+    "topic_tag": "#时政",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "684efd90dae5",
@@ -850,11 +890,13 @@
     "time_sensitive": true,
     "expires_date": "2026-04-02",
     "event_id": "thailand_middle_east_flight_cancellation_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#治安"
+    "topic_tag": "#治安",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "39f642b8e320",
@@ -905,11 +947,13 @@
     "time_sensitive": false,
     "expires_date": "2026-04-17",
     "event_id": "bangkok_rape_case_fake_helper_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#曼谷",
-    "topic_tag": "#治安"
+    "topic_tag": "#治安",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "61744247cae5",
@@ -1145,12 +1189,14 @@
     "time_sensitive": false,
     "expires_date": "2026-04-17",
     "event_id": "thailand_condo_theft_nakhon_ratchasima_2026_03",
-    "status": "pending",
+    "status": "published",
     "url": "https://thethaiger.com/news/national/influencer-questions-condo-security-after-heavy-safe-with-gold-bar-missing",
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#泰国",
-    "topic_tag": "#治安"
+    "topic_tag": "#治安",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "9f4e6998c12d",
@@ -1388,12 +1434,14 @@
     "time_sensitive": false,
     "expires_date": "2026-04-17",
     "event_id": "jomtien_knife_man_incident_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
     "added_date": "2026-03-18",
     "city_tag": "#芭提雅",
     "topic_tag": "#治安",
-    "title_cn": "中天海滩（Jomtien）持刀男子疑似毒驾受惊，警方迅速抓捕"
+    "title_cn": "中天海滩（Jomtien）持刀男子疑似毒驾受惊，警方迅速抓捕",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "88285e61a965",
@@ -1614,13 +1662,15 @@
     "time_sensitive": true,
     "expires_date": "2026-04-02",
     "event_id": "songkran_hot_destinations_2026",
-    "status": "pending",
+    "status": "published",
     "added_date": "2026-03-18",
     "source": "Thailand fireworks Songkran New Year cel",
     "origin": "brave",
     "url": "https://www.timeout.com/bangkok/news/traveloka-thailands-top-songkran-travel-picks-031326",
     "city_tag": "#芭提雅",
-    "topic_tag": "#旅居"
+    "topic_tag": "#旅居",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "7d02fb891423",
@@ -1909,12 +1959,14 @@
     "time_sensitive": true,
     "expires_date": "2026-04-02",
     "event_id": "thailand_airline_relief_request_2026",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
     "added_date": "2026-03-18",
     "title_cn": "泰国航空业成本激增，航空协会 AAT 寻求政府救济",
     "city_tag": "#泰国",
-    "topic_tag": "#经济"
+    "topic_tag": "#经济",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "4f21adc9fd90",
@@ -2176,11 +2228,13 @@
     "time_sensitive": true,
     "expires_date": "2026-04-01",
     "event_id": "bangkok_cooling_centers_2026_03",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#曼谷",
-    "topic_tag": "#治安"
+    "topic_tag": "#治安",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "e02b8b26e2b4",
@@ -2257,12 +2311,14 @@
     "time_sensitive": true,
     "expires_date": "2026-04-01",
     "event_id": "pattaya_walking_street_clash_2026_03",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#芭提雅",
     "topic_tag": "#旅居",
-    "title_cn": "芭提雅（Pattaya）步行街惊现外籍劳工持刀滋事，游客惊荒逃离"
+    "title_cn": "芭提雅（Pattaya）步行街惊现外籍劳工持刀滋事，游客惊荒逃离",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "1408db8117b1",
@@ -2594,11 +2650,13 @@
     "time_sensitive": false,
     "expires_date": "2026-04-16",
     "event_id": "thailand_foreign_landlord_legal_2026_03",
-    "status": "pending",
+    "status": "published",
     "origin": "rss",
     "added_date": "2026-03-17",
     "city_tag": "#泰国",
-    "topic_tag": "#房产"
+    "topic_tag": "#房产",
+    "published_issue": 9,
+    "published_date": "2026-03-19"
   },
   {
     "id": "c27e747a9e4b",
