@@ -152,7 +152,7 @@ cp data/news_pool.json data/news_pool.bak.json
 合并新条目：
 
 ```bash
-python3 /Users/Ade/.openclaw/workspace/bangkok-news/experiment/scripts/pool_merge.py \
+python3 /Users/Ade/.openclaw/workspace/bangkok-news/scripts/pool_merge.py \
   --new-items data/issues/TODAY-translated.json \
   --pool data/news_pool.json \
   --out data/news_pool.json \
