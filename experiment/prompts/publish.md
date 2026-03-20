@@ -178,7 +178,7 @@ git push origin main
 
 ## 注意事项
 - **⚠️ 不得调用 web_search**，所有选编原料只能来自 news_pool.json + buffer.json
-- 若 news_pool.json 完全为空（ingest cron 从未运行），则一次性运行 fetch_rss.py + fetch_brave.py 兜底，并将结果临时处理入库后再选编
+- 若 news_pool.json 完全为空，跳过本次发布，输出错误提示，不尝试临时抓取兜底
 - GitHub Pages URL格式：`https://jiuting6.github.io/bangkok-news/...`
 - JSON 字符串内英文双引号必须转义为 `\"`，或改用中文引号「」/""
 - 空板块不显示，不为填充板块降低编辑标准
