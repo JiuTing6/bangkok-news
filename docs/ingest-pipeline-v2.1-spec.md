@@ -139,7 +139,7 @@ GitHub Pages → newsroom.html（动态加载展示）
 
 ### Pool Merge（pool_merge.py）
 
-**脚本：** `experiment/scripts/pool_merge.py`
+**脚本：** `scripts/pool_merge.py`
 
 - 去重检查（URL hash），避免二次入库
 - 将新条目追加写入 `data/news_pool.json`
@@ -237,10 +237,10 @@ GitHub Pages → newsroom.html（动态加载展示）
 
 | 文件 | 用途 |
 |---|---|
-| `experiment/prompts/orchestrator.md` | Ingest 总控（haiku 执行） |
-| `experiment/prompts/filter_agent.md` | Layer 1 过滤规则（仅参考，实际由 filter.py 内嵌 prompt） |
-| `experiment/prompts/dedup_agent.md` | Layer 2 去重规则（仅参考，实际由 dedup.py 内嵌 prompt） |
-| `experiment/prompts/publish.md` | Publish 总控（haiku 执行） |
+| `prompts/orchestrator.md` | Ingest 总控（haiku 执行） |
+| `prompts/filter_agent.md` | Layer 1 过滤规则（仅参考，实际由 filter.py 内嵌 prompt） |
+| `prompts/dedup_agent.md` | Layer 2 去重规则（仅参考，实际由 dedup.py 内嵌 prompt） |
+| `prompts/publish.md` | Publish 总控（haiku 执行） |
 
 **注：** filter/dedup/translate 的实际 system prompt 内嵌于对应 Python 脚本中，agent prompt 文件为设计参考。
 
