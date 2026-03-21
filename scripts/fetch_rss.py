@@ -43,56 +43,53 @@ RSS_SOURCES = [
     {
         "id": "bangkokpost_top",
         "name": "Bangkok Post",
-        "url": "https://www.bangkokpost.com/rss/data/topstories.xml",
-        "weight": 5
+        "url": "https://www.bangkokpost.com/rss/data/topstories.xml"
     },
     {
         "id": "bangkokpost_property",
         "name": "Bangkok Post Property",
-        "url": "https://www.bangkokpost.com/rss/data/property.xml",
-        "weight": 5
+        "url": "https://www.bangkokpost.com/rss/data/property.xml"
     },
     {
         "id": "bangkokpost_thailand",
         "name": "Bangkok Post Thailand",
-        "url": "https://www.bangkokpost.com/rss/data/thailand.xml",
-        "weight": 5
+        "url": "https://www.bangkokpost.com/rss/data/thailand.xml"
     },
     {
         "id": "bangkokpost_business",
         "name": "Bangkok Post Business",
-        "url": "https://www.bangkokpost.com/rss/data/business.xml",
-        "weight": 5
+        "url": "https://www.bangkokpost.com/rss/data/business.xml"
     },
     {
         "id": "bangkokpost_life",
         "name": "Bangkok Post Life",
-        "url": "https://www.bangkokpost.com/rss/data/life.xml",
-        "weight": 4
+        "url": "https://www.bangkokpost.com/rss/data/life.xml"
     },
     {
         "id": "thaiger",
         "name": "The Thaiger",
-        "url": "https://thethaiger.com/feed",
-        "weight": 4
+        "url": "https://thethaiger.com/feed"
     },
     {
         "id": "thaiger_bangkok",
         "name": "The Thaiger Bangkok",
-        "url": "https://thethaiger.com/news/bangkok/feed",
-        "weight": 5
+        "url": "https://thethaiger.com/news/bangkok/feed"
     },
     {
         "id": "khaosod",
         "name": "Khaosod English",
-        "url": "https://www.khaosodenglish.com/feed/",
-        "weight": 4
+        "url": "https://www.khaosodenglish.com/feed/"
     },
     {
         "id": "pattaya_mail",
         "name": "Pattaya Mail",
-        "url": "https://www.pattayamail.com/feed",
-        "weight": 4
+        "url": "https://www.pattayamail.com/feed"
+    },
+    {
+        "id": "thaiheadlines",
+        "name": "泰国头条新闻",
+        "url": "https://www.thaiheadlines.com/feed/",
+        "lang": "zh"
     }
 ]
 
@@ -176,7 +173,7 @@ def fetch_rss(source):
                 "id":      make_hash(title, link),
                 "source":  source["name"],
                 "source_id": source["id"],
-                "weight":  source["weight"],
+                "lang":    source.get("lang", "en"),
                 "title":   title,
                 "url":     link,
                 "date":    pub_date.isoformat() if pub_date else "",
