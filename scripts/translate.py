@@ -13,6 +13,8 @@ import json
 import sys
 import urllib.request
 import urllib.error
+import socket
+import time
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -137,18 +139,25 @@ def call_api(key: str, items: list, added_date: str, attempt: int = 1) -> list:
     )
 
     try:
-        with urllib.request.urlopen(req, timeout=120) as resp:
+        with urllib.request.urlopen(req, timeout=30) as resp:
             result = json.loads(resp.read())
     except urllib.error.HTTPError as e:
         body = e.read().decode()
         sys.exit(f"❌ API error {e.code}: {body}")
+    except (urllib.error.URLError, socket.timeout, TimeoutError) as e:
+        if attempt <= MAX_RETRIES:
+            print(f"⚠️  Network timeout/error (attempt {attempt}), retrying in 5s... {e}")
+            time.sleep(5)
+            return call_api(key, items, added_date, attempt + 1)
+        sys.exit(f"❌ Network error after {attempt} attempts: {e}")
 
     content = result["choices"][0]["message"]["content"]
     try:
         parsed = json.loads(content)
     except json.JSONDecodeError as e:
         if attempt <= MAX_RETRIES:
-            print(f"⚠️  JSON parse error (attempt {attempt}), retrying... {e}")
+            print(f"⚠️  JSON parse error (attempt {attempt}), retrying in 5s... {e}")
+            time.sleep(5)
             return call_api(key, items, added_date, attempt + 1)
         sys.exit(f"❌ JSON parse error after {attempt} attempts: {e}\nRaw: {content[:500]}")
 
