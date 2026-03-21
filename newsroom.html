@@ -69,7 +69,7 @@
       padding: 8px 14px;
       border: 1px solid var(--border);
       border-radius: 6px;
-      font-size: 14px;
+      font-size: 15px;
       font-family: var(--font-ui);
       background: var(--bg);
       outline: none;
@@ -78,7 +78,7 @@
     .nr-search:focus { border-color: var(--primary); background: #fff; }
     .nr-count {
       font-family: var(--font-ui);
-      font-size: 13px;
+      font-size: 14px;
       color: var(--text-muted);
       white-space: nowrap;
     }
@@ -111,11 +111,11 @@
     }
     .nr-filter-tags::-webkit-scrollbar { display: none; }
     .tag-btn {
-      padding: 4px 11px;
+      padding: 5px 12px;
       border-radius: 14px;
       border: 1px solid var(--border);
       background: #fff;
-      font-size: 12px;
+      font-size: 13px;
       font-family: var(--font-ui);
       cursor: pointer;
       color: var(--text-muted);
@@ -183,7 +183,7 @@
       align-items: center;
       gap: 8px;
       font-family: var(--font-ui);
-      font-size: 11px;
+      font-size: 12px;
       color: var(--text-muted);
     }
     .nr-card-source {
@@ -193,23 +193,23 @@
     .nr-card-importance {
       padding: 1px 6px;
       border-radius: 4px;
-      font-size: 10px;
+      font-size: 11px;
       font-weight: 700;
     }
     .imp-P1 { background: #fee; color: var(--accent); }
     .imp-P2 { background: #fef5e7; color: #e67e22; }
     .imp-P3 { background: #f0f8f0; color: #27ae60; }
     .nr-card-title {
-      font-size: 15px;
+      font-size: 16px;
       font-weight: 700;
       font-family: var(--font-ui);
       line-height: 1.4;
       color: var(--text);
     }
     .nr-card-summary {
-      font-size: 13px;
+      font-size: 14px;
       color: var(--text-muted);
-      line-height: 1.6;
+      line-height: 1.65;
       font-family: var(--font-ui);
       display: -webkit-box;
       -webkit-line-clamp: 4;
@@ -223,11 +223,11 @@
       margin-top: 4px;
     }
     .nr-card-tag {
-      font-size: 10px;
+      font-size: 11px;
       font-family: var(--font-ui);
       color: var(--text-muted);
       background: var(--tag-bg);
-      padding: 2px 8px;
+      padding: 2px 9px;
       border-radius: 10px;
       border: 1px solid var(--border);
     }
@@ -281,7 +281,7 @@
       gap: 12px;
     }
     .modal-title {
-      font-size: 17px;
+      font-size: 19px;
       font-weight: 700;
       font-family: var(--font-ui);
       line-height: 1.4;
@@ -303,7 +303,7 @@
     }
     .modal-meta {
       font-family: var(--font-ui);
-      font-size: 12px;
+      font-size: 13px;
       color: var(--text-muted);
       margin-bottom: 14px;
       display: flex;
@@ -311,15 +311,15 @@
       flex-wrap: wrap;
     }
     .modal-summary {
-      font-size: 15px;
-      line-height: 1.75;
+      font-size: 16px;
+      line-height: 1.8;
       font-family: var(--font-ui);
       color: var(--text);
       margin-bottom: 16px;
     }
     .modal-desc {
-      font-size: 13px;
-      line-height: 1.65;
+      font-size: 14px;
+      line-height: 1.7;
       color: var(--text-muted);
       font-family: var(--font-ui);
       border-top: 1px solid var(--border);
@@ -333,34 +333,43 @@
       margin-bottom: 18px;
     }
     .modal-tag {
-      font-size: 11px;
+      font-size: 12px;
       font-family: var(--font-ui);
       color: var(--text-muted);
       background: var(--tag-bg);
-      padding: 2px 9px;
+      padding: 2px 10px;
       border-radius: 12px;
       border: 1px solid var(--border);
     }
     .modal-link {
       display: inline-block;
-      padding: 9px 20px;
+      padding: 10px 22px;
       background: var(--primary);
       color: #fff;
       text-decoration: none;
       border-radius: 6px;
       font-family: var(--font-ui);
-      font-size: 13px;
+      font-size: 14px;
       font-weight: 600;
       transition: background .2s;
     }
     .modal-link:hover { background: #003d9e; }
+
+    @media (min-width: 1280px) {
+      .nr-card-title { font-size: 17px; }
+      .nr-card-summary { font-size: 15px; }
+      .nr-search { font-size: 16px; }
+      .modal-title { font-size: 20px; }
+      .modal-summary { font-size: 17px; }
+      .modal-desc { font-size: 15px; }
+    }
 
     @media (max-width: 600px) {
       .nr-grid { grid-template-columns: 1fr; padding: 12px 12px 40px; }
       .nr-header-inner { flex-direction: column; align-items: flex-start; }
       .nr-meta { text-align: left; }
       .nr-card-title { font-size: 17px; }
-      .nr-card-summary { font-size: 17px; }
+      .nr-card-summary { font-size: 15px; }
       .modal-title { font-size: 17px; }
       .modal-summary { font-size: 17px; }
     }
