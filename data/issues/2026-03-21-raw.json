@@ -1,0 +1,795 @@
+{
+  "fetched_at": "2026-03-21T03:21:07.535756+00:00",
+  "days_back": 2,
+  "start_date": "2026-03-20",
+  "end_date": "2026-03-21",
+  "total": 61,
+  "items": [
+    {
+      "id": "8ac89a380500",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "EC under the microscope",
+      "url": "https://www.bangkokpost.com/thailand/politics/3221360/ec-under-the-microscope",
+      "date": "2026-03-21T09:45:00+07:00",
+      "desc": "Allegations of irregularities in the handling of the general election by the Election Commission (EC) have drawn widespread attention in the country&rsquo;s unfolding constitutional debate.",
+      "tags": []
+    },
+    {
+      "id": "498537fa0eab",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "weight": 5,
+      "title": "Tourism meets culture",
+      "url": "https://www.bangkokpost.com/thailand/general/3221345/tourism-meets-culture",
+      "date": "2026-03-21T06:22:00+07:00",
+      "desc": "A proposal to merge Thailand's culture and tourism portfolios to strengthen the country's cultural \"soft power\" could boost high-value tourism, but bureaucratic reform and greater private-sector involvement will be crucial for the strategy to succeed, according to a former tourism minister.",
+      "tags": []
+    },
+    {
+      "id": "2cdf359e9033",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Coal units restarted to curb electricity costs",
+      "url": "https://www.bangkokpost.com/business/general/3221035/coal-units-restarted-to-curb-electricity-costs",
+      "date": "2026-03-21T06:03:00+07:00",
+      "desc": "The Energy Regulatory Commission (ERC) has ordered the restart of two decommissioned units at the Mae Moh coal-fired power plant in a bid to contain rising electricity bills.",
+      "tags": []
+    },
+    {
+      "id": "1a37b4490db1",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Rising fuel costs force fishing fleets to dock",
+      "url": "https://www.bangkokpost.com/thailand/general/3221285/rising-fuel-costs-force-fishing-fleets-to-dock",
+      "date": "2026-03-21T05:52:00+07:00",
+      "desc": "Fishing fleets nationwide are halting operations as surging fuel prices and shortages push costs beyond sustainable levels.",
+      "tags": []
+    },
+    {
+      "id": "4a5834e55758",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "weight": 5,
+      "title": "Ex-MPs 'guilty' in ethical cases",
+      "url": "https://www.bangkokpost.com/thailand/politics/3221110/exmps-guilty-in-ethical-cases",
+      "date": "2026-03-21T05:43:00+07:00",
+      "desc": "The National Anti-Corruption Commission (NACC) has found two former MPs guilty of serious ethical breaches in separate gambling and land cases.",
+      "tags": []
+    },
+    {
+      "id": "7af211453461",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Fuel frustration mounts",
+      "url": "https://www.bangkokpost.com/thailand/general/3220920/fuel-frustration-mounts",
+      "date": "2026-03-21T05:35:00+07:00",
+      "desc": "Public frustration is mounting across Thailand over restricted access to fuel, despite repeated government assurances that national reserves remain ample.",
+      "tags": []
+    },
+    {
+      "id": "aabc5f9b171d",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "weight": 5,
+      "title": "Thailand seeks Iran's help for safety of seafarers",
+      "url": "https://www.bangkokpost.com/thailand/general/3221010/thailand-seeks-irans-help-for-safety-of-seafarers",
+      "date": "2026-03-21T05:25:00+07:00",
+      "desc": "Thailand has asked Iran to assist three Thai crew members aboard the Mayuree Naree and to ensure the safe passage of Thai merchant ships through the Strait of Hormuz, amidst escalating conflict in the Middle East.",
+      "tags": []
+    },
+    {
+      "id": "279a7593b7fd",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Getting a handle on the oil confusion",
+      "url": "https://www.bangkokpost.com/business/general/3221290/getting-a-handle-on-the-oil-confusion",
+      "date": "2026-03-21T05:22:00+07:00",
+      "desc": "An oil shortage at some petrol stations over the past week raised doubts as it contradicts the government's assurances of a stable fuel supply.",
+      "tags": []
+    },
+    {
+      "id": "99383dc918d2",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "weight": 5,
+      "title": "Mideast conflict threatens Thai growth",
+      "url": "https://www.bangkokpost.com/business/general/3221095/mideast-conflict-threatens-thai-growth",
+      "date": "2026-03-21T05:09:00+07:00",
+      "desc": "The Bank of Thailand is warning the war in the Middle East could weigh on Thailand's economy across multiple fronts, potentially dragging GDP growth below its 2% forecast for this year.",
+      "tags": []
+    },
+    {
+      "id": "3caa9151b7b8",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Tourism groups eye B15bn stimulus",
+      "url": "https://www.bangkokpost.com/business/general/3221030/tourism-groups-eye-b15bn-stimulus",
+      "date": "2026-03-21T05:00:00+07:00",
+      "desc": "Seven tourism associations under the Federation of Thai Tourism Associations (Fetta) have called for stimulus projects worth a combined 15 billion baht, including cash handouts to local tourists, to prevent an industry downturn due to the Gulf war.",
+      "tags": []
+    },
+    {
+      "id": "79a08ed47af1",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Motorists say ‘Price doesn’t matter, just let us fill up’ as fuel queues stretch in Sri Racha",
+      "url": "https://www.pattayamail.com/news/motorists-say-price-doesnt-matter-just-let-us-fill-up-as-fuel-queues-stretch-in-sri-racha-540122",
+      "date": "2026-03-21T03:20:15+00:00",
+      "desc": "Motorists line up for more than a kilometer to refill their tanks at a Thai Oil fuel station in Sri Racha, Chonburi, after word spread that the station was allowing fuel purchases without strict limits. PATTAYA, Thailand – Long lines of motorists stretched for more than a kilometer outside a fuel station operated by Thai Oil in Sri Racha on March 20, as drivers rushed to refill their tanks after learning the station was allowing fuel purchases without strict limits. The station, located in front of the Thai Oil Refinery in Thung Sukhla, saw heavy traffic from early morning as residents and tra",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "d26c983db2fc",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Clash among transgender groups over missing phone draws crowds of tourists at Walking Street Pattaya",
+      "url": "https://www.pattayamail.com/news/clash-among-transgender-groups-over-missing-phone-draws-crowds-of-tourists-at-walking-street-pattaya-540117",
+      "date": "2026-03-21T03:16:48+00:00",
+      "desc": "Two groups of transgender individuals confront each other near the entrance of Walking Street Pattaya early on March 20 over a dispute involving a missing mobile phone. PATTAYA, Thailand – Tensions flared early Thursday morning when two groups of transgender individuals gathered to settle a dispute over a missing mobile phone near the entrance to Walking Street Pattaya in Pattaya, attracting a large crowd of curious tourists. At around 3:30 a.m. on March 20, reporters were alerted by motorcycle taxi drivers stationed near the popular nightlife area in South Pattaya that more than 30 transgende",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "0c40a0b5510f",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Foreign man found naked and shouting on Phra Tamnak Road in Pattaya, police seek to identify relatives",
+      "url": "https://www.pattayamail.com/news/foreign-man-found-naked-and-shouting-on-phra-tamnak-road-in-pattaya-police-seek-to-identify-relatives-540112",
+      "date": "2026-03-21T03:11:31+00:00",
+      "desc": "Authorities detain a foreign man found walking naked and shouting along Phra Tamnak Road in Pattaya early on March 20. PATTAYA, Thailand – A late-night disturbance in Pattaya caused alarm among residents after a foreign man was found walking naked and shouting along a roadside before authorities stepped in to detain him. At around 1:00 a.m. on March 20, officers from the Tourist Police Bureau together with municipal enforcement officers from Pattaya City responded to reports of a foreign man behaving erratically along Phra Tamnak Road near the entrance of Soi Phra Tamnak 5 heading toward the P",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "43b6e4b25fd9",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "German tourist injured after falling from songthaew on Pattaya Beach Road",
+      "url": "https://www.pattayamail.com/news/german-tourist-injured-after-falling-from-songthaew-on-pattaya-beach-road-540103",
+      "date": "2026-03-21T03:05:21+00:00",
+      "desc": "A female tourist from Germany receives first aid after reportedly falling from a songthaew on Pattaya Beach Road on March 20. PATTAYA, Thailand – A female tourist from Germany was injured after reportedly falling from a songthaew (shared pickup taxi or baht-bus) along Pattaya Beach Road on March 20, causing alarm among people at the scene. The incident occurred along the busy beachfront road, where the tourist reportedly lost her balance and fell from the vehicle. Witnesses said she suffered a leg injury that appeared visibly deformed, prompting immediate concern from bystanders. Officers from",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "5cc112969087",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Pattaya reviews city development plan, sets long-term vision for quality urban growth",
+      "url": "https://www.pattayamail.com/news/pattaya-reviews-city-development-plan-sets-long-term-vision-for-quality-urban-growth-540100",
+      "date": "2026-03-21T03:01:46+00:00",
+      "desc": "Deputy Mayor Manot Nongyai chairs a Pattaya City Development Committee meeting at City Hall on March 19 to review revisions to the city’s development plan and outline long-term strategies for the future of Pattaya. PATTAYA, Thailand – City officials in Pattaya have moved forward with reviewing the city’s development strategy as part of efforts to strengthen long-term planning and guide the city toward sustainable growth and improved quality of life. The meeting of the Pattaya City Development Committee was held on March 19 and chaired by Deputy Mayor Manot Nongyai. City executives, members of ",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "46cca98852c2",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Viral clip shows tourist threatened, robbed in Patong",
+      "url": "https://www.khaosodenglish.com/news/2026/03/21/viral-clip-shows-tourist-threatened-robbed-in-patong/",
+      "date": "2026-03-21T02:53:44+00:00",
+      "desc": "PHUKET — 21 March 2026, A CCTV clip showing a foreign tourist being threatened and assaulted before having his cash stolen in Patong has been widely shared on social media, raising fresh safety concerns in one of Thailand’s busiest nightlife areas. The footage, posted by the Facebook page Phuket Times reportedly shows an incident that took place at 05:12 on 19 March near Soi Bangla’s seafood market in Patong, Kathu district. In the video, a male tourist is seen withdrawing money from an ATM while a Thai man stands behind him. Two more men then approach, forming a group of three. The suspects a",
+      "tags": [
+        "Crime",
+        "News",
+        "Phuket"
+      ]
+    },
+    {
+      "id": "0cc6d621b0be",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Severe weather warning issued for 40 Thai provinces",
+      "url": "https://thethaiger.com/news/national/severe-weather-warning-issued-for-40-thai-provinces",
+      "date": "2026-03-21T02:45:46+00:00",
+      "desc": "Severe weather warning issued for 40 Thai provinces Legacy Thailand&#8217;s Meteorological Department has warned of severe weather tomorrow, with thunderstorms, hail, and strong winds forecast across 40 provinces, with the northeast among the worst-affected regions. Over the next 24 hours, the upper part of Thailand will experience hot daytime weather. Rainfall is set to increase in the northeast and east, with thunderstorms, strong winds, and occasional hail forecast for the lower north, northeast, central, and eastern areas. The unsettled conditions are driven by a low-pressure heat system o",
+      "tags": [
+        "Thailand News",
+        "Thailand Weather Updates"
+      ]
+    },
+    {
+      "id": "5c2b7c5b9622",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Man punches another over urination on Pattaya street, drawing calls for public respect",
+      "url": "https://www.pattayamail.com/news/man-punches-another-over-urination-on-pattaya-street-drawing-calls-for-public-respect-540078",
+      "date": "2026-03-21T02:40:03+00:00",
+      "desc": "A man wearing a white shirt lies on the road after being punched during a street confrontation in Pattaya on March 20, following an argument reportedly linked to alleged public urination in front of women and children. PATTAYA, Thailand – A street confrontation in the tourist city of Pattaya has triggered a heated debate online after a viral video showed a man punching another man to the ground following an argument over alleged inappropriate behavior in public. On March 20, a video clip posted by the Facebook page Jae Moi V+ quickly spread across social media. The footage shows a man with fri",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "09024dccacce",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Finland the world’s happiest country nine years running with insights for Thailand",
+      "url": "https://www.pattayamail.com/news/finland-the-worlds-happiest-country-nine-years-running-with-insights-for-thailand-540072",
+      "date": "2026-03-21T02:32:39+00:00",
+      "desc": "People relax at a public park in Helsinki, Finland, reflecting the country’s emphasis on well-being, social support, and life balance. PATTAYA, Thailand – Finland has been named the happiest country in the world for the ninth consecutive year, according to the World Happiness Report 2026, which evaluates 147 countries and regions. The rankings consider factors such as GDP per capita, social support, healthy life expectancy, freedom, generosity, perceptions of corruption, and social tolerance. Experts say Finland’s consistent top ranking is not just about wealth, but also the strong social safe",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "39e704e20f9d",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "weight": 5,
+      "title": "Hospitals limit drug dispensing",
+      "url": "https://www.bangkokpost.com/thailand/general/3220990/hospitals-limit-drug-dispensing",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Three major hospitals have adjusted outpatient drug dispensing as a precaution to prevent potential shortages amid energy‑related disruptions linked to the Middle East crisis, while the Ministry of Public Health says national stocks remain sufficient.",
+      "tags": []
+    },
+    {
+      "id": "a12dc003a333",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "weight": 5,
+      "title": "Police cuff two monks over rapes",
+      "url": "https://www.bangkokpost.com/thailand/general/3221075/police-cuff-two-monks-over-rapes",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Police arrested two monks for allegedly raping seven novices and filming the abuse after luring the victims to their quarters.",
+      "tags": []
+    },
+    {
+      "id": "16b5aa06cf9d",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "weight": 5,
+      "title": "Rural school funding reforms piloted",
+      "url": "https://www.bangkokpost.com/thailand/general/3221265/rural-school-funding-reforms-piloted",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "The Equitable Education Fund (EEF) is piloting a new budget allocation formula to support small, remote schools, aiming to improve access, efficiency and student outcomes.",
+      "tags": []
+    },
+    {
+      "id": "df98d48b2310",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "weight": 5,
+      "title": "Eastern destinations ride out flight disruption fallout",
+      "url": "https://www.bangkokpost.com/thailand/general/3221330/eastern-destinations-ride-out-flight-disruption-fallout",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Tourism operators along Thailand's eastern coast say the region is largely insulated from the flight disruptions currently affecting southern destinations.",
+      "tags": []
+    },
+    {
+      "id": "2a2cc866b5f8",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "weight": 5,
+      "title": "Acer looks beyond computer market",
+      "url": "https://www.bangkokpost.com/business/general/3221015/acer-looks-beyond-computer-market",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Acer Computer is accelerating its expansion beyond the computer market into healthcare, energy, industrial PCs and large home appliances, while stepping up local assembly to expand its \"Made in Thailand\" portfolio.",
+      "tags": []
+    },
+    {
+      "id": "098d01f7ae41",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "weight": 5,
+      "title": "Volatility easing as traders adjust to war",
+      "url": "https://www.bangkokpost.com/business/general/3221025/volatility-easing-as-traders-adjust-to-war",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Trade on Thai and global stock markets has been volatile this month amid escalating conflicts in the Middle East. This week, attacks on energy infrastructure by both the Israeli-US and Iranian sides are having a direct impact on energy prices and availability.",
+      "tags": []
+    },
+    {
+      "id": "b98b292e399a",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "weight": 5,
+      "title": "Central Retail combines 3 food companies",
+      "url": "https://www.bangkokpost.com/business/general/3221255/central-retail-combines-3-food-companies",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Central Retail Corporation Plc (CRC) has integrated its retail and wholesale businesses across Thailand and Vietnam, appointing Stephane Coum as chief executive to oversee the entire food business portfolio.",
+      "tags": []
+    },
+    {
+      "id": "a46944fb6951",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "weight": 5,
+      "title": "Ministry preps tax schemes for SMEs",
+      "url": "https://www.bangkokpost.com/business/general/3221260/ministry-preps-tax-schemes-for-smes",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "The Finance Ministry is preparing tax reduction measures for large businesses that help bring small and medium-sized enterprises (SMEs) into their supply chains, in a bid to help upgrade local SMEs.",
+      "tags": []
+    },
+    {
+      "id": "4308569d5ebd",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "A wander through pink hotel rooms",
+      "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3221320/a-wander-through-pink-hotel-rooms",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "We've all been there. You've paced all seven floors, had coffee breaks until you're full and stared at enough mannequins to last a lifetime. Bangkok moves at a rapid speed, and sometimes the \"mall crawl\" leaves you craving a quiet corner and a chance to actually make something rather than just buy it.",
+      "tags": []
+    },
+    {
+      "id": "763e2f7ee9c3",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Russian flair",
+      "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3221355/russian-flair",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "In honour of Her Royal Highness Princess Sirivannavari Nariratana Rajakanya and in tribute to her distinguished genius in arts and culture, the Ministry of Culture in collaboration with the Russian embassy and the Royal Bangkok Symphony Orchestra (RBSO) Foundation, supported by B.Grimm, recently presented a spectacular concert titled Russian Seasons at the Thailand Cultural Centre (TCC).",
+      "tags": []
+    },
+    {
+      "id": "3186172f091e",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Why we need walkable cities",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3221310/why-we-need-walkable-cities",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Morning work commutes in Bangkok are tackled like olympian tasks. For some, it's a trudge down a narrow soi, followed by a motorbike taxi serpentining through traffic, leading to a transfer onto the BTS or MRT. Especially ambitious commutes may end with a walk across a skywalk or through a shopping complex before reaching the office. What looks like a straightforward commute on a map instead...",
+      "tags": []
+    },
+    {
+      "id": "505dd2fd4096",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Finding the soul of a city",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3221350/finding-the-soul-of-a-city",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Cannes and Grasse in France, and Kumamoto and Hokkaido in Japan are examples of cities with creative city branding. These unique cities inspired the creation of the project \"Neramyth City: Branding Cities Into Creative Assets\".",
+      "tags": []
+    },
+    {
+      "id": "6b4cbae2ecfb",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Love in time of censorship",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3221365/love-in-time-of-censorship",
+      "date": "2026-03-21T01:01:00+07:00",
+      "desc": "Women negotiate with China's repression of queer romance through consumption of Thai boys' love (BL), according to research by Xiaoping Wu.",
+      "tags": []
+    },
+    {
+      "id": "47cf9983648a",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Lufthansa Group Executives visit children at HHN Foundation in Pattaya, supporting youth development projects",
+      "url": "https://www.pattayamail.com/news/lufthansa-group-executives-visit-children-at-hhn-foundation-in-pattaya-supporting-youth-development-projects-540088",
+      "date": "2026-03-20T23:46:21+00:00",
+      "desc": "Executives from Lufthansa Group visit children at the HHN Foundation for Thai Children in Central Pattaya, sharing a special lunch and activities that brought smiles to the youngsters. PATTAYA, Thailand – Senior executives from Lufthansa Group visited children under the care of the HHN Foundation for Thai Children in Central Pattaya on March 17, bringing smiles and support while reinforcing the company’s commitment to youth development initiatives in the local community. The delegation was led by Felipe Bonifatti, Vice President Asia Pacific, Middle East &amp; Joint Ventures East of Lufthansa ",
+      "tags": [
+        "Daily Newsletter",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "70c1de9fcb6f",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Thai baht strengthens to 32.49 per dollar as global tensions ease",
+      "url": "https://www.pattayamail.com/news/thai-baht-strengthens-to-32-49-per-dollar-as-global-tensions-ease-540075",
+      "date": "2026-03-20T23:32:51+00:00",
+      "desc": "The Thai baht strengthened to around 32.49 per US dollar in early trading, supported by a weaker dollar and easing concerns over geopolitical tensions, while markets continue to monitor Thailand’s export outlook and global economic developments. PATTAYA, Thailand – The Thai baht strengthened to 32.49 per US dollar in early trading on Friday, gaining from the previous close of 32.82, as the US dollar weakened amid easing concerns over tensions in the Middle East. Krungthai Bank currency strategist Poon Panichpibool said the baht’s appreciation largely followed the decline in the US Dollar Index",
+      "tags": [
+        "Daily Newsletter",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "9966622ffa5b",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "weight": 4,
+      "title": "Hot and breezy days with occasional showers in Pattaya as summer continues",
+      "url": "https://www.pattayamail.com/news/hot-and-breezy-days-with-occasional-showers-in-pattaya-as-summer-continues-540069",
+      "date": "2026-03-20T23:23:24+00:00",
+      "desc": "On a Pattaya baht bus, foreign visitors explore the city, making the most of every sunny or rainy moment. (Photo by Jetsada Homklin) PATTAYA, Thailand – Tourists and locals in Pattaya are enjoying sunny mornings, but should stay prepared for brief afternoon thunderstorms, according to the Thai Meteorological Department. The upper part of Thailand remains under high heat pressure, while southeast winds carry moisture from the Gulf of Thailand, causing isolated showers in the region. For Pattaya and nearby Chonburi, there’s a 10% chance of thunderstorms, with daytime highs around 33–37°C and ove",
+      "tags": [
+        "Daily Newsletter",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "f5607301b966",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Action star Chuck Norris dies at 86",
+      "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3220893/action-star-chuck-norris-dies-at-86",
+      "date": "2026-03-20T22:10:00+07:00",
+      "desc": "LOS ANGELES - Chuck Norris, the US martial artist and Hollywood action star most famous for his role in &ldquo;Walker, Texas Ranger&rdquo;, has died, his family said on Friday. He was 86.",
+      "tags": []
+    },
+    {
+      "id": "0e0a4bbebe1d",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Fuel shortage thinning Suvarnabhumi taxi ranks",
+      "url": "https://www.bangkokpost.com/thailand/general/3220875/fuel-shortage-thinning-suvarnabhumi-taxi-ranks",
+      "date": "2026-03-20T20:35:00+07:00",
+      "desc": "A fuel shortage is severely disrupting taxi services at Suvarnabhumi Airport, with large SUV taxis gradually suspending operations and only about 2,500 vehicles currently in active service, out of a fleet estimated at more than 5,000, operators say.",
+      "tags": []
+    },
+    {
+      "id": "91aeaf2447f3",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Two Bangkok monks charged with abusing novices",
+      "url": "https://www.bangkokpost.com/thailand/general/3220818/two-bangkok-monks-charged-with-abusing-novices",
+      "date": "2026-03-20T19:02:00+07:00",
+      "desc": "Two monks have been arrested at a well-known temple in the Charoen Krung area of Bangkok on charges of sexual abusing novice monks, with seven victims identified and over 100 explicit video clips seized as evidence.",
+      "tags": []
+    },
+    {
+      "id": "d589fa0047ed",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "Police send ‘VIP runway’ case to anti-graft body",
+      "url": "https://www.bangkokpost.com/thailand/general/3220390/police-send-vip-runway-case-to-antigraft-body",
+      "date": "2026-03-20T18:30:00+07:00",
+      "desc": "Police have completed their investigation into a &ldquo;VIP runway&rdquo; on land owned by the family of Prime Minister Anutin Charnvirakul in Nakhon Ratchasima and forwarded the case to the National Anti-Corruption Commission (NACC).",
+      "tags": []
+    },
+    {
+      "id": "909fbdea850d",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Guru's Weekly Buzz: March 20-26",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3220848/gurus-weekly-buzz-march-2026",
+      "date": "2026-03-20T16:10:00+07:00",
+      "desc": "Guru By Bangkok Post's weekly pick of the most exciting products, activities, food and travel to indulge in.",
+      "tags": []
+    },
+    {
+      "id": "ac1d5480e9ce",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "weight": 5,
+      "title": "Hong Kong to woo overnight big spenders, diversify visitor mix",
+      "url": "https://www.bangkokpost.com/business/general/3220834/hong-kong-to-woo-overnight-big-spenders-diversify-visitor-mix",
+      "date": "2026-03-20T15:53:00+07:00",
+      "desc": "The Hong Kong Tourism Board will allocate three-quarters of its resources to overseas markets this year in a strategic shift aimed at diversifying visitor demographics and attracting more overnight high spenders.",
+      "tags": []
+    },
+    {
+      "id": "56eeb89929e1",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Thai women among most favourite for Koreans to tie the knot",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3220789/thai-women-among-most-favourite-for-koreans-to-tie-the-knot",
+      "date": "2026-03-20T15:06:00+07:00",
+      "desc": "Women from Thailand have emerged as one of the top foreigners getting married to South Koreans.",
+      "tags": []
+    },
+    {
+      "id": "66e5af795a54",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Kpop boyband BTS to visit 34 cities in a year for comeback world tour 'Arirang'",
+      "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3220715/kpop-boyband-bts-to-visit-34-cities-in-a-year-for-comeback-world-tour-arirang",
+      "date": "2026-03-20T13:16:00+07:00",
+      "desc": "SEOUL - ​Kpop superstar boyband BTS will ⁠embark on ⁠a world tour next month ​to showcase new album Arirang, after marking the end of a more than three-year hiatus for military service with a concert ​at Seoul's historic Gwanghwamun Square on Saturday.",
+      "tags": []
+    },
+    {
+      "id": "4a19160f5957",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "weight": 4,
+      "title": "Cherry blossom season arrives in Tokyo, 5 days earlier than average year",
+      "url": "https://www.bangkokpost.com/life/travel/3220705/cherry-blossom-season-arrives-in-tokyo-5-days-earlier-than-average-year",
+      "date": "2026-03-20T12:30:00+07:00",
+      "desc": "Cherry blossoms appeared on Thursday in central Tokyo, five days earlier than in the average year, the weather agency said.",
+      "tags": []
+    },
+    {
+      "id": "94baa59de568",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "US transfers 17 Stryker vehicles to Thai army during Hanuman Guardian 2026",
+      "url": "https://www.khaosodenglish.com/news/2026/03/20/us-transfers-17-stryker-vehicles-to-thai-army-during-hanuman-guardian-2026/",
+      "date": "2026-03-20T12:18:06+00:00",
+      "desc": "LOPBURI — The United States Army Pacific (USARPAC) has ceremonially transferred 17 Stryker armoured vehicles to the Royal Thai Army during the closing ceremony of Exercise Hanuman Guardian 2026, marking a new step in bilateral defence cooperation. The handover took place at the Royal Thai Army Aviation Center in Lopburi and was attended by senior officials from both countries, including USARPAC Deputy Commander Lt. Gen. Joel Vowell, Royal Thai Army Commander-in-Chief Gen. Pana Claewplodtook, and US Ambassador to Thailand Sean K. O’Neill. The transfer was conducted under the US Excess Defense A",
+      "tags": [
+        "News",
+        "stryker",
+        "Thailand",
+        "USA"
+      ]
+    },
+    {
+      "id": "66e42652dfab",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "weight": 5,
+      "title": "Living Beyond Boundaries in Paradise",
+      "url": "https://www.bangkokpost.com/business/general/3214485/living-beyond-boundaries-in-paradise",
+      "date": "2026-03-20T12:00:00+07:00",
+      "desc": "The mesmerizing Andaman Sea stretching endlessly and emerald green hills are the perfect backdrop for stepping into lifestyle-led luxury living at The Residences at InterContinental Phuket Resort.",
+      "tags": []
+    },
+    {
+      "id": "8057ad3a0188",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "weight": 5,
+      "title": "2 injured, southern human rights MP unharmed in ambush",
+      "url": "https://www.bangkokpost.com/thailand/general/3220675/2-injured-southern-human-rights-mp-unharmed-in-ambush",
+      "date": "2026-03-20T11:33:00+07:00",
+      "desc": "NARATHIWAT - Prachachat Party MP Kamonsak Leewamoh narrowly escaped an attack by gunmen as he was returning to his home in Bacho district in the early hours of Friday.",
+      "tags": []
+    },
+    {
+      "id": "c5bfb86836ee",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Wild elephant raids kitchen, devours rice in Chachoengsao",
+      "url": "https://www.khaosodenglish.com/news/2026/03/20/wild-elephant-raids-kitchen-devours-rice-in-chachoengsao/",
+      "date": "2026-03-20T10:32:38+00:00",
+      "desc": "CHACHOENGSAO — 19 March 2026, A wild elephant broke into a rural home in eastern Thailand overnight, rummaging through a kitchen and eating stored rice, officials said on Friday. The incident occurred late in Tha Takiab district, where local officials and rangers inspected damage at a house in Ban Khlong Mahat village. CCTV footage showed a large elephant quietly approaching the rear of the house before forcing its way through a wooden kitchen door. Once inside, it searched for food, opening cupboards and using its trunk to scoop rice from a storage jar. Homeowner Boonruen Sathuchat said she w",
+      "tags": [
+        "News",
+        "Chachoengsao",
+        "elephant"
+      ]
+    },
+    {
+      "id": "38e88478afaa",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Finland tops World Happiness Report in 2026, Thailand slips 3 places",
+      "url": "https://thethaiger.com/news/national/world-happiness-report-2026-finland-top-thailand-slips-52",
+      "date": "2026-03-20T09:56:53+00:00",
+      "desc": "Finland tops World Happiness Report in 2026, Thailand slips 3 places Legacy Finland has been ranked the world’s happiest country for a ninth consecutive year in the World Happiness Report 2026 , while Thailand fell three places from 49th last year to 52nd this year. The report, published by the Wellbeing Research Centre at the University of Oxford on March 19, said the top three countries were Finland, Iceland and Denmark. Costa Rica recorded one of the biggest improvements, rising to fourth place, its highest ranking among Latin American countries. Sweden ranked fifth, followed by Norway in s",
+      "tags": [
+        "Thailand News",
+        "report",
+        "research",
+        "social media",
+        "Thai Life"
+      ]
+    },
+    {
+      "id": "6e74f0cc593d",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Thai man rapes and blackmails ex-girlfriend over unpaid debt",
+      "url": "https://thethaiger.com/news/bangkok/thai-man-rapes-and-blackmails-ex-girlfriend-over-unpaid-debt",
+      "date": "2026-03-20T09:47:20+00:00",
+      "desc": "Thai man rapes and blackmails ex-girlfriend over unpaid debt Legacy A Thai man surrendered to Bangkok police after he raped his ex-girlfriend in a public bathroom and later blackmailed her with the explicit videos to pressure her over an unpaid debt of about 700,000 baht. The suspect, 28 year old Jirapas Kangwankrai, turned himself in at Tha Kham Police Station on Wednesday, March 18, after public attention intensified over a clip he shared online. The footage showed his ex-girlfriend, a 30 year old woman named Nok, being forced to perform a sexual act in a public bathroom before she was raped",
+      "tags": [
+        "Bangkok News",
+        "Crime News",
+        "Thailand News",
+        "debt",
+        "rape"
+      ]
+    },
+    {
+      "id": "3cd6d46a48b6",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Naked foreign man detained after Pattaya street disturbance",
+      "url": "https://www.khaosodenglish.com/tourism/2026/03/20/naked-foreign-man-detained-after-pattaya-street-disturbance/",
+      "date": "2026-03-20T09:43:24+00:00",
+      "desc": "PATTAYA — 20 March 2026, A foreign man was detained after walking naked and shouting along a road in Pattaya in the early hours of Friday, alarming residents and motorists. Tourist police and municipal officers were alerted at about 01:00 to reports of a man behaving erratically along Phra Tamnak Road, near Soi Phra Tamnak 5, heading towards the Pattaya Court intersection in Bang Lamung district, Chonburi province. Officers arriving at the scene found a man, believed to be aged between 30 and 40, naked and incoherent, shouting continuously as he walked along the roadside. Authorities intervene",
+      "tags": [
+        "News",
+        "Travel&Tourism",
+        "naked",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "33af5459656e",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Mum on the run in Asia TikToker jailed after return to UK from Thailand",
+      "url": "https://thethaiger.com/news/world/mum-on-the-run-in-asia-tiktoker-jailed-after-return-to-uk-from-thailand",
+      "date": "2026-03-20T09:07:56+00:00",
+      "desc": "Mum on the run in Asia TikToker jailed after return to UK from Thailand Legacy A British TikToker known online as “ Mum on the run in Asia ” was sentenced to 26 months in prison for drug offences after returning to the UK from Thailand. The TikTok user, Ellis Matthews, left the UK in 2021 and travelled to Thailand while pregnant. She later attracted attention online for a controversial video posted last year on her TikTok account @mumontheruninasia. In the video, Matthews claimed she was receiving £2,300 a month in UK benefits and shared tips on how others could obtain the payments while livin",
+      "tags": [
+        "Crime News",
+        "World News",
+        "British",
+        "crime",
+        "Tiktok"
+      ]
+    },
+    {
+      "id": "d3950ae72c6e",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "From fashion to private jets: New luxury ecosystem shapes Thailand’s high-end travel landscape",
+      "url": "https://thethaiger.com/guides/best-of/lifestyle/fashion-to-private-jets-new-luxury-ecosystem-shapes-thailand",
+      "date": "2026-03-20T09:00:17+00:00",
+      "desc": "From fashion to private jets: New luxury ecosystem shapes Thailand’s high-end travel landscape Legacy Luxury in Thailand is evolving beyond traditional markers of wealth such as hotels, shopping and real estate, as lifestyle brands, mobility and curated experiences increasingly shape how high-net-worth travellers engage with the destination. Rather than focusing solely on luxury goods or property ownership, affluent consumers are prioritising lifestyle, identity and personal experiences. This shift is bringing together industries that have traditionally operated independently, including hospit",
+      "tags": [
+        "Lifestyle",
+        "Property",
+        "Thailand Travel",
+        "lifestyle",
+        "luxury"
+      ]
+    },
+    {
+      "id": "526cb1dd0222",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "weight": 4,
+      "title": "Krabi police seize drugs, cache of weapons",
+      "url": "https://www.khaosodenglish.com/news/2026/03/20/krabi-police-seize-drugs-cache-of-weapons/",
+      "date": "2026-03-20T08:32:10+00:00",
+      "desc": "KRABI — 20 March 2026, Police in Krabi have arrested members of a drug trafficking network and seized a large cache of firearms, including military-style weapons, during a province-wide crackdown, officials said on Friday. The arrests were part of “Operation Eagle 154: Protect Krabi”, conducted between 1 and 20 March to combat drug-related crime and improve public safety. Authorities displayed the seized items at a press conference led by Krabi governor Angkoon Silathevakul and Police Major General Sukkasem Nakornwilai, chief of Krabi provincial police. Among the weapons confiscated were 17 fi",
+      "tags": [
+        "News",
+        "Drugs",
+        "Krabi",
+        "weapons"
+      ]
+    },
+    {
+      "id": "ac3e0ea0561d",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Celebrate Songkran 2026 in Southern Thailand with these beachfront stays in Phuket and Khao Lak",
+      "url": "https://thethaiger.com/travel/hotels/songkran-2026-in-southern-thailand-phuket-and-khao-lak",
+      "date": "2026-03-20T08:30:08+00:00",
+      "desc": "Celebrate Songkran 2026 in Southern Thailand with these beachfront stays in Phuket and Khao Lak Legacy Three Marriott resorts in southern Thailand are promoting Songkran 2026 stays and in-resort celebrations, with programmes at Courtyard Phuket Patong Beach Resort , Phuket Marriott Resort &amp; Spa, Merlin Beach , and Le Méridien Khao Lak Resort &amp; Spa designed for guests who want Thai New Year activities, beach settings and seasonal dining. The properties said Songkran, celebrated each April, brings Thai New Year traditions and water-themed festivities to destinations across Thailand, and ",
+      "tags": [
+        "Phuket Travel",
+        "Press Room",
+        "Sponsored",
+        "Thailand Hotels",
+        "Thailand Travel"
+      ]
+    },
+    {
+      "id": "12e4a59df036",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Chinese man blacklisted for filing fake theft to Chiang Mai police",
+      "url": "https://thethaiger.com/news/chiang-mai/chinese-allegedly-fakes-theft-complaint-for-insurance-claim",
+      "date": "2026-03-20T07:52:00+00:00",
+      "desc": "Chinese man blacklisted for filing fake theft to Chiang Mai police Legacy A Chinese man is suspected of filing a fake theft complaint in Chiang Mai in an attempt to obtain a police document for an insurance claim before leaving Thailand. Officers from Mueang Chiang Mai Police Station were alerted of a snatching at 11.40pm on March 17 by a 33 year old Chinese man, Xiao. He reported that the crime occurred on Kam Paeng Din Road while he was walking from the Chiang Mai Night Bazaar. According to Xiao, two men on a motorcycle approached him. One suspect was wearing a motorcycle helmet while the ot",
+      "tags": [
+        "Chiang Mai News",
+        "Crime News",
+        "Thailand News",
+        "Chiang Mai",
+        "Chinese tourist"
+      ]
+    },
+    {
+      "id": "fdc259881fe6",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "FUSO Thailand reshapes organisational structure with new CEO and CFO appointments, accelerating full-force commercial vehicle strategy",
+      "url": "https://thethaiger.com/guides/automotive/fuso-thailand-appoints-new-ceo-and-cfo",
+      "date": "2026-03-20T07:15:26+00:00",
+      "desc": "FUSO Thailand reshapes organisational structure with new CEO and CFO appointments, accelerating full-force commercial vehicle strategy Legacy FUSO Commercial Vehicles (Thailand) Ltd. (FCVT) has announced a significant corporate restructuring, adjusting its reporting line directly to the Mitsubishi Fuso Truck and Bus Corporation (MFTBC) in Japan. The company has appointed two Thai senior executives: Jakkrapong Santirat as Chief Executive Officer (CEO) and Thitipol Wongthanakul as Chief Financial Officer (CFO), to drive the FUSO brand strategy in Thailand&#8217;s commercial vehicle market. This ",
+      "tags": [
+        "Automotive",
+        "Business News",
+        "Press Room",
+        "Sponsored",
+        "automotive"
+      ]
+    },
+    {
+      "id": "8fa4ab18d352",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "Foreign woman attacked by transwomen on Phuket’s Bangla Road",
+      "url": "https://thethaiger.com/news/phuket/foreign-woman-attacked-by-transwomen-on-phukets-bangla-road",
+      "date": "2026-03-20T07:03:31+00:00",
+      "desc": "Foreign woman attacked by transwomen on Phuket&#8217;s Bangla Road Legacy A group of Thai transwomen physically assaulted a foreign woman on Bangla Road in Patong , Phuket , after the foreigner allegedly caused a disturbance and provoked conflicts. The video of the incident did not specify the date or time, but showed a foreign woman, believed to be Russian, confronting several Thai transwomen on the street. The foreigner, wearing an elephant-pattern skirt, is seen targeting a transwoman in a pink mini dress. The foreign woman shouted at the transwoman and appeared to mock her by shaking her b",
+      "tags": [
+        "Crime News",
+        "Phuket News",
+        "Thailand News",
+        "altercation",
+        "Phuket"
+      ]
+    },
+    {
+      "id": "2820703b1941",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "weight": 4,
+      "title": "5 things to do this weekend in Bangkok (March 21 to 22)",
+      "url": "https://thethaiger.com/guides/best-of/things-to-do/things-to-do-bangkok-march-21-to-22",
+      "date": "2026-03-20T06:30:01+00:00",
+      "desc": "5 things to do this weekend in Bangkok (March 21 to 22) Legacy Bangkok feels nicely varied this weekend. You can wander through a retro-style market in Siam, squeeze in one last visit to a much-loved planetarium before it closes for renovation, spend part of Saturday around books and learning in Lumpini Park, check out a laid-back Volkswagen night meet, or settle into a more curated culture pop-up in the old city. That mix of easy browsing, niche interests, and low-pressure social plans fits the warm, casual style of your earlier weekend roundups. Here are five things to do in Bangkok this wee",
+      "tags": [
+        "Guides",
+        "Thai Life",
+        "Things To Do",
+        "Bangkok",
+        "Bangkok events"
+      ]
+    },
+    {
+      "id": "146f3ec518ff",
+      "source": "The Thaiger Bangkok",
+      "source_id": "thaiger_bangkok",
+      "weight": 5,
+      "title": "SRT Red Line Salaya–Nakhon Pathom extension mapped for 2033 opening",
+      "url": "https://thethaiger.com/news/bangkok/srt-red-line-salaya-nakhon-pathom-extension",
+      "date": "2026-03-20T06:13:40+00:00",
+      "desc": "SRT Red Line Salaya–Nakhon Pathom extension mapped for 2033 opening Legacy Thailand’s State Railway of Thailand (SRT) is advancing plans for the Red Line Salaya–Nakhon Pathom extension , a proposed 25.3-kilometre route with a target opening year of 2033. SRT is also moving ahead with two Red Line extensions scheduled to begin construction in 2026, with contract signings planned for March and June 2026. The projects include the northern extension from Rangsit to Thammasat University, Rangsit Centre, and the western extension from Taling Chan to Salaya, with a branch to Siriraj Hospital. SRT exp",
+      "tags": [
+        "Bangkok News",
+        "Thailand News",
+        "Transport News",
+        "Bangkok",
+        "Skytrain"
+      ]
+    },
+    {
+      "id": "9e7225b42f14",
+      "source": "The Thaiger Bangkok",
+      "source_id": "thaiger_bangkok",
+      "weight": 5,
+      "title": "Netherlands Embassy Bangkok relocation set for August",
+      "url": "https://thethaiger.com/news/bangkok/netherlands-embassy-bangkok-to-relocate-in-august",
+      "date": "2026-03-20T03:30:31+00:00",
+      "desc": "Netherlands Embassy Bangkok relocation set for August Legacy The Embassy of the Netherlands in Thailand announced it will relocate its Bangkok office to Dusit Central Park in August , ending its long-standing presence on Wireless Road, one of the city’s prime areas. The embassy is currently based on a 32,000-square-metre plot in Soi Tonson off Wireless Road (Witthayu Road), an area known for its greenery and concentration of major businesses and diplomatic missions. Alongside its consular services and wider cooperation work, the embassy is also known for its colonial-era building, which dates ",
+      "tags": [
+        "Bangkok News",
+        "Thailand News",
+        "Bangkok",
+        "Embassy",
+        "Thailand"
+      ]
+    }
+  ]
+}
