@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 """
-dedup.py — Thailand10 Layer 2: 语义去重 + topic 控量
+dedup.py — Thailand10 Layer 2: 语义去重
 Calls OpenRouter (Gemini Flash) with JSON mode.
 Python handles all file I/O. No LLM tool-calling required.
 
 Usage:
   python3 dedup.py --input <filtered.json> --pool <pool-excerpt.json> --output <deduped.json>
 
-After dedup, applies per-topic limits (sorted by relevance_score desc):
-  一级 topic (#时政 #经济 #治安 #旅居 #社会): 最多5条
-  二级 topic (#房产 #科技 #中泰 #健康): 最多3条
+All non-duplicate items pass through. Topic quota control is handled at publish time.
 """
 
 import argparse
@@ -20,7 +18,6 @@ import urllib.error
 import socket
 import time
 from pathlib import Path
-from collections import defaultdict
 
 
 # ── Config ──────────────────────────────────────────────────────────────────
@@ -30,19 +27,6 @@ OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 BATCH_SIZE = 10          # items per API call (dedup needs pool context, batch smaller)
 MAX_TOKENS = 4096
 MAX_RETRIES = 2
-
-# Per-topic limits after dedup
-TOPIC_LIMITS = {
-    "#时政": 5,
-    "#经济": 5,
-    "#治安": 5,
-    "#旅居": 5,
-    "#社会": 5,
-    "#房产": 3,
-    "#科技": 3,
-    "#中泰": 3,
-    "#健康": 3,
-}
 
 
 SYSTEM_PROMPT = """你是新闻去重过滤器。给定一批候选新闻条目和现有 pool（最近10天），判断候选条目是否与 pool 重复，返回不重复的条目。
@@ -179,39 +163,17 @@ def main():
     with open(out_path, "w") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
-    deduped_count = len(results)
-    dedup_skip = total_input - deduped_count
-
-    # ── Topic 控量 ─────────────────────────────────────────────────────────
-    # Group by topic, sort by relevance_score desc, apply limits
-    by_topic = defaultdict(list)
-    for item in results:
-        topic = item.get("topic_tag", "#社会")
-        by_topic[topic].append(item)
-
-    final = []
-    topic_stats = {}
-    for topic, topic_items in by_topic.items():
-        limit = TOPIC_LIMITS.get(topic, 3)
-        sorted_items = sorted(topic_items, key=lambda x: x.get("relevance_score", 0.0), reverse=True)
-        selected = sorted_items[:limit]
-        topic_stats[topic] = {"total": len(topic_items), "kept": len(selected)}
-        final.extend(selected)
+    dedup_skip = total_input - len(results)
 
     # Write output
     out_path = Path(args.output)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     with open(out_path, "w") as f:
-        json.dump(final, f, ensure_ascii=False, indent=2)
+        json.dump(results, f, ensure_ascii=False, indent=2)
 
-    kept_count = len(final)
-    quota_drop = deduped_count - kept_count
+    kept_count = len(results)
     print(f"✅ Written {kept_count} items to {args.output}")
-    print(f"DEDUP_RESULT: input={total_input} keep={kept_count} skip={dedup_skip} quota_drop={quota_drop}")
-    print("Topic breakdown:")
-    for topic, stats in sorted(topic_stats.items()):
-        limit = TOPIC_LIMITS.get(topic, 3)
-        print(f"  {topic}: {stats['total']} → {stats['kept']} (limit={limit})")
+    print(f"DEDUP_RESULT: input={total_input} keep={kept_count} skip={dedup_skip}")
 
 
 if __name__ == "__main__":
