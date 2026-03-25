@@ -81,11 +81,6 @@ RSS_SOURCES = [
         "url": "https://www.khaosodenglish.com/feed/"
     },
     {
-        "id": "pattaya_mail",
-        "name": "Pattaya Mail",
-        "url": "https://www.pattayamail.com/feed"
-    },
-    {
         "id": "thaiheadlines",
         "name": "泰国头条新闻",
         "url": "https://www.thaiheadlines.com/feed/",
