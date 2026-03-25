@@ -70,16 +70,7 @@ RSS_SOURCES = [
         "name": "The Thaiger",
         "url": "https://thethaiger.com/feed"
     },
-    {
-        "id": "thaiger_bangkok",
-        "name": "The Thaiger Bangkok",
-        "url": "https://thethaiger.com/news/bangkok/feed"
-    },
-    {
-        "id": "khaosod",
-        "name": "Khaosod English",
-        "url": "https://www.khaosodenglish.com/feed/"
-    },
+
     {
         "id": "thaiheadlines",
         "name": "泰国头条新闻",
