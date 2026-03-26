@@ -1,0 +1,826 @@
+{
+  "fetched_at": "2026-03-24T01:30:24.476242+00:00",
+  "days_back": 2,
+  "start_date": "2026-03-23",
+  "end_date": "2026-03-24",
+  "total": 63,
+  "items": [
+    {
+      "id": "3803c84d42a7",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "Oil price spike threatens to cut Thai GDP growth, raise inflation",
+      "url": "https://www.bangkokpost.com/business/general/3223019/oil-price-spike-threatens-to-cut-thai-gdp-growth-raise-inflation",
+      "date": "2026-03-24T07:08:00+07:00",
+      "desc": "A rise in global oil prices poses a growing risk to Thailand's economic outlook, with Tisco Financial Group warning that a 10% increase in crude from a baseline of US$72 per barrel could trim GDP growth by 0.3-0.4 percentage points, while lifting inflation by about 0.8%.",
+      "tags": []
+    },
+    {
+      "id": "fed1e0322286",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Thai oil crisis eases after state takes action",
+      "url": "https://www.bangkokpost.com/business/general/3222914/thai-oil-crisis-eases-after-state-takes-action",
+      "date": "2026-03-24T06:15:00+07:00",
+      "desc": "The Department of Energy Business (DOEB) says Thailand's fuel shortage crisis is beginning to ease following a series of government interventions aimed at stabilising supply and distribution.",
+      "tags": []
+    },
+    {
+      "id": "f0db21ab89f8",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Hotels slash rates to lure Songkran market",
+      "url": "https://www.bangkokpost.com/business/general/3222939/hotels-slash-rates-to-lure-songkran-market",
+      "date": "2026-03-24T06:01:00+07:00",
+      "desc": "Concerned by a nosedive in European arrivals and low confidence due to fuel shortages among local travellers, hotel operators have started to offer discounts of 20-40% to attract tourists during the upcoming Songkran holiday.",
+      "tags": []
+    },
+    {
+      "id": "7d7c7a45d97c",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "Oil shock hits supermarket transportation in the South",
+      "url": "https://www.bangkokpost.com/business/general/3222789/oil-shock-hits-supermarket-transportation-in-the-south",
+      "date": "2026-03-24T05:55:00+07:00",
+      "desc": "The petrol shortage is causing headaches for MAI‑listed Mother Marketing, the operator of the Mother Supermarket chain in southern Thailand, prompting the company to urge the government to resolve the issue urgently.",
+      "tags": []
+    },
+    {
+      "id": "4c0937bcc1d1",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Gold to see long-term downward trend",
+      "url": "https://www.bangkokpost.com/business/investment/3222824/gold-to-see-longterm-downward-trend",
+      "date": "2026-03-24T05:53:00+07:00",
+      "desc": "The price of gold will be confirmed to be on a long-term downward trend if it fails to stay above US$4,100 per ounce, which could occur this week amid escalating tensions and a prolonged conflict in the Middle East, traders say.",
+      "tags": []
+    },
+    {
+      "id": "c3f7afb08f1c",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Baht set to fall further amid Mideast wartime pressures",
+      "url": "https://www.bangkokpost.com/business/general/3222884/baht-set-to-fall-further-amid-mideast-wartime-pressures",
+      "date": "2026-03-24T05:51:00+07:00",
+      "desc": "The baht is expected to depreciate to 33.50 per US dollar this week after testing a nine-month low of 33 on Monday, amid heightened uncertainties surrounding the conflict in the Middle East.",
+      "tags": []
+    },
+    {
+      "id": "3686576f35e8",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "SAO rules out headquarters rebuild at collapse site",
+      "url": "https://www.bangkokpost.com/thailand/general/3222849/sao-rules-out-headquarters-rebuild-at-collapse-site",
+      "date": "2026-03-24T05:29:00+07:00",
+      "desc": "The State Audit Office (SAO) has confirmed it has no plans to rebuild on the site of its headquarters in Bangkok, which collapsed on March 28 last year while under construction.",
+      "tags": []
+    },
+    {
+      "id": "293392a3fe34",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Thaksin on inmate parole list for May",
+      "url": "https://www.bangkokpost.com/thailand/politics/3222864/thaksin-on-inmate-parole-list-for-may",
+      "date": "2026-03-24T05:23:00+07:00",
+      "desc": "Former prime minister Thaksin Shinawatra will be among 500 prisoners eligible for parole when the final list is released by the end of March, according to a source at Klong Prem Central Prison.",
+      "tags": []
+    },
+    {
+      "id": "a2ea0ded3447",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Democrats unveil price tracking tool",
+      "url": "https://www.bangkokpost.com/thailand/politics/3222899/democrats-unveil-price-tracking-tool",
+      "date": "2026-03-24T05:21:00+07:00",
+      "desc": "The Democrat Party has urged the government to explain persistent fuel shortages and launched a digital platform to crowdsource reports of unusual price hikes.",
+      "tags": []
+    },
+    {
+      "id": "cc6109414ecf",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Benefits for MPs under scrutiny",
+      "url": "https://www.bangkokpost.com/thailand/special-reports/3223068/benefits-for-mps-under-scrutiny",
+      "date": "2026-03-24T05:10:00+07:00",
+      "desc": "Surging living costs have intensified scrutiny of parliamentary spending, with proposals by Dr Warong Dechgitvigrom triggering widespread reactions across political and public spheres.",
+      "tags": []
+    },
+    {
+      "id": "e444f497000d",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Team turns fish bits into calcium tablets",
+      "url": "https://www.bangkokpost.com/thailand/general/3222874/team-turns-fish-bits-into-calcium-tablets",
+      "date": "2026-03-24T05:07:00+07:00",
+      "desc": "Researchers at Rajamangala University of Technology, Thanyaburi, have developed a method to extract calcium from by-products from the fish processing industry, turning what is essentially waste into a high-value product.",
+      "tags": []
+    },
+    {
+      "id": "cad9f894d3ad",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Thai's body set to return home",
+      "url": "https://www.bangkokpost.com/thailand/general/3222934/thais-body-set-to-return-home",
+      "date": "2026-03-24T04:47:00+07:00",
+      "desc": "The body of a Thai worker killed in Israel during Iranian missile attacks is expected to be repatriated after March 27, when Israeli airline services resume, the Foreign Ministry said.",
+      "tags": []
+    },
+    {
+      "id": "97b2df3ca3c6",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Public warned about heat",
+      "url": "https://www.bangkokpost.com/thailand/general/3222929/public-warned-about-heat",
+      "date": "2026-03-24T04:34:00+07:00",
+      "desc": "The Department of Health has warned the public to be aware of the increased risk of heatstroke, as temperatures climbed to 40 degrees Celsius in parts of the North, while Bangkok recorded a high of 38C on Monday.",
+      "tags": []
+    },
+    {
+      "id": "e09f8f7f1387",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Fuel running low across provinces",
+      "url": "https://www.bangkokpost.com/thailand/general/3222969/fuel-running-low-across-provinces",
+      "date": "2026-03-24T04:33:00+07:00",
+      "desc": "The government has stepped up efforts to tackle fuel shortages, but residents across several provinces continued to queue for diesel on Monday amid persistent supply constraints.",
+      "tags": []
+    },
+    {
+      "id": "9b26925cedfb",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Shortages spur fuel reserve cut",
+      "url": "https://www.bangkokpost.com/thailand/general/3222689/shortages-spur-fuel-reserve-cut",
+      "date": "2026-03-24T04:22:00+07:00",
+      "desc": "The government has decided to lower the proportion of oil reserves to 1% in a bid to ease fuel shortages while expressing confidence that the fuel situation will stabilise within a week.",
+      "tags": []
+    },
+    {
+      "id": "0277f4e4345c",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Highland flavours headline Royal Project fest",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3223063/highland-flavours-headline-royal-project-fest",
+      "date": "2026-03-24T02:01:00+07:00",
+      "desc": "A caravan of premium ingredients and high-quality products from the highland peaks are presented during the \"Royal Project Gastronomy Festival 2026\", at Nextopia, on the 5th floor of Siam Paragon, until Sunday.",
+      "tags": []
+    },
+    {
+      "id": "02f9091a4f15",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "lang": "en",
+      "title": "Thai Airways braces for Middle East crisis as jet fuel costs double and ticket prices rise 10–15%",
+      "url": "https://www.pattayamail.com/news/thai-airways-braces-for-middle-east-crisis-as-jet-fuel-costs-double-and-ticket-prices-rise-10-15-540414",
+      "date": "2026-03-24T01:22:52+00:00",
+      "desc": "Thai Airways monitors jet fuel supplies and flight schedules amid soaring costs caused by unrest in the Middle East, implementing short-term measures to maintain operations and passenger service. PATTAYA, Thailand – Thai Airways is rolling out short-term measures to cope with soaring jet fuel prices triggered by unrest in the Middle East. CEO Chai Eiamsiri revealed that the cost of jet fuel has jumped from around $80 to $220 per barrel, forcing the airline to gradually raise ticket prices by 10–15%. The airline has also purchased 50% of its fuel needs in advance through hedging for the next si",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "20234a20364f",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "lang": "en",
+      "title": "Pattaya residents complain as PTT station runs out of fuel, no hoarding found",
+      "url": "https://www.pattayamail.com/news/pattaya-residents-complain-as-ptt-station-runs-out-of-fuel-no-hoarding-found-540411",
+      "date": "2026-03-24T01:20:29+00:00",
+      "desc": "Banglamung officials visited the PTT service station in Huai Yai, south of Pattaya, on Monday to inspect fuel availability and ensure fair service after residents reported the station had temporarily run dry. PATTAYA, Thailand – Residents recently complained that the PTT service station in Huai Yai, south of Pattaya , was closed on 16 March, prompting local authorities to investigate. On Monday, officials from Banglamung District, together with Huai Yai Municipality staff and area inspectors, visited the station to verify the situation and address public concerns. Preliminary findings indicate",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "e2992c08e661",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "lang": "en",
+      "title": "Pattaya bosses roll up sleeves to clear Jomtien drains ahead of summer storms",
+      "url": "https://www.pattayamail.com/news/pattaya-bosses-roll-up-sleeves-to-clear-jomtien-drains-ahead-of-summer-storms-540406",
+      "date": "2026-03-24T01:16:33+00:00",
+      "desc": "Deputy Mayor Kritsana Boonsawat and Pattaya city officials dig through clogged drains along Jomtien Beach Road, working to stop flooding and foul smells before the summer storms hit. PATTAYA, Thailand – Pattaya bosses didn’t just give orders – they got their hands dirty. On 21 March, Deputy Mayor Kritsana Boonsawat led city officials and municipal staff to clear clogged drains along Jomtien Second Road and Jomtien Beach Road, responding to complaints from residents about foul odors and waterlogging. Working alongside sanitation engineers, the team removed sediment and debris blocking water flo",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "584cd6b54f04",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "lang": "en",
+      "title": "Costly Songkran ahead as energy shock spreads to bottled water across Thailand",
+      "url": "https://www.pattayamail.com/news/costly-songkran-ahead-as-energy-shock-spreads-to-bottled-water-across-thailand-540403",
+      "date": "2026-03-24T01:13:34+00:00",
+      "desc": "Thipatai Jantisa, 43, owner of a small bottled water shop in Uthai Thani, stands beside stacks of drinking water packs after being forced to raise prices four times in less than a month as rising fuel and plastic packaging costs push up supply chain expenses. PATTAYA, Thailand – Thailand’s tightening energy supply and rising oil prices are beginning to ripple through everyday life, pushing up the cost of basic necessities – including something as simple as bottled drinking water. 20 The price pressure comes at a sensitive time, as the Songkran holiday season stretches across much of April, bri",
+      "tags": [
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "472727630df7",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "The big-city facial",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3222984/the-bigcity-facial",
+      "date": "2026-03-24T01:01:00+07:00",
+      "desc": "We are reminded of Bangkok's pollutants through Canadian beauty brand NIOD's newest campaign targeting \"The New York Facial\".",
+      "tags": []
+    },
+    {
+      "id": "b87354f9f322",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Legends return to the page",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3222994/legends-return-to-the-page",
+      "date": "2026-03-24T01:01:00+07:00",
+      "desc": "The country's largest literary event is set to return with a renewed focus on the enduring power of books and the stories that continue to shape generations.",
+      "tags": []
+    },
+    {
+      "id": "15b42e357bd9",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Harry Potter hits Starbucks coffeehouses nationwide",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3223039/harry-potter-hits-starbucks-coffeehouses-nationwide",
+      "date": "2026-03-24T01:01:00+07:00",
+      "desc": "Starbucks is partnering with Warner Bros Discovery Global Consumer Products to bring the beloved world of Harry Potter to Starbucks coffeehouses across Thailand.",
+      "tags": []
+    },
+    {
+      "id": "48d04e48c8ae",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Asai Bangkok Chinatown stages Matcha Fest",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3223044/asai-bangkok-chinatown-stages-matcha-fest",
+      "date": "2026-03-24T01:01:00+07:00",
+      "desc": "Asai Bangkok Chinatown is holding \"Groove @ Asai -- EP 1: Matcha Fest\", a one-day celebration of matcha, music and Bangkok's creative community, at its Courtyard, 4th floor, on Saturday from 11am to 4pm.",
+      "tags": []
+    },
+    {
+      "id": "d225f9fb1503",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "lang": "en",
+      "title": "Vicky Travel brings ease and reliability to your journey",
+      "url": "https://www.pattayamail.com/latestnews/news/vicky-travel-brings-ease-and-reliability-to-your-journey-540398",
+      "date": "2026-03-24T00:28:46+00:00",
+      "desc": "With more than 59 years of business experience, Marlowe Malhotra of Vicky Travel is known not only for his expertise in travel but also for his willingness to listen and guide customers through even the most complex travel needs. PATTAYA, Thailand – In a fast-moving travel landscape where plans can change in an instant, trusted local agents are stepping in to simplify the experience. Drawing on the service-focused approach often highlighted by Pattaya Mail, Vicky Travel is making travel smoother, more flexible, and far less stressful for residents and visitors alike. Whether you’re adjusting y",
+      "tags": [
+        "Pattaya",
+        "Pattaya Community",
+        "Travel & Tourism",
+        "What's On in Pattaya-Thailand"
+      ]
+    },
+    {
+      "id": "ed0e92fd6b6d",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "lang": "en",
+      "title": "Thailand’s Pattaya beckons international evacuees despite rising costs",
+      "url": "https://www.pattayamail.com/news/thailands-pattaya-beckons-international-evacuees-despite-rising-costs-540422",
+      "date": "2026-03-23T23:27:37+00:00",
+      "desc": "Visitors fleeing conflict may consider Pattaya as a safe destination, where hotels and services are prepared to host international arrivals despite rising living costs. (Photo by Jetsada Homklin) PATTAYA, Thailand – As tensions escalate in the Middle East, with recent attacks displacing thousands of civilians, questions are emerging about where those fleeing war zones can find safety. For some, the bustling resort city of Pattaya may seem like an unexpected refuge. Countries whose citizens fear being caught in the conflict have been conducting large-scale evacuations, airlifting hundreds of pe",
+      "tags": [
+        "Daily Newsletter",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "77d511395ed1",
+      "source": "Pattaya Mail",
+      "source_id": "pattaya_mail",
+      "lang": "en",
+      "title": "Pattaya may no longer be the ‘cheap’ vacation it once was as inflation hits flights, fuel, and fun",
+      "url": "https://www.pattayamail.com/news/pattaya-may-no-longer-be-the-cheap-vacation-it-once-was-as-inflation-hits-flights-fuel-and-fun-540418",
+      "date": "2026-03-23T23:23:06+00:00",
+      "desc": "Tourists visiting Pattaya will eventually feel the impact of inflation on flights, transport, food, and attractions, even as baht-buses continue to serve cost- and safety-conscious vacationers. (Photo by Jetsada Homklin) PATTAYA, Thailand – With global and domestic inflation continuing to climb, tourists planning a summer getaway to Pattaya may face more expensive travel and vacations than expected. From flights to fuel, food, accommodation, and activities, everything seems to be creeping higher. Airfares: Thai Airways and other carriers have already raised ticket prices by 10–15% due to jet f",
+      "tags": [
+        "Daily Newsletter",
+        "Pattaya"
+      ]
+    },
+    {
+      "id": "c7d6b3705b1f",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "War seen unlikely to disrupt internet services in Thailand",
+      "url": "https://www.bangkokpost.com/business/general/3222615/war-seen-unlikely-to-disrupt-internet-services-in-thailand",
+      "date": "2026-03-23T19:45:00+07:00",
+      "desc": "Major telecommunications operators have reassured customers that their internet services in Thailand remain stable and unaffected, mainly due to their network redundancy systems and diversified routing paths, despite potential risks to undersea cable systems stemming from the conflict in the Middle East.",
+      "tags": []
+    },
+    {
+      "id": "683a6ee74867",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "EVs become label-controlled",
+      "url": "https://www.bangkokpost.com/business/motoring/3222629/evs-become-labelcontrolled",
+      "date": "2026-03-23T19:43:00+07:00",
+      "desc": "Electric vehicles (EVs) have officially been designated label-controlled products to ensure consumers can accurately compare the features of different brands before making a purchase.",
+      "tags": []
+    },
+    {
+      "id": "a6e841865739",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Mideast conflict dents chip manufacturing",
+      "url": "https://www.bangkokpost.com/business/general/3222625/mideast-conflict-dents-chip-manufacturing",
+      "date": "2026-03-23T19:38:00+07:00",
+      "desc": "The United States and Israeli military operations against Iran are disrupting global supply chains, hitting semiconductor manufacturing hard and reverberating through chip‑dependent industries, particularly the automotive sector, which is watching developments closely.",
+      "tags": []
+    },
+    {
+      "id": "fd96b1526e37",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Police seize 21 million speed pills, 320kg of crystal meth in five major cases in the North",
+      "url": "https://www.bangkokpost.com/thailand/general/3222610/police-seize-21-million-speed-pills-320kg-of-crystal-meth-in-five-major-cases-in-the-north",
+      "date": "2026-03-23T19:03:00+07:00",
+      "desc": "CHIANG MAI - Authorities have seized 21 million methamphetamine pills, 320 kilogrammes of crystal meth and arrested 10 suspects in five major drug cases in northern Thailand.",
+      "tags": []
+    },
+    {
+      "id": "b3a1e598dd04",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "SET falls below 1,400 as geopolitical tensions spark sell-off",
+      "url": "https://www.bangkokpost.com/business/general/3222559/set-falls-below-1400-as-geopolitical-tensions-spark-selloff",
+      "date": "2026-03-23T17:26:00+07:00",
+      "desc": "Thailand&rsquo;s benchmark index slipped below the key 1,400-point range on Monday as escalating geopolitical tensions and global risk-off sentiment triggered broad-based selling.&nbsp;",
+      "tags": []
+    },
+    {
+      "id": "729b6572a72b",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Gold prices plunge in Thailand",
+      "url": "https://www.bangkokpost.com/business/general/3222544/gold-prices-plunge-in-thailand",
+      "date": "2026-03-23T16:28:00+07:00",
+      "desc": "Gold prices in Thailand dropped sharply on Monday, falling by 3,850 baht from the previous close, according to the latest update from the Gold Traders Association.",
+      "tags": []
+    },
+    {
+      "id": "f099907fb5b8",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Old places new menus",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3222500/old-places-new-menus",
+      "date": "2026-03-23T14:54:00+07:00",
+      "desc": "Bored of eating the same thing twice? Fear no more, here's a list of restaurants and bars that have shuffled things up to make sure you're never bored or short of choices while dining out.",
+      "tags": []
+    },
+    {
+      "id": "19bb616bdd82",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Russia's Max: The unencrypted super-app being forced on citizens",
+      "url": "https://www.bangkokpost.com/life/tech/3222514/russias-max-the-unencrypted-superapp-being-forced-on-citizens",
+      "date": "2026-03-23T14:45:00+07:00",
+      "desc": "WARSAW &mdash; Russia is pushing its Max messenger -- a social media platform without encryption -- onto its citizens with a massive promotion campaign and the simultaneous blocking of Whatsapp and Telegram, the country's two most popular messenger applications.",
+      "tags": []
+    },
+    {
+      "id": "aca0c4a4b16d",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "New kid on Ratchaprasong's block",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3222478/new-kid-on-ratchaprasongs-block",
+      "date": "2026-03-23T13:45:00+07:00",
+      "desc": "Sato San is the new rooftop bar, sitting atop Moxy Bangkok Ratchaprasong on the 32nd floor.&nbsp;",
+      "tags": []
+    },
+    {
+      "id": "dff6140aac0e",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "lang": "en",
+      "title": "GISTDA to push Thailand toward NASA’s Artemis lunar, Mars mission",
+      "url": "https://www.khaosodenglish.com/news/2026/03/23/gistda-to-push-thailand-toward-nasas-artemis-lunar-mars-mission/",
+      "date": "2026-03-23T12:12:17+00:00",
+      "desc": "BANGKOK — Thailand is moving to stake a place in space exploration as the Geo-Informatics and Space Technology Development Agency (GISTDA) joined forces with 40 public and private organizations to push for involvement in NASA’s Artemis program, which aims to return humans to the Moon and eventually send them to Mars. The announcement came during a national conference on advanced space research at Pullman King Power Bangkok on 23 March. The event, chaired by Prof. Dr. Supachai Pathumnakul, Permanent Secretary of the Ministry of Higher Education, Science, Research and Innovation, brought togethe",
+      "tags": [
+        "News",
+        "moon",
+        "NASA",
+        "Space!"
+      ]
+    },
+    {
+      "id": "b32659885c25",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "lang": "en",
+      "title": "German tourist rescued with CPR after drowning at Bang Sare beach",
+      "url": "https://www.khaosodenglish.com/news/2026/03/23/german-tourist-rescued-after-drowning-at-bang-sare-beach-in-chonburi/",
+      "date": "2026-03-23T11:37:14+00:00",
+      "desc": "CHONBURI — A 71-year-old German tourist was rescued after nearly drowning at Bang Sare beach on Monday afternoon. Rescue teams from Sawang Rojanatham Sattahip Foundation and the emergency unit of Wat Yan Sangwararam Hospital responded around noon after receiving a report of a foreigner struggling in the water. The man, later identified as Mr. Wolfgang Kari, was found unconscious on the shore. Good Samaritans and nearby tourists performed CPR until he regained a pulse before he was rushed to the hospital for urgent treatment. Eyewitnesses said the tourist was swimming as usual when he appeared ",
+      "tags": [
+        "News",
+        "beach",
+        "Germany"
+      ]
+    },
+    {
+      "id": "6bcefd486c5c",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "lang": "en",
+      "title": "Myanmar man arrested for stealing Vietnamese tourist’s bag at Bangkok shopping mall",
+      "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/03/23/myanmar-man-arrested-for-stealing-vietnamese-tourists-bag-at-bangkok-shopping-mall/",
+      "date": "2026-03-23T11:22:37+00:00",
+      "desc": "BANGKOK — Police have arrested a Myanmar national for allegedly stealing a Vietnamese tourist’s backpack at a shopping mall in central Bangkok, solving the case within two hours. The incident occurred at around 19:40 on 22 March, when Quach Thi Thanh Hien, a Vietnamese tourist, was shopping at a mall in the Pathumwan area. Her backpack was reportedly stolen without her noticing. She later filed a complaint with Pathumwan Police Station at 20:23. Investigators quickly reviewed CCTV footage and identified the suspect as a slim-built man wearing a T-shirt and dark trousers, who was seen leaving t",
+      "tags": [
+        "Crime, Courts, Calamity",
+        "Myanmar",
+        "Vietnam"
+      ]
+    },
+    {
+      "id": "24357cbdb052",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Samsung enables Android-to-iPhone file sharing via Quick Share",
+      "url": "https://www.bangkokpost.com/life/tech/3222418/samsung-enables-androidtoiphone-file-sharing-via-quick-share",
+      "date": "2026-03-23T10:59:00+07:00",
+      "desc": "Samsung has enabled file transfers to iPhone devices through Quick Share, starting with the Galaxy S26 series as the first to support the feature.",
+      "tags": []
+    },
+    {
+      "id": "2afdd4c08d8a",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "lang": "en",
+      "title": "New geckos discovered in Battambang caves",
+      "url": "https://www.khaosodenglish.com/news/asean/2026/03/23/new-geckos-discovered-in-battambang-caves/",
+      "date": "2026-03-23T10:54:39+00:00",
+      "desc": "Cambodia’s Environment Ministry has announced the discovery of several new species following a biodiversity study in mountain areas, highlighting the ecological importance of these landscapes. The report, published on 23 March 2026, documented wildlife found in more than 60 caves across 10 sites in the Phnom Thma Kambor area of Battambang province. The study, conducted in collaboration with Fauna &amp; Flora and taxonomy experts, identified a range of species, many of which are endemic to the area. Researchers confirmed seven new species for science, including three geckos, two snails and two ",
+      "tags": [
+        "ASEAN",
+        "Cambodia",
+        "gecko"
+      ]
+    },
+    {
+      "id": "3c4995862d22",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "泰国多部门稳油保供，目标“全国不断油”",
+      "url": "https://www.thaiheadlines.com/186144/",
+      "date": "2026-03-23T10:49:07+00:00",
+      "desc": "泰国头条新闻社讯 3月23日，泰国副总理兼交通部长皮帕在主持中东局势应对会议后表示，近期国际局势引发民众恐慌性加油，部分加油站出现供应紧张局面。对此，政府澄清目前炼油厂及第七类燃油经营商每日已向全国近1万座加油站持续供应燃油。 数据显示，泰国日均用油量已从此前的约6700万升上升至8200万至8400万升，市场需求显著增长，供应体系面临较大压力。为缓解紧张局势，政府决定暂缓上调燃油储备比例，维持在1%的水平，同时要求相关企业释放储备油进入市场，确保供应充足。 泰国总理已下达指令，要求在本周内实现全国无加油站“断油”的目标。目前相关企业正积极配合，炼油厂已接近或超过100%产能运转，全力加大供应。此外，政府宣布本周末将推出新配方B20柴油，优先供应工业用户，由泰国石油、邦乍及壳牌通过批发渠道投放市场，进一步缓解用油紧张局势。 针对市场关注的囤油问题，皮帕表示，政府已成立专项工作组，由内政部牵头，要求各府府尹指示县级官员全面检查加油站，重点排查第七类及第十类燃油经营商是否存在囤积行为。目前调查尚未发现系统性违规，仅在红统府发现一起疑似试图向邻国走私约2万升燃油的个案，相关部门正在进一步核查。 国家经济与社会发展委员会秘书长达努查补充称，相关部门已加强对加油站标价的监管，防止高于规定价格出售。此前，司法部、特别案件调查厅与能源商业厅联合检查全国8个油库，未发现异常情况。针对部分加油站“缺",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "de97d2e6fd38",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "泰国万国小姐大赛“各府服装”对决，创意华服惊艳全场",
+      "url": "https://www.thaiheadlines.com/186141/",
+      "date": "2026-03-23T10:38:36+00:00",
+      "desc": "泰国头条新闻社讯 3月22日晚，作为2026年泰国万国小姐大赛（Miss Grand Thailand 2026）的重要组成单元，“各府代表服装”比赛在曼谷BRAVO BKK商场6楼MGI HALL举行。该环节旨在为泰国本土设计师提供创意展示平台，参赛作品融合视觉艺术与文化表达，呈现出兼具冲击力与审美价值的服装佳作，赢得现场观众高度关注。 据赛事方介绍，各府赛区负责人投入大量资源，精心打造代表本府形象的参赛造型。由数百人组成的幕后团队围绕创意构思、制作工艺与舞台呈现进行全方位打磨，力争在评审评分与社交媒体传播力两方面实现突破。最终成绩的关键，仍取决于大赛主席的评判。 当晚，来自泰国77个府的参赛佳丽依次登台，呈现涵盖信仰、文化、美食、宠物、动物及知名水果等多元主题的创意服装，其中不乏结构宏大的大型华服。选手在舞台展示过程中融入互动环节，现场气氛热烈，展现出较强的舞台表现力。 比赛结束后，主办方已开放公众投票通道，观众可通过赛事官方Facebook与Instagram平台进行点赞与分享。投票截止时间为3月25日12时。最终入围“最佳国家服装”前20名的选手，将由网络票选排名前十位与评委评选出的十位共同构成。最终结果将于3月28日19:00在YouTube频道“Grand TV”直播公布。冠军得主将获得代表泰国参加2026年在印度举办的万国小姐国际大赛资格。 （编译：WAN；来源：mg",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "64871e9c52ab",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Foreign man searches for Thai wife and son with letter and photos from 1966",
+      "url": "https://thethaiger.com/news/national/foreign-man-searches-for-thai-wife-and-son-with-old-letter-and-photos",
+      "date": "2026-03-23T10:31:36+00:00",
+      "desc": "Foreign man searches for Thai wife and son with letter and photos from 1966 Legacy A foreign man is searching for his Thai wife and their son after receiving an old letter and photographs from the woman about 60 years ago. A Facebook user, Bubba Homes, posted an old letter and photos in the group ที่นี่..&#8221;ขอนแก่น&#8221; (This is Khon Kaen) today, March 23. In the caption, the user said a man named Abel wanted to reunite with his Thai family . The post identified the woman as Mali Chumvangwaphee and said their child should now be about 56 to 60 years old, while Mali would be about 78 to 8",
+      "tags": [
+        "Thailand News",
+        "family",
+        "search",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "0a81bb1eb259",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "中东局势冲击航空业，泰航票价上涨10%-15%",
+      "url": "https://www.thaiheadlines.com/186138/",
+      "date": "2026-03-23T10:22:41+00:00",
+      "desc": "泰国头条新闻社讯 3月23日，据泰媒报道，受中东地区局势动荡影响，航油价格持续走高，泰国国际航空（以下简称“泰航”）已陆续上调机票价格，涨幅约为10%至15%。 泰航首席执行官差·恩西里向媒体表示，当前美国及以色列阵营与伊朗之间的冲突不断升级，已对航空业造成直接冲击，尤其体现在航油价格上，已由每桶80美元飙升至220美元。他指出，受成本上涨影响，泰航相应上调票价10%至15%。但当前形势仍不及新冠疫情时期严峻，当时航班几乎全面停运，而目前泰航仍可在中东及受影响区域以外的航线上维持正常运营。 差·恩西里同时表示，若未来数月航油价格持续上行，泰航或将进一步上调票价。他指出，当前局势亦对旅客出行意愿产生影响，航班提前预订量较去年同期下降约10%。 据差·恩西里介绍，泰航董事会将于本周召开会议，制定以“生存”为核心的短期应对方案，重点压减非必要支出，直至局势缓和。他认为，当前形势并未如泰航此前进入企业重整阶段时那般艰难。 差·恩西里透露，泰航原计划今年实现2000亿泰铢营收，同比增长5%，但受中东局势影响，该目标或将作出调整。同时，公司将暂缓投资计划，以最大程度保留现金流。 尽管运营成本上升，泰国民航局仍与多家航空公司协调，在即将到来的宋干节期间推出国内航班机票最高降价30%的措施，以方便民众返乡出行。不过，航空公司预计，受全球局势影响，今年宋干节期间国内旅客运输量仍将低于往年水平。 （编",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "32104284f5f9",
+      "source": "Khaosod English",
+      "source_id": "khaosod",
+      "lang": "en",
+      "title": "Thai Grade 3 boy beaten 17 times for failing Arabic reading",
+      "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/03/23/thai-grade-3-boy-beaten-17-times-for-failing-arabic-reading/",
+      "date": "2026-03-23T10:21:12+00:00",
+      "desc": "BANGKOK — A mother has sought help after her nine-year-old son was allegedly beaten 17 times by a teacher at an Islamic religious school in Nong Chok, leaving bruises on his arm. The 25-year-old mother, Thinyada, brought her Grade 3 son to seek assistance from Ekkapop Lueangprasert, founder of the “Sai Mai Tong Rod” page. She said the incident occurred on 13 March after her son attended evening religious classes following his regular school day. According to the mother, she initially thought the punishment was minor when her son told her he had been hit. However, upon returning home, she found",
+      "tags": [
+        "Crime, Courts, Calamity",
+        "arabic"
+      ]
+    },
+    {
+      "id": "65bd3f4029ae",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "泰国进入征兵季！补贴过万、体罚全面叫停",
+      "url": "https://www.thaiheadlines.com/186135/",
+      "date": "2026-03-23T10:20:12+00:00",
+      "desc": "泰国头条新闻社讯 3月23日，泰国陆军公布2026年度征兵准备工作。年度征兵抽签将于4月1日至12日进行。 根据计划，2026年三军总需求为84,380人。目前已有22,062人通过线上报名，仍需征召62,318人。其中陆军需求人数最多，为42,926人，海军与空军分别需求11,101人与6,704人。 军方表示，征兵流程将全面透明、可追溯，并设立绿色通道，便利病患、残疾人士及自愿报名者办理相关手续。 福利待遇方面，新兵每月总收入约11,000泰铢，扣除相关费用后实得约8,900泰铢。军方严禁各单位扣押士兵银行账户或ATM卡，确保其足额领取应得收入。针对涉及“人头账户”问题的人员，军方表示将协助开设新账户，保障其合法权益。 医疗与保障方面，陆军下属37家医院将对新兵进行身心双重评估，并实施风险分级训练。同时，军方关注性别多元需求，优化住宿与设施配置，并对全国教官开展心理评估，以提升整体安全保障水平。 此外，军方重申严禁任何形式的暴力或危险体罚，禁止在18时后实施惩戒，一经发现将立即追究纪律及刑事责任。 为提升军营生活品质，军方还将为新兵配发22项高质量生活物资，包括定制军装及标准寝具。 （编译：WAN；来源：thaipost） The post 泰国进入征兵季！补贴过万、体罚全面叫停 appeared first on 泰国头条新闻 .",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "ac53a8976e1b",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Foreigner attacked and robbed by 3 men at Phuket ATM",
+      "url": "https://thethaiger.com/news/phuket/police-yet-to-comment-on-robbery-of-foreigner-at-phuket-atm",
+      "date": "2026-03-23T09:40:08+00:00",
+      "desc": "Foreigner attacked and robbed by 3 men at Phuket ATM Legacy Phuket police are yet to issue a statement after a foreigner was attacked and robbed by three men in front of an ATM in Patong. The incident was captured on CCTV. The footage was shared by several news outlets last week. A timestamp on the video indicates the incident took place at about 5am on March 19. KhaoSod English reported the location as a seafood market in Patong. In the clip, the foreign man was seen using an ATM while a man believed to be Thai stood behind him. The foreign man appeared to be unable to withdraw cash and was s",
+      "tags": [
+        "Crime News",
+        "Phuket News",
+        "Thailand News",
+        "crime",
+        "Phuket"
+      ]
+    },
+    {
+      "id": "fc2bc1e347db",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "油荒冲击信心！半数泰国人取消或减少宋干节出行",
+      "url": "https://www.thaiheadlines.com/186131/",
+      "date": "2026-03-23T09:20:55+00:00",
+      "desc": "泰国头条新闻社讯 据泰国媒体报道，近日，泰国国家发展管理学院民调中心NIDA Poll公布最新调查结果显示，在国内燃油供应紧张的背景下，民众对政府应对能力信心明显不足。超过44%的受访者不相信政府所称燃油储备可维持98天，燃油危机同时影响民众出行计划，超过一半受访者表示将取消或减少宋干节期间的出行。 本次调查于2026年3月17日至18日进行，共访问全国1310名18岁以上民众，涵盖不同地区、职业、教育程度及收入群体，采用多阶段随机抽样方式，通过电话访谈收集数据，在97%的置信水平下进行统计分析。 调查显示，大多数民众对当前燃油危机感到担忧，其中31.76%的受访者表示“比较恐慌”，17.71%的受访者表示“非常恐慌”，合计接近一半受访者对局势感到紧张；而26.64%的受访者表示“不太恐慌”，23.89%的受访者表示“完全不恐慌”。 在燃油短缺对日常生活的影响方面，33.66%的受访者表示受到一定影响，23.59%表示影响较大，但仍有33.90%表示尚未受到影响，另有8.85%表示日常生活中并不使用燃油。 对于政府此前公布泰国燃油储备可使用98天的说法以及政府是否有能力继续采购燃油，调查结果显示民众信心不足。44.28%的受访者表示既不相信储备量足够，也不相信政府能够及时补充燃油。同时，28.93%的受访者表示相信储备量足够，并相信政府能够继续采购燃油；16.72%的受访者表示不相",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "bb0953041627",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thai Airways ticket prices rise 10% to 15% as jet fuel costs jump",
+      "url": "https://thethaiger.com/news/world/aviation/thai-airways-ticket-prices-rise-10-to-15-as-jet-fuel-costs-jump",
+      "date": "2026-03-23T08:52:30+00:00",
+      "desc": "Thai Airways ticket prices rise 10% to 15% as jet fuel costs jump Legacy Thai Airways gradually increased fares by 10% to 15% as higher jet fuel costs linked to unrest in the Middle East . Thai Airways CEO Chai Eamsiri told media the airline has been managing the impact of the escalating conflict involving a US and Israel coalition and Iran. He said the most immediate effect was the jet fuel prices, which rose from US$80 per barrel to US$220 per barrel. Chai said the increase led Thai Airways to raise ticket prices by 10% to 15% to reflect higher costs . He said the airline considers the curre",
+      "tags": [
+        "Aviation News",
+        "Thailand News",
+        "aviation news",
+        "Thai Airways",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "32575c002936",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Russian man charged after cash withdrawals linked to call centre scam",
+      "url": "https://thethaiger.com/news/pattaya/russian-man-charged-after-cash-withdrawals-linked-to-call-centre-scam",
+      "date": "2026-03-23T08:09:17+00:00",
+      "desc": "Russian man charged after cash withdrawals linked to call centre scam Legacy Police in Chon Buri arrested a Russian man while he was withdrawing cash linked to a call centre scam operation from an ATM in Chon Buri on March 19. Chon Buri Provincial Police said officers launched a crackdown on a call centre scam gang after noticing suspicious behaviour involving foreign nationals withdrawing money from multiple ATMs across the Na Jomtien area. The group made 198 ATM withdrawals worth more than 4.6 million baht in total. According to police, 93 withdrawals totalling about 2.1 million baht were ma",
+      "tags": [
+        "Crime News",
+        "Pattaya News",
+        "Thailand News",
+        "Call centre scam",
+        "Chon Buri"
+      ]
+    },
+    {
+      "id": "3ac8e1bbdcf8",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "油价暴涨冲击泰国！政府严控能源，上线Fuel Now 实时查全国油站储备",
+      "url": "https://www.thaiheadlines.com/186128/",
+      "date": "2026-03-23T08:02:47+00:00",
+      "desc": "泰国头条新闻社讯 据泰国媒体报道，中东冲突持续升级，全球能源危机加剧，国际油价大幅上涨，对泰国能源成本造成明显冲击。泰国政府紧急出台多项管控措施稳定油价，同时将于3月24日上线“Fuel Now”应用程序，实时查询全国139家加油站燃油供应情况，以缓解市场紧张情绪。 能源局势应对中心23日通报称，迪拜原油价格已升至每桶158美元，较危机前上涨约122%，导致国内能源成本迅速上升。为减轻民众生活负担，政府将继续通过燃油基金补贴柴油价格，将零售价控制在每升33泰铢以内，目前维持在31.14泰铢。同时鼓励使用E20汽油，通过与95号汽油保持约5泰铢价差，推动生物燃料使用，减少进口依赖。 泰国官方表示，目前泰国油价仍低于部分东盟国家，马来西亚柴油价格约38–39泰铢/升，菲律宾和越南涨幅达50%至70%。不过政府燃油基金已累计亏损约200亿泰铢，每日补贴支出高达20亿泰铢，财政压力持续增加。 针对部分地区出现的燃油供应紧张，能源部已下调燃油储备比例至1%，以提高流通效率，并要求加油站不得拒绝向急救车辆及农业用车供油，同时要求企业每日上报库存和价格，防止囤积牟利。 此外，能源部将于3月24日正式推出“Fuel Now”应用程序，实时显示全国139家加油站的燃油库存及营业状态，方便民众查询油品供应情况并合理安排出行，在能源紧张局势下减少恐慌。 （编译：jinda；审校：wan；来源：thest",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "17c2b948f00f",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "五大危机压顶！阿努廷连任总理面临能源、债务与政治案等多重冲击",
+      "url": "https://www.thaiheadlines.com/186124/",
+      "date": "2026-03-23T07:49:54+00:00",
+      "desc": "泰国头条新闻社讯 据泰国媒体报道，近日，泰自豪党党魁阿努廷成功连任总理，正加紧组建由泰自豪党主导的新一届内阁。然而，新政府尚未完全就位，经济与政治多重风险已同时逼近，涉及能源危机、贸易压力、公共债务、通胀上升及政治案件等关键问题。 中东局势持续紧张，尤其霍尔木兹海峡局势不稳，全球石油供应面临风险，油价大幅波动。市场分析认为，若运输通道受阻，油价可能升至每桶75–80美元，最坏情况下甚至突破100美元。油价上涨将加重泰国燃油基金负担，目前该基金因补贴柴油价格已出现超过120亿泰铢赤字。政府需同时稳定供应并控制价格，以防生活成本上涨引发经济与政治压力。阿努廷表示，燃油短缺问题预计将在两周内缓解。 同时，美国贸易政策的变动也给泰国带来了新挑战。美国依据301条款加强贸易保护措施，对包括泰国在内的60个经济体展开调查。汽车、机械及橡胶产品被列为重点监控对象，泰国可能面临新的关税压力。泰国政府计划加快与美方谈判，同时拓展出口市场并推动新的自由贸易协定，以减少冲击。 不仅如此，泰国公共债务已达GDP的66%，约12.66万亿泰铢，接近70%的财政纪律上限。若继续实施经济刺激与能源补贴政策，债务可能进一步上升。国际评级机构已将泰国经济前景由“稳定”下调为“负面”，财政风险受到密切关注。 此外，油价上涨正在推高各类商品和运输成本。官方预计，若油价超过每桶100美元，通胀可能接近2%，若超过120美",
+      "tags": [
+        "时政头条"
+      ]
+    },
+    {
+      "id": "677435303e83",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Chinese man injured after falling from pickup transporting fridge in Rayong",
+      "url": "https://thethaiger.com/news/eastern-thailand/chinese-man-injured-after-falling-from-pickup-transporting-fridge-in-rayong",
+      "date": "2026-03-23T07:22:57+00:00",
+      "desc": "Chinese man injured after falling from pickup transporting fridge in Rayong Legacy A Chinese man was injured after falling from the back of a pickup truck carrying a refrigerator that was reportedly travelling at high speed on a road in Rayong province. Rescuers were called to an incident at the Marp Toei–Khu River intersection on Road 3191 in Pluak Daeng district at about 5pm on Saturday, March 21. At the scene, they found an overturned refrigerator on the road and an injured Chinese man. The man’s identity was not disclosed. Channel 7 reported he was about 40 years old and in serious conditi",
+      "tags": [
+        "Crime News",
+        "Eastern Thailand News",
+        "Thailand News",
+        "Chinese nationals",
+        "Rayong"
+      ]
+    },
+    {
+      "id": "ae963bbbd456",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "US issues alert urging Americans to exercise increased caution",
+      "url": "https://thethaiger.com/news/world/us-issues-alert-urging-americans-to-exercise-increased-caution",
+      "date": "2026-03-23T06:47:40+00:00",
+      "desc": "US issues alert urging Americans to exercise increased caution Legacy The US Department of State issued a worldwide security alert advising US citizens to exercise increased caution , citing an escalating US-Israel-Iran war . In the alert issued yesterday, March 22, the department urged US citizens, particularly those in Middle Eastern countries, to take extra precautions and follow security guidance provided by the nearest US embassy or consulate. The department said US diplomatic facilities had been targeted, including locations outside the Middle East, and warned that groups supportive of I",
+      "tags": [
+        "Politics News",
+        "World News",
+        "American",
+        "US",
+        "World"
+      ]
+    },
+    {
+      "id": "71273042390f",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Jungceylon kick offs their summer campaign in Phuket",
+      "url": "https://thethaiger.com/hot-news/events/jungceylon-kick-offs-their-summer-campaign-in-phuket",
+      "date": "2026-03-23T06:16:47+00:00",
+      "desc": "Jungceylon kick offs their summer campaign in Phuket Legacy Phuket Square Co., Ltd., the management of Jungceylon Shopping Center in Patong, Phuket, is preparing to welcome the summer season with a series of activities aimed at attracting food lovers and shopping enthusiasts through its Hot Summer Sale campaign, offering discounts of up to 70%. The campaign aims to promote Phuket to global travellers using the popular provincial mascot Nong Joong, a baby seven-colored lobster, under the theme Island Vibes with Joong , running from March 20 to April 6, 2026. Prawit Janyasittikul, Chief Executiv",
+      "tags": [
+        "Events",
+        "Phuket Travel",
+        "Things To Do",
+        "Phuket",
+        "shopping mall"
+      ]
+    },
+    {
+      "id": "eebf5648e530",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "一年转账超3000次需报送税务机关审查？泰国官方确认属实",
+      "url": "https://www.thaiheadlines.com/186118/",
+      "date": "2026-03-23T06:05:31+00:00",
+      "desc": "泰国头条新闻社讯 3月22日，泰国数字经济与社会部透露，近日，泰国反虚假新闻中心监测发现，有消息称一年内银行账户存款或转账超过3000次，需向税务机关报送相关信息，该消息目前已被财政部税务局确认属实。 数字经济与社会部发言人表示，相关监测工作是根据政府关于加强防范网络犯罪、虚假信息和社会风险的政策开展的，旨在提升公众对网络诈骗、假新闻及误导性信息的辨识能力。 反虚假新闻中心在2026年3月20日共监测到164134条信息，其中4283条需要进一步核查，线索主要来自社交媒体监听系统，其次为Line和网站渠道。 经核查，信息共涉及31个议题，其中11个已得到相关部门确认，最受公众关注的8条信息中，包括3条真实新闻、2条虚假新闻及2条误导性新闻。 其中关注度最高的一条为：“一年内账户入账超过3000次，需向税务机关报送相关信息”，经数字经济与社会部与财政部税务局联合核实，确认该消息为真实信息。 根据2019年版《税收法》第48号修正案规定，为便于税收征管，金融机构、国有金融机构及电子支付服务提供商，必须在每年3月前向税务局报告上一年度具有特定交易特征的账户数据，包括： 所有账户合计存款或转账次数达到3000次以上 所有账户合计存款或转账次数达到400次以上且交易总额超过200万泰铢 政府提醒公众，应提高对网络信息的辨别能力，避免转发未经核实的消息，以免造成财产损失或个人信息泄露。同时，政",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "9ac6346b6da4",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Iranian motorcyclist kills Finnish tourist on Pattaya zebra crossing",
+      "url": "https://thethaiger.com/news/pattaya/iranian-motorcyclist-kills-finnish-tourist-on-pattaya-zebra-crossing",
+      "date": "2026-03-23T04:44:56+00:00",
+      "desc": "Iranian motorcyclist kills Finnish tourist on Pattaya zebra crossing Legacy An Iranian motorcyclist crashed into and killed a Finnish man while the victim was crossing a road at a zebra crossing in Pattaya on Saturday, March 21. Mueang Pattaya Police Station officers investigated the crash on Na Jomtien Sai Song Road near Rom Pho Market at about 9.40pm. Police found two injured foreigners at the scene: 55 year old Finnish man, Mika Kristian Turpeinen and 29 year old Iranian man, Gennady Yaluner. Turpeinen suffered serious injuries. A rescue team reported he had no pulse when emergency staff ar",
+      "tags": [
+        "Crime News",
+        "Pattaya News",
+        "Thailand News",
+        "Pattaya",
+        "road death"
+      ]
+    },
+    {
+      "id": "ceec6c9e19aa",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thailand News | Thailand mulls shorter Visa-Free entry window, Thailand targets online nicotine pouch sellers",
+      "url": "https://thethaiger.com/video-podcasts/thailand-video-news-23-03-2026",
+      "date": "2026-03-23T04:41:57+00:00",
+      "desc": "Thailand News | Thailand mulls shorter Visa-Free entry window, Thailand targets online nicotine pouch sellers The Thaiger Today we’ll be talking about the foreign affairs ministry’s proposal to cut visa free stays from 60 days to 30 days, streakers in Pattaya and brawls on Bangla road, and a little later the British ‘mum on the run’ famous for posting her lavish lifestyle in Thailand supposedly funded by UK benefits has been sentenced to prison time back home. Thailand Mulls Shorter Visa-Free Entry Window Thailand’s Foreign Affairs Ministry is preparing to propose cutting visa-free stays from ",
+      "tags": [
+        "Thailand News",
+        "Thailand video news",
+        "daily news in Thailand",
+        "latest news in Thailand",
+        "news in Thailand"
+      ]
+    },
+    {
+      "id": "7643528d2ddf",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Suvarnabhumi Airport ranking rises to 36th in 2026 world’s best airport",
+      "url": "https://thethaiger.com/news/world/aviation/suvarnabhumi-airport-ranking-rises-to-36th-in-2026-worlds-best-airport",
+      "date": "2026-03-23T04:11:06+00:00",
+      "desc": "Suvarnabhumi Airport ranking rises to 36th in 2026 world’s best airport Legacy Airports of Thailand (AOT) announced that Suvarnabhumi International Airport was ranked 36th in the 2026 World’s Best Airport list, improving its ranking by three positions from 39th last year. In a Facebook post shared yesterday, March 22, AOT said Suvarnabhumi Airport and Don Mueang International Airport brought pride to Thailand again following service improvements that helped both airports rise in international rankings . AOT said the 2026 World’s Best Airport rankings were released under a global airline and ai",
+      "tags": [
+        "Aviation News",
+        "Thailand News",
+        "aviation news",
+        "Suvarnabhumi Airport",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "69516cc24004",
+      "source": "The Thaiger Bangkok",
+      "source_id": "thaiger_bangkok",
+      "lang": "en",
+      "title": "Filipina woman caught dumping newborn in Bangkok mall bathroom",
+      "url": "https://thethaiger.com/news/bangkok/filipina-woman-caught-dumping-newborn-in-bangkok-mall-bathroom",
+      "date": "2026-03-23T02:43:48+00:00",
+      "desc": "Filipina woman caught dumping newborn in Bangkok mall bathroom Legacy Police arrested a Filipina woman after a newborn boy was found in a rubbish bin inside a women’s bathroom at a shopping mall in Khlong Toei district of Bangkok on Friday, March 20. Thong Lo Police Station officers were notified at about 4.20pm on March 20 after a cleaner discovered the infant’s body inside a black rubbish bag placed in a bin in the mall toilet. The cleaner told police she was collecting waste from each cubicle when she noticed one trash bag felt heavier than usual. She checked it and found the baby, then ale",
+      "tags": [
+        "Bangkok News",
+        "Crime News",
+        "Thailand News",
+        "Bangkok",
+        "Filipinos"
+      ]
+    },
+    {
+      "id": "33b0214eb4fb",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "泰服刷屏曼谷！全城广告牌打响申遗战",
+      "url": "https://www.thaiheadlines.com/186111/",
+      "date": "2026-03-23T02:31:35+00:00",
+      "desc": "泰国头条新闻社讯 据泰媒报道，3月22日，泰国文化部长萨比妲表示，泰国正加快推动“王室传统泰服”申报联合国教科文组织人类非物质文化遗产名录，预计2026年底将进入审议阶段。此举旨在向世界展示泰国传统服饰的文化魅力，增强民族自豪感。 萨比妲介绍，“CHUD THAI（泰服）”推广活动源自诗琳通公主殿下的倡议，旨在传承、延续并传播泰国文化遗产，其根基来自诗丽吉王太后长期以来的重要文化贡献。该项目已获得私营部门合作支持，包括广告公司Plan B Media参与推广，通过在曼谷各地投放大型广告牌，将泰服形象向公众广泛传播。这一行动也配合文化部文化促进厅的目标，推动“泰服”申遗进程。 此次宣传重点在于提升社会认知与公众意识，让全体泰国人民了解并参与这一文化申遗进程。文化部呼吁媒体、各类机构以及广大民众共同参与这一国家级文化项目，通过日常穿着泰服、支持传统手工艺，以及在社交媒体上传播相关文化故事，向世界展示泰国工艺与文化的独特魅力，增强民族自豪感。 （编译：Juliette；审校：WAN；来源：mgronline） The post 泰服刷屏曼谷！全城广告牌打响申遗战 appeared first on 泰国头条新闻 .",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "72ef19f9b26c",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "泰国素万那普及廊曼机场再获国际认可 2026年Skytrax排名双上升",
+      "url": "https://www.thaiheadlines.com/186108/",
+      "date": "2026-03-23T02:20:52+00:00",
+      "desc": "泰国头条新闻社讯 据泰媒报道，3月22日，泰国机场集团（AOT）CEO帕维娜表示，素万那普机场与廊曼机场再次为泰国赢得了荣誉。在全球机场服务评比机构Skytrax公布的2026“世界最佳机场”中，素万那普机场位列全球第36位，较上一年第39位有所上升。 同时，素万那普机场还在“年客流6000万至7000万人次机场”组别中排名第4位。泰方表示，这反映了机场持续推进服务质量提升与运营优化取得成效。 此外，廊曼机场作为承担曼谷客流的重要机场之一，在“世界最佳低成本航空航站楼”评比中排名全球第7位，较上一年第8位有所上升。 帕维娜表示，AOT将持续提升所辖机场，推动其从单纯的出发地或目的地，升级为连接旅程的枢纽与世界级服务目的地，让旅客从抵达第一步到完成行程都能感受到细节上的用心。她称，AOT将以“世界级待客之道”为标准，把泰式特色与国际化服务相融合，为旅客打造温暖、难忘的出行体验。 （编译：hansa ；审核：wan；来源：khaosod） The post 泰国素万那普及廊曼机场再获国际认可 2026年Skytrax排名双上升 appeared first on 泰国头条新闻 .",
+      "tags": [
+        "社会头条"
+      ]
+    }
+  ]
+}

@@ -2,8 +2,8 @@
 # 每周四 09:30 BKK 触发，负责从内容池选编并发布
 
 ## 你的任务
-从候选新闻中做编辑选题，输出选题 JSON，然后由 Python 脚本完成正文拼装、HTML 生成和发布。
-**不抓取新闻，不调用 web_search。**
+从 `data/news_pool.json` 选编本期新闻，写完整正文，生成 HTML，推送 GitHub Pages，通知 Ade。
+**不抓取新闻，不调用 web_search。** 所有原料来自 news_pool.json。
 
 ## 工作目录
 `/Users/Ade/.openclaw/workspace/bangkok-news/`
@@ -16,27 +16,21 @@
 - 读取 `thailand10/index.html`，数一下现有归档条目数，+1 即为本期期号
 - 今天日期即为本期日期（格式：YYYY-MM-DD）
 
-### 第2步：生成候选列表
-运行筛选脚本，只取过去7天的条目（精简字段版，供选题使用）：
-```bash
-cd /Users/Ade/.openclaw/workspace/bangkok-news
-python3 scripts/7days_filter_pool.py
-```
-输出文件：`data/7days_news_MM-DD-YYYY.json`（注意文件名格式为 MM-DD-YYYY）
-读取该文件作为选题原料。**不要直接读 news_pool.json。**
+### 第2步：读取记忆文件
+- `data/news_pool.json`        → **唯一原料来源**，取 `added_date >= 今日-6天` 的条目（过去7天含今天）
+- `data/editorial_feedback.md` → **主编反馈日志，必读**，将历史教训内化为编辑判断
 
-### 第3步：读取主编反馈
-- `data/editorial_feedback.md` → **必读**，将历史教训内化为编辑判断
+**时间窗口说明：** 本期只选本周新入库的新闻。窗口外的旧条目不纳入候选——读者可去 Newsroom 查历史。
 
-### 第4步：编辑选题（核心工作）
+### 第3步：编辑选题（核心工作）
 
-**可用原料 = 第2步输出的 7days_news 文件中的全部条目**
+**可用原料 = news_pool.json 中 `added_date >= 今日-6天` 的全部条目**
 
-每条已有：`id`、`title_cn`、`summary_cn`、`importance`、`relevance_score`、`section_hint`、`topic_tag`、`city_tag`、`source`、`url`、`added_date`
+每条已有：`title_cn`、`summary_cn`、`importance`、`section_hint`、`source`、`url`
 
 **选题三原则（按优先级严格执行）：**
 1. **重要性优先：** 以新闻本身的重要性、时效性和影响力为核心，编辑判断第一
-2. **原料限定：** 只能从候选列表选，不得自行 web_search 补充
+2. **原料限定：** 只能从 pool 选，不得自行 web_search 补充
 3. **板块关联度：** 重要性相近时，以板块相关性决定归属
 
 **版块配额（全部动态，无硬性下限）：**
@@ -62,9 +56,25 @@ python3 scripts/7days_filter_pool.py
 - `#AI基建` `#AI应用`：主动寻找，有则必收，读者关注度高
 - `#本地奇闻`：每期 **1-2条** 作为节奏调剂，避免全篇都是硬新闻
 
-### 第5步：输出选题 JSON
+### 第4步：撰写正文
 
-将选题结果写入 `data/selected_YYYY-MM-DD.json`（仅包含 id 列表，不含正文）：
+对每条选中的新闻，基于 `title_cn` 和 `summary_cn` 扩写完整正文：
+
+- **标题：** 使用 `title_cn`（已有中英对照，直接用）
+- **正文：** 150–300字（深度内容可至500字；简单数据50–150字）
+- **city_tag：** 从 pool 条目的 `city_tag` 字段直接取用（如 `#曼谷`、`#泰国`）；若原始城市不在5大城市内，直接写原始值（如 `#华欣`）
+- **topic_tag：** 从 pool 条目的 `topic_tag` 字段直接取用（9个主题之一：#时政 #经济 #治安 #旅居 #社会 #房产 #科技 #中泰 #健康）
+- **来源：** 日期 + 媒体名 + 原文链接（url 字段）
+
+**专有名词附英文规则：**
+- 需要：泰国机构/政治人物/非常见地名/专业术语（正文首次出现）
+- 不需要：曼谷/芭提雅/泰铢/签证/常见国家名
+
+### 第5步：生成期数 JSON
+
+将选好的新闻整理为以下格式，保存为 `data/issues/YYYY-MM-DD.json`：
+
+**`highlights` 字段：** 从本期所有文章中，按全局编号顺序（第一个板块第1条=0），选出5条最重要的，填入 `highlights` 列表。显示在页面顶部"本期要闻"区块。
 
 ```json
 {
@@ -72,34 +82,34 @@ python3 scripts/7days_filter_pool.py
   "issue": N,
   "highlights": [2, 0, 8, 13, 5],
   "sections": {
-    "thailand": ["id1", "id2", "id3", ...],
-    "property": ["id4"],
-    "bangkok":  ["id5", "id6"],
-    "pattaya":  ["id7"],
-    "cn_thai":  []
+    "thailand": [
+      {
+        "title": "...",
+        "city_tag": "#泰国",
+        "topic_tag": "#时政",
+        "body": "...",
+        "date": "YYYY-MM-DD",
+        "source": "Bangkok Post",
+        "url": "https://..."
+      }
+    ],
+    "property": [...],
+    "bangkok":  [...],
+    "pattaya":  [...],
+    "cn_thai":  [...]
   }
 }
 ```
 
-**highlights 说明：** 从所有选中条目中，按全局编号顺序（thailand[0]=0, thailand[1]=1, ...），选5条最重要的，填入 highlights 列表。
-
-**生成后验证 JSON：**
+**生成后立即验证 JSON 格式：**
 ```bash
-python3 -c "import json; json.load(open('data/selected_YYYY-MM-DD.json')); print('JSON OK')"
+python3 -c "import json; json.load(open('data/issues/YYYY-MM-DD.json')); print('JSON OK')"
 ```
+若报错，立即修复（最常见：body/title 里有未转义的英文双引号 `"` → 改为 `\"`）。
 
-### 第6步：Python 拼装 + 构建 HTML
-
+### 第6步：生成 HTML
 ```bash
 cd /Users/Ade/.openclaw/workspace/bangkok-news
-
-# 拼装 issue JSON（body = summary_cn，纯 Python，无 LLM）
-python3 scripts/build_issue.py data/selected_YYYY-MM-DD.json
-
-# 验证
-python3 -c "import json; json.load(open('data/issues/YYYY-MM-DD.json')); print('issue JSON OK')"
-
-# 生成 HTML
 python3 scripts/build_html.py data/issues/YYYY-MM-DD.json
 ```
 
@@ -127,7 +137,7 @@ git push origin main
 📅 YYYY年MM月DD日 周X
 📊 本期精选 XX 条新闻
 
-🔗 https://jiuting6.github.io/bangkok-news/thailand10/YYYY-MM-DD-0NN.html
+🔗 https://jiuting6.github.io/bangkok-news/thailand10/YYYY-MM-DD.html
 
 【速览】
 · [最重要的1-2条标题]
@@ -137,8 +147,9 @@ git push origin main
 ---
 
 ## 注意事项
-- **⚠️ 不得调用 web_search**，所有选编原料只能来自 7days_news 文件
-- **⚠️ 不要读 news_pool.json**，太大，用 7days_filter_pool.py 的输出
-- 窗口内无条目则跳过本次发布，输出错误提示
+- **⚠️ 不得调用 web_search**，所有选编原料只能来自 news_pool.json
+- **编辑时间窗口：** 只选 `added_date >= 今日-6天` 的条目（含今天共7天）
+- 窗口内无条目则跳过本次发布，输出错误提示，不尝试临时抓取兜底
 - GitHub Pages URL格式：`https://jiuting6.github.io/bangkok-news/...`
+- JSON 字符串内英文双引号必须转义为 `\"`，或改用中文引号「」/""
 - 空板块不显示，不为填充板块降低编辑标准
