@@ -46,9 +46,9 @@ def main():
         -float(x.get("relevance_score", 0))
     ))
 
-    # 只保留 Sonnet 选题需要的精简字段
+    # 只保留 Sonnet 选题需要的精简字段（无 summary_cn，选题靠 title_cn 即可）
     KEEP_FIELDS = [
-        "id", "title_cn", "summary_cn", "importance", "relevance_score",
+        "id", "title_cn", "importance", "relevance_score",
         "section_hint", "topic_tag", "city_tag", "source", "url",
         "added_date", "event_id",
     ]
