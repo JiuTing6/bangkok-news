@@ -11,7 +11,7 @@ Thailand10 RSS 抓取工具
 import json
 import sys
 import argparse
-import urllib.request
+import requests
 import xml.etree.ElementTree as ET
 import hashlib
 import re
@@ -111,13 +111,14 @@ def strip_html(text):
 def fetch_rss(source):
     items = []
     try:
-        req = urllib.request.Request(
+        # 使用 requests，自动处理 SSL 验证 + certifi 管理
+        response = requests.get(
             source["url"],
-            headers={"User-Agent": "Bangkok-News-Bot/1.0"}
+            headers={"User-Agent": "Bangkok-News-Bot/1.0"},
+            timeout=10
         )
-        with urllib.request.urlopen(req, timeout=10) as resp:
-            content = resp.read()
-        root = ET.fromstring(content)
+        response.raise_for_status()  # 抛出 HTTP 错误
+        root = ET.fromstring(response.content)
         ns = {"content": "http://purl.org/rss/1.0/modules/content/"}
 
         # 计算截止日期
@@ -167,6 +168,10 @@ def fetch_rss(source):
                 "tags":    cats[:5]
             })
 
+    except requests.exceptions.RequestException as e:
+        print(f"[WARN] {source['name']}: {e}", file=sys.stderr)
+    except ET.ParseError as e:
+        print(f"[WARN] {source['name']}: XML Parse Error - {e}", file=sys.stderr)
     except Exception as e:
         print(f"[WARN] {source['name']}: {e}", file=sys.stderr)
 
