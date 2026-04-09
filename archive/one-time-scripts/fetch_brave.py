@@ -15,7 +15,8 @@ import urllib.parse
 from datetime import datetime, timezone
 
 # ── API 配置 ──────────────────────────────────────────────────────────────────
-BRAVE_API_KEY = "BSA2h45NgEAJZRtc7IjJJOO-L1FBgOs"
+import os
+BRAVE_API_KEY = os.getenv("BRAVE_API_KEY", "")
 BRAVE_API_URL = "https://api.search.brave.com/res/v1/web/search"
 RESULTS_PER_QUERY = 8        # 每组最多抓几条
 DELAY_BETWEEN_QUERIES = 1.2  # 秒，避免触发限速
