@@ -20,6 +20,7 @@ SECTIONS = [
     {"id":"property",  "icon":"🏠", "cn":"房地产",      "en":"Property",          "cls":"property"},
     {"id":"bangkok",   "icon":"🛺", "cn":"曼谷",        "en":"Bangkok",           "cls":"bkk"},
     {"id":"pattaya",   "icon":"🌅", "cn":"芭提雅",      "en":"Pattaya",           "cls":"pattaya"},
+    {"id":"samui",     "icon":"🏝️", "cn":"苏梅岛",      "en":"Koh Samui",         "cls":"samui"},
     {"id":"cn_thai",   "icon":"🚅", "cn":"中泰",        "en":"China-Thailand",    "cls":"cn"},
 ]
 

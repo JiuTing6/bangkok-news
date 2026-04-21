@@ -40,43 +40,28 @@ else:
     end_date = None
 
 RSS_SOURCES = [
+    # 方案A精简 (2026-04-21): 保留核心3源 + 加 Pattaya Mail
     {
         "id": "bangkokpost_top",
         "name": "Bangkok Post",
         "url": "https://www.bangkokpost.com/rss/data/topstories.xml"
     },
     {
-        "id": "bangkokpost_property",
-        "name": "Bangkok Post Property",
-        "url": "https://www.bangkokpost.com/rss/data/property.xml"
-    },
-    {
-        "id": "bangkokpost_thailand",
-        "name": "Bangkok Post Thailand",
-        "url": "https://www.bangkokpost.com/rss/data/thailand.xml"
-    },
-    {
-        "id": "bangkokpost_business",
-        "name": "Bangkok Post Business",
-        "url": "https://www.bangkokpost.com/rss/data/business.xml"
-    },
-    {
-        "id": "bangkokpost_life",
-        "name": "Bangkok Post Life",
-        "url": "https://www.bangkokpost.com/rss/data/life.xml"
-    },
-    {
         "id": "thaiger",
         "name": "The Thaiger",
         "url": "https://thethaiger.com/feed"
     },
-
     {
         "id": "thaiheadlines",
         "name": "泰国头条新闻",
         "url": "https://www.thaiheadlines.com/feed/",
         "lang": "zh"
-    }
+    },
+    {
+        "id": "pattayamail",
+        "name": "Pattaya Mail",
+        "url": "https://www.pattayamail.com/feed"
+    },
 ]
 
 def make_hash(title, url):

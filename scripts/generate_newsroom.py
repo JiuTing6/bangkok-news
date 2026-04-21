@@ -36,6 +36,7 @@ def main():
         "thailand": "泰国",
         "bangkok": "曼谷",
         "pattaya": "芭提雅",
+        "samui":   "苏梅岛",
         "property": "房产",
         "politics": "政治",
         "energy": "能源",

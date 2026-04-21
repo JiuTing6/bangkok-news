@@ -44,6 +44,7 @@ python3 scripts/7days_filter_pool.py
 - 🏠 房地产（`property`）：有则收，无则0
 - 🛺 曼谷（`bangkok`）：**严格只收曼谷本地新闻**，section_hint=bangkok 的条目
 - 🌅 芭提雅（`pattaya`）：有则收，聚焦北芭/Na Kluea/Wong Amat/Phra Tamnak
+- 🏝️ 苏梅岛（`samui`）：有则收，聚焦 Koh Samui / Koh Phangan / Surat Thani 区域
 - 🚅 中泰（`cn_thai`）：触发式，无重磅直接省略
 
 **每期发布量：**
@@ -76,6 +77,7 @@ python3 scripts/7days_filter_pool.py
     "property": ["id4"],
     "bangkok":  ["id5", "id6"],
     "pattaya":  ["id7"],
+    "samui":    [],
     "cn_thai":  []
   }
 }

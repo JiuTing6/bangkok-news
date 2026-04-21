@@ -1,0 +1,665 @@
+{
+  "fetched_at": "2026-04-21T01:30:35.073008+00:00",
+  "days_back": 2,
+  "start_date": "2026-04-20",
+  "end_date": "2026-04-21",
+  "total": 53,
+  "items": [
+    {
+      "id": "6b4778516151",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "Sky ICT targets green transformation of airports",
+      "url": "https://www.bangkokpost.com/business/general/3240745/sky-ict-targets-green-transformation-of-airports",
+      "date": "2026-04-21T07:21:00+07:00",
+      "desc": "SET-listed aviation tech company Sky ICT is pivoting to a green airport strategy, seizing aviation shifts amid global volatility.",
+      "tags": []
+    },
+    {
+      "id": "324679239851",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "People's Party plans May Day rally",
+      "url": "https://www.bangkokpost.com/thailand/politics/3240590/peoples-party-plans-may-day-rally",
+      "date": "2026-04-21T07:00:00+07:00",
+      "desc": "The People's Party (PP) has called on the public to mobilise at parliament on May 1, coinciding with National Labour Day, to submit its draft Social Security Bill and launch a campaign to \"reclaim social security\" for all citizens.",
+      "tags": []
+    },
+    {
+      "id": "a9079e23bc20",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "War set to boost condo demand in major markets",
+      "url": "https://www.bangkokpost.com/business/general/3240800/war-set-to-boost-condo-demand-in-major-markets",
+      "date": "2026-04-21T05:59:00+07:00",
+      "desc": "Condominiums and rental homes in key destinations, including Bangkok, Phuket, Pattaya, Samui and Chiang Mai, are likely to benefit from migration from countries affected by the Middle East conflict, according to property consultancy Colliers Thailand.",
+      "tags": []
+    },
+    {
+      "id": "8dea71a6fb69",
+      "source": "Bangkok Post Property",
+      "source_id": "bangkokpost_property",
+      "lang": "en",
+      "title": "War set to boost condo demand in major markets",
+      "url": "https://www.bangkokpost.com/property/3240800/war-set-to-boost-condo-demand-in-major-markets",
+      "date": "2026-04-21T05:59:00+07:00",
+      "desc": "Condominiums and rental homes in key destinations, including Bangkok, Phuket, Pattaya, Samui and Chiang Mai, are likely to benefit from migration from countries affected by the Middle East conflict, according to property consultancy Colliers Thailand.",
+      "tags": []
+    },
+    {
+      "id": "e14656f331c5",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Construction costs rise on tensions",
+      "url": "https://www.bangkokpost.com/business/general/3240720/construction-costs-rise-on-tensions",
+      "date": "2026-04-21T05:40:00+07:00",
+      "desc": "Middle East tensions have pushed construction material prices to their highest level since the pandemic, increasing cost pressures on contractors, according to Kasikorn Research Center.",
+      "tags": []
+    },
+    {
+      "id": "2743911484a3",
+      "source": "Bangkok Post Property",
+      "source_id": "bangkokpost_property",
+      "lang": "en",
+      "title": "Construction costs rise on tensions",
+      "url": "https://www.bangkokpost.com/property/3240720/construction-costs-rise-on-tensions",
+      "date": "2026-04-21T05:40:00+07:00",
+      "desc": "Middle East tensions have pushed construction material prices to their highest level since the pandemic, increasing cost pressures on contractors, according to Kasikorn Research Center.",
+      "tags": []
+    },
+    {
+      "id": "dcde506d570e",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Families turn to insurance for inheritance planning",
+      "url": "https://www.bangkokpost.com/business/general/3240790/families-turn-to-insurance-for-inheritance-planning",
+      "date": "2026-04-21T05:35:00+07:00",
+      "desc": "Life insurance is emerging as a powerful solution for wealth transfer, enabling families to distribute inheritances fairly among heirs while preserving asset value and minimising tax burdens, according to Muang Thai Life Assurance (MTL).",
+      "tags": []
+    },
+    {
+      "id": "700ccb83077b",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Budget tightened amid crisis focus",
+      "url": "https://www.bangkokpost.com/business/general/3240650/budget-tightened-amid-crisis-focus",
+      "date": "2026-04-21T05:25:00+07:00",
+      "desc": "Prime Minister Anutin Charnvirakul has ordered that the fiscal 2027 budget be aligned with current crisis conditions, prioritising cuts to non-essential spending and limiting requests for additional budget allocations by government agencies to investment spending only.",
+      "tags": []
+    },
+    {
+      "id": "ada1de6db701",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "CP All's virtual banking restructuring under scrutiny",
+      "url": "https://www.bangkokpost.com/business/general/3240615/cp-alls-virtual-banking-restructuring-under-scrutiny",
+      "date": "2026-04-21T05:17:00+07:00",
+      "desc": "Thailand's retail giant CP All (CPALL) is facing intensifying scrutiny over its proposed restructuring plan to integrate three key subsidiaries into a virtual banking ecosystem, after independent directors formally opposed the move.",
+      "tags": []
+    },
+    {
+      "id": "00873afa13cf",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "DSI summons eight shipping firms",
+      "url": "https://www.bangkokpost.com/thailand/general/3240575/dsi-summons-eight-shipping-firms",
+      "date": "2026-04-21T05:12:00+07:00",
+      "desc": "Eight shipping companies have been summoned to give information this week as witnesses in a probe into missing oil shipments at sea, according to the Department of Special Investigation (DSI).",
+      "tags": []
+    },
+    {
+      "id": "2d63fca8571c",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Officials ordered to  boost PM2.5 fight",
+      "url": "https://www.bangkokpost.com/thailand/general/3240445/officials-ordered-to-boost-pm25-fight",
+      "date": "2026-04-21T05:05:00+07:00",
+      "desc": "Prime Minister Anutin Charnvirakul has ordered agencies to step up enforcement of environmental laws to tackle worsening PM2.5 pollution, warning that inaction could erode public trust.",
+      "tags": []
+    },
+    {
+      "id": "6c71848f66f8",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Grim outlook as consumer spending power set to drop",
+      "url": "https://www.bangkokpost.com/business/general/3240540/grim-outlook-as-consumer-spending-power-set-to-drop",
+      "date": "2026-04-21T04:58:00+07:00",
+      "desc": "The outlook for the retail and wholesale sector looks grim, as consumer spending power is expected to decline in the coming months, alongside anticipated rising goods prices, according to the Thai Wholesale and Retail Trade Association.",
+      "tags": []
+    },
+    {
+      "id": "54dcef7b08f4",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Oman asks for ship list after transit",
+      "url": "https://www.bangkokpost.com/thailand/general/3240515/oman-asks-for-ship-list-after-transit",
+      "date": "2026-04-21T04:49:00+07:00",
+      "desc": "Oman's Ministry of Defence has asked Thailand to resubmit a list of vessels awaiting passage through the Strait of Hormuz, following the safe transit of a Thai ship, Foreign Minister Sihasak Phuangketkeow said on Monday.",
+      "tags": []
+    },
+    {
+      "id": "13ef596ddbb9",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "EC submits clarification to court on barcodes in ballot papers",
+      "url": "https://www.bangkokpost.com/thailand/politics/3240530/ec-submits-clarification-to-court-on-barcodes-in-ballot-papers",
+      "date": "2026-04-21T04:35:00+07:00",
+      "desc": "The Election Commission (EC) has submitted its written clarification to the Constitutional Court in response to allegations that barcodes and QR codes printed on ballot papers in the Feb 8 general election could undermine the secrecy of voting and violate the constitution.",
+      "tags": []
+    },
+    {
+      "id": "d2d4045f7d72",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "New US visa rules draw opposition",
+      "url": "https://www.bangkokpost.com/thailand/general/3240490/new-us-visa-rules-draw-opposition",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "The United States Embassy in Thailand yesterday announced new visa application rules requiring applicants to make their social media pages public for review of online activity.",
+      "tags": []
+    },
+    {
+      "id": "ffb45ac21a83",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Online scam losses fall to record low",
+      "url": "https://www.bangkokpost.com/thailand/general/3240525/online-scam-losses-fall-to-record-low",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "The Anti-Cyber Scam Centre (ACSC) yesterday reported 5,000 online scam complaints last week, with total losses falling to their lowest level so far.",
+      "tags": []
+    },
+    {
+      "id": "9a396ca9e95a",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Senators question land bridge",
+      "url": "https://www.bangkokpost.com/thailand/general/3240550/senators-question-land-bridge",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Senators have raised objections to the government's one-trillion-baht land bridge megaproject, citing economic impacts, environmental concerns and a lack of a thorough public hearing process.",
+      "tags": []
+    },
+    {
+      "id": "f3a68379b12e",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "Govt in talks to secure fertiliser supply from Russia",
+      "url": "https://www.bangkokpost.com/thailand/general/3240565/govt-in-talks-to-secure-fertiliser-supply-from-russia",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Thailand is moving to secure fertiliser supplies from Russia as tightening global markets spark concerns over potential domestic shortages, Agriculture and Cooperatives Minister Suriya Juangroongruangkit said.",
+      "tags": []
+    },
+    {
+      "id": "c7146a56e860",
+      "source": "Bangkok Post Thailand",
+      "source_id": "bangkokpost_thailand",
+      "lang": "en",
+      "title": "PM pushes people first development",
+      "url": "https://www.bangkokpost.com/thailand/general/3240595/pm-pushes-people-first-development",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Prime Minister Anutin Charnvirakul yesterday declared that development must leave no one behind, pledging to strengthen the universal healthcare system.",
+      "tags": []
+    },
+    {
+      "id": "d31518f21fec",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "Stimulus needed for regional tourism",
+      "url": "https://www.bangkokpost.com/business/general/3240545/stimulus-needed-for-regional-tourism",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Regional tourism operators expect domestic tourism during this low season to perform worse than last year, due to higher living costs and debt levels, unless new stimulus measures are introduced to encourage travel and provide short-term debt relief.",
+      "tags": []
+    },
+    {
+      "id": "637d04e59879",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "IP applications see significant increase in first quarter",
+      "url": "https://www.bangkokpost.com/business/general/3240560/ip-applications-see-significant-increase-in-first-quarter",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Intellectual property (IP) applications and registrations rose in the first quarter, reflecting growing awareness among entrepreneurs and creators about the importance of IP protection, according to the Department of Intellectual Property (DIP).",
+      "tags": []
+    },
+    {
+      "id": "f0772dd2e5e0",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "Thailand steps up efforts to lure high-tech US investments",
+      "url": "https://www.bangkokpost.com/business/general/3240605/thailand-steps-up-efforts-to-lure-hightech-us-investments",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "INVESTMENT: Thailand is intensifying efforts to attract US investment in high-tech industries, particularly semiconductors, as part of its strategy to strengthen artificial intelligence (AI) and data centre businesses.",
+      "tags": []
+    },
+    {
+      "id": "198664f2126f",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "Electric vehicles fuel Tisco auto loan growth in Q1",
+      "url": "https://www.bangkokpost.com/business/general/3240620/electric-vehicles-fuel-tisco-auto-loan-growth-in-q1",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Tisco Financial Group, the holding company of Tisco Bank, reported positive auto loan growth in the first quarter of this year, mainly driven by an increase in electric vehicle (EV) sales.",
+      "tags": []
+    },
+    {
+      "id": "3b7172a41d86",
+      "source": "Bangkok Post Business",
+      "source_id": "bangkokpost_business",
+      "lang": "en",
+      "title": "Amata U to invest in Laos energy network",
+      "url": "https://www.bangkokpost.com/business/general/3240740/amata-u-to-invest-in-laos-energy-network",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "ENERGY: Amata U, the utilities arm of Amata Corporation Plc, is pressing ahead with plans to jointly develop advanced energy infrastructure in northwestern Laos, covering power generation, transmission and management to serve industries in the region.",
+      "tags": []
+    },
+    {
+      "id": "6270532498f9",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Ponder our fate at 'Sediments Of Human Civilization'",
+      "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3240785/ponder-our-fate-at-sediments-of-human-civilization",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Explore the fate of humanity at \"The Sediments Of Human Civilization (On The Brink Of Its End)\", which is running at Bangkok Art and Culture Centre, Pathumwan intersection, until May 3.",
+      "tags": []
+    },
+    {
+      "id": "d51b5fd9927d",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Breathing in the dark",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3240755/breathing-in-the-dark",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Sangyond Loongta, 12, has never heard of PM2.5. Neither has her 14-year-old sister Kamong, nor their two-year-old sister Mauypong. The three girls arrived in Thailand about a year ago with their parents, who pick oranges in the orchards of Fang district in northern Chiang Mai. For much of that year, the children lived deep inside the orchard, helping raise their youngest sibling but not going...",
+      "tags": []
+    },
+    {
+      "id": "4b8245ab46a4",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Learn Japanese business philosophy  on The Cloud's Rinen trip to Tokyo",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3240760/learn-japanese-business-philosophy-on-the-clouds-rinen-trip-to-tokyo",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "Why do some companies endure for centuries while others lose momentum as they scale? What allows certain organisations to minimise operational errors while fostering a sense of purpose among employees?",
+      "tags": []
+    },
+    {
+      "id": "e61ef1b90f60",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Bangkok to host One Run half-marathon for first time",
+      "url": "https://www.bangkokpost.com/life/social-and-lifestyle/3240765/bangkok-to-host-one-run-halfmarathon-for-first-time",
+      "date": "2026-04-21T01:01:00+07:00",
+      "desc": "The One Run international half-marathon will take place at Suan Luang Rama IX Park in Prawet district of Bangkok on May 23 at 4.30am.",
+      "tags": []
+    },
+    {
+      "id": "5c4315542fdc",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Lanna refined",
+      "url": "https://www.bangkokpost.com/life/travel/3240398/lanna-refined",
+      "date": "2026-04-20T18:41:00+07:00",
+      "desc": "Since opening in November 2023, Chiang Mai Marriott Hotel, which was rebranded from Le M&eacute;ridien Chiang Mai, continues to refine and improve with the latest addition of a new complex dedicated to event facilities and entertainment.&nbsp;",
+      "tags": []
+    },
+    {
+      "id": "a50bf23429f5",
+      "source": "Bangkok Post",
+      "source_id": "bangkokpost_top",
+      "lang": "en",
+      "title": "Panic as Myanmar bomb lands inside Thailand",
+      "url": "https://www.bangkokpost.com/thailand/general/3240379/panic-as-myanmar-bomb-lands-inside-thailand",
+      "date": "2026-04-20T17:34:00+07:00",
+      "desc": "MAE HONG SON - Thai villagers along the Salween River in Sob Moei district fled their homes on Monday after a bomb dropped by the Myanmar air force landed inside Thai territory during air strikes against ethnic Karen forces. &nbsp;",
+      "tags": []
+    },
+    {
+      "id": "b493580720d6",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Hit reality show helps rev up Japan's delinquent youth subculture",
+      "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3240294/hit-reality-show-helps-rev-up-japans-delinquent-youth-subculture",
+      "date": "2026-04-20T12:45:00+07:00",
+      "desc": "TOKYO &mdash; Sporting towering Elvis-style hair and a school uniform modified into a rebellious silhouette, 15-year-old Reona worships Japan's classic bad-boy subculture recently taken global by a hit Netflix dating show.",
+      "tags": []
+    },
+    {
+      "id": "a5abb296ddec",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Google to penalise sites abusing back button with ads",
+      "url": "https://www.bangkokpost.com/life/tech/3240293/google-to-penalise-sites-abusing-back-button-with-ads",
+      "date": "2026-04-20T12:12:00+07:00",
+      "desc": "Google is preparing to introduce new enforcement measures against websites that manipulate users&rsquo; back button behaviour to display intrusive advertisements, a practice known as &ldquo;back button hijacking&rdquo;, in a move aimed at improving browsing experiences.",
+      "tags": []
+    },
+    {
+      "id": "c091b7a453d5",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Controversy erupts after Thai-Italian YouTuber told to move on Phuket beach",
+      "url": "https://thethaiger.com/news/phuket/dispute-between-foreign-couple-and-thai-youtuber-on-mai-khao-beach-divides-opinion",
+      "date": "2026-04-20T10:58:04+00:00",
+      "desc": "Controversy erupts after Thai-Italian YouTuber told to move on Phuket beach Legacy A Mai Khao Beach dispute in Phuket drew mixed reactions online after a foreign couple was seen asking a Thai-Italian YouTuber to move while filming on the public beach. Nawinda “Mint” Bertotti, a Thai travel blogger and actress, shared the incident during her trip to Phuket in a vlog of posted on her YouTube channel, PakMuddchannel, on Saturday, April 18. In the video, Mint visited Mai Khao Beach, a location popular with foreign tourists for plane-spotting photoshoots . While speaking to the camera, a foreign wo",
+      "tags": [
+        "Phuket News",
+        "Thailand News",
+        "Mai Khao",
+        "Phuket",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "3f99488356bf",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "New IC train card for foreign tourists to Japan to go on sale in May",
+      "url": "https://www.bangkokpost.com/life/travel/3240278/new-ic-train-card-for-foreign-tourists-to-japan-to-go-on-sale-in-may",
+      "date": "2026-04-20T10:56:00+07:00",
+      "desc": "A new prepaid transport IC card for foreign tourists will go on sale in May to facilitate travel across Japan, Pasmo Co, an issuer of a widely used train card in the Tokyo area, has said.",
+      "tags": []
+    },
+    {
+      "id": "fa4d3e33836d",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "重返全球前20！泰国为何成为全球资本的新选择？",
+      "url": "https://www.thaiheadlines.com/187275/",
+      "date": "2026-04-20T10:29:13+00:00",
+      "desc": "泰国头条新闻社讯 科尔尼（Kearney）《2026年外商直接投资信心指数》近日发布，泰国时隔3年重返全球FDI吸引力前25强，跃居第20位，与马来西亚一同成为东盟地区投资复苏的亮眼代表。这一排名跃升，不仅是泰国自身政策革新与优势释放的必然结果，更折射出全球资本流向重构、亚太地区崛起的时代趋势，为后疫情时代新兴市场的发展提供了宝贵启示。 政策破局：直击痛点的“引资革命”激活增长动能 泰国此次强势回归，核心驱动力在于精准的政策破局与长期积累的优势共振。长期以来，外资持股限制、税收壁垒等问题曾制约泰国投资吸引力，而泰国投资促进委员会（BOI）推出的一系列新政，直击痛点、精准发力，堪称一场针对性极强的“引资革命”。2025年以来，泰国大幅扩大税收优惠，对可持续能源、医疗健康、数据中心、电动汽车等重点产业给予企业所得税、进口税豁免等梯度化支持，部分重点项目优惠期长达13年；更具突破性的是，放宽外资持有土地限制，终结了长期以来外资“扎根难”的困境，同时优化外籍人才引进流程，为外资企业解决后顾之忧。 这些政策并非简单的“普惠式让利”，而是瞄准全球产业升级趋势，精准布局高附加值领域，推动泰国从“传统制造基地”向“未来产业枢纽”转型，与科尔尼报告中“新一轮投资转向新兴产业”的判断高度契合。 优势加持：高技能劳动力与成熟生态构筑核心壁垒 除了政策红利，泰国自身的两大核心优势——高技能劳动力与成熟商业",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "40f2bd7112fe",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thailand outlines military capability in 2027 budget",
+      "url": "https://thethaiger.com/hot-news/politics/thailand-outlines-military-capability-in-2027-budget",
+      "date": "2026-04-20T09:41:43+00:00",
+      "desc": "Thailand outlines military capability in 2027 budget Legacy Military capability and national sovereignty will be central to the Thailand defence budget 2027 , Prime Minister Anutin Charnvirakul said today, April 20, as the government unveiled a 3.788 trillion baht spending plan amid mounting global uncertainty . Addressing a budget policy seminar at IMPACT Muang Thong Thani in Nonthaburi, Anutin pointed to the ongoing conflict in the Middle East as evidence of a more volatile global environment, one he said was putting pressure on energy security and economic stability worldwide. He said the g",
+      "tags": [
+        "Politics News",
+        "Thailand News",
+        "Anutin Charnvirakul",
+        "budget",
+        "Government"
+      ]
+    },
+    {
+      "id": "bb03a9c0dc6f",
+      "source": "Bangkok Post Life",
+      "source_id": "bangkokpost_life",
+      "lang": "en",
+      "title": "Who's Bad? Not Michael Jackson in new big-budget biopic",
+      "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3240203/whos-bad-not-michael-jackson-in-new-bigbudget-biopic",
+      "date": "2026-04-20T08:45:00+07:00",
+      "desc": "PARIS - A new Michael Jackson biopic will shortly arrive in cinemas telling the story of the King of Pop's early career, but it's a tightly controlled story that avoids any reference to the child sex abuse allegations that dogged his later life.",
+      "tags": []
+    },
+    {
+      "id": "43f422dad0d3",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Foreigner allegedly tries to dodge taxi bill, claiming he forgot his wallet",
+      "url": "https://thethaiger.com/news/bangkok/foreigner-avoid-paying-full-taxi-fare-at-don-mueang-airport",
+      "date": "2026-04-20T08:36:30+00:00",
+      "desc": "Foreigner allegedly tries to dodge taxi bill, claiming he forgot his wallet Legacy A foreigner allegedly tried to underpay for a motorcycle taxi ride from Nana to Don Mueang International Airport, claiming he had left his wallet at a hotel. An app-based motorcycle taxi rider posted videos of the incident on Facebook yesterday, April 20. The confrontation took place outside a passenger terminal at Don Mueang Airport, where several Thai bystanders stepped in to help resolve the situation. According to the rider, he picked up the passenger from Soi Nana and took him to the airport. The fare shown",
+      "tags": [
+        "Bangkok News",
+        "Crime News",
+        "Thailand News",
+        "don mueang international airport",
+        "motorcycle taxi rider"
+      ]
+    },
+    {
+      "id": "24827f4eb500",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thailand traffic fine survey finds majority back harsher penalties, except for speeding",
+      "url": "https://thethaiger.com/news/national/most-support-thailand-traffic-fine-system-except-for-speeding",
+      "date": "2026-04-20T08:08:58+00:00",
+      "desc": "Thailand traffic fine survey finds majority back harsher penalties, except for speeding Legacy A new survey has found broad public support for the new Thailand traffic fines , with one notable exception: a majority of respondents say the speeding penalty goes too far . The National Institute of Development Administration ( NIDA ) polled 1,310 people by phone across Thailand on April 7 and 8, gauging public reaction to the stricter penalties that police began enforcing without additional warnings from April 1. Speeding was the only offence for which support for the new penalty failed to reach a",
+      "tags": [
+        "Thailand News",
+        "Police",
+        "survey",
+        "Thai law",
+        "traffic fines"
+      ]
+    },
+    {
+      "id": "634a21634200",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "阿努廷部署泰国2027财年预算聚焦转型节流",
+      "url": "https://www.thaiheadlines.com/187272/",
+      "date": "2026-04-20T07:58:17+00:00",
+      "desc": "泰国头条新闻社 4月20日10时10分，泰国总理兼内政部长阿努廷在芒通他尼IMPACT皇家纪念大厅主持召开了2027财年预算编制政策与指导会议。他表示，本次预算政策部署不同于以往，当前全球处于高度动荡状态，中东地区冲突对能源安全与国家经济产生了直接影响并波及全球。 阿努廷表示，政府必须在资源趋紧背景下提升工作效率，尽可能削减与当前形势不相符的预算项目，确保“每一泰铢、每一萨当”都发挥最大公共效益。2027财年预算编制需要更精准，服务政府“泰国10Plus”政策目标，推动国家走出危机，并在稳定可持续的轨道上发展，加快摆脱中等收入陷阱。 阿努廷表示，政府将并行推进解决国家问题与增强投资者信心两项议题，提升泰国竞争力，主要覆盖经济、外交与安全、社会/灾害与环境、政府治理与法律改革。他强调，行政系统要迅速回应，并要求严肃治理腐败。 他进一步表示，2027财年预算总额为3.788万亿泰铢，较上一财年仅增加74亿泰铢，增幅0.2%。在福利与法定支出等必要开支持续上升的情况下，预算使用必须强调物有所值，并坚持“零基预算（Zero-based budgeting）”原则，即不沿袭既有预算框架，而是依据必要性、适当性与紧迫性重新评估，并尽最大限度削减不必要支出。 阿努廷还表示，本年度各单位申请预算增幅不得超过上一年度预算的20%，且增量主要用于投资支出。这被定为2027财年预算的“硬规则”，以应对危",
+      "tags": [
+        "时政头条"
+      ]
+    },
+    {
+      "id": "a8ae49fa4752",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thai Senate committee proposes a 3% VAT hike in new tax reform",
+      "url": "https://thethaiger.com/news/business/thai-senates-proposes-tax-reform-and-vat-rise-to-ease-fiscal-deficit-and-rising-public-debt",
+      "date": "2026-04-20T07:54:25+00:00",
+      "desc": "Thai Senate committee proposes a 3% VAT hike in new tax reform Legacy Thailand’s Economic, Financial and Fiscal Affairs Committee of the Senate proposed a tax reform plan to address the country’s fiscal deficit and rising public debt, including a proposal to raise value-added tax (VAT) from 7% to 10% . The committee, chaired by Kamphol Supapaeng, discussed the tax restructuring plan yesterday, April 19, as part of efforts to tackle long-term fiscal challenges. If approved, the recommendations will be submitted to the Cabinet for consideration and possible implementation to ease ongoing fiscal ",
+      "tags": [
+        "Business News",
+        "Thailand News",
+        "Thai economy",
+        "Thailand",
+        "VAT"
+      ]
+    },
+    {
+      "id": "f882b47c1f84",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "Anyma×LISA科切拉首度合作 《Bad Angel》 舞台科技感拉满",
+      "url": "https://www.thaiheadlines.com/187269/",
+      "date": "2026-04-20T07:36:25+00:00",
+      "desc": "泰国头条新闻社 据泰媒报道，近期科切拉音乐节期间，Anyma与LISA合作的新歌《Bad Angel》成为外界讨论的焦点之一。这也是双方首次以单曲形式正式合作，并在不久前以舞台形式呈现，引发粉丝关注。 两人近日接受Billboard特别采访时介绍，《Bad Angel》将LISA的个人风格与Anyma的Techno音乐元素结合，形成双方在音乐表达上的契合点。Anyma表示，在与LISA多次见面后，双方开始交流创意，并讨论未来合作的方向，最终在音乐、视觉与表演层面找到了契合点。 LISA在采访中表示，她长期欣赏对方的艺术与音乐作品，因此当双方讨论合作时，她很快同意，并认为创意与整体思路能够顺利契合。 Anyma进一步表示，与LISA合作在各方面都具有较强的创作挑战性，并称LISA是其领域中最顶尖的艺人之一；将LISA的“宇宙”与自己的音乐世界进行衔接，需要在创意层面完成融合，但他认为最终成果令人满意。 报道称，《Bad Angel》在科切拉第1周未能上演，原因是自然条件导致风力较强，存在舞台受损风险。至第2周，双方首次呈现该曲舞台表演。LISA以Iris Van Herpen的未来感造型登场，现场观众与线上观众均观看到舞台技术与表演呈现。 （编译：hansa ；审核：wan；来源：thestandardpop） The post Anyma×LISA科切拉首度合作 《Bad Ange",
+      "tags": [
+        "娱乐头条"
+      ]
+    },
+    {
+      "id": "d42e59aee9eb",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thailand to issue emergency loan decree amid El Niño fears and rising energy costs",
+      "url": "https://thethaiger.com/news/business/thailand-outlines-emergency-loan-decree",
+      "date": "2026-04-20T07:05:37+00:00",
+      "desc": "Thailand to issue emergency loan decree amid El Niño fears and rising energy costs Legacy Thailand&#8217;s government is preparing to issue an emergency loan decree worth 500,000 million baht to build up financial reserves ahead of what officials describe as compounding economic risks , including a super El Niño weather event and elevated global energy prices . Deputy Prime Minister Pakorn Nilpraphat confirmed the plan, saying the current state of the treasury is limited and relatively rigid, leaving the government with little room to respond to unexpected crises. He cited external pressures, ",
+      "tags": [
+        "Business News",
+        "Thailand News"
+      ]
+    },
+    {
+      "id": "23b6c60ac2f0",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "泰国2026榴莲自助全攻略 一篇实现榴莲自由！",
+      "url": "https://www.thaiheadlines.com/187266/",
+      "date": "2026-04-20T06:54:36+00:00",
+      "desc": "泰国头条新闻社 据泰媒报道，4月19日，炎炎夏日，最应景的水果非榴莲莫属。榴莲爱好者们翘首以盼的“2026年榴莲自助节”已经到来。以下汇总了今夏不可错过的榴莲自助，无论是在曼谷，还是罗勇、尖竹汶的果园，都能尽情开启一场“吃+玩”的夏日之旅。 其中，“Baiyoke2026榴莲自助”可谓年度重磅之选，Baiyoke自助将两大热门自助合二为一，带来精选A级新鲜榴莲自助，以及创意满满的榴莲料理与多种水果菜单。 例如烤榴莲、超厚榴莲拼盘、榴莲椰浆糯米饭、榴莲披萨、榴莲刨冰，芒果糯米饭、水果拼盘、青木瓜沙拉、水果沙拉、芒果蘸鱼露甜酱、果冻、西瓜甜品、水果糖水等。同时为庆祝Baiyoke榴莲自助10周年，还叠加了海鲜和牛排自助。此外还可免费登上77层观景台及84层旋转露天观景台。 地点：曼谷Baiyoke Sky Hotel（76层）BangkokView餐厅 价格：1290泰铢（提前预订付款优惠价，原价1490泰铢） 时间：5月1日—6月14日 营业时间：每日10:00–21:30（每日7场，每场90分钟） Seafresh Riverside自助餐厅推出“国际自助+无限量榴莲”套餐，价格900泰铢，提供超过50种精选优质食材，包括日料区、海鲜区及丰富甜点。该套餐仅限提前预订。 地点：湄南河河畔拉玛3路 时间：2026年4月17日—5月17日 用餐时长：120分钟 DURIAN FEST 2",
+      "tags": [
+        "社会头条"
+      ]
+    },
+    {
+      "id": "701cd263df54",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thai man helps thieves steal gold from nephew-in-law",
+      "url": "https://thethaiger.com/news/south/thai-man-helps-thieves-stealing-gold-from-nephew-in-law",
+      "date": "2026-04-20T06:51:35+00:00",
+      "desc": "Thai man helps thieves steal gold from nephew-in-law Legacy A man in Ranong province admitted to assisting thieves in stealing a gold bar worth more than 2.5 million baht from his nephew-in-law , claiming he acted out of frustration over the victim’s repeated displays of wealth. The theft took place on April 10 at a car garage in Mueang district. The victim later shared CCTV footage of the incident on Facebook, showing a suspect wearing a black jacket, black bucket hat, and brown trousers entering a room where valuables were stored. According to the victim, gold bars and Buddhist amulets value",
+      "tags": [
+        "Crime News",
+        "South Thailand News",
+        "Thailand News",
+        "crime",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "c49b75d8561e",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "CP拟重组核心资产引关注 独立董事投下反对票",
+      "url": "https://www.thaiheadlines.com/187263/",
+      "date": "2026-04-20T06:51:06+00:00",
+      "desc": "泰国头条新闻社 据泰媒报道，4月19日，泰国资本市场出现一项备受关注的重要动向。CPALL拟对旗下业务结构进行重大调整，计划将3家重要子公司转移至集团虚拟银行业务体系之下。由于涉及资产规模高达千亿泰铢级别，该举措迅速引发投资者广泛关注。 值得注意的是，在此次重组提案中，CPALL独立董事集体投下反对票，这在泰国资本市场较为少见。分析认为，此举不仅反映出公司治理机制的运作，也凸显该交易存在较大争议。 根据方案，拟被转移的3项业务包括账单支付服务公司Counter Service、支付及会员系统公司Thai Smart Card，以及持有Makro与Lotus’s业务的CP Axtra（CPAXT）。上述企业目前均为CPALL重要资产，与7-Eleven核心业务联系紧密。 资料显示，CPALL是泰国7-Eleven便利店的运营主体，同时构建了涵盖零售、支付及会员体系在内的完整商业生态。例如，消费者可在门店购买由Charoen Pokphand Foods生产的商品，并通过TrueMoney完成支付及积分累计。 本次调整的背景，是CP集团加快布局虚拟银行业务。当前泰国虚拟银行竞争主要分为三大阵营，包括CP集团联合Ant Group，SCBX联合韩国及中国合作伙伴，以及Krungthai Bank联合本土企业。CP集团此次以ACM Holding名义申请牌照，并拟通过内部资源整合提升竞争力",
+      "tags": [
+        "财经头条"
+      ]
+    },
+    {
+      "id": "08a95f0cc83b",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thai page spotlights vlogger’s Cambodia temple confrontation",
+      "url": "https://thethaiger.com/news/us-vlogger-cambodia-temple-confrontation",
+      "date": "2026-04-20T06:21:33+00:00",
+      "desc": "Thai page spotlights vlogger&#8217;s Cambodia temple confrontation Legacy A clip from an American travel vlogger&#8217;s video in Cambodia has circulated widely on Thai social media after capturing a confrontation with a man outside a Buddhist temple in Phnom Penh. Tyler Fox, who documents his travels across Asia on YouTube and other platforms, was visiting a Cambodian temple , the Wat Unnalom Monastery in the Riverside area of Phnom Penh, when the incident took place. The moment was part of a longer hour-long vlog, the third in his Cambodia series, but drew broader attention after the Thai Fa",
+      "tags": [
+        "News",
+        "Asia",
+        "Cambodia",
+        "travel"
+      ]
+    },
+    {
+      "id": "2100154830c1",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Rama 2 Road construction misses deadline again",
+      "url": "https://thethaiger.com/news/national/rama-2-road-construction-delayed-over-rising-fuel-and-material-cost",
+      "date": "2026-04-20T04:36:56+00:00",
+      "desc": "Rama 2 Road construction misses deadline again Legacy Construction on Rama 2 Road will continue until mid-2027 after the Ministry of Transport delayed the project, citing higher fuel and construction material costs. Long-running works on Rama 2 Road, along with a series of fatal accidents linked to the construction, have affected motorists and residents in the area for more than 50 years. This made the route known to people as Thanon Jed Shua Khot, or the seven-generation road . The main projects on Rama 2 Road are the M82 Motorway and the Rama 3-Dao Khanong-Western Bangkok Outer Ring Road Exp",
+      "tags": [
+        "Thailand News",
+        "fuel prices",
+        "Rama II Road",
+        "Thailand"
+      ]
+    },
+    {
+      "id": "43c1920a29f3",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "斩获超20亿订单，泰国木薯成功打入中国重庆市场",
+      "url": "https://www.thaiheadlines.com/187260/",
+      "date": "2026-04-20T04:21:31+00:00",
+      "desc": "泰国头条新闻社讯 4月20日，泰国对外贸易厅厅长阿拉达透露，对外贸易厅副厅长诺帕东率领由22家木薯业企业组成的代表团，于4月8日前往中国重庆，与34家中国进口商举行商务配对洽谈，成功将泰国木薯出口扩展至中国西部这一新市场。泰国之前从未与中国西部进行过贸易洽谈，而重庆作为中国西部的重要城市，根据中国的西部开发政策，其经济和产业成长潜力被持续看好。 在本次商务配对洽谈中，泰国业者与中国食品、饲料、物流供应链及相关下游产业的进口商进行了深入的对谈。泰国方还通过展示产品样品来强调泰国木薯的优良品质，并获得了中方的高度认可，表示愿意进口泰国木薯作为中国各类产业的原料。 阿拉达指出，中国是泰国木薯最大出口市场，目前主要集中在东部地区，而中国西部在人口增长和城市开发的带动下，对消费品和工业原料的需求持续上升。加上中国的基础设施和物流系统不断完善，从泰国运输货物比以前更加便利了。这次商务配对洽谈的成果丰硕，中方肯定了泰国木薯的品质标准，并展现出强烈的进口意愿。 预计在未来一年内，泰国木薯粉的订单金额为3244.2万美元，木薯条和颗粒产品为3081万美元，总计6325.2万美元，折合约20.87亿泰铢。这是成功拓展泰国木薯市场至中国西部的重要一步，对外贸易厅将密切跟进，并持续推动泰国木薯出口在数量和价值上的稳定增长。 阿拉达补充说，代表团还于4月9日前往重庆国际陆海供应链展示中心考察物流体系。该中心",
+      "tags": [
+        "财经头条"
+      ]
+    },
+    {
+      "id": "51d10a0085ec",
+      "source": "The Thaiger",
+      "source_id": "thaiger",
+      "lang": "en",
+      "title": "Thailand News | Ayutthaya factory fire sends workers running, Thailand considers round-the-clock alcohol sales in EEC Zone",
+      "url": "https://thethaiger.com/video-podcasts/thailand-video-news-20-04-2026",
+      "date": "2026-04-20T04:02:59+00:00",
+      "desc": "Thailand News | Ayutthaya factory fire sends workers running, Thailand considers round-the-clock alcohol sales in EEC Zone The Thaiger Today we’ll be talking about a factory fire in Ayutthaya causing a mass evacuation, in ASEAN news another fire in Malaysia destroyed nearly 1000 homes in a coastal village, on Walking Street in Pattaya tragedy strikes as a police officer has been arrested for allegedly murdering a cannabis shop owner, then Bangkok drug raids unravel a cocaine distribution network, after that a Chiang Mai doctor has warned of significant amounts lung damage linked to pollution, ",
+      "tags": [
+        "Thailand News",
+        "Thailand video news",
+        "daily news in Thailand",
+        "latest news in Thailand",
+        "news in Thailand"
+      ]
+    },
+    {
+      "id": "ec2f405e490e",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "银发经济持续增长，泰国高龄人口增至1480万人",
+      "url": "https://www.thaiheadlines.com/187257/",
+      "date": "2026-04-20T03:59:23+00:00",
+      "desc": "泰国头条新闻社讯 4月19日，泰国人口结构正在发生明显变化，60岁以上的高龄人口已达1480万人，占总人口的22.5%，预计2026年还将继续增加。其中60–69岁群体的占比最高，且不少仍身体健朗、有稳定收入，他们不再满足于基本医疗照顾，而是追求更高品质的生活，尤其是在医疗服务、旅游和生活方式领域，这也与全球“银发经济”强调提高生活品质而非仅基础照护的趋势一致。 另一方面，泰国的家庭结构逐渐转向“核心家庭”或单人居住，很多高龄者独自生活或仅与配偶同住，使得新型照顾服务的需求大幅增加。国家统计局数据显示，这类群体占高龄人口总数的35%以上。 面对这一巨大趋势，泰京银行信用卡业务中心（KTC）积极从金融业务扩展到“生活方式平台”，如与提供“小辈代驾服务”的Joy Ride合作打造以“信任”为核心的高龄照顾模式。这项服务根据高龄者的实际生活需求设计，从陪同就医、办理个人事务、参加社会活动，到短期旅游等，都可由经过严格筛选和专业培训的照顾者提供，让使用者和家属都能放心。 KTC信用卡营销主管诗利拉表示，新一代高龄者有经济能力，也希望过有品质的生活，因此进入高龄社会并非只有挑战，更有“经济机会”，企业必须主动调整应对。这次与Joy Ride的合作以“KTC Wellness: The Journey to Well-being”为理念，共同构建健康与生活方式生态系统，KTC卡友可直接使用Jo",
+      "tags": [
+        "财经头条"
+      ]
+    },
+    {
+      "id": "526362761158",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "泰国拟修订《外商经营法》，封堵“代持人”漏洞",
+      "url": "https://www.thaiheadlines.com/187252/",
+      "date": "2026-04-20T02:59:11+00:00",
+      "desc": "泰国头条新闻社讯 4月19日，泰国商业部消息人士透露，商业发展厅正在评估1999版《外商经营法》及其多项子法的实施成效。这部法律已实施超过20年，是规范外国人在泰国投资的重要法规之一，此次修订是为了让法律只保留必要规定、更符合国际标准和泰国对国际的承诺，以及减少法律重叠与冲突、降低不平等现象，提升社会公平性。 商业发展厅指出，1999版《外商经营法》在20多年的实际执行中累积了不少问题，需要在本次修订中重点解决，包括： 1. 持股结构过于复杂：尤其是在两家公司交叉持股的情况下，如甲公司持有乙公司的多数股份，而乙公司又持有甲公司的多数股份时，判断其中一家公司是否为“外国人”企业，必须依赖另一家公司的身份，但双方互相依存，无法明确界定，最终形成执法漏洞； 2. 处罚规定存在空白：对于外国人未依该法第11条或第12条取得证书就先行经营业务这类行为，现行法律并未明确规定处罚标准，根据刑法“法无明文不定罪”的原则，执法单位无法追究责任； 3. 登记事项不够明确：虽然法律规定了修改登记的费用，但并未清楚列出登记项目的包含内容，也没有要求外国人必须通报未在泰正式注册法人的负责人变更，尽管实际操作中，登记人员会收集相关信息，但缺乏明确法律条文支持仍是明显弱点； 4. 现行处罚力度不足以威慑违法行为：这是最严重的问题。商业发展厅发现，有些外国人即使因违反第36条“让泰国人或他人代为经营”被起诉，仍会",
+      "tags": [
+        "时政头条"
+      ]
+    },
+    {
+      "id": "1fe913bae68c",
+      "source": "泰国头条新闻",
+      "source_id": "thaiheadlines",
+      "lang": "zh",
+      "title": "泰国1艘货船顺利通过霍尔木兹海峡",
+      "url": "https://www.thaiheadlines.com/187248/",
+      "date": "2026-04-20T02:20:51+00:00",
+      "desc": "泰国头条新闻社讯 4月19日，泰国外交部透露，泰国暹罗水泥集团（SCG）管理层报告称，此前通过外交部请伊朗方面协助的2艘船只中，已有1艘顺利驶离霍尔木兹海峡。据悉，副总理兼外交部部长西哈萨于4月15日至17日访问阿曼时，除了加强两国双边关系外，也请阿曼进一步协调伊朗提供帮助。 外交部表示，此次SCG的1艘货船顺利离开霍尔木兹海峡，是一个好消息，外交部将继续跟进该船抵达泰国后的情况，并持续协助其它仍滞留在霍尔木兹海峡的泰国船只。 （编译：KA；来源：pptvhd36） The post 泰国1艘货船顺利通过霍尔木兹海峡 appeared first on 泰国头条新闻 .",
+      "tags": [
+        "时政头条"
+      ]
+    }
+  ]
+}
