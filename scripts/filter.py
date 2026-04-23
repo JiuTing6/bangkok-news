@@ -187,6 +187,13 @@ def main():
     no_topic = 0
     for item in all_scored:
         score = item.get("relevance_score", 0.0)
+        # Convert string score to float if needed
+        if isinstance(score, str):
+            try:
+                score = float(score)
+            except (ValueError, TypeError):
+                score = 0.0
+        item["relevance_score"] = score
         topic = item.get("topic_tag")
 
         # Validate topic
