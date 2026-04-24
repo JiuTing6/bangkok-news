@@ -48,6 +48,7 @@
 - 2026-02-26 — 第1期手动发布上线
 - 2026-02-26 — Cron 自动发布启动
 - 2026-03-xx — v2 两阶段架构重构完成
+- 2026-04-24 — 增加 city_tag `#苏梅岛` 及 section_hint `samui`（translate.py prompt 更新）
 
 ## 下一步
 - 关注 sessions_yield bug 修复进展
